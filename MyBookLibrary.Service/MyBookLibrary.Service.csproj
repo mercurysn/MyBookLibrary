@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0E21FE83-1A85-4560-A691-54F295F6A34D}</ProjectGuid>
+    <ProjectGuid>{D2B48E8B-AF0D-4367-916C-F4ED7AD5DD3E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MyBookLibrary.IntegrationTests</RootNamespace>
-    <AssemblyName>MyBookLibrary.IntegrationTests</AssemblyName>
+    <RootNamespace>MyBookLibrary.Service</RootNamespace>
+    <AssemblyName>MyBookLibrary.Service</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,10 +30,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="nunit.framework, Version=2.6.4.14350, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
-      <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -44,20 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GenerateJsonFileGeneratorTests.cs" />
+    <Compile Include="JsonFileGenerator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyBookLibrary.Data\MyBookLibrary.Data.csproj">
       <Project>{0f1b2efa-1c43-434a-a1d4-6493adbd580c}</Project>
       <Name>MyBookLibrary.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\MyBookLibrary.Service\MyBookLibrary.Service.csproj">
-      <Project>{d2b48e8b-af0d-4367-916c-f4ed7ad5dd3e}</Project>
-      <Name>MyBookLibrary.Service</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

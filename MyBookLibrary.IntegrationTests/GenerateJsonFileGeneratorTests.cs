@@ -1,20 +1,18 @@
 ﻿using MyBookLibrary.Data;
+using MyBookLibrary.Service;
 using NUnit.Framework;
 
 namespace MyBookLibrary.IntegrationTests
 {
     [TestFixture]
-    public class GenerateJsonFileGenerator
+    public class GenerateJsonFileGeneratorTests
     {
         [Test]
         public void TestFileGeneration()
         {
-            BookRepository repository = new BookRepository();
+            JsonFileGenerator fileGenerator = new JsonFileGenerator();
 
-            var books = repository.GetAllBookDtos();
-
-
-
+            fileGenerator.GenerateJsonDataFile();
         }
     }
 }
