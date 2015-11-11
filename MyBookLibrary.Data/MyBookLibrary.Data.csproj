@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookDatabaseWriter.cs" />
     <Compile Include="BookRepository.cs" />
     <Compile Include="Dtos\BookDto.cs" />
     <Compile Include="Mappers\ShelfariFileMapper.cs" />
@@ -52,6 +53,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <None Include="Database\Book.json" />
     <None Include="packages.config" />
     <None Include="Source\Shelfari.csv" />
   </ItemGroup>

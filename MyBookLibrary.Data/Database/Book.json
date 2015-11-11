@@ -1,0 +1,2152 @@
+[
+  {
+    "Book": "Reamde",
+    "Author": "Neal Stephenson",
+    "Time": "38:34:00",
+    "DateStarted": "1 Nov 2011",
+    "DateEnded": "21 Dec 2011",
+    "Year": "20 Sep 2011",
+    "Pages": "1056",
+    "URL": "http://ecx.images-amazon.com/images/I/41M6ip5r3NL._SL160.jpg"
+  },
+  {
+    "Book": "Outlander",
+    "Author": "Diana Gabaldon",
+    "Time": "32:42:00",
+    "DateStarted": "2 Feb 2012",
+    "DateEnded": "14 Feb 2012",
+    "Year": "1 Jan 1991",
+    "Pages": "656",
+    "URL": ""
+  },
+  {
+    "Book": "Harry Potter and the Order of Phoenix",
+    "Author": "J.K. Rowling",
+    "Time": "26:22:38",
+    "DateStarted": "10 Dec 2010",
+    "DateEnded": "5 Jan 2011",
+    "Year": "21 Jun 2003",
+    "Pages": "870",
+    "URL": "http://ecx.images-amazon.com/images/I/51BH8S8FKSL._SL160.jpg"
+  },
+  {
+    "Book": "The Girl Who Kicked the Hornet's Nest",
+    "Author": "Stieg Larsson",
+    "Time": "25:09:39",
+    "DateStarted": "22 Jan 2012",
+    "DateEnded": "1 Feb 2012",
+    "Year": "1 Jan 2007",
+    "Pages": "563",
+    "URL": "http://audioliterate.com/wp-content/uploads/2012/02/The-Girl-Who-Kicked-the-Hornets-Nest-The-Millennium-Trilogy-Book-3.jpg"
+  },
+  {
+    "Book": "Steve Jobs",
+    "Author": "Walter Isaacson",
+    "Time": "25:07:00",
+    "DateStarted": "26 Oct 2011",
+    "DateEnded": "31 Oct 2011",
+    "Year": "24 Oct 2011",
+    "Pages": "656",
+    "URL": "http://ecx.images-amazon.com/images/I/41TNSBq4F5L._SL160.jpg"
+  },
+  {
+    "Book": "The Lion's Game",
+    "Author": "Nelson DeMille",
+    "Time": "24:52:00",
+    "DateStarted": "18 Oct 2011",
+    "DateEnded": "25 Oct 2011",
+    "Year": "6 Jan 2000",
+    "Pages": "688",
+    "URL": "http://ecx.images-amazon.com/images/I/51uds%2BrRzuL._SL160.jpg"
+  },
+  {
+    "Book": "The Host",
+    "Author": "Stephanie Meyer",
+    "Time": "23:05:00",
+    "DateStarted": "12 Jul 2010",
+    "DateEnded": "16 Aug 2010",
+    "Year": "1 May 2008",
+    "Pages": "619",
+    "URL": "http://ecx.images-amazon.com/images/I/41eiHNfOmjL._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Deathly Hollows",
+    "Author": "J.K. Rowling",
+    "Time": "21:38:30",
+    "DateStarted": "17 Jan 2011",
+    "DateEnded": "1 Feb 2011",
+    "Year": "21 Jul 2007",
+    "Pages": "784",
+    "URL": "http://ecx.images-amazon.com/images/I/51CJ3bmBzlL._SL160.jpg"
+  },
+  {
+    "Book": "The Girl Who Played with Fire",
+    "Author": "Stieg Larsson",
+    "Time": "20:52:00",
+    "DateStarted": "20 Sep 2011",
+    "DateEnded": "4 Oct 2011",
+    "Year": "1 Jan 2006",
+    "Pages": "630",
+    "URL": "http://ecx.images-amazon.com/images/I/61zJ363UB9L._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Goblet of Fire",
+    "Author": "J.K. Rowling",
+    "Time": "20:36:25",
+    "DateStarted": "24 Nov 2010",
+    "DateEnded": "10 Dec 2010",
+    "Year": "8 Jul 2000",
+    "Pages": "734",
+    "URL": "http://ecx.images-amazon.com/images/I/51BKEV%2By7EL._SL160.jpg"
+  },
+  {
+    "Book": "Breaking Dawn",
+    "Author": "Stephanie Meyer",
+    "Time": "20:34:00",
+    "DateStarted": "4 Jul 2009",
+    "DateEnded": "17 Jul 2009",
+    "Year": "1 Aug 2008",
+    "Pages": "756",
+    "URL": "http://ecx.images-amazon.com/images/I/41vy798SRbL._SL160.jpg"
+  },
+  {
+    "Book": "The Mote in God's Eyes",
+    "Author": "Larry Niven, Jerry Pournelle",
+    "Time": "20:27:00",
+    "DateStarted": "22 Aug 2011",
+    "DateEnded": "5 Sep 2011",
+    "Year": "1 Jan 1974",
+    "Pages": "537",
+    "URL": "http://ecx.images-amazon.com/images/I/51FDQlLeBkL._SL160.jpg"
+  },
+  {
+    "Book": "The Complete Stories of Sherlock Holmes",
+    "Author": "Arthur Conan Doyle",
+    "Time": "20:16:00",
+    "DateStarted": "7 Jan 2010",
+    "DateEnded": "16 Feb 2010",
+    "Year": "",
+    "Pages": "",
+    "URL": "http://ecx.images-amazon.com/images/I/516T+2dfYjL._SL175_.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Half Blood Prince",
+    "Author": "J.K. Rowling",
+    "Time": "19:11:35",
+    "DateStarted": "5 Jan 2011",
+    "DateEnded": "17 Jan 2011",
+    "Year": "16 Jul 2005",
+    "Pages": "652",
+    "URL": "http://ecx.images-amazon.com/images/I/51JTPF5ZSNL._SL160.jpg"
+  },
+  {
+    "Book": "The Fellowship of the Ring",
+    "Author": "J.R.R. Tolkien",
+    "Time": "19:10:53",
+    "DateStarted": "10 Apr 2011",
+    "DateEnded": "1 May 2011",
+    "Year": "24 Jul 1954",
+    "Pages": "531",
+    "URL": "http://ecx.images-amazon.com/images/I/41Ta5-vOB2L._SL160.jpg"
+  },
+  {
+    "Book": "The Girl with the Dragon Tattoo",
+    "Author": "Stieg Larsson",
+    "Time": "18:50:00",
+    "DateStarted": "14 Aug 2011",
+    "DateEnded": "21 Aug 2011",
+    "Year": "1 Jan 2005",
+    "Pages": "590",
+    "URL": "http://ecx.images-amazon.com/images/I/51qVo7%2BUPbL._SL160.jpg"
+  },
+  {
+    "Book": "Angels and Demons",
+    "Author": "Dan Brown",
+    "Time": "18:33:00",
+    "DateStarted": "",
+    "DateEnded": "13 Jun 2009",
+    "Year": "1 May 2000",
+    "Pages": "480",
+    "URL": "http://ecx.images-amazon.com/images/I/51MY9Q410WL._SL160.jpg"
+  },
+  {
+    "Book": "State of Fear",
+    "Author": "Michael Crichton",
+    "Time": "18:07:00",
+    "DateStarted": "7 Jul 2011",
+    "DateEnded": "14 Jul 2011",
+    "Year": "1 Nov 2004",
+    "Pages": "623",
+    "URL": "http://ecx.images-amazon.com/images/I/41X5HW7F34L._SL100.jpg"
+  },
+  {
+    "Book": "The Lost Symbol",
+    "Author": "Dan Brown",
+    "Time": "17:46:00",
+    "DateStarted": "30 Sep 2009",
+    "DateEnded": "19 Oct 2009",
+    "Year": "1 Sep 2009",
+    "Pages": "670",
+    "URL": "http://ecx.images-amazon.com/images/I/51jHvD-ZUrL._SL160.jpg"
+  },
+  {
+    "Book": "Consent to Kill",
+    "Author": "Vince Flynn",
+    "Time": "17:16:00",
+    "DateStarted": "15 Oct 2009",
+    "DateEnded": "20 Nov 2009",
+    "Year": "11 Oct 2005",
+    "Pages": "480",
+    "URL": "http://ecx.images-amazon.com/images/I/51UkCU5qkgL._SL160.jpg"
+  },
+  {
+    "Book": "The Fifth Woman",
+    "Author": "Henning Mankell",
+    "Time": "17:04:48",
+    "DateStarted": "8 Jan 2012",
+    "DateEnded": "18 Jan 2012",
+    "Year": "13 Apr 2004",
+    "Pages": "448",
+    "URL": "http://ecx.images-amazon.com/images/I/51HFc8f7cLL._SL160.jpg"
+  },
+  {
+    "Book": "Black Hills",
+    "Author": "Nora Roberts",
+    "Time": "16:51:00",
+    "DateStarted": "6 Aug 2009",
+    "DateEnded": "1 Sep 2009",
+    "Year": "29 May 2009",
+    "Pages": "480",
+    "URL": "http://ecx.images-amazon.com/images/I/51%2BvFtmwsNL._SL160.jpg"
+  },
+  {
+    "Book": "Transfer of Power",
+    "Author": "Vince Flynn",
+    "Time": "16:48:00",
+    "DateStarted": "27 Jul 2011",
+    "DateEnded": "31 Jul 2011",
+    "Year": "1 Jan 1999",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51Am1og%2BeLL._SL100.jpg"
+  },
+  {
+    "Book": "The Two Towers",
+    "Author": "J.R.R. Tolkien",
+    "Time": "16:45:51",
+    "DateStarted": "1 May 2011",
+    "DateEnded": "13 May 2011",
+    "Year": "11 Nov 1954",
+    "Pages": "464",
+    "URL": "http://ecx.images-amazon.com/images/I/31RYaLyTfTL._SL160.jpg"
+  },
+  {
+    "Book": "The Da Vinci Code",
+    "Author": "Dan Brown",
+    "Time": "16:43:00",
+    "DateStarted": "18 Oct 2010",
+    "DateEnded": "13 Nov 2010",
+    "Year": "1 Jan 2003",
+    "Pages": "484",
+    "URL": "http://ecx.images-amazon.com/images/I/51-fcrLIO0L._SL160.jpg"
+  },
+  {
+    "Book": "The Da Vinci Code",
+    "Author": "Dan Brown",
+    "Time": "16:43:00",
+    "DateStarted": "",
+    "DateEnded": "21 Sep 2009",
+    "Year": "1 Jan 2003",
+    "Pages": "484",
+    "URL": "http://ecx.images-amazon.com/images/I/51-fcrLIO0L._SL160.jpg"
+  },
+  {
+    "Book": "Eclipse",
+    "Author": "Stephanie Meyer",
+    "Time": "16:31:00",
+    "DateStarted": "29 Jun 2009",
+    "DateEnded": "4 Jul 2009",
+    "Year": "1 Aug 2007",
+    "Pages": "629",
+    "URL": "http://ecx.images-amazon.com/images/I/41G7PDsY%2B2L._SL160.jpg"
+  },
+  {
+    "Book": "The Return of the King",
+    "Author": "J.R.R. Tolkien",
+    "Time": "15:26:33",
+    "DateStarted": "13 May 2011",
+    "DateEnded": "24 May 2011",
+    "Year": "20 Oct 1955",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/213PTkHsfXL._SL160.jpg"
+  },
+  {
+    "Book": "The Poet",
+    "Author": "Michael Connelly",
+    "Time": "15:21:00",
+    "DateStarted": "1 Jan 2010",
+    "DateEnded": "6 Jan 2010",
+    "Year": "",
+    "Pages": "480",
+    "URL": "http://ecx.images-amazon.com/images/I/51zLUoDoVLL._SL160.jpg"
+  },
+  {
+    "Book": "Phantoms",
+    "Author": "Dean Koontz",
+    "Time": "14:43:00",
+    "DateStarted": "1 Sep 2009",
+    "DateEnded": "29 Sep 2009",
+    "Year": "1 Mar 1983",
+    "Pages": "352",
+    "URL": "http://ecx.images-amazon.com/images/I/51H5G0FXNrL._SL160.jpg"
+  },
+  {
+    "Book": "New Moon",
+    "Author": "Stephanie Meyer",
+    "Time": "14:35:20",
+    "DateStarted": "20 Jun 2009",
+    "DateEnded": "29 Jun 2009",
+    "Year": "1 Aug 2006",
+    "Pages": "563",
+    "URL": "http://ecx.images-amazon.com/images/I/410Tyb4tc0L._SL160.jpg"
+  },
+  {
+    "Book": "Separation of Power",
+    "Author": "Vince Flynn",
+    "Time": "14:00:00",
+    "DateStarted": "6 Sep 2011",
+    "DateEnded": "13 Sep 2011",
+    "Year": "1 Jan 2011",
+    "Pages": "368",
+    "URL": "http://ecx.images-amazon.com/images/I/51F49uMyuVL._SL160.jpg"
+  },
+  {
+    "Book": "The Strain",
+    "Author": "Guillermo del Toro and Chuck Hogan",
+    "Time": "13:36:00",
+    "DateStarted": "14 Jul 2011",
+    "DateEnded": "22 Jul 2011",
+    "Year": "2 Jun 2009",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51Idg%2BoHg7L._SL100.jpg"
+  },
+  {
+    "Book": "The Private Patient",
+    "Author": "P.D. James",
+    "Time": "13:35:00",
+    "DateStarted": "2 Apr 2010",
+    "DateEnded": "12 Jun 2010",
+    "Year": "18 Nov 2008",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51Rfg1YblsL._SL160.jpg"
+  },
+  {
+    "Book": "Memorial Day",
+    "Author": "Vince Flynn",
+    "Time": "13:20:00",
+    "DateStarted": "22 Dec 2011",
+    "DateEnded": "28 Dec 2011",
+    "Year": "1 Jan 2004",
+    "Pages": "407",
+    "URL": "http://ecx.images-amazon.com/images/I/51lgCipe%2BKL._SL160.jpg"
+  },
+  {
+    "Book": "Scarpetta",
+    "Author": "Patricia Cornwell",
+    "Time": "13:14:00",
+    "DateStarted": "1 Jul 2011",
+    "DateEnded": "7 Jul 2011",
+    "Year": "1 Jan 2008",
+    "Pages": "508",
+    "URL": "http://ecx.images-amazon.com/images/I/51OVnDkNc1L._SL160.jpg"
+  },
+  {
+    "Book": "Executive Power",
+    "Author": "Vince Flynn",
+    "Time": "13:03:00",
+    "DateStarted": "9 Oct 2011",
+    "DateEnded": "12 Oct 2011",
+    "Year": "6 May 2003",
+    "Pages": "384",
+    "URL": "http://ecx.images-amazon.com/images/I/517bhw-AtSL._SL160.jpg"
+  },
+  {
+    "Book": "Lightning",
+    "Author": "Dean Koontz",
+    "Time": "12:58:00",
+    "DateStarted": "5 Oct 2011",
+    "DateEnded": "8 Oct 2011",
+    "Year": "12 Jan 1988",
+    "Pages": "351",
+    "URL": "http://ecx.images-amazon.com/images/I/41ZFfdDQIyL._SL160.jpg"
+  },
+  {
+    "Book": "The 7 Habits of Highly Effective People",
+    "Author": "Stephen R. Covey",
+    "Time": "12:58:00",
+    "DateStarted": "13 Jun 2010",
+    "DateEnded": "12 Jul 2010",
+    "Year": "1 Jan 1989",
+    "Pages": "358",
+    "URL": "http://ecx.images-amazon.com/images/I/51Osk63EaBL._SL160.jpg"
+  },
+  {
+    "Book": "Twilight",
+    "Author": "Stephanie Meyer",
+    "Time": "12:56:00",
+    "DateStarted": "14 Jun 2009",
+    "DateEnded": "20 Jun 2009",
+    "Year": "5 Oct 2005",
+    "Pages": "498",
+    "URL": "http://ecx.images-amazon.com/images/I/41mKAzgVLqL._SL160.jpg"
+  },
+  {
+    "Book": "Fear Nothing",
+    "Author": "Dean Koontz",
+    "Time": "12:39:03",
+    "DateStarted": "9 Jun 2011",
+    "DateEnded": "17 Jun 2011",
+    "Year": "1 Jan 1997",
+    "Pages": "373",
+    "URL": "http://ecx.images-amazon.com/images/I/414krtnQGvL._SL160.jpg"
+  },
+  {
+    "Book": "Death by Black Hole",
+    "Author": "Neil deGrasse Tyson",
+    "Time": "12:08:00",
+    "DateStarted": "3 Aug 2011",
+    "DateEnded": "8 Aug 2011",
+    "Year": "22 Jan 2007",
+    "Pages": "384",
+    "URL": "http://ecx.images-amazon.com/images/I/41QrCMtFHUL._SL160.jpg"
+  },
+  {
+    "Book": "Digital Fortress",
+    "Author": "Dan Brown",
+    "Time": "11:52:00",
+    "DateStarted": "18 Jul 2009",
+    "DateEnded": "5 Aug 2009",
+    "Year": "1 Jan 1998",
+    "Pages": "431",
+    "URL": "http://ecx.images-amazon.com/images/I/51vf4zIKmWL._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Prisoner of Azkaban",
+    "Author": "J.K. Rowling",
+    "Time": "11:48:09",
+    "DateStarted": "17 Nov 2010",
+    "DateEnded": "24 Nov 2010",
+    "Year": "8 Jul 1999",
+    "Pages": "435",
+    "URL": "http://ecx.images-amazon.com/images/I/512t2MI-I3L._SL160.jpg"
+  },
+  {
+    "Book": "The Third Option",
+    "Author": "Vince Flynn",
+    "Time": "11:48:00",
+    "DateStarted": "9 Aug 2011",
+    "DateEnded": "13 Aug 2011",
+    "Year": "1 Jan 2000",
+    "Pages": "358",
+    "URL": "http://ecx.images-amazon.com/images/I/51iYUG4NmUL._SL160.jpg"
+  },
+  {
+    "Book": "Mockingjay",
+    "Author": "Suzanne Collins",
+    "Time": "11:43:00",
+    "DateStarted": "1 Aug 2011",
+    "DateEnded": "2 Aug 2011",
+    "Year": "24 Aug 2010",
+    "Pages": "400",
+    "URL": "http://ecx.images-amazon.com/images/I/41k66TFC43L._SL160.jpg"
+  },
+  {
+    "Book": "Catching Fire",
+    "Author": "Suzanne Collins",
+    "Time": "11:41:00",
+    "DateStarted": "22 Jul 2011",
+    "DateEnded": "26 Jul 2011",
+    "Year": "1 Jan 2009",
+    "Pages": "391",
+    "URL": "http://ecx.images-amazon.com/images/I/51nTMA60fiL._SL160.jpg"
+  },
+  {
+    "Book": "The Lovely Bones",
+    "Author": "Alice Sebold",
+    "Time": "11:38:00",
+    "DateStarted": "9 Sep 2010",
+    "DateEnded": "18 Oct 2010",
+    "Year": "1 Jan 2002",
+    "Pages": "328",
+    "URL": "http://ecx.images-amazon.com/images/I/415TqWrMKaL._SL160.jpg"
+  },
+  {
+    "Book": "Star Wars - Fate of the Jedi: Abyss",
+    "Author": "Troy Denning",
+    "Time": "11:18:00",
+    "DateStarted": "28 Dec 2011",
+    "DateEnded": "7 Jan 2012",
+    "Year": "18 Aug 2009",
+    "Pages": "332",
+    "URL": "http://ecx.images-amazon.com/images/I/51xoVeuTJ9L._SL160.jpg"
+  },
+  {
+    "Book": "The Scarecrow",
+    "Author": "Michael Connelly",
+    "Time": "11:17:00",
+    "DateStarted": "27 Aug 2010",
+    "DateEnded": "9 Sep 2010",
+    "Year": "26 May 2009",
+    "Pages": "448",
+    "URL": "http://ecx.images-amazon.com/images/I/51sJBOCKG5L._SL160.jpg"
+  },
+  {
+    "Book": "Experiencing God",
+    "Author": "Henry T Blackaby",
+    "Time": "11:16:36",
+    "DateStarted": "24 May 2011",
+    "DateEnded": "9 Jun 2011",
+    "Year": "",
+    "Pages": "337",
+    "URL": "http://ecx.images-amazon.com/images/I/516TKx9nc7L._SL160.jpg"
+  },
+  {
+    "Book": "The Hunger Games",
+    "Author": "Suzanne Collins",
+    "Time": "11:11:38",
+    "DateStarted": "17 Jun 2011",
+    "DateEnded": "19 Jun 2011",
+    "Year": "14 Sep 2008",
+    "Pages": "384",
+    "URL": "http://ecx.images-amazon.com/images/I/41VwRHS2xAL._SL160.jpg"
+  },
+  {
+    "Book": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Time": "11:04:14",
+    "DateStarted": "15 Mar 2011",
+    "DateEnded": "10 Apr 2011",
+    "Year": "1 Jan 1937",
+    "Pages": "310",
+    "URL": "http://ecx.images-amazon.com/images/I/6113XDPUrVL._SL160.jpg"
+  },
+  {
+    "Book": "Star Wars Episode II: Attack of the Clones",
+    "Author": "R.A. Salvatore",
+    "Time": "10:20:00",
+    "DateStarted": "21 Nov 2009",
+    "DateEnded": "31 Dec 2009",
+    "Year": "23 Apr 2002",
+    "Pages": "336",
+    "URL": "http://ecx.images-amazon.com/images/I/51r2eA-1VLL._SL160.jpg"
+  },
+  {
+    "Book": "Star Wars - Fate of the Jedi: Outcast",
+    "Author": "Aaron Allston",
+    "Time": "10:12:00",
+    "DateStarted": "14 Sep 2011",
+    "DateEnded": "19 Sep 2011",
+    "Year": "24 Mar 2009",
+    "Pages": "318",
+    "URL": "http://ecx.images-amazon.com/images/I/51anmm4FRNL._SL160.jpg"
+  },
+  {
+    "Book": "Jaws",
+    "Author": "Peter Benchley",
+    "Time": "09:39:34",
+    "DateStarted": "15 Feb 2011",
+    "DateEnded": "1 Mar 2011",
+    "Year": "1 Jan 1974",
+    "Pages": "311",
+    "URL": "http://ecx.images-amazon.com/images/I/41EoUWlm5YL._SL160.jpg"
+  },
+  {
+    "Book": "The Purpose Driven Life",
+    "Author": "Rick Warren",
+    "Time": "09:02:00",
+    "DateStarted": "19 Jun 2011",
+    "DateEnded": "26 Jun 2011",
+    "Year": "1 Jan 2002",
+    "Pages": "334",
+    "URL": "http://ecx.images-amazon.com/images/I/51DvjiOUaOL._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Chamber of Secrets",
+    "Author": "J.K. Rowling",
+    "Time": "08:44:27",
+    "DateStarted": "14 Nov 2010",
+    "DateEnded": "17 Nov 2010",
+    "Year": "2 Jul 1998",
+    "Pages": "341",
+    "URL": "http://ecx.images-amazon.com/images/I/513QPRA7E7L._SL160.jpg"
+  },
+  {
+    "Book": "The Secret Garden",
+    "Author": "Grances Hodgson Burnett",
+    "Time": "08:27:00",
+    "DateStarted": "2 Feb 2011",
+    "DateEnded": "15 Feb 2011",
+    "Year": "1 Jan 1911",
+    "Pages": "234",
+    "URL": "http://ecx.images-amazon.com/images/I/51Nupi2fkoL._SL160.jpg"
+  },
+  {
+    "Book": "Star Wars - Fate of the Jedi: Omen",
+    "Author": "Christie Golden",
+    "Time": "08:25:00",
+    "DateStarted": "13 Oct 2011",
+    "DateEnded": "17 Oct 2011",
+    "Year": "23 Jun 2009",
+    "Pages": "250",
+    "URL": "http://ecx.images-amazon.com/images/I/51B7AmmzCFL._SL160.jpg"
+  },
+  {
+    "Book": "The Graveyard Book",
+    "Author": "Neil Gaiman",
+    "Time": "07:43:36",
+    "DateStarted": "28 Jun 2011",
+    "DateEnded": "1 Jul 2011",
+    "Year": "1 Jan 2008",
+    "Pages": "312",
+    "URL": "http://ecx.images-amazon.com/images/I/51xMD9jr2ML._SL160.jpg"
+  },
+  {
+    "Book": "Truth and Fiction in the Da Vinci Code",
+    "Author": "Bart D. Ehrman",
+    "Time": "07:07:00",
+    "DateStarted": "22 Feb 2009",
+    "DateEnded": "2 Mar 2009",
+    "Year": "1 Jan 2004",
+    "Pages": "240",
+    "URL": "http://ecx.images-amazon.com/images/I/51PH3Mhu8nL._SL160.jpg"
+  },
+  {
+    "Book": "Walking with God",
+    "Author": "John Eldredge",
+    "Time": "07:01:00",
+    "DateStarted": "17 Feb 2010",
+    "DateEnded": "1 Apr 2010",
+    "Year": "",
+    "Pages": "234",
+    "URL": "http://ecx.images-amazon.com/images/I/515ha8nAsJL._SL160.jpg"
+  },
+  {
+    "Book": "Psycho",
+    "Author": "Robert Bloch",
+    "Time": "05:22:00",
+    "DateStarted": "16 Aug 2010",
+    "DateEnded": "27 Aug 2010",
+    "Year": "1 Jan 1959",
+    "Pages": "185",
+    "URL": "http://ecx.images-amazon.com/images/I/410uUyJs4rL._SL160.jpg"
+  },
+  {
+    "Book": "Crazy Love",
+    "Author": "Francis Chan",
+    "Time": "04:19:05",
+    "DateStarted": "19 Jan 2012",
+    "DateEnded": "21 Jan 2012",
+    "Year": "1 Jan 2008",
+    "Pages": "186",
+    "URL": "http://ecx.images-amazon.com/images/I/31vNirDco6L._SL160.jpg"
+  },
+  {
+    "Book": "Alice in Wonderland",
+    "Author": "Lewis Carroll",
+    "Time": "",
+    "DateStarted": "",
+    "DateEnded": "2 Feb 2011",
+    "Year": "26 Nov 1865",
+    "Pages": "192",
+    "URL": "http://ecx.images-amazon.com/images/I/517BR28AFJL._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Philosopher's Stone",
+    "Author": "J.K. Rowling",
+    "Time": "",
+    "DateStarted": "",
+    "DateEnded": "14 Nov 2010",
+    "Year": "",
+    "Pages": "",
+    "URL": "http://ecx.images-amazon.com/images/I/51SBCPRR1ZL._SL160.jpg"
+  },
+  {
+    "Book": "Act of Treason",
+    "Author": "Vince Flynn",
+    "Time": "11:05:00",
+    "DateStarted": "15 Feb 2012",
+    "DateEnded": "16 Feb 2012",
+    "Year": "1 Jan 2006",
+    "Pages": "415",
+    "URL": "http://ecx.images-amazon.com/images/I/51Hk5-jSxLL._SL160.jpg"
+  },
+  {
+    "Book": "Star Wars - Fate of the Jedi: Backlash",
+    "Author": "Aaron Allston",
+    "Time": "11:10:15",
+    "DateStarted": "17 Feb 2012",
+    "DateEnded": "22 Feb 2012",
+    "Year": "9 Mar 2010",
+    "Pages": "328",
+    "URL": "http://ecx.images-amazon.com/images/I/512XFWguTVL._SL235.jpg"
+  },
+  {
+    "Book": "The Shack",
+    "Author": "William P. Young",
+    "Time": "08:32:21",
+    "DateStarted": "23 Feb 2012",
+    "DateEnded": "25 Feb 2012",
+    "Year": "1 Jan 2007",
+    "Pages": "252",
+    "URL": "http://ecx.images-amazon.com/images/I/51f2oCVO%2B%2BL._SL253.jpg"
+  },
+  {
+    "Book": "The Templar Legacy",
+    "Author": "Steve Berry",
+    "Time": "15:44:00",
+    "DateStarted": "26 Feb 2012",
+    "DateEnded": "4 Mar 2012",
+    "Year": "1 Jan 2006",
+    "Pages": "496",
+    "URL": "http://ecx.images-amazon.com/images/I/51J1GG0G61L._SL254.jpg"
+  },
+  {
+    "Book": "Protect and Defend",
+    "Author": "Vince Flynn",
+    "Time": "10:16:00",
+    "DateStarted": "11 Mar 2012",
+    "DateEnded": "15 Mar 2012",
+    "Year": "1 Oct 2007",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51xu7S-GjdL._SL228.jpg"
+  },
+  {
+    "Book": "Star Wars - Fate of the Jedi: Allies",
+    "Author": "Christie Golden",
+    "Time": "13:24:00",
+    "DateStarted": "16 Mar 2012",
+    "DateEnded": "21 Mar 2012",
+    "Year": "25 May 2010",
+    "Pages": "359",
+    "URL": "http://ecx.images-amazon.com/images/I/51Kh1RDoxDL._SL235.jpg"
+  },
+  {
+    "Book": "Great Lives: Joseph - A Man of Integrity and Forgiveness",
+    "Author": "Charles R. Swindoll",
+    "Time": "08:04:00",
+    "DateStarted": "22 Mar 2012",
+    "DateEnded": "23 Mar 2012",
+    "Year": "1 Jan 1998",
+    "Pages": "218",
+    "URL": "http://ecx.images-amazon.com/images/I/41eOxrueW4L._SL235.jpg"
+  },
+  {
+    "Book": "The Alexandria Link",
+    "Author": "Steve Berry",
+    "Time": "17:20:40",
+    "DateStarted": "24 Mar 2012",
+    "DateEnded": "2 Apr 2012",
+    "Year": "1 Jan 2007",
+    "Pages": "512",
+    "URL": "http://ecx.images-amazon.com/images/I/51UjmjakgdL._SL235.jpg"
+  },
+  {
+    "Book": "The Thirty Nine Steps",
+    "Author": "John Buchan",
+    "Time": "04:39:12",
+    "DateStarted": "3 Apr 2012",
+    "DateEnded": "4 Apr 2012",
+    "Year": "1 Jan 1915",
+    "Pages": "117",
+    "URL": "http://ecx.images-amazon.com/images/I/51yznZYT1JL._SL160.jpg"
+  },
+  {
+    "Book": "Extreme Measures",
+    "Author": "Vince Flynn",
+    "Time": "12:09:48",
+    "DateStarted": "5 Apr 2012",
+    "DateEnded": "8 Apr 2012",
+    "Year": "1 Oct 2008",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51EAvCZOGcL._SL234.jpg"
+  },
+  {
+    "Book": "Star Wars - Fate of the Jedi: Vortex",
+    "Author": "Troy Denning",
+    "Time": "14:35:00",
+    "DateStarted": "9 Apr 2012",
+    "DateEnded": "13 Apr 2012",
+    "Year": "30 Nov 2010",
+    "Pages": "375",
+    "URL": "http://ecx.images-amazon.com/images/I/51OaY2ueMYL._SL234.jpg"
+  },
+  {
+    "Book": "War of the Worlds",
+    "Author": "H. G. Wells",
+    "Time": "06:13:00",
+    "DateStarted": "14 Apr 2012",
+    "DateEnded": "19 Apr 2012",
+    "Year": "1 Jan 1898",
+    "Pages": "303",
+    "URL": "http://ecx.images-amazon.com/images/I/51RbRQ-vgYL._SL160.jpg"
+  },
+  {
+    "Book": "The Venetian Betrayal",
+    "Author": "Steve Berry",
+    "Time": "15:20:20",
+    "DateStarted": "20 Apr 2012",
+    "DateEnded": "7 May 2012",
+    "Year": "1 Jan 2007",
+    "Pages": "496",
+    "URL": "http://ecx.images-amazon.com/images/I/31IhS7efTvL._SL160.jpg"
+  },
+  {
+    "Book": "Treasure Island",
+    "Author": "Robert Louis Stevenson",
+    "Time": "06:43:00",
+    "DateStarted": "8 May 2012",
+    "DateEnded": "10 May 2012",
+    "Year": "1 Jan 1883",
+    "Pages": "292",
+    "URL": "http://ecx.images-amazon.com/images/I/51MKnKpVK6L._SL238.jpg"
+  },
+  {
+    "Book": "Pursuit of Honor",
+    "Author": "Vince Flynn",
+    "Time": "11:50:00",
+    "DateStarted": "11 May 2012",
+    "DateEnded": "16 May 2012",
+    "Year": "1 Oct 2009",
+    "Pages": "431",
+    "URL": "http://ecx.images-amazon.com/images/I/51Irh6r-ntL._SL234.jpg"
+  },
+  {
+    "Book": "Water for Elephants",
+    "Author": "Sara Gruen",
+    "Time": "11:26:00",
+    "DateStarted": "17 May 2012",
+    "DateEnded": "29 May 2012",
+    "Year": "26 May 2006",
+    "Pages": "331",
+    "URL": "http://ecx.images-amazon.com/images/I/51ndVau1joL._SL231.jpg"
+  },
+  {
+    "Book": "Star Wars - Fate of the Jedi: Conviction",
+    "Author": "Aaron Allston",
+    "Time": "12:57:00",
+    "DateStarted": "30 May 2012",
+    "DateEnded": "12 Jun 2012",
+    "Year": "24 May 2011",
+    "Pages": "380",
+    "URL": "http://ecx.images-amazon.com/images/I/51PsKh7O1yL._SL235.jpg"
+  },
+  {
+    "Book": "Jurassic Park",
+    "Author": "Michael Crichton",
+    "Time": "12:00:00",
+    "DateStarted": "13 Jun 2012",
+    "DateEnded": "14 Jun 2012",
+    "Year": "1 Nov 1990",
+    "Pages": "400",
+    "URL": "http://ecx.images-amazon.com/images/I/410E2D3HKKL._SL160.jpg"
+  },
+  {
+    "Book": "The Charlemagne Pursuit",
+    "Author": "Steve Berry",
+    "Time": "16:22:00",
+    "DateStarted": "15 Jun 2012",
+    "DateEnded": "26 Jun 2012",
+    "Year": "2 Dec 2008",
+    "Pages": "528",
+    "URL": "http://ecx.images-amazon.com/images/I/61WWbokK8LL._SL231.jpg"
+  },
+  {
+    "Book": "The Lost World",
+    "Author": "Michael Crichton",
+    "Time": "15:19:00",
+    "DateStarted": "27 Jun 2012",
+    "DateEnded": "3 Jul 2012",
+    "Year": "1 Jan 1995",
+    "Pages": "429",
+    "URL": "http://ecx.images-amazon.com/images/I/71S019GP6ML._SL224.gif"
+  },
+  {
+    "Book": "American Assassin",
+    "Author": "Vince Flynn",
+    "Time": "11:36:00",
+    "DateStarted": "4 Jul 2012",
+    "DateEnded": "10 Jul 2012",
+    "Year": "12 Oct 2010",
+    "Pages": "448",
+    "URL": "http://ecx.images-amazon.com/images/I/51QGWsWIocL._SL234.jpg"
+  },
+  {
+    "Book": "The Help",
+    "Author": "Kathryn Stockett",
+    "Time": "18:06:00",
+    "DateStarted": "11 Jul 2012",
+    "DateEnded": "15 Jul 2012",
+    "Year": "1 Feb 2009",
+    "Pages": "451",
+    "URL": "http://ecx.images-amazon.com/images/I/51-1PHC3W5L._SL232.jpg"
+  },
+  {
+    "Book": "Divergent",
+    "Author": "Veronica Roth",
+    "Time": "11:11:00",
+    "DateStarted": "16 Jul 2012",
+    "DateEnded": "19 Jul 2012",
+    "Year": "3 May 2011",
+    "Pages": "487",
+    "URL": "http://ecx.images-amazon.com/images/I/51Mry4w810L._SL231.jpg"
+  },
+  {
+    "Book": "Star Wars - Fate of the Jedi - Ascention",
+    "Author": "Christie Golden",
+    "Time": "14:43:56",
+    "DateStarted": "20 Jul 2012",
+    "DateEnded": "25 Jul 2012",
+    "Year": "9 Aug 2011",
+    "Pages": "410",
+    "URL": "http://ecx.images-amazon.com/images/I/519RnNkaTkL._SL235.jpg"
+  },
+  {
+    "Book": "23 Things They Don't Tell you about Capitalism",
+    "Author": "Ha-Joon Chang",
+    "Time": "08:58:28",
+    "DateStarted": "26 Jul 2012",
+    "DateEnded": "31 Jul 2012",
+    "Year": "4 Jan 2011",
+    "Pages": "304",
+    "URL": "http://ecx.images-amazon.com/images/I/418afLHvb5L._SL228.jpg"
+  },
+  {
+    "Book": "The Paris Vendetta",
+    "Author": "Steve Berry",
+    "Time": "13:33:21",
+    "DateStarted": "1 Aug 2012",
+    "DateEnded": "7 Aug 2012",
+    "Year": "1 Jan 2009",
+    "Pages": "432",
+    "URL": "http://ecx.images-amazon.com/images/I/51tAOPNeMRL._SL234.jpg"
+  },
+  {
+    "Book": "The 8th Habit",
+    "Author": "Stephen R. Covey",
+    "Time": "14:24:55",
+    "DateStarted": "8 Aug 2012",
+    "DateEnded": "18 Aug 2012",
+    "Year": "1 Jan 2004",
+    "Pages": "432",
+    "URL": "http://ecx.images-amazon.com/images/I/516N1NrMPzL._SL254.jpg"
+  },
+  {
+    "Book": "Kill Shot",
+    "Author": "Vince Flynn",
+    "Time": "10:50:05",
+    "DateStarted": "19 Aug 2012",
+    "DateEnded": "22 Aug 2012",
+    "Year": "1 Jan 2012",
+    "Pages": "400",
+    "URL": "http://ecx.images-amazon.com/images/I/51dTK9iMQUL._SL236.jpg"
+  },
+  {
+    "Book": "Insurgent",
+    "Author": "Veronica Roth",
+    "Time": "11:23:43",
+    "DateStarted": "23 Aug 2012",
+    "DateEnded": "30 Aug 2012",
+    "Year": "1 May 2012",
+    "Pages": "496",
+    "URL": "http://cf-ui.shelfari.com/85fa19d3ecb7_154w.jpg"
+  },
+  {
+    "Book": "Charlie and the Chocolate Factory",
+    "Author": "Roald Dahl",
+    "Time": "03:18:47",
+    "DateStarted": "31 Aug 2012",
+    "DateEnded": "1 Sep 2012",
+    "Year": "1 Jan 1964",
+    "Pages": "176",
+    "URL": "http://ecx.images-amazon.com/images/I/516DGE57ENL._SL238.jpg"
+  },
+  {
+    "Book": "Star Wars - Fate of the Jedi: Apocalpyse",
+    "Author": "Troy Denning",
+    "Time": "16:29:48",
+    "DateStarted": "2 Sep 2012",
+    "DateEnded": "10 Sep 2012",
+    "Year": "13 Mar 2012",
+    "Pages": "476",
+    "URL": "http://ecx.images-amazon.com/images/I/51EQhaJk9cL._SL235.jpg"
+  },
+  {
+    "Book": "Matilda",
+    "Author": "Roald Dahl",
+    "Time": "04:32:50",
+    "DateStarted": "11 Sep 2012",
+    "DateEnded": "12 Sep 2012",
+    "Year": "1 Jan 1988",
+    "Pages": "240",
+    "URL": "http://ecx.images-amazon.com/images/I/51rVUehaGSL._SL160.jpg"
+  },
+  {
+    "Book": "The Emperor's Tomb",
+    "Author": "Steve Berry",
+    "Time": "14:05:12",
+    "DateStarted": "13 Sep 2012",
+    "DateEnded": "22 Sep 2012",
+    "Year": "1 Nov 2010",
+    "Pages": "480",
+    "URL": "http://ecx.images-amazon.com/images/I/51vM9e-njxL._SL160.jpg"
+  },
+  {
+    "Book": "Peter Pan",
+    "Author": "J. M. Barrie",
+    "Time": "05:40:13",
+    "DateStarted": "23 Sep 2012",
+    "DateEnded": "26 Sep 2012",
+    "Year": "1 Jan 1911",
+    "Pages": "267",
+    "URL": "http://ecx.images-amazon.com/images/I/51va2vLL9AL._SL189.jpg"
+  },
+  {
+    "Book": "Postmortem",
+    "Author": "Patricia Cornwell",
+    "Time": "11:27:48",
+    "DateStarted": "27 Sep 2012",
+    "DateEnded": "8 Oct 2012",
+    "Year": "9 Jan 1990",
+    "Pages": "304",
+    "URL": "http://ecx.images-amazon.com/images/I/415X4T3HTSL._SL246.jpg"
+  },
+  {
+    "Book": "Confession of a Shopaholic",
+    "Author": "Sophie Kinsella",
+    "Time": "11:42:39",
+    "DateStarted": "9 Oct 2012",
+    "DateEnded": "13 Oct 2012",
+    "Year": "1 Jan 2000",
+    "Pages": "312",
+    "URL": "http://ecx.images-amazon.com/images/I/51z60DCsd1L._SL244.jpg"
+  },
+  {
+    "Book": "A Game of Thrones",
+    "Author": "George R. R. Martin",
+    "Time": "33:46:21",
+    "DateStarted": "14 Oct 2012",
+    "DateEnded": "6 Nov 2012",
+    "Year": "1 Aug 1996",
+    "Pages": "835",
+    "URL": "http://ecx.images-amazon.com/images/I/51ZIXVGSnlL._SL253.jpg"
+  },
+  {
+    "Book": "Heir to the Empire",
+    "Author": "Timothy Zahn",
+    "Time": "13:09:00",
+    "DateStarted": "7 Nov 2012",
+    "DateEnded": "13 Nov 2012",
+    "Year": "1 Jan 1991",
+    "Pages": "361",
+    "URL": "http://ecx.images-amazon.com/images/I/5165GG7QHDL._SL256.jpg"
+  },
+  {
+    "Book": "The Power of One",
+    "Author": "Bryce Courtenay",
+    "Time": "21:30:00",
+    "DateStarted": "14 Nov 2012",
+    "DateEnded": "26 Nov 2012",
+    "Year": "13 Mar 1990",
+    "Pages": "533",
+    "URL": "http://ecx.images-amazon.com/images/I/41%2BVNTZDbFL._SL228.jpg"
+  },
+  {
+    "Book": "The Last Man",
+    "Author": "Vince Flynn",
+    "Time": "11:54:00",
+    "DateStarted": "27 Nov 2012",
+    "DateEnded": "29 Nov 2012",
+    "Year": "13 Nov 2012",
+    "Pages": "448",
+    "URL": "http://ecx.images-amazon.com/images/I/51d6BX%2B1-LL._SL233.jpg"
+  },
+  {
+    "Book": "Body of Evidence",
+    "Author": "Patricia Cornwell",
+    "Time": "10:10:23",
+    "DateStarted": "30 Nov 2012",
+    "DateEnded": "8 Dec 2012",
+    "Year": "5 Feb 1991",
+    "Pages": "256",
+    "URL": "http://ecx.images-amazon.com/images/I/51njPG7VH8L._SL255.jpg"
+  },
+  {
+    "Book": "Angels and Demons",
+    "Author": "Dan Brown",
+    "Time": "18:33:00",
+    "DateStarted": "9 Dec 2012",
+    "DateEnded": "19 Dec 2012",
+    "Year": "1 May 2000",
+    "Pages": "480",
+    "URL": "http://ecx.images-amazon.com/images/I/51MY9Q410WL._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Philosopher's Stone",
+    "Author": "J.K. Rowling",
+    "Time": "08:17:48",
+    "DateStarted": "20 Dec 2012",
+    "DateEnded": "24 Dec 2012",
+    "Year": "30 Jun 1997",
+    "Pages": "223",
+    "URL": "http://ecx.images-amazon.com/images/I/51SBCPRR1ZL._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Chamber of Secrets",
+    "Author": "J.K. Rowling",
+    "Time": "08:44:27",
+    "DateStarted": "25 Dec 2012",
+    "DateEnded": "31 Dec 2012",
+    "Year": "2 Jul 1998",
+    "Pages": "341",
+    "URL": "http://ecx.images-amazon.com/images/I/513QPRA7E7L._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Prisoner of Azkaban",
+    "Author": "J.K. Rowling",
+    "Time": "11:48:09",
+    "DateStarted": "1 Jan 2013",
+    "DateEnded": "7 Jan 2013",
+    "Year": "8 Jul 1999",
+    "Pages": "435",
+    "URL": "http://ecx.images-amazon.com/images/I/512t2MI-I3L._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Goblet of Fire",
+    "Author": "J.K. Rowling",
+    "Time": "20:36:25",
+    "DateStarted": "8 Jan 2013",
+    "DateEnded": "16 Jan 2013",
+    "Year": "8 Jul 2000",
+    "Pages": "734",
+    "URL": "http://ecx.images-amazon.com/images/I/51BKEV%2By7EL._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Order of Phoenix",
+    "Author": "J.K. Rowling",
+    "Time": "26:22:38",
+    "DateStarted": "17 Jan 2013",
+    "DateEnded": "26 Jan 2013",
+    "Year": "21 Jun 2003",
+    "Pages": "870",
+    "URL": "http://ecx.images-amazon.com/images/I/51BH8S8FKSL._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Half Blood Prince",
+    "Author": "J.K. Rowling",
+    "Time": "19:11:35",
+    "DateStarted": "27 Jan 2013",
+    "DateEnded": "12 Feb 2013",
+    "Year": "16 Jul 2005",
+    "Pages": "652",
+    "URL": "http://ecx.images-amazon.com/images/I/51JTPF5ZSNL._SL160.jpg"
+  },
+  {
+    "Book": "Harry Potter and the Deathly Hollows",
+    "Author": "J.K. Rowling",
+    "Time": "21:38:30",
+    "DateStarted": "13 Feb 2013",
+    "DateEnded": "25 Feb 2013",
+    "Year": "21 Jul 2007",
+    "Pages": "784",
+    "URL": "http://ecx.images-amazon.com/images/I/51CJ3bmBzlL._SL160.jpg"
+  },
+  {
+    "Book": "Shopaholic Takes Manhattan",
+    "Author": "Sophie Kinsella",
+    "Time": "12:39:23",
+    "DateStarted": "26 Feb 2013",
+    "DateEnded": "11 Mar 2013",
+    "Year": "1 Jan 2001",
+    "Pages": "388",
+    "URL": "http://ecx.images-amazon.com/images/I/51hRO13mAvL._SL160.jpg"
+  },
+  {
+    "Book": "A Clash of Kings",
+    "Author": "George R. R. Martin",
+    "Time": "37:12:00",
+    "DateStarted": "12 Mar 2013",
+    "DateEnded": "10 Apr 2013",
+    "Year": "2 Feb 1999",
+    "Pages": "969",
+    "URL": "http://ecx.images-amazon.com/images/I/51WpEsAOmSL._SL241.jpg"
+  },
+  {
+    "Book": "Dark Force Rising",
+    "Author": "Timothy Zahn",
+    "Time": "14:56:00",
+    "DateStarted": "11 Apr 2013",
+    "DateEnded": "15 Apr 2013",
+    "Year": "1 Jan 1992",
+    "Pages": "376",
+    "URL": "http://ecx.images-amazon.com/images/I/51JGkrC15TL._SL254.jpg"
+  },
+  {
+    "Book": "The Memoirs of Shelock Holmes",
+    "Author": "Arthur Conan Doyle",
+    "Time": "09:21:00",
+    "DateStarted": "16 Apr 2013",
+    "DateEnded": "22 Apr 2013",
+    "Year": "1 Jan 1893",
+    "Pages": "304",
+    "URL": "http://ecx.images-amazon.com/images/I/41yd-6woM%2BL._SL238.jpg"
+  },
+  {
+    "Book": "The Return of Shelock Holmes",
+    "Author": "Arthur Conan Doyle",
+    "Time": "12:12:00",
+    "DateStarted": "23 Apr 2013",
+    "DateEnded": "1 May 2013",
+    "Year": "1 Jan 1905",
+    "Pages": "403",
+    "URL": "http://ecx.images-amazon.com/images/I/41tTCcGLeEL._SL236.jpg"
+  },
+  {
+    "Book": "The Hound of the Baskervilles",
+    "Author": "Arthur Conan Doyle",
+    "Time": "06:18:58",
+    "DateStarted": "2 May 2013",
+    "DateEnded": "8 May 2013",
+    "Year": "1 Jan 1902",
+    "Pages": "359",
+    "URL": "http://ecx.images-amazon.com/images/I/41rl9P14J6L._SL257.jpg"
+  },
+  {
+    "Book": "All That Remains",
+    "Author": "Patricia Cornwell",
+    "Time": "09:50:00",
+    "DateStarted": "9 May 2013",
+    "DateEnded": "14 May 2013",
+    "Year": "17 Aug 1992",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51E7XW8TXVL._SL248.jpg"
+  },
+  {
+    "Book": "Inferno",
+    "Author": "Dan Brown",
+    "Time": "17:12:00",
+    "DateStarted": "15 May 2013",
+    "DateEnded": "23 May 2013",
+    "Year": "14 May 2013",
+    "Pages": "480",
+    "URL": "http://ecx.images-amazon.com/images/I/61ajWCV3yBL._SL235.jpg"
+  },
+  {
+    "Book": "Shopaholic Ties the Knot",
+    "Author": "Sophie Kinsella",
+    "Time": "14:24:00",
+    "DateStarted": "24 May 2013",
+    "DateEnded": "1 Jun 2013",
+    "Year": "",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51gHIaBESIL._SL258.jpg"
+  },
+  {
+    "Book": "A Storm of Swords",
+    "Author": "George R. R. Martin",
+    "Time": "47:40:00",
+    "DateStarted": "2 Jun 2013",
+    "DateEnded": "22 Jun 2013",
+    "Year": "31 Oct 2000",
+    "Pages": "1177",
+    "URL": "http://ecx.images-amazon.com/images/I/515g0ypFAlL._SL160.jpg"
+  },
+  {
+    "Book": "The Last Command",
+    "Author": "Timothy Zahn",
+    "Time": "15:47:00",
+    "DateStarted": "23 Jun 2013",
+    "DateEnded": "27 Jun 2013",
+    "Year": "1 Jan 1993",
+    "Pages": "467",
+    "URL": "http://ecx.images-amazon.com/images/I/51286N5TVCL._SL257.jpg"
+  },
+  {
+    "Book": "1984",
+    "Author": "George Orwell",
+    "Time": "09:39:09",
+    "DateStarted": "28 Jun 2013",
+    "DateEnded": "3 Jul 2013",
+    "Year": "8 Jun 1949",
+    "Pages": "326",
+    "URL": "http://ecx.images-amazon.com/images/I/31m701nQuZL._SL247.jpg"
+  },
+  {
+    "Book": "Cruel and Unusual",
+    "Author": "Patricia Cornwell",
+    "Time": "11:50:00",
+    "DateStarted": "4 Jul 2013",
+    "DateEnded": "9 Jul 2013",
+    "Year": "10 Jun 1993",
+    "Pages": "356",
+    "URL": "http://ecx.images-amazon.com/images/I/51xMmqc7B%2BL._SL276.jpg"
+  },
+  {
+    "Book": "The Zombie Survival Guide",
+    "Author": "Max Brooks",
+    "Time": "08:38:16",
+    "DateStarted": "10 Jul 2013",
+    "DateEnded": "13 Jul 2013",
+    "Year": "1 Jan 2003",
+    "Pages": "288",
+    "URL": "http://ecx.images-amazon.com/images/I/51kfZ29lrGL._SL231.jpg"
+  },
+  {
+    "Book": "A Feast for Crows",
+    "Author": "George R. R. Martin",
+    "Time": "33:56:00",
+    "DateStarted": "14 Jul 2013",
+    "DateEnded": "5 Aug 2013",
+    "Year": "8 Nov 2005",
+    "Pages": "784",
+    "URL": "http://ecx.images-amazon.com/images/I/312DWqiDikL._SL234.jpg"
+  },
+  {
+    "Book": "The Old Republic: Fatal Alliance",
+    "Author": "Sean Williams",
+    "Time": "13:48:00",
+    "DateStarted": "6 Aug 2013",
+    "DateEnded": "14 Aug 2013",
+    "Year": "20 Jul 2010",
+    "Pages": "429",
+    "URL": "http://cf-ui.shelfari.com/901b2092f5b4_154w.jpg"
+  },
+  {
+    "Book": "Under the Dome",
+    "Author": "Stephen King",
+    "Time": "34:29:00",
+    "DateStarted": "15 Aug 2013",
+    "DateEnded": "30 Aug 2013",
+    "Year": "10 Nov 2009",
+    "Pages": "1088",
+    "URL": "http://ecx.images-amazon.com/images/I/41PZik3LNWL._SL224.jpg"
+  },
+  {
+    "Book": "The Body Farm",
+    "Author": "Patricia Cornwell",
+    "Time": "11:37:00",
+    "DateStarted": "31 Aug 2013",
+    "DateEnded": "4 Sep 2013",
+    "Year": "12 Sep 1994",
+    "Pages": "320",
+    "URL": "http://ecx.images-amazon.com/images/I/51Ptw68pDqL._SL248.jpg"
+  },
+  {
+    "Book": "World War Z",
+    "Author": "Max Brooks",
+    "Time": "13:49:00",
+    "DateStarted": "5 Sep 2013",
+    "DateEnded": "7 Sep 2013",
+    "Year": "1 Jan 2006",
+    "Pages": "352",
+    "URL": "http://ecx.images-amazon.com/images/I/51GYbjN5KsL._SL231.jpg"
+  },
+  {
+    "Book": "A Dance with Dragons",
+    "Author": "George R. R. Martin",
+    "Time": "49:00:00",
+    "DateStarted": "8 Sep 2013",
+    "DateEnded": "3 Oct 2013",
+    "Year": "12/07/2011",
+    "Pages": "1040",
+    "URL": "http://ecx.images-amazon.com/images/I/51AWpEvkLnL._SL233.jpg"
+  },
+  {
+    "Book": "Specter of the Past",
+    "Author": "Timothy Zahn",
+    "Time": "14:31:00",
+    "DateStarted": "4 Oct 2013",
+    "DateEnded": "14 Oct 2013",
+    "Year": "3 Nov 1997",
+    "Pages": "352",
+    "URL": "http://ecx.images-amazon.com/images/I/51fFTi%2BLwkL._SL266.jpg"
+  },
+  {
+    "Book": "The Art of Racing in the Rain",
+    "Author": "Garth Stein",
+    "Time": "06:57:17",
+    "DateStarted": "15 Oct 2013",
+    "DateEnded": "17 Oct 2013",
+    "Year": "1 Jan 2008",
+    "Pages": "321",
+    "URL": "http://ecx.images-amazon.com/images/I/41XLuytKeUL._SL239.jpg"
+  },
+  {
+    "Book": "From Potter's Field",
+    "Author": "Patricia Cornwell",
+    "Time": "09:00:47",
+    "DateStarted": "18 Oct 2013",
+    "DateEnded": "22 Oct 2013",
+    "Year": "2 Aug 1995",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51JQCAWJ11L._SL250.jpg"
+  },
+  {
+    "Book": "Relic",
+    "Author": "Douglas Preston, Lincoln Child",
+    "Time": "13:02:43",
+    "DateStarted": "23 Oct 2013",
+    "DateEnded": "28 Oct 2013",
+    "Year": "1 Feb 1995",
+    "Pages": "382",
+    "URL": "http://ecx.images-amazon.com/images/I/51WY1NNQCFL._SL248.jpg"
+  },
+  {
+    "Book": "The Eye of the World",
+    "Author": "Robert Jordan",
+    "Time": "29:59:00",
+    "DateStarted": "29 Oct 2013",
+    "DateEnded": "8 Nov 2013",
+    "Year": "15 Jan 1990",
+    "Pages": "814",
+    "URL": "http://ecx.images-amazon.com/images/I/51S2RRG3MFL._SL251.jpg"
+  },
+  {
+    "Book": "Scoundrels",
+    "Author": "Timothy Zahn",
+    "Time": "13:59:00",
+    "DateStarted": "9 Nov 2013",
+    "DateEnded": "17 Nov 2013",
+    "Year": "1 Jan 2013",
+    "Pages": "464",
+    "URL": "http://ecx.images-amazon.com/images/I/51N-k6IbtVL._SL253.jpg"
+  },
+  {
+    "Book": "A Christmas Carol",
+    "Author": "Charles Dickens",
+    "Time": "02:58:00",
+    "DateStarted": "18 Nov 2013",
+    "DateEnded": "18 Nov 2013",
+    "Year": "19 Dec 1843",
+    "Pages": "110",
+    "URL": "http://ecx.images-amazon.com/images/I/41PJRopwLrL._SL257.jpg"
+  },
+  {
+    "Book": "Cause of Death",
+    "Author": "Patricia Cornwell",
+    "Time": "09:02:11",
+    "DateStarted": "19 Nov 2013",
+    "DateEnded": "21 Nov 2013",
+    "Year": "2 Jul 1996",
+    "Pages": "340",
+    "URL": "http://ecx.images-amazon.com/images/I/51UzBMHC0eL._SL271.jpg"
+  },
+  {
+    "Book": "Allegiant",
+    "Author": "Veronica Roth",
+    "Time": "11:51:07",
+    "DateStarted": "22 Nov 2013",
+    "DateEnded": "26 Nov 2013",
+    "Year": "22 Oct 2013",
+    "Pages": "406",
+    "URL": "http://ecx.images-amazon.com/images/I/51C4TVE-R2L._SL225.jpg"
+  },
+  {
+    "Book": "Reliquary",
+    "Author": "Douglas Preston, Lincoln Child",
+    "Time": "13:48:49",
+    "DateStarted": "27 Nov 2013",
+    "DateEnded": "2 Dec 2013",
+    "Year": "1 May 1997",
+    "Pages": "382",
+    "URL": "http://ecx.images-amazon.com/images/I/51uBDUk2CzL._SL249.jpg"
+  },
+  {
+    "Book": "Can You Keep a Secret?",
+    "Author": "Sophie Kinsella",
+    "Time": "10:43:58",
+    "DateStarted": "3 Dec 2013",
+    "DateEnded": "6 Dec 2013",
+    "Year": "1 Jan 2003",
+    "Pages": "364",
+    "URL": "http://ecx.images-amazon.com/images/I/51T9hqwiXGL._SL245.jpg"
+  },
+  {
+    "Book": "Red Dragon",
+    "Author": "Thomas Harris",
+    "Time": "12:08:04",
+    "DateStarted": "7 Dec 2013",
+    "DateEnded": "13 Dec 2013",
+    "Year": "1 Oct 1981",
+    "Pages": "480",
+    "URL": "http://ecx.images-amazon.com/images/I/51dyts9nF6L._SL233.jpg"
+  },
+  {
+    "Book": "The Silence of the Lambs",
+    "Author": "Thomas Harris",
+    "Time": "10:34:10",
+    "DateStarted": "14 Dec 2013",
+    "DateEnded": "18 Dec 2013",
+    "Year": "19 May 1988",
+    "Pages": "352",
+    "URL": "http://ecx.images-amazon.com/images/I/51VnZKZ%2BzIL._SL224.jpg"
+  },
+  {
+    "Book": "Allegiance",
+    "Author": "Timothy Zahn",
+    "Time": "12:48:43",
+    "DateStarted": "19 Dec 2013",
+    "DateEnded": "31 Dec 2013",
+    "Year": "1 Jan 2007",
+    "Pages": "336",
+    "URL": "http://ecx.images-amazon.com/images/I/51CHTX4gOoL._SL234.jpg"
+  },
+  {
+    "Book": "And Then There Were None",
+    "Author": "Agatha Christie",
+    "Time": "06:02:07",
+    "DateStarted": "1 Jan 2014",
+    "DateEnded": "5 Jan 2014",
+    "Year": "6 Nov 1939",
+    "Pages": "256",
+    "URL": "http://ecx.images-amazon.com/images/I/41%2BBlIZT-LL._SL242.jpg"
+  },
+  {
+    "Book": "Einstein: His Life and Universe",
+    "Author": "Walter Isaacson",
+    "Time": "07:18:54",
+    "DateStarted": "6 Jan 2014",
+    "DateEnded": "13 Jan 2014",
+    "Year": "1 Jan 2007",
+    "Pages": "704",
+    "URL": "http://ecx.images-amazon.com/images/I/51aQOSZp3xL._SL229.jpg"
+  },
+  {
+    "Book": "Unnatural Exposure",
+    "Author": "Patricia Cornwell",
+    "Time": "11:04:00",
+    "DateStarted": "14 Jan 2014",
+    "DateEnded": "22 Jan 2014",
+    "Year": "14 Jul 1997",
+    "Pages": "338",
+    "URL": "http://ecx.images-amazon.com/images/I/51H1QWS9xNL._SL248.jpg"
+  },
+  {
+    "Book": "Hannibal",
+    "Author": "Thomas Harris",
+    "Time": "12:26:15",
+    "DateStarted": "23 Jan 2014",
+    "DateEnded": "3 Feb 2014",
+    "Year": "8 Jun 1999",
+    "Pages": "484",
+    "URL": "http://ecx.images-amazon.com/images/I/515PMYH3GHL._SL228.jpg"
+  },
+  {
+    "Book": "The Two Towers",
+    "Author": "J.R.R. Tolkien",
+    "Time": "16:45:51",
+    "DateStarted": "",
+    "DateEnded": "23 Nov 2008",
+    "Year": "11 Nov 1954",
+    "Pages": "464",
+    "URL": "http://ecx.images-amazon.com/images/I/31RYaLyTfTL._SL160.jpg"
+  },
+  {
+    "Book": "The Cabinet of Curiosities",
+    "Author": "Douglas Preston, Lincoln Child",
+    "Time": "17:04:00",
+    "DateStarted": "4 Feb 2014",
+    "DateEnded": "11 Feb 2014",
+    "Year": "1 Jun 2002",
+    "Pages": "466",
+    "URL": "http://ecx.images-amazon.com/images/I/41CJTzHkcrL._SL253.jpg"
+  },
+  {
+    "Book": "Remember Me?",
+    "Author": "Sophie Kinsella",
+    "Time": "13:26:00",
+    "DateStarted": "12 Feb 2014",
+    "DateEnded": "18 Feb 2014",
+    "Year": "1 Jan 2008",
+    "Pages": "448",
+    "URL": "http://ecx.images-amazon.com/images/I/51FQPpFU-lL._SL233.jpg"
+  },
+  {
+    "Book": "Zombie Fallout",
+    "Author": "Mark Tufo",
+    "Time": "10:29:35",
+    "DateStarted": "19 Feb 2014",
+    "DateEnded": "25 Feb 2014",
+    "Year": "5 Feb 2010",
+    "Pages": "324",
+    "URL": "http://ecx.images-amazon.com/images/I/51Of-Y041sL._SL160.jpg"
+  },
+  {
+    "Book": "Micro",
+    "Author": "Michael Crichton",
+    "Time": "13:55:00",
+    "DateStarted": "26 Feb 2014",
+    "DateEnded": "6 Mar 2014",
+    "Year": "1 Jan 2011",
+    "Pages": "429",
+    "URL": "http://ecx.images-amazon.com/images/I/41qVaGbfa6L._SL234.jpg"
+  },
+  {
+    "Book": "In Cold Blood",
+    "Author": "Truman Capote",
+    "Time": "14:28:00",
+    "DateStarted": "7 Mar 2014",
+    "DateEnded": "17 Mar 2014",
+    "Year": "1 Jan 1965",
+    "Pages": "343",
+    "URL": "http://ecx.images-amazon.com/images/I/51ANZRGl9IL._SL231.jpg"
+  },
+  {
+    "Book": "Point of Origin",
+    "Author": "Patricia Cornwell",
+    "Time": "10:57:23",
+    "DateStarted": "18 Mar 2014",
+    "DateEnded": "24 Mar 2014",
+    "Year": "6 Jul 1998",
+    "Pages": "356",
+    "URL": "http://ecx.images-amazon.com/images/I/51I8jdNs0AL._SL254.jpg"
+  },
+  {
+    "Book": "Hannibal Rising",
+    "Author": "Thomas Harris",
+    "Time": "07:04:00",
+    "DateStarted": "25 Mar 2014",
+    "DateEnded": "28 Mar 2014",
+    "Year": "1 Dec 2006",
+    "Pages": "323",
+    "URL": "http://ecx.images-amazon.com/images/I/517k6vI0ARL._SL229.jpg"
+  },
+  {
+    "Book": "Still Life with Crows",
+    "Author": "Douglas Preston, Lincoln Child",
+    "Time": "15:49:42",
+    "DateStarted": "29 Mar 2014",
+    "DateEnded": "7 Apr 2014",
+    "Year": "1 Jul 2003",
+    "Pages": "435",
+    "URL": "http://ecx.images-amazon.com/images/I/21ai%2BC3wzRL._SL259.jpg"
+  },
+  {
+    "Book": "Spying in High Heels",
+    "Author": "Gemma Halliday",
+    "Time": "09:05:29",
+    "DateStarted": "8 Apr 2014",
+    "DateEnded": "15 Apr 2014",
+    "Year": "1 Aug 2006",
+    "Pages": "324",
+    "URL": "http://ecx.images-amazon.com/images/I/51uW6S8MmDL._SL238.jpg"
+  },
+  {
+    "Book": "Zombie Fallout 2: A Plague Upon Your Family",
+    "Author": "Mark Tufo",
+    "Time": "10:57:37",
+    "DateStarted": "16 Apr 2014",
+    "DateEnded": "28 Apr 2014",
+    "Year": "29 Sep 2010",
+    "Pages": "330",
+    "URL": "http://ecx.images-amazon.com/images/I/51vqFUOr8VL._SL160_.jpg"
+  },
+  {
+    "Book": "Vision of the Future",
+    "Author": "Timothy Zahn",
+    "Time": "26:18:10",
+    "DateStarted": "29 Apr 2014",
+    "DateEnded": "20 May 2014",
+    "Year": "1 Sep 1998",
+    "Pages": "528",
+    "URL": "http://ecx.images-amazon.com/images/I/51lOrz4ymZL._SL254.jpg"
+  },
+  {
+    "Book": "The Shining",
+    "Author": "Stephen King",
+    "Time": "15:51:00",
+    "DateStarted": "21 May 2014",
+    "DateEnded": "30 May 2014",
+    "Year": "1 Jan 1977",
+    "Pages": "679",
+    "URL": "http://ecx.images-amazon.com/images/I/51BGKFQTKVL._SL258.jpg"
+  },
+  {
+    "Book": "Term Limits",
+    "Author": "Vince Flynn",
+    "Time": "15:34:00",
+    "DateStarted": "31 May 2014",
+    "DateEnded": "11 Jun 2014",
+    "Year": "1 Jan 1997",
+    "Pages": "360",
+    "URL": "http://ecx.images-amazon.com/images/I/51c1gzaydQL._SL238.jpg"
+  },
+  {
+    "Book": "Black Notice",
+    "Author": "Patricia Cornwell",
+    "Time": "12:21:00",
+    "DateStarted": "12 Jun 2014",
+    "DateEnded": "24 Jun 2014",
+    "Year": "2 Aug 1999",
+    "Pages": "415",
+    "URL": "http://ecx.images-amazon.com/images/I/51E6PjZmrSL._SL252.jpg"
+  },
+  {
+    "Book": "The Bourne Identity",
+    "Author": "Robert Ludlum",
+    "Time": "22:20:06",
+    "DateStarted": "25 Jun 2014",
+    "DateEnded": "9 Jul 2014",
+    "Year": "1 Jan 1980",
+    "Pages": "523",
+    "URL": "http://ecx.images-amazon.com/images/I/51woAEF8IEL._SL254.jpg"
+  },
+  {
+    "Book": "Brimstone",
+    "Author": "Douglas Preston, Lincoln Child",
+    "Time": "19:42:00",
+    "DateStarted": "10 Jul 2014",
+    "DateEnded": "23 Jul 2014",
+    "Year": "1 Aug 2004",
+    "Pages": "499",
+    "URL": "http://ecx.images-amazon.com/images/I/5182jUknGdL._SL248.jpg"
+  },
+  {
+    "Book": "Killer in High Heels",
+    "Author": "Gemma Halliday",
+    "Time": "09:38:00",
+    "DateStarted": "24 Jul 2014",
+    "DateEnded": "2 Aug 2014",
+    "Year": "1 Mar 2007",
+    "Pages": "310",
+    "URL": "http://ecx.images-amazon.com/images/I/51CXpfELusL._SL248.jpg"
+  },
+  {
+    "Book": "Zombie Fallout 3: The End",
+    "Author": "Mark Tufo",
+    "Time": "10:53:38",
+    "DateStarted": "3 Aug 2014",
+    "DateEnded": "7 Aug 2014",
+    "Year": "13 Mar 2011",
+    "Pages": "338",
+    "URL": "http://ecx.images-amazon.com/images/I/51bXzWwShFL._SL246.jpg"
+  },
+  {
+    "Book": "Danny the Champion of the World",
+    "Author": "Roald Dahl",
+    "Time": "04:28:07",
+    "DateStarted": "8 Aug 2014",
+    "DateEnded": "10 Aug 2014",
+    "Year": "1 Jan 1975",
+    "Pages": "208",
+    "URL": "http://ecx.images-amazon.com/images/I/513ueVcTkRL._SL160.jpg"
+  },
+  {
+    "Book": "The Stand",
+    "Author": "Stephen King",
+    "Time": "47:47:00",
+    "DateStarted": "11 Aug 2014",
+    "DateEnded": "8 Sep 2014",
+    "Year": "1 Nov 1978",
+    "Pages": "1153",
+    "URL": "http://ecx.images-amazon.com/images/I/51DQ3RBXJFL._SL224.jpg"
+  },
+  {
+    "Book": "Around the World in 80 Days",
+    "Author": "Jules Verne",
+    "Time": "07:42:48",
+    "DateStarted": "9 Sep 2014",
+    "DateEnded": "12 Sep 2014",
+    "Year": "1 Jan 1873",
+    "Pages": "220",
+    "URL": "http://ecx.images-amazon.com/images/I/51XZERHqTPL._SL235.jpg"
+  },
+  {
+    "Book": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Time": "11:04:14",
+    "DateStarted": "13 Sep 2014",
+    "DateEnded": "18 Sep 2014",
+    "Year": "1 Jan 1937",
+    "Pages": "310",
+    "URL": "http://ecx.images-amazon.com/images/I/6113XDPUrVL._SL160.jpg"
+  },
+  {
+    "Book": "The Fellowship of the Ring",
+    "Author": "J.R.R. Tolkien",
+    "Time": "19:10:52",
+    "DateStarted": "19 Sep 2014",
+    "DateEnded": "27 Sep 2014",
+    "Year": "24 Jul 1954",
+    "Pages": "531",
+    "URL": "http://ecx.images-amazon.com/images/I/41Ta5-vOB2L._SL160.jpg"
+  },
+  {
+    "Book": "Five People You Meet in Heaven",
+    "Author": "Mitch Albom",
+    "Time": "04:38:32",
+    "DateStarted": "28 Sep 2014",
+    "DateEnded": "30 Sep 2014",
+    "Year": "1 Jan 2003",
+    "Pages": "196",
+    "URL": "http://ecx.images-amazon.com/images/I/41D9P3BZSWL._SL225.jpg"
+  },
+  {
+    "Book": "The Two Towers",
+    "Author": "J.R.R. Tolkien",
+    "Time": "16:45:51",
+    "DateStarted": "1 Oct 2014",
+    "DateEnded": "11 Oct 2014",
+    "Year": "11 Nov 1954",
+    "Pages": "464",
+    "URL": "http://ecx.images-amazon.com/images/I/31RYaLyTfTL._SL160.jpg"
+  },
+  {
+    "Book": "The Return of the King",
+    "Author": "J.R.R. Tolkien",
+    "Time": "15:26:33",
+    "DateStarted": "12 Oct 2014",
+    "DateEnded": "17 Oct 2014",
+    "Year": "20 Oct 1955",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/213PTkHsfXL._SL160.jpg"
+  },
+  {
+    "Book": "The Last Precinct",
+    "Author": "Patricia Cornwell",
+    "Time": "17:19:13",
+    "DateStarted": "18 Oct 2014",
+    "DateEnded": "24 Oct 2014",
+    "Year": "13 Oct 2000",
+    "Pages": "449",
+    "URL": "http://ecx.images-amazon.com/images/I/51n0fWmHeIL._SL250.jpg"
+  },
+  {
+    "Book": "The Maze Runner",
+    "Author": "James Dashner",
+    "Time": "10:51:21",
+    "DateStarted": "25 Oct 2014",
+    "DateEnded": "28 Oct 2014",
+    "Year": "1 Oct 2009",
+    "Pages": "374",
+    "URL": "http://ecx.images-amazon.com/images/I/61e65oyKToL._SL233.jpg"
+  },
+  {
+    "Book": "The Scorch Trials",
+    "Author": "James Dashner",
+    "Time": "10:23:21",
+    "DateStarted": "29 Oct 2014",
+    "DateEnded": "29 Oct 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "384",
+    "URL": "http://ecx.images-amazon.com/images/I/51UtBokjHuL._SL233.jpg"
+  },
+  {
+    "Book": "The Death Cure",
+    "Author": "James Dashner",
+    "Time": "08:55:00",
+    "DateStarted": "30 Oct 2014",
+    "DateEnded": "30 Oct 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "338",
+    "URL": "http://cf-ui.shelfari.com/9edcaea34e23_154w.jpg"
+  },
+  {
+    "Book": "Gone Girl",
+    "Author": "Gillian Flynn",
+    "Time": "19:11:00",
+    "DateStarted": "1 Nov 2014",
+    "DateEnded": "4 Nov 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "432",
+    "URL": "http://cf-ui.shelfari.com/10fb0f86d1e9_154w.jpg"
+  },
+  {
+    "Book": "Undercover in High Heels",
+    "Author": "Gemma Halliday",
+    "Time": "09:10:00",
+    "DateStarted": "5 Nov 2014",
+    "DateEnded": "9 Nov 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "313",
+    "URL": "http://ecx.images-amazon.com/images/I/51rI5L2mj4L._SL248.jpg"
+  },
+  {
+    "Book": "The Bourne Supremacy",
+    "Author": "Robert Ludlum",
+    "Time": "27:41:00",
+    "DateStarted": "10 Nov 2014",
+    "DateEnded": "21 Nov 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "597",
+    "URL": "http://ecx.images-amazon.com/images/I/51XTnW93RjL._SL160.jpg"
+  },
+  {
+    "Book": "Dance of Death",
+    "Author": "Douglas Preston, Lincoln Child",
+    "Time": "16:50:00",
+    "DateStarted": "22 Nov 2014",
+    "DateEnded": "30 Nov 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "560",
+    "URL": "http://ecx.images-amazon.com/images/I/51GEh3LbUwL._SL248.jpg"
+  },
+  {
+    "Book": "Zombie Fallout 3.5: Dr. Hugh Mann",
+    "Author": "Mark Tufo",
+    "Time": "02:42:00",
+    "DateStarted": "1 Dec 2014",
+    "DateEnded": "1 Dec 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "103",
+    "URL": "http://ecx.images-amazon.com/images/I/51QHXKu8JxL._SL246.jpg"
+  },
+  {
+    "Book": "The BFG",
+    "Author": "Roald Dahl",
+    "Time": "04:25:00",
+    "DateStarted": "2 Dec 2014",
+    "DateEnded": "3 Dec 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "208",
+    "URL": "http://ecx.images-amazon.com/images/I/51g8cUvIomL._SL224.jpg"
+  },
+  {
+    "Book": "The Legend of Sleepy Hallow",
+    "Author": "Washington Irving",
+    "Time": "01:15:00",
+    "DateStarted": "3 Dec 2014",
+    "DateEnded": "3 Dec 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "50",
+    "URL": "http://ecx.images-amazon.com/images/I/51FD5X80N4L._SL231.jpg"
+  },
+  {
+    "Book": "The Day of the Jackal",
+    "Author": "Fredrick Forsyth",
+    "Time": "13:21:00",
+    "DateStarted": "4 Dec 2014",
+    "DateEnded": "10 Dec 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "495",
+    "URL": "http://ecx.images-amazon.com/images/I/51cqnsg8fkL._SL253.jpg"
+  },
+  {
+    "Book": "Blow Fly",
+    "Author": "Patricia Cornwell",
+    "Time": "12:43:00",
+    "DateStarted": "11 Dec 2014",
+    "DateEnded": "21 Dec 2014",
+    "Year": "12 Oct 2010",
+    "Pages": "526",
+    "URL": "http://ecx.images-amazon.com/images/I/41U9K8XEYEL._SL264.jpg"
+  },
+  {
+    "Book": "Transfer of Power",
+    "Author": "Vince Flynn",
+    "Time": "16:48:00",
+    "DateStarted": "22 Dec 2014",
+    "DateEnded": "3 Jan 2015",
+    "Year": "1 Jan 1999",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51Am1og%2BeLL._SL100.jpg"
+  },
+  {
+    "Book": "The Third Option",
+    "Author": "Vince Flynn",
+    "Time": "11:48:00",
+    "DateStarted": "4 Jan 2015",
+    "DateEnded": "7 Jan 2015",
+    "Year": "1 Jan 2000",
+    "Pages": "358",
+    "URL": "http://ecx.images-amazon.com/images/I/51iYUG4NmUL._SL160.jpg"
+  },
+  {
+    "Book": "Separtion of Power",
+    "Author": "Vince Flynn",
+    "Time": "14:00:00",
+    "DateStarted": "8 Jan 2015",
+    "DateEnded": "11 Jan 2015",
+    "Year": "1 Jan 2011",
+    "Pages": "368",
+    "URL": "http://ecx.images-amazon.com/images/I/51F49uMyuVL._SL160.jpg"
+  },
+  {
+    "Book": "Executive Power",
+    "Author": "Vince Flynn",
+    "Time": "13:03:00",
+    "DateStarted": "12 Jan 2015",
+    "DateEnded": "17 Jan 2015",
+    "Year": "6 May 2003",
+    "Pages": "384",
+    "URL": "http://ecx.images-amazon.com/images/I/517bhw-AtSL._SL160.jpg"
+  },
+  {
+    "Book": "Memorial Day",
+    "Author": "Vince Flynn",
+    "Time": "13:20:00",
+    "DateStarted": "18 Jan 2015",
+    "DateEnded": "22 Jan 2015",
+    "Year": "1 Jan 2004",
+    "Pages": "407",
+    "URL": "http://ecx.images-amazon.com/images/I/51lgCipe%2BKL._SL160.jpg"
+  },
+  {
+    "Book": "Consent to Kill",
+    "Author": "Vince Flynn",
+    "Time": "17:16:00",
+    "DateStarted": "23 Jan 2015",
+    "DateEnded": "4 Feb 2015",
+    "Year": "11 Oct 2005",
+    "Pages": "480",
+    "URL": "http://ecx.images-amazon.com/images/I/51UkCU5qkgL._SL160.jpg"
+  },
+  {
+    "Book": "Act of Treason",
+    "Author": "Vince Flynn",
+    "Time": "11:05:00",
+    "DateStarted": "5 Feb 2015",
+    "DateEnded": "11 Feb 2015",
+    "Year": "1 Jan 2006",
+    "Pages": "415",
+    "URL": "http://ecx.images-amazon.com/images/I/51Hk5-jSxLL._SL160.jpg"
+  },
+  {
+    "Book": "Protect and Defend",
+    "Author": "Vince Flynn",
+    "Time": "10:16:00",
+    "DateStarted": "12 Feb 2015",
+    "DateEnded": "16 Feb 2015",
+    "Year": "1 Oct 2007",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51xu7S-GjdL._SL228.jpg"
+  },
+  {
+    "Book": "Extreme Measures",
+    "Author": "Vince Flynn",
+    "Time": "12:09:48",
+    "DateStarted": "17 Feb 2015",
+    "DateEnded": "22 Feb 2015",
+    "Year": "1 Oct 2008",
+    "Pages": "416",
+    "URL": "http://ecx.images-amazon.com/images/I/51EAvCZOGcL._SL234.jpg"
+  },
+  {
+    "Book": "Pursuit of Honor",
+    "Author": "Vince Flynn",
+    "Time": "11:50:00",
+    "DateStarted": "23 Feb 2015",
+    "DateEnded": "27 Feb 2015",
+    "Year": "1 Oct 2009",
+    "Pages": "431",
+    "URL": "http://ecx.images-amazon.com/images/I/51Irh6r-ntL._SL234.jpg"
+  },
+  {
+    "Book": "American Assassin",
+    "Author": "Vince Flynn",
+    "Time": "11:36:00",
+    "DateStarted": "28 Feb 2015",
+    "DateEnded": "5 Mar 2015",
+    "Year": "12 Oct 2010",
+    "Pages": "448",
+    "URL": "http://ecx.images-amazon.com/images/I/51QGWsWIocL._SL234.jpg"
+  },
+  {
+    "Book": "Kill Shot",
+    "Author": "Vince Flynn",
+    "Time": "10:50:05",
+    "DateStarted": "6 Mar 2015",
+    "DateEnded": "14 Mar 2015",
+    "Year": "1 Jan 2012",
+    "Pages": "400",
+    "URL": "http://ecx.images-amazon.com/images/I/51dTK9iMQUL._SL236.jpg"
+  },
+  {
+    "Book": "The Last Man",
+    "Author": "Vince Flynn",
+    "Time": "11:54:00",
+    "DateStarted": "15 Mar 2015",
+    "DateEnded": "20 Mar 2015",
+    "Year": "13 Nov 2012",
+    "Pages": "448",
+    "URL": "http://ecx.images-amazon.com/images/I/51d6BX%2B1-LL._SL233.jpg"
+  },
+  {
+    "Book": "The Bourne Ultimatum",
+    "Author": "Robert Ludlum",
+    "Time": "29:23:11",
+    "DateStarted": "21 Mar 2015",
+    "DateEnded": "16 Apr 2015",
+    "Year": "25 Feb 1990",
+    "Pages": "672",
+    "URL": "http://ecx.images-amazon.com/images/I/41t0ksQDfNL._SL260.jpg"
+  },
+  {
+    "Book": "The Book of the Dead",
+    "Author": "Douglas Preston, Lincoln Child",
+    "Time": "15:10:49",
+    "DateStarted": "17 Apr 2015",
+    "DateEnded": "24 Apr 2015",
+    "Year": "1 May 2006",
+    "Pages": "597",
+    "URL": "http://ecx.images-amazon.com/images/I/51qT06t9boL._SL231.jpg"
+  },
+  {
+    "Book": "Alibi in High Heels",
+    "Author": "Gemma Halliday",
+    "Time": "08:25:14",
+    "DateStarted": "25 Apr 2015",
+    "DateEnded": "2 May 2015",
+    "Year": "1 Mar 2008",
+    "Pages": "294",
+    "URL": "http://ecx.images-amazon.com/images/I/41Zr8SlJTuL._SL248.jpg"
+  },
+  {
+    "Book": "Zombie Fallout 4: The End Has Come and Gone",
+    "Author": "Mark Tufo",
+    "Time": "11:11:48",
+    "DateStarted": "3 May 2015",
+    "DateEnded": "8 May 2015",
+    "Year": "29 Sep 2011",
+    "Pages": "356",
+    "URL": "http://ecx.images-amazon.com/images/I/51sY6WGTpCL._SL246.jpg"
+  },
+  {
+    "Book": "The Witches",
+    "Author": "Roald Dahl",
+    "Time": "04:29:03",
+    "DateStarted": "9 May 2015",
+    "DateEnded": "12 May 2015",
+    "Year": "1 Jan 1983",
+    "Pages": "208",
+    "URL": "http://ecx.images-amazon.com/images/I/51vWUKZFkjL._SL249.jpg"
+  },
+  {
+    "Book": "It",
+    "Author": "Stephen King",
+    "Time": "44:57:00",
+    "DateStarted": "13 May 2015",
+    "DateEnded": "10 Jun 2015",
+    "Year": "1 Jan 1986",
+    "Pages": "1138",
+    "URL": "http://ecx.images-amazon.com/images/I/41BXYBM-7kL._SL262.jpg"
+  },
+  {
+    "Book": "Total Recall: My Truly Unbelievably Life Story",
+    "Author": "Arnold Schwarzenegger",
+    "Time": "23:24:00",
+    "DateStarted": "11 Jun 2015",
+    "DateEnded": "20 Jun 2015",
+    "Year": "5 Nov 2013",
+    "Pages": "656",
+    "URL": "http://ecx.images-amazon.com/images/I/51YVmKZ4DKL._SL235.jpg"
+  },
+  {
+    "Book": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Time": "10:59:35",
+    "DateStarted": "21 Jun 2015",
+    "DateEnded": "26 Jun 2015",
+    "Year": "11 Jul 1960",
+    "Pages": "296",
+    "URL": "http://ecx.images-amazon.com/images/I/51grMGCKivL._SL249.jpg"
+  }
+]

@@ -1,5 +1,4 @@
-﻿using MyBookLibrary.Data;
-using MyBookLibrary.Service;
+﻿using MyBookLibrary.Service;
 using NUnit.Framework;
 
 namespace MyBookLibrary.IntegrationTests
@@ -13,6 +12,8 @@ namespace MyBookLibrary.IntegrationTests
             JsonFileGenerator fileGenerator = new JsonFileGenerator();
 
             fileGenerator.GenerateJsonDataFile();
+
+
         }
     }
 }
