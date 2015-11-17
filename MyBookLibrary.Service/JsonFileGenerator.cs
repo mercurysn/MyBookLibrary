@@ -1,4 +1,7 @@
-﻿using MyBookLibrary.Data;
+﻿using System.Collections.Generic;
+using MyBookLibrary.Data;
+using MyBookLibrary.Data.Dtos;
+using MyBookLibrary.Service.Model;
 using Newtonsoft.Json;
 
 namespace MyBookLibrary.Service
@@ -9,7 +12,9 @@ namespace MyBookLibrary.Service
         {
             BookRepository repository = new BookRepository();
 
-            var books = repository.GetAllBookDtos();
+            var bookDtos = repository.GetAllBookDtos();
+
+            List<Book> books = AutoMapper.Mapper.Map<List<Book>>(bookDtos);
 
             BookDatabaseWriter.SaveToFile(JsonConvert.SerializeObject(books, Formatting.Indented));
         }

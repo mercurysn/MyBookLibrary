@@ -1,4 +1,6 @@
-﻿using MyBookLibrary.Service;
+﻿using AutoMapper;
+using MyBookLibrary.Service;
+using MyBookLibrary.Service.Mapper;
 using NUnit.Framework;
 
 namespace MyBookLibrary.IntegrationTests
@@ -6,8 +8,14 @@ namespace MyBookLibrary.IntegrationTests
     [TestFixture]
     public class GenerateJsonFileGeneratorTests
     {
-        [Test]
-        public void TestFileGeneration()
+        [SetUp]
+        public void Setup()
+        {
+            Mapper.Initialize(cfg => cfg.AddProfile(new MapToModelProfile()));
+        }
+
+        [Test, Explicit]
+        public void FileGeneration()
         {
             JsonFileGenerator fileGenerator = new JsonFileGenerator();
 
