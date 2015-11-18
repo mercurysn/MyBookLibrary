@@ -13,7 +13,7 @@ namespace MyBookLibrary.Data.Readers
 
         public CsvFileReader()
         {
-            TextReader textReader = File.OpenText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\Shelfari.csv");
+            TextReader textReader = File.OpenText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\2015-11-18 Shelfari.csv");
             Reader = new CsvReader(textReader);
             ConfigureCsvReader();
         }

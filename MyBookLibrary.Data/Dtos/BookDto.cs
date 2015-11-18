@@ -10,5 +10,7 @@
         public string Year { get; set; }
         public string Pages { get; set; }
         public string URL { get; set; }
+        public string GoogleBookID { get; set; }
+        public string Series { get; set; }
     }
 }

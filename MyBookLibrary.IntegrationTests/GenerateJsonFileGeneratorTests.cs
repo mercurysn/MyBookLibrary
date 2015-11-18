@@ -20,8 +20,6 @@ namespace MyBookLibrary.IntegrationTests
             JsonFileGenerator fileGenerator = new JsonFileGenerator();
 
             fileGenerator.GenerateJsonDataFile();
-
-
         }
     }
 }

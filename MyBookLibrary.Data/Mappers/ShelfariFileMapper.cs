@@ -13,6 +13,8 @@ namespace MyBookLibrary.Data.Mappers
             Map(m => m.DateStarted);
             Map(m => m.DateEnded);
             Map(m => m.Year);
+            Map(m => m.GoogleBookID);
+            Map(m => m.Series);
             Map(m => m.Pages);
             Map(m => m.URL);
         }
