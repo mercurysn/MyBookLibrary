@@ -38,6 +38,10 @@
       <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="RestSharp, Version=105.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.105.2.3\lib\net452\RestSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -59,6 +63,10 @@
     <ProjectReference Include="..\MyBookLibrary.Data\MyBookLibrary.Data.csproj">
       <Project>{0f1b2efa-1c43-434a-a1d4-6493adbd580c}</Project>
       <Name>MyBookLibrary.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyBookLibrary.RestClients\MyBookLibrary.RestClients.csproj">
+      <Project>{0ec8f683-678c-4b85-a624-bc019fc8aeec}</Project>
+      <Name>MyBookLibrary.RestClients</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
