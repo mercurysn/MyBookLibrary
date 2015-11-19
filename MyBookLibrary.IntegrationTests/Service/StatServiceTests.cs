@@ -27,5 +27,12 @@ namespace MyBookLibrary.IntegrationTests.Service
 
             Assert.AreEqual("The Rise and Fall of the Third Reich", sortedList[0].Name);
         }
+
+        [Test]
+        public void GroupByAuthor_Test()
+        {
+            var authorReport = _books.GroupByAuthor();
+
+        }
     }
 }

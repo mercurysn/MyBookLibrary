@@ -11,6 +11,13 @@ namespace MyBookLibrary.Service.Report
             IDocumentFormatDefinition<Book> definition = StatReportDefinition.GetBookLengthBasic();
 
             return definition.Export(books.SortBooksByMinutes());
-        } 
+        }
+
+        public static string GetAuthorReport(List<Book> books)
+        {
+            IDocumentFormatDefinition<BookAggregatedGroup> definition = StatReportDefinition.GetBookGroupDefinition();
+
+            return definition.Export(books.GroupByAuthor());
+        }
     }
 }

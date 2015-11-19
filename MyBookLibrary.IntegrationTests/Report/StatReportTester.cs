@@ -29,5 +29,14 @@ namespace MyBookLibrary.IntegrationTests.Report
             Console.WriteLine(report);
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\longestBook.txt", report);
         }
+
+        [Test]
+        public void TestAuthorReport()
+        {
+            string report = StatReporter.GetAuthorReport(_books);
+
+            Console.WriteLine(report);
+            File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\author.txt", report);
+        }
     }
 }

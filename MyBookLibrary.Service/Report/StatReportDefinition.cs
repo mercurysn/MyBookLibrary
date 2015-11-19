@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using AsciiImportExport;
+﻿using AsciiImportExport;
 using MyBookLibrary.Service.Model;
 
 namespace MyBookLibrary.Service.Report
@@ -18,6 +16,17 @@ namespace MyBookLibrary.Service.Report
                 .AddColumn(x => x.Series)
                 .Build();
         }
+
+        public static IDocumentFormatDefinition<BookAggregatedGroup> GetBookGroupDefinition()
+        {
+            return new DocumentFormatDefinitionBuilder<BookAggregatedGroup>("\t", true)
+                .SetExportHeaderLine(true, "")
+                .AddColumn(x => x.Field)
+                .AddColumn(x => x.Value, b => b.SetAlignment(ColumnAlignment.Right))
+                .Build();
+        }
+
+
 
         public static string ConcatAuthors(Book book, string[] authors)
         {
