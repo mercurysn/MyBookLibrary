@@ -14,6 +14,8 @@ namespace MyBookLibrary.IntegrationTests.RestClients
                 new GoogleBooksClient(
                     "https://www.googleapis.com");
 
+            
+
             //var result = api.Execute("books/v1/volumes/ItvZr-OV0DEC?key=AIzaSyDhHJkRg7Yv6Z4hpw0OGsuMUl_WIlWpj20", Method.GET);
             var googleBook = client.GetGoogleBookApiResult("books/v1/volumes/ItvZr-OV0DEC?key=AIzaSyDhHJkRg7Yv6Z4hpw0OGsuMUl_WIlWpj20", Method.GET);
 
@@ -23,6 +25,13 @@ namespace MyBookLibrary.IntegrationTests.RestClients
             Assert.AreEqual("9781439100530", googleBook.VolumeInfo.IndustryIdentifiers[1].Identifier);
             Assert.AreEqual("9781439100530", googleBook.VolumeInfo.Isbn13);
             Assert.AreEqual("1439100535", googleBook.VolumeInfo.Isbn10);
+            Assert.AreEqual("https://www.googleapis.com/books/v1/volumes/ItvZr-OV0DEC", googleBook.selfLink);
+            Assert.AreEqual(3.5, googleBook.VolumeInfo.averageRating);
+            Assert.AreEqual("Fiction / Thrillers / General", googleBook.VolumeInfo.Categories[0]);
+            Assert.AreEqual("Fiction / Thrillers / Political", googleBook.VolumeInfo.Categories[1]);
+            Assert.AreEqual("Fiction / Thrillers / Suspense", googleBook.VolumeInfo.Categories[2]);
+            Assert.AreEqual("Fiction / Political", googleBook.VolumeInfo.Categories[3]);
+            Assert.AreEqual("Fiction / General", googleBook.VolumeInfo.Categories[4]);
         }
     }
 }

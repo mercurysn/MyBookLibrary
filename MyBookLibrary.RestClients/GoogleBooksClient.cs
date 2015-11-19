@@ -1,4 +1,6 @@
-﻿using MyBookLibrary.RestClients.Model;
+﻿using System;
+using System.Net;
+using MyBookLibrary.RestClients.Model;
 using RestSharp;
 
 namespace MyBookLibrary.RestClients

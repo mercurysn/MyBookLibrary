@@ -5,6 +5,7 @@ namespace MyBookLibrary.RestClients.Model
     public class GoogleBook
     {
         public string Kind { get; set; }
+        public string selfLink { get; set; }
         public VolumeInfo VolumeInfo { get; set; }
     }
 
@@ -16,7 +17,8 @@ namespace MyBookLibrary.RestClients.Model
         public List<IndustryIdentifiers> IndustryIdentifiers { get; set; }
         public string Isbn10 { get; set; }
         public string Isbn13 { get; set; }
-
+        public decimal averageRating { get; set; }
+        public List<string> Categories { get; set; }
     }
 
     public class IndustryIdentifiers

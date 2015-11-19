@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookDatabaseReader.cs" />
     <Compile Include="BookDatabaseWriter.cs" />
     <Compile Include="BookRepository.cs" />
     <Compile Include="Dtos\BookDto.cs" />

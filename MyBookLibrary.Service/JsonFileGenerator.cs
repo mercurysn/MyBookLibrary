@@ -43,6 +43,9 @@ namespace MyBookLibrary.Service
                 book.Publisher = googleBook.VolumeInfo.Publisher;
                 book.Isbn10 = googleBook.VolumeInfo.Isbn10;
                 book.Isbn13 = googleBook.VolumeInfo.Isbn13;
+                book.GoogleBookLink = googleBook.selfLink;
+                book.Categories = googleBook.VolumeInfo.Categories;
+                book.CrowdRating = googleBook.VolumeInfo.averageRating;
             }
 
             return books;
