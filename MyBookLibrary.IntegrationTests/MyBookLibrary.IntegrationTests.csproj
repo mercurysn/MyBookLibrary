@@ -59,6 +59,7 @@
     <Compile Include="ExtensionMethod\ImageBase64ConverterTests.cs" />
     <Compile Include="GenerateJsonFileGeneratorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\StatReportTester.cs" />
     <Compile Include="RestClients\GoogleBooksClientTester.cs" />
     <Compile Include="Service\StatServiceTests.cs" />
   </ItemGroup>

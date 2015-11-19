@@ -30,6 +30,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AsciiImportExport, Version=0.23.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AsciiImportExport.0.24.0\lib\AsciiImportExport.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="AutoMapper, Version=4.1.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
       <HintPath>..\packages\AutoMapper.4.1.1\lib\net45\AutoMapper.dll</HintPath>
       <Private>True</Private>
@@ -58,6 +62,8 @@
     <Compile Include="Mapper\MapToModelProfile.cs" />
     <Compile Include="Model\Book.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\StatReportDefinition.cs" />
+    <Compile Include="Report\StatReporter.cs" />
     <Compile Include="StatService.cs" />
   </ItemGroup>
   <ItemGroup>
