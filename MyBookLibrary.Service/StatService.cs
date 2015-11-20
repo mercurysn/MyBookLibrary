@@ -23,7 +23,9 @@ namespace MyBookLibrary.Service
                 {
                     Field = b.Key,
                     Value = b.Count()
-                }).OrderByDescending(b => b.Value).ToList();
+                })
+                .OrderByDescending(b => b.Value)
+                .ToList();
         } 
     }
 
@@ -31,12 +33,12 @@ namespace MyBookLibrary.Service
     {
         public bool Equals(Book x, Book y)
         {
-            return StringComparer.InvariantCultureIgnoreCase.Equals(x.Name, y.Name);
+            return StringComparer.InvariantCultureIgnoreCase.Equals(x.Name, y.Name) && StringComparer.InvariantCultureIgnoreCase.Equals(x.Author[0], y.Author[0]);
         }
 
         public int GetHashCode(Book book)
         {
-            return StringComparer.InvariantCultureIgnoreCase.GetHashCode(book.Name);
+            return StringComparer.InvariantCultureIgnoreCase.GetHashCode(string.Concat(book.Name, string.Join("", book.Author)));
         }
     }
 }

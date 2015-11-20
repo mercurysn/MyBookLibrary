@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
 using AsciiImportExport;
+using MyBookLibrary.Service.ExtensionMethods;
 using MyBookLibrary.Service.Model;
 
 namespace MyBookLibrary.Service.Report
@@ -18,7 +18,7 @@ namespace MyBookLibrary.Service.Report
         {
             IDocumentFormatDefinition<BookAggregatedGroup> definition = StatReportDefinition.GetBookGroupDefinition();
 
-            return definition.Export(books.GroupByAuthor());
+            return definition.Export(books.DenormaliseAuthors().GroupByAuthor());
         }
     }
 }

@@ -2,6 +2,7 @@ Field                             	Value
 Vince Flynn                       	   15
 Patricia Cornwell                 	   15
 Douglas Preston                   	   10
+Lincoln Child                     	   10
 Roald Dahl                        	    8
 Mark Tufo                         	    8
 J.K. Rowling                      	    7
@@ -83,3 +84,4 @@ Vince Flynn/Kyle Mills            	    1
 Andy Weir                         	    1
 Ken Follett                       	    1
 William L. Shirer                 	    1
+Jerry Pournelle                   	    1

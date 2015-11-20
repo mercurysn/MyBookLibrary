@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using MyBookLibrary.Service.Model;
 
@@ -9,6 +10,40 @@ namespace MyBookLibrary.Service.ExtensionMethods
         public static List<Book> RemoveDuplicates(this List<Book> books)
         {
             return books.Distinct(new BookComparer()).ToList();
-        } 
+        }
+
+        public static List<Book> DenormaliseAuthors(this List<Book> books)
+        {
+            List<Book> booksWithMultipleAuthors = books.Where(x => x.Author.Count() > 1).Select(b => new Book
+            {
+                Author = b.Author,
+                Name = b.Name
+            }).ToList();
+
+            foreach (var booksWithMultipleAuthor in booksWithMultipleAuthors)
+            {
+                for (var i = 1; i < booksWithMultipleAuthor.Author.Count(); i++)
+                {
+                    var newBook = new Book
+                    {
+                        Author = new[] { booksWithMultipleAuthor.Author[i]},
+                        Name = booksWithMultipleAuthor.Name,
+                        Categories = booksWithMultipleAuthor.Categories,
+                        CoverHash = booksWithMultipleAuthor.CoverHash,
+                        CoverUrl = booksWithMultipleAuthor.CoverUrl,
+                        CrowdRating = booksWithMultipleAuthor.CrowdRating,
+                        DateCompleted = booksWithMultipleAuthor.DateCompleted,
+                        DateStarted = booksWithMultipleAuthor.DateStarted,
+                        Description = booksWithMultipleAuthor.Description,
+                        GoogleBookId = booksWithMultipleAuthor.GoogleBookId,
+                        GoogleBookLink = booksWithMultipleAuthor.GoogleBookLink,
+                        Id = booksWithMultipleAuthor.Id
+                    };
+                    books.Add(newBook);
+                }
+            }
+
+            return books;
+        }
     }
 }
