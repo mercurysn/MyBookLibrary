@@ -26,7 +26,21 @@ namespace MyBookLibrary.Service
                 })
                 .OrderByDescending(b => b.Value)
                 .ToList();
-        } 
+        }
+
+        public static List<BookAggregatedGroup> GroupBySeries(this List<Book> books)
+        {
+            return books
+                .RemoveDuplicates()
+                .GroupBy(b => b.Series)
+                .Select(b => new BookAggregatedGroup
+                {
+                    Field = b.Key,
+                    Value = b.Count()
+                })
+                .OrderByDescending(b => b.Value)
+                .ToList();
+        }
     }
 
     public class BookComparer : IEqualityComparer<Book>

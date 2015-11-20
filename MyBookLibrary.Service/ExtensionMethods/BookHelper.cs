@@ -12,6 +12,11 @@ namespace MyBookLibrary.Service.ExtensionMethods
             return books.Distinct(new BookComparer()).ToList();
         }
 
+        public static List<Book> RemoveBooksWithoutSeries(this List<Book> books)
+        {
+            return books.Where(b => !string.IsNullOrWhiteSpace(b.Series)).ToList();
+        } 
+
         public static List<Book> DenormaliseAuthors(this List<Book> books)
         {
             List<Book> booksWithMultipleAuthors = books.Where(x => x.Author.Count() > 1).Select(b => new Book

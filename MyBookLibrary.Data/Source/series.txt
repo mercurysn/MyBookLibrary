@@ -1,0 +1,17 @@
+Field                	Value
+Harry Potter         	    4
+Millennium           	    4
+Lord of the Rings    	    3
+Robert Langdon       	    3
+Mitch Rapp           	    3
+Twilight             	    2
+Alex Cross           	    2
+High Heels           	    2
+Zombie Fallout       	    2
+Outlander            	    1
+John Corey           	    1
+The Mote in God's Eye	    1
+Kurt Wallander       	    1
+Scarpetta            	    1
+Pendergast           	    1
+Pendagast            	    1

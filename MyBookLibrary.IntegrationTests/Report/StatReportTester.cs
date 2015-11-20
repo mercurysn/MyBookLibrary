@@ -33,10 +33,19 @@ namespace MyBookLibrary.IntegrationTests.Report
         [Test]
         public void TestAuthorReport()
         {
-            string report = StatReporter.GetAuthorReport(_books);
+            string report = StatReporter.GetAuthorCountReport(_books);
 
             Console.WriteLine(report);
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\author.txt", report);
+        }
+
+        [Test]
+        public void TestSeriesReport()
+        {
+            string report = StatReporter.GetSeriesReport(_books);
+
+            Console.WriteLine(report);
+            File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\series.txt", report);
         }
     }
 }

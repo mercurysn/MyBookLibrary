@@ -9,16 +9,26 @@ namespace MyBookLibrary.Service.Report
     {
         public static string GetLongestBooks(List<Book> books)
         {
-            IDocumentFormatDefinition<Book> definition = StatReportDefinition.GetBookLengthBasic();
+            IDocumentFormatDefinition<Book> definition = StatReportDefinition.BookLengthReportBasicFormat();
 
             return definition.Export(books.SortBooksByMinutes());
         }
 
-        public static string GetAuthorReport(List<Book> books)
+        public static string GetAuthorCountReport(List<Book> books)
         {
-            IDocumentFormatDefinition<BookAggregatedGroup> definition = StatReportDefinition.GetBookGroupDefinition();
+            IDocumentFormatDefinition<BookAggregatedGroup> definition = StatReportDefinition.GenericBookGroupReportFormat();
 
             return definition.Export(books.DenormaliseAuthors().GroupByAuthor());
+        }
+
+        public static string GetSeriesReport(List<Book> books)
+        {
+            IDocumentFormatDefinition<BookAggregatedGroup> definition = StatReportDefinition.GenericBookGroupReportFormat();
+
+            return definition.Export(books
+                .DenormaliseAuthors()
+                .RemoveBooksWithoutSeries()
+                .GroupBySeries());
         }
     }
 }

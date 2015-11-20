@@ -5,7 +5,7 @@ namespace MyBookLibrary.Service.Report
 {
     public class StatReportDefinition
     {
-        public static IDocumentFormatDefinition<Book> GetBookLengthBasic()
+        public static IDocumentFormatDefinition<Book> BookLengthReportBasicFormat()
         {
             return new DocumentFormatDefinitionBuilder<Book>("\t", true)
                 .SetExportHeaderLine(true, "")
@@ -17,7 +17,7 @@ namespace MyBookLibrary.Service.Report
                 .Build();
         }
 
-        public static IDocumentFormatDefinition<BookAggregatedGroup> GetBookGroupDefinition()
+        public static IDocumentFormatDefinition<BookAggregatedGroup> GenericBookGroupReportFormat()
         {
             return new DocumentFormatDefinitionBuilder<BookAggregatedGroup>("\t", true)
                 .SetExportHeaderLine(true, "")
