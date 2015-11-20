@@ -14,7 +14,6 @@ The Eye of the World                                    	Robert Jordan          
 The Bourne Ultimatum                                    	Robert Ludlum                     	   1763	  672
 The Bourne Supremacy                                    	Robert Ludlum                     	   1661	  597
 Harry Potter and the Order of Phoenix                   	J.K. Rowling                      	   1582	  870	Harry Potter
-Harry Potter and the Order of Phoenix                   	J.K. Rowling                      	   1582	  870
 Vision of the Future                                    	Timothy Zahn                      	   1578	  528
 The Girl Who Kicked the Hornet's Nest                   	Stieg Larsson                     	   1509	  563	Millennium
 Steve Jobs                                              	Walter Isaacson                   	   1507	  656
@@ -23,42 +22,32 @@ Total Recall: My Truly Unbelievably Life Story          	Arnold Schwarzenegger  
 The Host                                                	Stephanie Meyer                   	   1385	  619
 The Bourne Identity                                     	Robert Ludlum                     	   1340	  523
 Harry Potter and the Deathly Hollows                    	J.K. Rowling                      	   1298	  784	Harry Potter
-Harry Potter and the Deathly Hollows                    	J.K. Rowling                      	   1298	  784
 The Power of One                                        	Bryce Courtenay                   	   1290	  533
 The Girl Who Played with Fire                           	Stieg Larsson                     	   1252	  630	Millennium
 Harry Potter and the Goblet of Fire                     	J.K. Rowling                      	   1236	  734	Harry Potter
-Harry Potter and the Goblet of Fire                     	J.K. Rowling                      	   1236	  734
 Breaking Dawn                                           	Stephanie Meyer                   	   1234	  756	Twilight
 The Mote in God's Eyes                                  	Larry Niven, Jerry Pournelle      	   1227	  537	The Mote in God's Eye
 The Complete Stories of Sherlock Holmes                 	Arthur Conan Doyle                	   1216	    0
 Brimstone                                               	Douglas Preston, Lincoln Child    	   1182	  499
 Harry Potter and the Half Blood Prince                  	J.K. Rowling                      	   1151	  652	Harry Potter
-Harry Potter and the Half Blood Prince                  	J.K. Rowling                      	   1151	  652
 Gone Girl                                               	Gillian Flynn                     	   1151	  432
 The Fellowship of the Ring                              	J.R.R. Tolkien                    	   1150	  531	Lord of the Rings
-The Fellowship of the Ring                              	J.R.R. Tolkien                    	   1150	  531
 The Girl with the Dragon Tattoo                         	Stieg Larsson                     	   1130	  590	Millennium
 Angels and Demons                                       	Dan Brown                         	   1113	  480	Robert Langdon
-Angels and Demons                                       	Dan Brown                         	   1113	  480
 State of Fear                                           	Michael Crichton                  	   1087	  623
 The Help                                                	Kathryn Stockett                  	   1086	  451
 The Lost Symbol                                         	Dan Brown                         	   1066	  670	Robert Langdon
 The Alexandria Link                                     	Steve Berry                       	   1040	  512
 The Last Precinct                                       	Patricia Cornwell                 	   1039	  449
 Consent to Kill                                         	Vince Flynn                       	   1036	  480	Mitch Rapp
-Consent to Kill                                         	Vince Flynn                       	   1036	  480
 Inferno                                                 	Dan Brown                         	   1032	  480
 The Fifth Woman                                         	Henning Mankell                   	   1024	  448	Kurt Wallander
 The Cabinet of Curiosities                              	Douglas Preston, Lincoln Child    	   1024	  466
 Black Hills                                             	Nora Roberts                      	   1011	  480
 Dance of Death                                          	Douglas Preston, Lincoln Child    	   1010	  560
 Transfer of Power                                       	Vince Flynn                       	   1008	  416	Mitch Rapp
-Transfer of Power                                       	Vince Flynn                       	   1008	  416
 The Girl in the Spider's Web                            	David Lagercrantz                 	   1006	  416	Millennium
 The Two Towers                                          	J.R.R. Tolkien                    	   1005	  464	Lord of the Rings
-The Two Towers                                          	J.R.R. Tolkien                    	   1005	  464
-The Two Towers                                          	J.R.R. Tolkien                    	   1005	  464
-The Da Vinci Code                                       	Dan Brown                         	   1003	  484	Robert Langdon
 The Da Vinci Code                                       	Dan Brown                         	   1003	  484	Robert Langdon
 Eclipse                                                 	Stephanie Meyer                   	    991	  629	Twilight
 Star Wars - Fate of the Jedi: Apocalpyse                	Troy Denning                      	    989	  476
@@ -70,7 +59,6 @@ The Last Command                                        	Timothy Zahn           
 The Templar Legacy                                      	Steve Berry                       	    944	  496
 Term Limits                                             	Vince Flynn                       	    934	  360
 The Return of the King                                  	J.R.R. Tolkien                    	    926	  416	Lord of the Rings
-The Return of the King                                  	J.R.R. Tolkien                    	    926	  416
 The Poet                                                	Michael Connelly                  	    921	  480
 The Venetian Betrayal                                   	Steve Berry                       	    920	  496
 The Lost World                                          	Michael Crichton                  	    919	  429
@@ -105,10 +93,8 @@ Jack & Jill                                             	James Patterson        
 Star Wars - Fate of the Jedi: Allies                    	Christie Golden                   	    804	  359
 The Day of the Jackal                                   	Fredrick Forsyth                  	    801	  495
 Memorial Day                                            	Vince Flynn                       	    800	  407
-Memorial Day                                            	Vince Flynn                       	    800	  407
 Scarpetta                                               	Patricia Cornwell                 	    794	  508
 Heir to the Empire                                      	Timothy Zahn                      	    789	  361
-Executive Power                                         	Vince Flynn                       	    783	  384
 Executive Power                                         	Vince Flynn                       	    783	  384
 Relic                                                   	Douglas Preston, Lincoln Child    	    782	  382
 Lightning                                               	Dean Koontz                       	    778	  351
@@ -126,19 +112,14 @@ Trace                                                   	Patricia Cornwell      
 Along Came a Spider                                     	James Patterson                   	    734	  448	Alex Cross
 The Return of Shelock Holmes                            	Arthur Conan Doyle                	    732	  403
 Extreme Measures                                        	Vince Flynn                       	    729	  416
-Extreme Measures                                        	Vince Flynn                       	    729	  416
 Death by Black Hole                                     	Neil deGrasse Tyson               	    728	  384
 Red Dragon                                              	Thomas Harris                     	    728	  480
 Jurassic Park                                           	Michael Crichton                  	    720	  400
-The Last Man                                            	Vince Flynn                       	    714	  448
 The Last Man                                            	Vince Flynn                       	    714	  448
 Digital Fortress                                        	Dan Brown                         	    712	  431
 Allegiant                                               	Veronica Roth                     	    711	  406
 Pursuit of Honor                                        	Vince Flynn                       	    710	  431
 Cruel and Unusual                                       	Patricia Cornwell                 	    710	  356
-Pursuit of Honor                                        	Vince Flynn                       	    710	  431
-Harry Potter and the Prisoner of Azkaban                	J.K. Rowling                      	    708	  435
-The Third Option                                        	Vince Flynn                       	    708	  358
 Harry Potter and the Prisoner of Azkaban                	J.K. Rowling                      	    708	  435
 The Third Option                                        	Vince Flynn                       	    708	  358
 Mockingjay                                              	Suzanne Collins                   	    703	  400
@@ -146,7 +127,6 @@ Confession of a Shopaholic                              	Sophie Kinsella        
 Catching Fire                                           	Suzanne Collins                   	    701	  391
 The Lovely Bones                                        	Alice Sebold                      	    698	  328
 The Body Farm                                           	Patricia Cornwell                 	    697	  320
-American Assassin                                       	Vince Flynn                       	    696	  448
 American Assassin                                       	Vince Flynn                       	    696	  448
 Postmortem                                              	Patricia Cornwell                 	    687	  304
 Water for Elephants                                     	Sara Gruen                        	    686	  331
@@ -162,10 +142,8 @@ Zombie Fallout 4: The End Has Come and Gone             	Mark Tufo              
 Star Wars - Fate of the Jedi: Backlash                  	Aaron Allston                     	    670	  328
 Zombie Fallout 5: Alive in a Dead World                 	Mark Tufo                         	    668	  354
 Act of Treason                                          	Vince Flynn                       	    665	  415
-Act of Treason                                          	Vince Flynn                       	    665	  415
 The Hobbit                                              	J.R.R. Tolkien                    	    664	  310
 Unnatural Exposure                                      	Patricia Cornwell                 	    664	  338
-The Hobbit                                              	J.R.R. Tolkien                    	    664	  310
 To Kill a Mockingbird                                   	Harper Lee                        	    659	  296
 Point of Origin                                         	Patricia Cornwell                 	    657	  356
 Zombie Fallout 2: A Plague Upon Your Family             	Mark Tufo                         	    657	  330
@@ -174,7 +152,6 @@ Zombie Fallout 3: The End                               	Mark Tufo              
 The Martian                                             	Andy Weir                         	    653	  385
 The Maze Runner                                         	James Dashner                     	    651	  374
 Kill Shot                                               	Vince Flynn                       	    650	  400
-Kill Shot                                               	Vince Flynn                       	    650	  400
 Predator                                                	Patricia Cornwell                 	    648	  466	Scarpetta
 Can You Keep a Secret?                                  	Sophie Kinsella                   	    643	  364
 The Survivor                                            	Vince Flynn/Kyle Mills            	    640	  400	Mitch Rapp
@@ -182,7 +159,6 @@ The Silence of the Lambs                                	Thomas Harris          
 Zombie Fallout                                          	Mark Tufo                         	    629	  324
 The Scorch Trials                                       	James Dashner                     	    623	  384
 Star Wars Episode II: Attack of the Clones              	R.A. Salvatore                    	    620	  336
-Protect and Defend                                      	Vince Flynn                       	    616	  416
 Protect and Defend                                      	Vince Flynn                       	    616	  416
 Star Wars - Fate of the Jedi: Outcast                   	Aaron Allston                     	    612	  318
 Body of Evidence                                        	Patricia Cornwell                 	    610	  256
@@ -201,14 +177,12 @@ From Potter's Field                                     	Patricia Cornwell      
 The Death Cure                                          	James Dashner                     	    535	  338
 The Case-Book of Sherlock Holmes                        	Arthur Conan Doyle                	    533	  320
 Harry Potter and the Chamber of Secrets                 	J.K. Rowling                      	    524	  341
-Harry Potter and the Chamber of Secrets                 	J.K. Rowling                      	    524	  341
 The Zombie Survival Guide                               	Max Brooks                        	    518	  288
 The Shack                                               	William P. Young                  	    512	  252
 The Secret Garden                                       	Grances Hodgson Burnett           	    507	  234
 Mayhem in High Heels                                    	Gemma Halliday                    	    506	  303
 Star Wars - Fate of the Jedi: Omen                      	Christie Golden                   	    505	  250
 Alibi in High Heels                                     	Gemma Halliday                    	    505	  294
-Harry Potter and the Philosopher's Stone                	J.K. Rowling                      	    497	  223
 Great Lives: Joseph - A Man of Integrity and Forgiveness	Charles R. Swindoll               	    484	  218
 The Graveyard Book                                      	Neil Gaiman                       	    463	  312
 Around the World in 80 Days                             	Jules Verne                       	    462	  220

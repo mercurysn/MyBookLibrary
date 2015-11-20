@@ -1,0 +1,85 @@
+Field                             	Value
+Vince Flynn                       	   15
+Patricia Cornwell                 	   15
+Douglas Preston                   	   10
+Roald Dahl                        	    8
+Mark Tufo                         	    8
+J.K. Rowling                      	    7
+Arthur Conan Doyle                	    7
+Timothy Zahn                      	    7
+Gemma Halliday                    	    7
+Steve Berry                       	    6
+Stephanie Meyer                   	    5
+Dan Brown                         	    5
+Sophie Kinsella                   	    5
+George R. R. Martin               	    5
+Stephen King                      	    5
+J.R.R. Tolkien                    	    4
+Michael Crichton                  	    4
+Thomas Harris                     	    4
+Stieg Larsson                     	    3
+Michael Connelly                  	    3
+Dean Koontz                       	    3
+Suzanne Collins                   	    3
+Troy Denning                      	    3
+Aaron Allston                     	    3
+Christie Golden                   	    3
+Veronica Roth                     	    3
+Robert Ludlum                     	    3
+James Dashner                     	    3
+James Patterson                   	    3
+Walter Isaacson                   	    2
+Stephen R. Covey                  	    2
+Max Brooks                        	    2
+Neal Stephenson                   	    1
+Diana Gabaldon                    	    1
+Nelson DeMille                    	    1
+Larry Niven                       	    1
+Henning Mankell                   	    1
+Nora Roberts                      	    1
+Guillermo del Toro and Chuck Hogan	    1
+P.D. James                        	    1
+Neil deGrasse Tyson               	    1
+Alice Sebold                      	    1
+Henry T Blackaby                  	    1
+R.A. Salvatore                    	    1
+Peter Benchley                    	    1
+Rick Warren                       	    1
+Grances Hodgson Burnett           	    1
+Neil Gaiman                       	    1
+Bart D. Ehrman                    	    1
+John Eldredge                     	    1
+Robert Bloch                      	    1
+Francis Chan                      	    1
+Lewis Carroll                     	    1
+William P. Young                  	    1
+Charles R. Swindoll               	    1
+John Buchan                       	    1
+H. G. Wells                       	    1
+Robert Louis Stevenson            	    1
+Sara Gruen                        	    1
+Kathryn Stockett                  	    1
+Ha-Joon Chang                     	    1
+J. M. Barrie                      	    1
+Bryce Courtenay                   	    1
+George Orwell                     	    1
+Sean Williams                     	    1
+Garth Stein                       	    1
+Robert Jordan                     	    1
+Charles Dickens                   	    1
+Agatha Christie                   	    1
+Truman Capote                     	    1
+Jules Verne                       	    1
+Mitch Albom                       	    1
+Gillian Flynn                     	    1
+Washington Irving                 	    1
+Fredrick Forsyth                  	    1
+Arnold Schwarzenegger             	    1
+Harper Lee                        	    1
+Jeffery Deaver                    	    1
+David Lagercrantz                 	    1
+Daphne du Maurier                 	    1
+Vince Flynn/Kyle Mills            	    1
+Andy Weir                         	    1
+Ken Follett                       	    1
+William L. Shirer                 	    1

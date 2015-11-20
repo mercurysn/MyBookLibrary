@@ -1,7 +1,7 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using MyBookLibrary.Service.ExtensionMethods;
 using MyBookLibrary.Service.Model;
 using MyBookLibrary.Service.Report;
 
@@ -11,13 +11,14 @@ namespace MyBookLibrary.Service
     {
         public static List<Book> SortBooksByMinutes(this List<Book> books)
         {
-            return books.OrderByDescending(x => x.Minutes).ToList();
+            return books.RemoveDuplicates().OrderByDescending(x => x.Minutes).ToList();
         }
 
         public static List<BookAggregatedGroup> GroupByAuthor(this List<Book> books)
         {
-            return books.
-                GroupBy(b => b.Author[0])
+            return books
+                .RemoveDuplicates()
+                .GroupBy(b => b.Author[0])
                 .Select(b => new BookAggregatedGroup
                 {
                     Field = b.Key,
