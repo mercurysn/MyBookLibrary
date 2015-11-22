@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="AutoMapper\AutoMapperTests.cs" />
     <Compile Include="ExtensionMethod\BookHelperTests.cs" />
+    <Compile Include="ExtensionMethod\DateHelperTests.cs" />
     <Compile Include="ExtensionMethod\TimeHelperTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

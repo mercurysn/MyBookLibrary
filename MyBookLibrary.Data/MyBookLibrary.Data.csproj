@@ -53,6 +53,7 @@
     <Compile Include="Readers\CsvFileReader.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Source\author-by-minutes.txt" />
     <Content Include="Source\author.txt" />
     <Content Include="Source\longestBook.txt" />
     <Content Include="Source\series.txt" />

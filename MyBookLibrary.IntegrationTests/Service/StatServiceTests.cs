@@ -31,7 +31,7 @@ namespace MyBookLibrary.IntegrationTests.Service
         [Test]
         public void GroupByAuthor_Test()
         {
-            var authorReport = _books.GroupByAuthor();
+            var authorReport = _books.GroupByAuthorBookCount();
 
         }
     }

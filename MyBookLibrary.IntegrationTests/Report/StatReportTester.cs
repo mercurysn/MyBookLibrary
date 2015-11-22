@@ -40,6 +40,15 @@ namespace MyBookLibrary.IntegrationTests.Report
         }
 
         [Test]
+        public void TestAuthorReportByMinutes()
+        {
+            string report = StatReporter.GetAuthorMinutesReport(_books);
+
+            Console.WriteLine(report);
+            File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\author-by-minutes.txt", report);
+        }
+
+        [Test]
         public void TestSeriesReport()
         {
             string report = StatReporter.GetSeriesReport(_books);
