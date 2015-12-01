@@ -67,7 +67,7 @@ namespace MyBookLibrary.Service
                     Field = b.Key.ToString(),
                     Value = b.Count()
                 })
-                .OrderByDescending(b => b.Value)
+                .OrderBy(b => b.Field)
                 .ToList();
         }
     }

@@ -28,6 +28,13 @@ namespace MyBookLibrary.Service.Report
             return definition.Export(books.DenormaliseAuthors().GroupByAuthorMinutes());
         }
 
+        public static string GetDecadeReport(List<Book> books)
+        {
+            IDocumentFormatDefinition<BookAggregatedGroup> definition = StatReportDefinition.GenericBookGroupReportFormat();
+
+            return definition.Export(books.GroupByDecade());
+        }
+
         public static string GetSeriesReport(List<Book> books)
         {
             IDocumentFormatDefinition<BookAggregatedGroup> definition = StatReportDefinition.GenericBookGroupReportFormat();

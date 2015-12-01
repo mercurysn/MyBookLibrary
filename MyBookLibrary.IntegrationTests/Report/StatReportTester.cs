@@ -49,6 +49,15 @@ namespace MyBookLibrary.IntegrationTests.Report
         }
 
         [Test]
+        public void TestGroupByDecadeReport()
+        {
+            string report = StatReporter.GetDecadeReport(_books);
+
+            Console.WriteLine(report);
+            File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\book-decade.txt", report);
+        }
+
+        [Test]
         public void TestSeriesReport()
         {
             string report = StatReporter.GetSeriesReport(_books);

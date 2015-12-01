@@ -55,6 +55,7 @@
   <ItemGroup>
     <Content Include="Source\author-by-minutes.txt" />
     <Content Include="Source\author.txt" />
+    <Content Include="Source\book-decade.txt" />
     <Content Include="Source\longestBook.txt" />
     <Content Include="Source\series.txt" />
   </ItemGroup>
