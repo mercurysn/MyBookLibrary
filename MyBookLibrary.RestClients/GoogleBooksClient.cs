@@ -30,6 +30,9 @@ namespace MyBookLibrary.RestClients
 
         private GoogleBook MapIsbn(GoogleBook googleBook)
         {
+            if (googleBook?.VolumeInfo?.IndustryIdentifiers == null)
+                return googleBook;
+
             foreach (var identifier in googleBook.VolumeInfo.IndustryIdentifiers)
             {
                 switch (identifier.Type)

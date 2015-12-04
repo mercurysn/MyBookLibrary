@@ -16,7 +16,7 @@ namespace MyBookLibrary.Service
 
             var books = GetBookModel(bookDtos);
 
-            BookDatabaseWriter.SaveToFile(JsonConvert.SerializeObject(books, Formatting.Indented));
+            BookDatabaseWriter.SaveToImageFreeFile(JsonConvert.SerializeObject(books, Formatting.Indented));
         }
 
         private static List<Book> GetBookModel(List<BookDto> bookDtos)

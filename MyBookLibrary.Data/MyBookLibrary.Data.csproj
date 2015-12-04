@@ -44,10 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookDatabaseDropboxReader.cs" />
     <Compile Include="BookDatabaseReader.cs" />
     <Compile Include="BookDatabaseWriter.cs" />
     <Compile Include="BookRepository.cs" />
     <Compile Include="Dtos\BookDto.cs" />
+    <Compile Include="IBookDatabaseReader.cs" />
     <Compile Include="Mappers\ShelfariFileMapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Readers\CsvFileReader.cs" />
@@ -62,6 +64,7 @@
   <ItemGroup>
     <None Include="Database\2015-11-18 Book.json" />
     <None Include="Database\Book.json" />
+    <None Include="Database\BookImageFree.json" />
     <None Include="packages.config" />
     <None Include="Source\2015-11-18 Shelfari.csv" />
     <None Include="Source\Shelfari.csv" />

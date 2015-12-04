@@ -2,7 +2,7 @@
 
 namespace MyBookLibrary.Data
 {
-    public class BookDatabaseReader
+    public class BookDatabaseReader : IBookDatabaseReader
     {
         public static string ReadFile()
         {
