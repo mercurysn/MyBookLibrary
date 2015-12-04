@@ -56,10 +56,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookReadService.cs" />
     <Compile Include="ExtensionMethods\BookHelper.cs" />
     <Compile Include="ExtensionMethods\DateHelper.cs" />
     <Compile Include="ExtensionMethods\ImageBase64Converter.cs" />
     <Compile Include="ExtensionMethods\TimeHelper.cs" />
+    <Compile Include="Helpers\IntHelper.cs" />
+    <Compile Include="IBookReadService.cs" />
     <Compile Include="JsonFileGenerator.cs" />
     <Compile Include="Mapper\MapToModelProfile.cs" />
     <Compile Include="Model\Book.cs" />

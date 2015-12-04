@@ -1,12 +1,22 @@
 ﻿using System.Web.Mvc;
+using MyBookLibrary.Service;
 
 namespace MyBookLibrary.Web.Controllers
 {
     public class HomeController : Controller
     {
+        private IBookReadService _bookReadService;
+
+        public HomeController(IBookReadService bookReadService)
+        {
+            _bookReadService = bookReadService;
+        }
+
         public ActionResult Index()
         {
-            return View();
+            var books = _bookReadService.GetAll();
+
+            return View(books);
         }
 
         public ActionResult About()

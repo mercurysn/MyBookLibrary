@@ -1,6 +1,8 @@
 ﻿@{
     ViewBag.Title = "Home Page";
 }
+@using MyBookLibrary.Service.Helpers
+@model List<MyBookLibrary.Service.Model.Book>
 
 <section id="home-slider">
     <div class="container">
@@ -8,20 +10,19 @@
             <div class="main-slider">
                 <div class="slide-text">
                     <h1>My Book Library</h1>
-                    <p>Boudin doner frankfurter pig. Cow shank bresaola pork loin tri-tip tongue venison pork belly meatloaf short loin landjaeger biltong beef ribs shankle chicken andouille.</p>
-                    <a href="#" class="btn btn-common">SIGN UP</a>
+                    <p>A website dedicated to books Mercury has read.</p>
                 </div>
-                <img src="http://geek-news.mtv.com/wp-content/uploads/2011/10/girl20with20the20dragon20tattoo20mm1.jpg" class="slider-hill" alt="slider image">
-                <img src="http://img.zanda.com/item/44040100000054/730xauto/The_Last_Man_by_Vince_Flynn.jpg" class="slider-house" alt="slider image">
-                <img src="http://img.zanda.com/item/44040100000054/730xauto/The_Last_Man_by_Vince_Flynn.jpg" class="slider-1" alt="slider image">
-                <img src="http://img.zanda.com/item/44040100000054/730xauto/The_Last_Man_by_Vince_Flynn.jpg" class="slider-2" alt="slider image">
-                <img src="http://img.zanda.com/item/44040100000054/730xauto/The_Last_Man_by_Vince_Flynn.jpg" class="slider-3" alt="slider image">
-                <img src="http://img.zanda.com/item/44040100000054/730xauto/The_Last_Man_by_Vince_Flynn.jpg" class="slider-4" alt="slider image">
-                <img src="http://img.zanda.com/item/44040100000054/730xauto/The_Last_Man_by_Vince_Flynn.jpg" class="slider-5" alt="slider image">
-                <img src="http://img.zanda.com/item/44040100000054/730xauto/The_Last_Man_by_Vince_Flynn.jpg" class="slider-6" alt="slider image">
-                <img src="http://img.zanda.com/item/44040100000054/730xauto/The_Last_Man_by_Vince_Flynn.jpg" class="slider-7" alt="slider image">
-                <img src="http://geek-news.mtv.com/wp-content/uploads/2011/10/girl20with20the20dragon20tattoo20mm1.jpg" class="slider-sun" alt="slider image">
-                <img src="http://geek-news.mtv.com/wp-content/uploads/2011/10/girl20with20the20dragon20tattoo20mm1.jpg" class="slider-birds1" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-hill" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-house" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-1" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-2" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-3" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-4" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-5" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-6" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-7" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-sun" alt="slider image">
+                <img src="@Model[IntHelper.GeneratingRandom(0, Model.Count() - 1)].CoverUrl" class="slider-birds1" alt="slider image">
 
             </div>
         </div>
