@@ -5,7 +5,7 @@ namespace MyBookLibrary.Web.Controllers
 {
     public class HomeController : Controller
     {
-        private IBookReadService _bookReadService;
+        private readonly IBookReadService _bookReadService;
 
         public HomeController(IBookReadService bookReadService)
         {
