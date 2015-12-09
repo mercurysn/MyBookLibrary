@@ -9,7 +9,7 @@ namespace MyBookLibrary.Service
     {
         public List<Book> GetAll()
         {
-            return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadFile());
+            return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseDropboxReader.ReadFile());
         }
     }
 }
