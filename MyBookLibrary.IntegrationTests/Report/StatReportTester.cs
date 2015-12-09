@@ -17,7 +17,7 @@ namespace MyBookLibrary.IntegrationTests.Report
         [SetUp]
         public void Setup()
         {
-            _books = JsonConvert.DeserializeObject<List<Book>>(BookDatabaseDropboxReader.ReadFile());
+            _books = JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadFile());
 
         }
 

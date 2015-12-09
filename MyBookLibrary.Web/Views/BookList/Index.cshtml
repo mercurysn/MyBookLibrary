@@ -1,0 +1,51 @@
+﻿@using MyBookLibrary.Service.ExtensionMethods
+@using MyBookLibrary.Service.Helpers
+@model MyBookLibrary.Web.Models.ViewModels.BookListIndexViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<section id="portfolio">    
+    <div class="container">
+        <div class="row">
+            <ul class="portfolio-filter text-center">
+                <li><a class="btn btn-default active" href="#" data-filter="*">All</a></li>
+                @foreach (var decade in Model.BookDecade)
+                {
+                    <li><a class="btn btn-default" href="#" data-filter=".@decade">@decade</a></li>
+                }
+            </ul><!--/#portfolio-filter-->
+
+            <div class="portfolio-items">
+                
+                @foreach (var book in Model.Books)
+                {
+                    <div class="col-sm-6 portfolio-item branded logos @(book.ReleaseDate?.Year.ToDecade().ToString() ?? "")">
+                        <div class="portfolio-wrapper">
+                            <div class="portfolio-single">
+                                <div class="portfolio-thumb">
+                                    <img src="@book.CoverUrl" style="min-height: 300px;max-height: 300px; object-fit: contain;" class="img-responsive" alt="">
+                                </div>
+                                <div class="portfolio-view">
+                                    <ul class="nav nav-pills">
+                                        <li><a href="portfolio-details.html"><i class="fa fa-link"></i></a></li>
+                                        <li><a href="images/portfolio/17.jpg" data-lightbox="example-set"><i class="fa fa-eye"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="portfolio-info">
+                                <h2 style="text-align: center">@book.Name</h2>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+<!--/#portfolio-->
+
+
+
+
+

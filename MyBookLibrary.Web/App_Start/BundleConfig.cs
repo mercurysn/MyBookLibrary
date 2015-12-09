@@ -21,6 +21,7 @@ namespace MyBookLibrary.Web
                 "~/Scripts/jquery.js",
                 "~/Scripts/bootstrap.min.js",
                 "~/Scripts/lightbox.min.js",
+                "~/Scripts/jquery.isotope.min.js",
                 "~/Scripts/wow.min.js",
                 "~/Scripts/main.js"
                 ));

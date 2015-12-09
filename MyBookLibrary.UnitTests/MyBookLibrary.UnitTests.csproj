@@ -66,8 +66,14 @@
       <Project>{d2b48e8b-af0d-4367-916c-f4ed7ad5dd3e}</Project>
       <Name>MyBookLibrary.Service</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MyBookLibrary.Web\MyBookLibrary.Web.csproj">
+      <Project>{080969fd-82d0-4a9d-8a6f-d05ac7e55213}</Project>
+      <Name>MyBookLibrary.Web</Name>
+    </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Controller\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
