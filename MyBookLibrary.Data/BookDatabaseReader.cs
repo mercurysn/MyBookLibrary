@@ -6,7 +6,7 @@ namespace MyBookLibrary.Data
     {
         public static string ReadFile()
         {
-            return File.ReadAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\Book.json");
+            return File.ReadAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\BookImageFree.json");
         }
     }
 }

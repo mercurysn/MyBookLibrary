@@ -1,17 +1,30 @@
-Field                	Value
-Harry Potter         	    4
-Millennium           	    4
-Lord of the Rings    	    3
-Robert Langdon       	    3
-Mitch Rapp           	    3
-Twilight             	    2
-Alex Cross           	    2
-High Heels           	    2
-Zombie Fallout       	    2
-Outlander            	    1
-John Corey           	    1
-The Mote in God's Eye	    1
-Kurt Wallander       	    1
-Scarpetta            	    1
-Pendergast           	    1
-Pendagast            	    1
+Field                            	Value
+Mitch Rapp                       	   14
+Star Wars: Fate of the Jedi      	    9
+Harry Potter                     	    7
+Cotton Malone                    	    6
+Scarpetta                        	    5
+Millennium                       	    4
+Twilight                         	    4
+Lord of the Rings                	    3
+Robert Langdon                   	    3
+Hunger Games                     	    3
+Alex Cross                       	    3
+Pendergast                       	    3
+High Heels                       	    3
+Harry Bosch                      	    3
+Jack McEvoy                      	    2
+Jurassic Park                    	    2
+Divergent                        	    2
+Shopaholic                       	    2
+Game of Thrones                  	    2
+Star Wars: Thrawn                	    2
+Zombie Fallout                   	    2
+Outlander                        	    1
+John Corey                       	    1
+The Mote in God's Eye            	    1
+Kurt Wallander                   	    1
+The Strain                       	    1
+Charlie and the Chocolate Factory	    1
+The Shining                      	    1
+Zomble Fallout                   	    1

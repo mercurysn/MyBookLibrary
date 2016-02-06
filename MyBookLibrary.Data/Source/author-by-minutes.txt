@@ -1,37 +1,38 @@
 Field                             	Value
+Vince Flynn                       	12369
 George R. R. Martin               	12094
-Vince Flynn                       	11729
+Stephen King                      	10660
 Patricia Cornwell                 	10423
-Stephen King                      	 9545
-Douglas Preston                   	 9119
-Lincoln Child                     	 9119
+Douglas Preston                   	 9837
+Lincoln Child                     	 9837
 Timothy Zahn                      	 6688
 J.K. Rowling                      	 6499
+Mark Tufo                         	 5628
 Steve Berry                       	 5544
 Stephanie Meyer                   	 5261
-Mark Tufo                         	 4993
 Dan Brown                         	 4926
 Robert Ludlum                     	 4764
 Arthur Conan Doyle                	 4238
 Stieg Larsson                     	 3891
+Gemma Halliday                    	 3883
 Sophie Kinsella                   	 3774
 J.R.R. Tolkien                    	 3745
+Michael Connelly                  	 3661
 Michael Crichton                  	 3561
 William L. Shirer                 	 3433
-Gemma Halliday                    	 3425
+James Patterson                   	 2857
+Alexandar Dumas                   	 2596
 Troy Denning                      	 2542
 Thomas Harris                     	 2532
-Michael Connelly                  	 2427
 Dean Koontz                       	 2420
 Neal Stephenson                   	 2314
-James Patterson                   	 2225
 Christie Golden                   	 2192
+Roald Dahl                        	 2134
 Suzanne Collins                   	 2075
 Veronica Roth                     	 2065
 Aaron Allston                     	 2059
 Diana Gabaldon                    	 1962
 Walter Isaacson                   	 1945
-Roald Dahl                        	 1856
 James Dashner                     	 1809
 Robert Jordan                     	 1799
 Stephen R. Covey                  	 1642
@@ -39,6 +40,7 @@ Nelson DeMille                    	 1492
 Arnold Schwarzenegger             	 1404
 Max Brooks                        	 1347
 Bryce Courtenay                   	 1290
+Chris Taylor                      	 1242
 Larry Niven                       	 1227
 Jerry Pournelle                   	 1227
 Gillian Flynn                     	 1151
@@ -59,8 +61,9 @@ Jeffery Deaver                    	  684
 Henry T Blackaby                  	  676
 Harper Lee                        	  659
 Andy Weir                         	  653
-Vince Flynn/Kyle Mills            	  640
+Kyle Mills                        	  640
 R.A. Salvatore                    	  620
+Alan Dean Foster                  	  619
 Peter Benchley                    	  579
 George Orwell                     	  579
 Ken Follett                       	  556
