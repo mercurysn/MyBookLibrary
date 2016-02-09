@@ -68,6 +68,7 @@
     <None Include="packages.config" />
     <None Include="Source\2015-11-18 Shelfari.csv" />
     <None Include="Source\2016-02-07 Shelfari.csv" />
+    <None Include="Source\2016-02-09 Shelfari.csv" />
     <None Include="Source\Shelfari.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

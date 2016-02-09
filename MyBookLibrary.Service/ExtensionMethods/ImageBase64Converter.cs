@@ -16,6 +16,9 @@ namespace MyBookLibrary.Service.ExtensionMethods
 
             Byte[] _byte = GetImage(url);
 
+            if (_byte == null)
+                return "";
+
             sb.Append(Convert.ToBase64String(_byte, 0, _byte.Length));
 
             return sb.ToString();
