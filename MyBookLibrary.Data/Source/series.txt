@@ -1,30 +1,40 @@
 Field                            	Value
-Mitch Rapp                       	   14
+Mitch Rapp                       	   16
+Scarpetta                        	   15
+Pendergast                       	   11
 Star Wars: Fate of the Jedi      	    9
+High Heels                       	    8
 Harry Potter                     	    7
+Zombie Fallout                   	    7
 Cotton Malone                    	    6
-Scarpetta                        	    5
+Game of Thrones                  	    5
 Millennium                       	    4
 Twilight                         	    4
+Robert Langdon                   	    4
+Hannibal                         	    4
+Alex Cross                       	    4
 Lord of the Rings                	    3
-Robert Langdon                   	    3
 Hunger Games                     	    3
-Alex Cross                       	    3
-Pendergast                       	    3
-High Heels                       	    3
+Divergent                        	    3
+Shopaholic                       	    3
+Star Wars: Thrawn                	    3
+Zombie                           	    3
+Bourne                           	    3
+Maze Runner                      	    3
 Harry Bosch                      	    3
 Jack McEvoy                      	    2
 Jurassic Park                    	    2
-Divergent                        	    2
-Shopaholic                       	    2
-Game of Thrones                  	    2
-Star Wars: Thrawn                	    2
-Zombie Fallout                   	    2
+Charlie and the Chocolate Factory	    2
+Star Wars: Hand of Thrawn        	    2
+The Shining                      	    2
 Outlander                        	    1
 John Corey                       	    1
 The Mote in God's Eye            	    1
 Kurt Wallander                   	    1
 The Strain                       	    1
-Charlie and the Chocolate Factory	    1
-The Shining                      	    1
+Psycho                           	    1
+Star Wars: Old Republic          	    1
+Wheel of Time                    	    1
+To Kill a Mockingbird            	    1
+Lincoln Rhyme                    	    1
 Zomble Fallout                   	    1

@@ -14,7 +14,7 @@ namespace MyBookLibrary.IntegrationTests
             Mapper.Initialize(cfg => cfg.AddProfile(new MapToModelProfile()));
         }
 
-        [Test]
+        [Test, Explicit]
         public void FileGeneration()
         {
             JsonFileGenerator fileGenerator = new JsonFileGenerator();

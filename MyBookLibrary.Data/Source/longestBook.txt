@@ -1,27 +1,27 @@
 Name                                                    	Author                            	Minutes	Pages	Series
 The Rise and Fall of the Third Reich                    	William L. Shirer                 	   3433	 1245
-A Dance with Dragons                                    	George R. R. Martin               	   2940	 1040
+A Dance with Dragons                                    	George R. R. Martin               	   2940	 1040	Game of Thrones
 The Stand                                               	Stephen King                      	   2867	 1153
-A Storm of Swords                                       	George R. R. Martin               	   2860	 1177
+A Storm of Swords                                       	George R. R. Martin               	   2860	 1177	Game of Thrones
 It                                                      	Stephen King                      	   2697	 1138
 The Count of Monte Cristo                               	Alexandar Dumas                   	   2596	 1276
 Reamde                                                  	Neal Stephenson                   	   2314	 1056
 A Clash of Kings                                        	George R. R. Martin               	   2232	  969	Game of Thrones
 Under the Dome                                          	Stephen King                      	   2069	 1088
-A Feast for Crows                                       	George R. R. Martin               	   2036	  784
+A Feast for Crows                                       	George R. R. Martin               	   2036	  784	Game of Thrones
 A Game of Thrones                                       	George R. R. Martin               	   2026	  835	Game of Thrones
 Outlander                                               	Diana Gabaldon                    	   1962	  656	Outlander
-The Eye of the World                                    	Robert Jordan                     	   1799	  814
-The Bourne Ultimatum                                    	Robert Ludlum                     	   1763	  672
-The Bourne Supremacy                                    	Robert Ludlum                     	   1661	  597
+The Eye of the World                                    	Robert Jordan                     	   1799	  814	Wheel of Time
+The Bourne Ultimatum                                    	Robert Ludlum                     	   1763	  672	Bourne
+The Bourne Supremacy                                    	Robert Ludlum                     	   1661	  597	Bourne
 Harry Potter and the Order of Phoenix                   	J.K. Rowling                      	   1582	  870	Harry Potter
-Vision of the Future                                    	Timothy Zahn                      	   1578	  528
+Vision of the Future                                    	Timothy Zahn                      	   1578	  528	Star Wars: Hand of Thrawn
 The Girl Who Kicked the Hornet's Nest                   	Stieg Larsson                     	   1509	  563	Millennium
 Steve Jobs                                              	Walter Isaacson                   	   1507	  656
 The Lion's Game                                         	Nelson DeMille                    	   1492	  688	John Corey
 Total Recall: My Truly Unbelievably Life Story          	Arnold Schwarzenegger             	   1404	  656
 The Host                                                	Stephanie Meyer                   	   1385	  619
-The Bourne Identity                                     	Robert Ludlum                     	   1340	  523
+The Bourne Identity                                     	Robert Ludlum                     	   1340	  523	Bourne
 Harry Potter and the Deathly Hollows                    	J.K. Rowling                      	   1298	  784	Harry Potter
 The Power of One                                        	Bryce Courtenay                   	   1290	  533
 The Girl Who Played with Fire                           	Stieg Larsson                     	   1252	  630	Millennium
@@ -30,7 +30,7 @@ Harry Potter and the Goblet of Fire                     	J.K. Rowling           
 Breaking Dawn                                           	Stephanie Meyer                   	   1234	  756	Twilight
 The Mote in God's Eyes                                  	Larry Niven, Jerry Pournelle      	   1227	  537	The Mote in God's Eye
 The Complete Stories of Sherlock Holmes                 	Arthur Conan Doyle                	   1216	    0
-Brimstone                                               	Douglas Preston, Lincoln Child    	   1182	  499
+Brimstone                                               	Douglas Preston, Lincoln Child    	   1182	  499	Pendergast
 Harry Potter and the Half Blood Prince                  	J.K. Rowling                      	   1151	  652	Harry Potter
 Gone Girl                                               	Gillian Flynn                     	   1151	  432
 The Fellowship of the Ring                              	J.R.R. Tolkien                    	   1150	  531	Lord of the Rings
@@ -41,13 +41,13 @@ State of Fear                                           	Michael Crichton       
 The Help                                                	Kathryn Stockett                  	   1086	  451
 The Lost Symbol                                         	Dan Brown                         	   1066	  670	Robert Langdon
 The Alexandria Link                                     	Steve Berry                       	   1040	  512	Cotton Malone
-The Last Precinct                                       	Patricia Cornwell                 	   1039	  449
+The Last Precinct                                       	Patricia Cornwell                 	   1039	  449	Scarpetta
 Consent to Kill                                         	Vince Flynn                       	   1036	  480	Mitch Rapp
-Inferno                                                 	Dan Brown                         	   1032	  480
+Inferno                                                 	Dan Brown                         	   1032	  480	Robert Langdon
 The Fifth Woman                                         	Henning Mankell                   	   1024	  448	Kurt Wallander
-The Cabinet of Curiosities                              	Douglas Preston, Lincoln Child    	   1024	  466
+The Cabinet of Curiosities                              	Douglas Preston, Lincoln Child    	   1024	  466	Pendergast
 Black Hills                                             	Nora Roberts                      	   1011	  480
-Dance of Death                                          	Douglas Preston, Lincoln Child    	   1010	  560
+Dance of Death                                          	Douglas Preston, Lincoln Child    	   1010	  560	Pendergast
 Transfer of Power                                       	Vince Flynn                       	   1008	  416	Mitch Rapp
 The Girl in the Spider's Web                            	David Lagercrantz                 	   1006	  416	Millennium
 The Two Towers                                          	J.R.R. Tolkien                    	   1005	  464	Lord of the Rings
@@ -56,16 +56,16 @@ Eclipse                                                 	Stephanie Meyer        
 Star Wars - Fate of the Jedi: Apocalpyse                	Troy Denning                      	    989	  476	Star Wars: Fate of the Jedi
 The Charlemagne Pursuit                                 	Steve Berry                       	    982	  528	Cotton Malone
 The Dead Zone                                           	Stephen King                      	    961	  428
-The Shining                                             	Stephen King                      	    951	  679
-Still Life with Crows                                   	Douglas Preston, Lincoln Child    	    949	  435
-The Last Command                                        	Timothy Zahn                      	    947	  467
+The Shining                                             	Stephen King                      	    951	  679	The Shining
+Still Life with Crows                                   	Douglas Preston, Lincoln Child    	    949	  435	Pendergast
+The Last Command                                        	Timothy Zahn                      	    947	  467	Star Wars: Thrawn
 The Templar Legacy                                      	Steve Berry                       	    944	  496	Cotton Malone
-Term Limits                                             	Vince Flynn                       	    934	  360
+Term Limits                                             	Vince Flynn                       	    934	  360	Mitch Rapp
 The Return of the King                                  	J.R.R. Tolkien                    	    926	  416	Lord of the Rings
 The Poet                                                	Michael Connelly                  	    921	  480	Jack McEvoy
 The Venetian Betrayal                                   	Steve Berry                       	    920	  496	Cotton Malone
 The Lost World                                          	Michael Crichton                  	    919	  429	Jurassic Park
-The Book of the Dead                                    	Douglas Preston, Lincoln Child    	    910	  597
+The Book of the Dead                                    	Douglas Preston, Lincoln Child    	    910	  597	Pendergast
 Dark Force Rising                                       	Timothy Zahn                      	    896	  376	Star Wars: Thrawn
 Zombie Fallout 6: 'Til Death Do Us Apart                	Mark Tufo                         	    896	  462	Zombie Fallout
 Rebecca                                                 	Daphne du Maurier                 	    889	  357
@@ -73,98 +73,98 @@ Phantoms                                                	Dean Koontz            
 Star Wars - Fate of the Jedi - Ascention                	Christie Golden                   	    883	  410	Star Wars: Fate of the Jedi
 New Moon                                                	Stephanie Meyer                   	    875	  563	Twilight
 Star Wars - Fate of the Jedi: Vortex                    	Troy Denning                      	    875	  375	Star Wars: Fate of the Jedi
-Specter of the Past                                     	Timothy Zahn                      	    871	  352
+Specter of the Past                                     	Timothy Zahn                      	    871	  352	Star Wars: Hand of Thrawn
 In Cold Blood                                           	Truman Capote                     	    868	  343
 The 8th Habit                                           	Stephen R. Covey                  	    864	  432
-Shopaholic Ties the Knot                                	Sophie Kinsella                   	    864	  416
+Shopaholic Ties the Knot                                	Sophie Kinsella                   	    864	  416	Shopaholic
 Fever Dream                                             	Douglas Preston, Lincoln Child    	    851	  405	Pendergast
 The Emperor's Tomb                                      	Steve Berry                       	    845	  480	Cotton Malone
 Separation of Power                                     	Vince Flynn                       	    840	  368	Mitch Rapp
-Separtion of Power                                      	Vince Flynn                       	    840	  368
+Separtion of Power                                      	Vince Flynn                       	    840	  368	Mitch Rapp
 Scoundrels                                              	Timothy Zahn                      	    839	  464
 Micro                                                   	Michael Crichton                  	    835	  429
-World War Z                                             	Max Brooks                        	    829	  352
+World War Z                                             	Max Brooks                        	    829	  352	Zombie
 The Black Echo                                          	Michael Connelly                  	    829	  384	Harry Bosch
-The Old Republic: Fatal Alliance                        	Sean Williams                     	    828	  429
-Reliquary                                               	Douglas Preston, Lincoln Child    	    828	  382
+The Old Republic: Fatal Alliance                        	Sean Williams                     	    828	  429	Star Wars: Old Republic
+Reliquary                                               	Douglas Preston, Lincoln Child    	    828	  382	Pendergast
 The Strain                                              	Guillermo del Toro and Chuck Hogan	    816	  416	The Strain
 The Private Patient                                     	P.D. James                        	    815	  416
 The Paris Vendetta                                      	Steve Berry                       	    813	  432	Cotton Malone
 Remember Me?                                            	Sophie Kinsella                   	    806	  448
 Cemetery Dance                                          	Douglas Preston, Lincoln Child    	    806	  435	Pendergast
-Jack & Jill                                             	James Patterson                   	    806	  466
+Jack & Jill                                             	James Patterson                   	    806	  466	Alex Cross
 Star Wars - Fate of the Jedi: Allies                    	Christie Golden                   	    804	  359	Star Wars: Fate of the Jedi
 The Day of the Jackal                                   	Fredrick Forsyth                  	    801	  495
 Memorial Day                                            	Vince Flynn                       	    800	  407	Mitch Rapp
 Scarpetta                                               	Patricia Cornwell                 	    794	  508	Scarpetta
 Heir to the Empire                                      	Timothy Zahn                      	    789	  361	Star Wars: Thrawn
 Executive Power                                         	Vince Flynn                       	    783	  384	Mitch Rapp
-Relic                                                   	Douglas Preston, Lincoln Child    	    782	  382
+Relic                                                   	Douglas Preston, Lincoln Child    	    782	  382	Pendergast
 Lightning                                               	Dean Koontz                       	    778	  351
 The 7 Habits of Highly Effective People                 	Stephen R. Covey                  	    778	  358
 Star Wars - Fate of the Jedi: Conviction                	Aaron Allston                     	    777	  380	Star Wars: Fate of the Jedi
-Wheels of Darkness                                      	Douglas Preston, Lincoln Child    	    777	  388
+Wheels of Darkness                                      	Douglas Preston, Lincoln Child    	    777	  388	Pendergast
 Twilight                                                	Stephanie Meyer                   	    776	  498	Twilight
 Allegiance                                              	Timothy Zahn                      	    768	  336
-Blow Fly                                                	Patricia Cornwell                 	    763	  526
+Blow Fly                                                	Patricia Cornwell                 	    763	  526	Scarpetta
 Fear Nothing                                            	Dean Koontz                       	    759	  373
 Shopaholic Takes Manhattan                              	Sophie Kinsella                   	    759	  388	Shopaholic
-Hannibal                                                	Thomas Harris                     	    746	  484
-Black Notice                                            	Patricia Cornwell                 	    741	  415
-Trace                                                   	Patricia Cornwell                 	    741	  448
+Hannibal                                                	Thomas Harris                     	    746	  484	Hannibal
+Black Notice                                            	Patricia Cornwell                 	    741	  415	Scarpetta
+Trace                                                   	Patricia Cornwell                 	    741	  448	Scarpetta
 Along Came a Spider                                     	James Patterson                   	    734	  448	Alex Cross
 The Return of Shelock Holmes                            	Arthur Conan Doyle                	    732	  403
 Extreme Measures                                        	Vince Flynn                       	    729	  416	Mitch Rapp
 Death by Black Hole                                     	Neil deGrasse Tyson               	    728	  384
-Red Dragon                                              	Thomas Harris                     	    728	  480
+Red Dragon                                              	Thomas Harris                     	    728	  480	Hannibal
 Jurassic Park                                           	Michael Crichton                  	    720	  400	Jurassic Park
 Cold Vengeance                                          	Douglas Preston, Lincoln Child    	    718	  368	Pendergast
 The Last Man                                            	Vince Flynn                       	    714	  448	Mitch Rapp
 Digital Fortress                                        	Dan Brown                         	    712	  431
-Allegiant                                               	Veronica Roth                     	    711	  406
+Allegiant                                               	Veronica Roth                     	    711	  406	Divergent
 Pursuit of Honor                                        	Vince Flynn                       	    710	  431	Mitch Rapp
-Cruel and Unusual                                       	Patricia Cornwell                 	    710	  356
+Cruel and Unusual                                       	Patricia Cornwell                 	    710	  356	Scarpetta
 Harry Potter and the Prisoner of Azkaban                	J.K. Rowling                      	    708	  435	Harry Potter
 The Third Option                                        	Vince Flynn                       	    708	  358	Mitch Rapp
 Mockingjay                                              	Suzanne Collins                   	    703	  400	Hunger Games
 Confession of a Shopaholic                              	Sophie Kinsella                   	    702	  312	Shopaholic
 Catching Fire                                           	Suzanne Collins                   	    701	  391	Hunger Games
 The Lovely Bones                                        	Alice Sebold                      	    698	  328
-The Body Farm                                           	Patricia Cornwell                 	    697	  320
+The Body Farm                                           	Patricia Cornwell                 	    697	  320	Scarpetta
 American Assassin                                       	Vince Flynn                       	    696	  448	Mitch Rapp
 Postmortem                                              	Patricia Cornwell                 	    687	  304	Scarpetta
 Water for Elephants                                     	Sara Gruen                        	    686	  331
 Kiss the Girls                                          	James Patterson                   	    685	  458	Alex Cross
-The Bone Collector                                      	Jeffery Deaver                    	    684	  404
+The Bone Collector                                      	Jeffery Deaver                    	    684	  404	Lincoln Rhyme
 Insurgent                                               	Veronica Roth                     	    683	  496	Divergent
 Star Wars - Fate of the Jedi: Abyss                     	Troy Denning                      	    678	  332	Star Wars: Fate of the Jedi
 The Scarecrow                                           	Michael Connelly                  	    677	  448	Jack McEvoy
 Experiencing God                                        	Henry T Blackaby                  	    676	  337
 The Hunger Games                                        	Suzanne Collins                   	    671	  384	Hunger Games
 Divergent                                               	Veronica Roth                     	    671	  487	Divergent
-Zombie Fallout 4: The End Has Come and Gone             	Mark Tufo                         	    671	  356
+Zombie Fallout 4: The End Has Come and Gone             	Mark Tufo                         	    671	  356	Zombie Fallout
 The Black Ice                                           	Michael Connelly                  	    671	  322	Harry Bosch
 Star Wars - Fate of the Jedi: Backlash                  	Aaron Allston                     	    670	  328	Star Wars: Fate of the Jedi
-Zombie Fallout 5: Alive in a Dead World                 	Mark Tufo                         	    668	  354
+Zombie Fallout 5: Alive in a Dead World                 	Mark Tufo                         	    668	  354	Zombie Fallout
 Act of Treason                                          	Vince Flynn                       	    665	  415	Mitch Rapp
 The Hobbit                                              	J.R.R. Tolkien                    	    664	  310
-Unnatural Exposure                                      	Patricia Cornwell                 	    664	  338
-To Kill a Mockingbird                                   	Harper Lee                        	    659	  296
-Point of Origin                                         	Patricia Cornwell                 	    657	  356
-Zombie Fallout 2: A Plague Upon Your Family             	Mark Tufo                         	    657	  330
+Unnatural Exposure                                      	Patricia Cornwell                 	    664	  338	Scarpetta
+To Kill a Mockingbird                                   	Harper Lee                        	    659	  296	To Kill a Mockingbird
+Point of Origin                                         	Patricia Cornwell                 	    657	  356	Scarpetta
+Zombie Fallout 2: A Plague Upon Your Family             	Mark Tufo                         	    657	  330	Zombie Fallout
 Zombie Fallout 7: For the Fallen                        	Mark Tufo                         	    657	  370	Zombie Fallout
-Zombie Fallout 3: The End                               	Mark Tufo                         	    653	  338
+Zombie Fallout 3: The End                               	Mark Tufo                         	    653	  338	Zombie Fallout
 The Martian                                             	Andy Weir                         	    653	  385
-The Maze Runner                                         	James Dashner                     	    651	  374
+The Maze Runner                                         	James Dashner                     	    651	  374	Maze Runner
 Kill Shot                                               	Vince Flynn                       	    650	  400	Mitch Rapp
 Predator                                                	Patricia Cornwell                 	    648	  466	Scarpetta
 Can You Keep a Secret?                                  	Sophie Kinsella                   	    643	  364
 The Survivor                                            	Vince Flynn, Kyle Mills           	    640	  400	Mitch Rapp
 Zombie Fallout 8: An Old Beginning                      	Mark Tufo                         	    635	  342	Zomble Fallout
-The Silence of the Lambs                                	Thomas Harris                     	    634	  352
+The Silence of the Lambs                                	Thomas Harris                     	    634	  352	Hannibal
 Cat & Mouse                                             	James Patterson                   	    632	  451	Alex Cross
-Zombie Fallout                                          	Mark Tufo                         	    629	  324
-The Scorch Trials                                       	James Dashner                     	    623	  384
+Zombie Fallout                                          	Mark Tufo                         	    629	  324	Zombie Fallout
+The Scorch Trials                                       	James Dashner                     	    623	  384	Maze Runner
 Star Wars Episode II: Attack of the Clones              	R.A. Salvatore                    	    620	  336
 Star Wars: The Force Awakens                            	Alan Dean Foster                  	    619	  272
 Protect and Defend                                      	Vince Flynn                       	    616	  416	Mitch Rapp
@@ -173,25 +173,25 @@ Body of Evidence                                        	Patricia Cornwell      
 All That Remains                                        	Patricia Cornwell                 	    590	  416	Scarpetta
 Jaws                                                    	Peter Benchley                    	    579	  311
 1984                                                    	George Orwell                     	    579	  326
-Killer in High Heels                                    	Gemma Halliday                    	    578	  310
+Killer in High Heels                                    	Gemma Halliday                    	    578	  310	High Heels
 The Concrete Blonde                                     	Michael Connelly                  	    563	  484	Harry Bosch
 The Memoirs of Shelock Holmes                           	Arthur Conan Doyle                	    561	  304
 Eye of the Needle                                       	Ken Follett                       	    556	  313
-Undercover in High Heels                                	Gemma Halliday                    	    550	  313
-Spying in High Heels                                    	Gemma Halliday                    	    545	  324
+Undercover in High Heels                                	Gemma Halliday                    	    550	  313	High Heels
+Spying in High Heels                                    	Gemma Halliday                    	    545	  324	High Heels
 The Purpose Driven Life                                 	Rick Warren                       	    542	  334
-Cause of Death                                          	Patricia Cornwell                 	    542	  340
-From Potter's Field                                     	Patricia Cornwell                 	    540	  416
+Cause of Death                                          	Patricia Cornwell                 	    542	  340	Scarpetta
+From Potter's Field                                     	Patricia Cornwell                 	    540	  416	Scarpetta
 23 Things They Don't Tell you about Capitalism          	Ha-Joon Chang                     	    538	  304
-The Death Cure                                          	James Dashner                     	    535	  338
+The Death Cure                                          	James Dashner                     	    535	  338	Maze Runner
 The Case-Book of Sherlock Holmes                        	Arthur Conan Doyle                	    533	  320
 Harry Potter and the Chamber of Secrets                 	J.K. Rowling                      	    524	  341	Harry Potter
-The Zombie Survival Guide                               	Max Brooks                        	    518	  288
+The Zombie Survival Guide                               	Max Brooks                        	    518	  288	Zombie
 The Shack                                               	William P. Young                  	    512	  252
 The Secret Garden                                       	Grances Hodgson Burnett           	    507	  234
-Mayhem in High Heels                                    	Gemma Halliday                    	    506	  303
+Mayhem in High Heels                                    	Gemma Halliday                    	    506	  303	High Heels
 Star Wars - Fate of the Jedi: Omen                      	Christie Golden                   	    505	  250	Star Wars: Fate of the Jedi
-Alibi in High Heels                                     	Gemma Halliday                    	    505	  294
+Alibi in High Heels                                     	Gemma Halliday                    	    505	  294	High Heels
 Great Lives: Joseph - A Man of Integrity and Forgiveness	Charles R. Swindoll               	    484	  218
 The Graveyard Book                                      	Neil Gaiman                       	    463	  312
 Around the World in 80 Days                             	Jules Verne                       	    462	  220
@@ -199,7 +199,7 @@ Homicide in High Heels                                  	Gemma Halliday         
 His Last Bow                                            	Arthur Conan Doyle                	    451	  242
 Einstein: His Life and Universe                         	Walter Isaacson                   	    438	  704
 Truth and Fiction in the Da Vinci Code                  	Bart D. Ehrman                    	    427	  240
-Hannibal Rising                                         	Thomas Harris                     	    424	  323
+Hannibal Rising                                         	Thomas Harris                     	    424	  323	Hannibal
 Walking with God                                        	John Eldredge                     	    421	  234
 Danger in High Heels                                    	Gemma Halliday                    	    421	  192	High Heels
 The Art of Racing in the Rain                           	Garth Stein                       	    417	  321
@@ -209,7 +209,7 @@ War of the Worlds                                       	H. G. Wells            
 The Valley of Fear                                      	Arthur Conan Doyle                	    367	  320
 And Then There Were None                                	Agatha Christie                   	    362	  256
 Peter Pan                                               	J. M. Barrie                      	    340	  267
-Psycho                                                  	Robert Bloch                      	    322	  185
+Psycho                                                  	Robert Bloch                      	    322	  185	Psycho
 Fearless in High Heels                                  	Gemma Halliday                    	    320	  186	High Heels
 The Thirty Nine Steps                                   	John Buchan                       	    279	  117
 Five People You Meet in Heaven                          	Mitch Albom                       	    278	  196
@@ -221,10 +221,10 @@ The BFG                                                 	Roald Dahl             
 Crazy Love                                              	Francis Chan                      	    259	  186
 Charlie and the Chocolate Factory                       	Roald Dahl                        	    198	  176	Charlie and the Chocolate Factory
 James and the Giant Peach                               	Roald Dahl                        	    198	  119
-Charlie and the Great Class Elevator                    	Roald Dahl                        	    195	  163
+Charlie and the Great Class Elevator                    	Roald Dahl                        	    195	  163	Charlie and the Chocolate Factory
 Boy                                                     	Roald Dahl                        	    191	  160
 A Christmas Carol                                       	Charles Dickens                   	    178	  110
-Zombie Fallout 3.5: Dr. Hugh Mann                       	Mark Tufo                         	    162	  103
+Zombie Fallout 3.5: Dr. Hugh Mann                       	Mark Tufo                         	    162	  103	Zombie
 The Legend of Sleepy Hallow                             	Washington Irving                 	     75	   50
 Alice in Wonderland                                     	Lewis Carroll                     	      0	  192
 Harry Potter and the Philosopher's Stone                	J.K. Rowling                      	      0	    0	Harry Potter
