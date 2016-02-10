@@ -1,90 +1,90 @@
-Field                             	Value
-Vince Flynn                       	12369
-George R. R. Martin               	12094
-Stephen King                      	10660
-Patricia Cornwell                 	10423
-Douglas Preston                   	 9837
-Lincoln Child                     	 9837
-Timothy Zahn                      	 6688
-J.K. Rowling                      	 6499
-Mark Tufo                         	 5628
-Steve Berry                       	 5544
-Stephanie Meyer                   	 5261
-Dan Brown                         	 4926
-Robert Ludlum                     	 4764
-Arthur Conan Doyle                	 4238
-Stieg Larsson                     	 3891
-Gemma Halliday                    	 3883
-Sophie Kinsella                   	 3774
-J.R.R. Tolkien                    	 3745
-Michael Connelly                  	 3661
-Michael Crichton                  	 3561
-William L. Shirer                 	 3433
-James Patterson                   	 2857
-Alexandar Dumas                   	 2596
-Troy Denning                      	 2542
-Thomas Harris                     	 2532
-Dean Koontz                       	 2420
-Neal Stephenson                   	 2314
-Christie Golden                   	 2192
-Roald Dahl                        	 2134
-Suzanne Collins                   	 2075
-Veronica Roth                     	 2065
-Aaron Allston                     	 2059
-Diana Gabaldon                    	 1962
-Walter Isaacson                   	 1945
-James Dashner                     	 1809
-Robert Jordan                     	 1799
-Stephen R. Covey                  	 1642
-Nelson DeMille                    	 1492
-Arnold Schwarzenegger             	 1404
-Max Brooks                        	 1347
-Bryce Courtenay                   	 1290
-Chris Taylor                      	 1242
-Larry Niven                       	 1227
-Jerry Pournelle                   	 1227
-Gillian Flynn                     	 1151
-Kathryn Stockett                  	 1086
-Henning Mankell                   	 1024
-Nora Roberts                      	 1011
-David Lagercrantz                 	 1006
-Daphne du Maurier                 	  889
-Truman Capote                     	  868
-Sean Williams                     	  828
-Guillermo del Toro and Chuck Hogan	  816
-P.D. James                        	  815
-Fredrick Forsyth                  	  801
-Neil deGrasse Tyson               	  728
-Alice Sebold                      	  698
-Sara Gruen                        	  686
-Jeffery Deaver                    	  684
-Henry T Blackaby                  	  676
-Harper Lee                        	  659
-Andy Weir                         	  653
-Kyle Mills                        	  640
-R.A. Salvatore                    	  620
-Alan Dean Foster                  	  619
-Peter Benchley                    	  579
-George Orwell                     	  579
-Ken Follett                       	  556
-Rick Warren                       	  542
-Ha-Joon Chang                     	  538
-William P. Young                  	  512
-Grances Hodgson Burnett           	  507
-Charles R. Swindoll               	  484
-Neil Gaiman                       	  463
-Jules Verne                       	  462
-Bart D. Ehrman                    	  427
-John Eldredge                     	  421
-Garth Stein                       	  417
-Robert Louis Stevenson            	  403
-H. G. Wells                       	  373
-Agatha Christie                   	  362
-J. M. Barrie                      	  340
-Robert Bloch                      	  322
-John Buchan                       	  279
-Mitch Albom                       	  278
-Francis Chan                      	  259
-Charles Dickens                   	  178
-Washington Irving                 	   75
-Lewis Carroll                     	    0
+Field                             	Value	Books
+Vince Flynn                       	12369	Term Limits | Transfer of Power | Transfer of Power | The Third Option | The Third Option | Executive Power | Executive Power | Memorial Day | Memorial Day | Consent to Kill | Consent to Kill | Act of Treason | Act of Treason | Protect and Defend | Protect and Defend | Extreme Measures | Extreme Measures | Pursuit of Honor | Pursuit of Honor | American Assassin | American Assassin | Separation of Power | Separtion of Power | Kill Shot | Kill Shot | The Last Man | The Last Man | The Survivor
+George R. R. Martin               	12094	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
+Stephen King                      	10660	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
+Patricia Cornwell                 	10423	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
+Douglas Preston                   	 9837	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance
+Lincoln Child                     	 9837	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | Dance of Death | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Cold Vengeance
+Timothy Zahn                      	 6688	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
+J.K. Rowling                      	 6499	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
+Mark Tufo                         	 5628	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning
+Steve Berry                       	 5544	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
+Stephanie Meyer                   	 5261	Twilight | New Moon | Eclipse | The Host | Breaking Dawn
+Dan Brown                         	 4926	Digital Fortress | Angels and Demons | Angels and Demons | The Da Vinci Code | The Da Vinci Code | The Lost Symbol | Inferno
+Robert Ludlum                     	 4764	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
+Arthur Conan Doyle                	 4238	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
+Stieg Larsson                     	 3891	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
+Gemma Halliday                    	 3883	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Danger in High Heels | Homicide in High Heels
+Sophie Kinsella                   	 3774	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
+J.R.R. Tolkien                    	 3745	The Hobbit | The Hobbit | The Fellowship of the Ring | The Fellowship of the Ring | The Two Towers | The Two Towers | The Two Towers | The Return of the King | The Return of the King
+Michael Connelly                  	 3661	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Scarecrow
+Michael Crichton                  	 3561	Jurassic Park | The Lost World | State of Fear | Micro
+William L. Shirer                 	 3433	The Rise and Fall of the Third Reich
+James Patterson                   	 2857	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse
+Alexandar Dumas                   	 2596	The Count of Monte Cristo
+Troy Denning                      	 2542	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
+Thomas Harris                     	 2532	Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
+Dean Koontz                       	 2420	Phantoms | Lightning | Fear Nothing
+Neal Stephenson                   	 2314	Reamde
+Christie Golden                   	 2192	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
+Roald Dahl                        	 2134	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
+Suzanne Collins                   	 2075	The Hunger Games | The Hunger Games | Catching Fire | Catching Fire | Mockingjay | Mockingjay
+Veronica Roth                     	 2065	Divergent | Insurgent | Allegiant
+Aaron Allston                     	 2059	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Conviction
+Diana Gabaldon                    	 1962	Outlander
+Walter Isaacson                   	 1945	Einstein: His Life and Universe | Steve Jobs
+James Dashner                     	 1809	The Maze Runner | The Scorch Trials | The Death Cure
+Robert Jordan                     	 1799	The Eye of the World
+Stephen R. Covey                  	 1642	The 7 Habits of Highly Effective People | The 8th Habit
+Nelson DeMille                    	 1492	The Lion's Game
+Arnold Schwarzenegger             	 1404	Total Recall: My Truly Unbelievably Life Story
+Max Brooks                        	 1347	The Zombie Survival Guide | World War Z
+Bryce Courtenay                   	 1290	The Power of One
+Chris Taylor                      	 1242	How Star Wars Conquered the Universe
+Larry Niven                       	 1227	The Mote in God's Eyes
+Jerry Pournelle                   	 1227	The Mote in God's Eyes
+Gillian Flynn                     	 1151	Gone Girl
+Kathryn Stockett                  	 1086	The Help
+Henning Mankell                   	 1024	The Fifth Woman
+Nora Roberts                      	 1011	Black Hills
+David Lagercrantz                 	 1006	The Girl in the Spider's Web
+Daphne du Maurier                 	  889	Rebecca
+Truman Capote                     	  868	In Cold Blood
+Sean Williams                     	  828	The Old Republic: Fatal Alliance
+Guillermo del Toro and Chuck Hogan	  816	The Strain
+P.D. James                        	  815	The Private Patient
+Fredrick Forsyth                  	  801	The Day of the Jackal
+Neil deGrasse Tyson               	  728	Death by Black Hole
+Alice Sebold                      	  698	The Lovely Bones
+Sara Gruen                        	  686	Water for Elephants
+Jeffery Deaver                    	  684	The Bone Collector
+Henry T Blackaby                  	  676	Experiencing God
+Harper Lee                        	  659	To Kill a Mockingbird
+Andy Weir                         	  653	The Martian
+Kyle Mills                        	  640	The Survivor
+R.A. Salvatore                    	  620	Star Wars Episode II: Attack of the Clones
+Alan Dean Foster                  	  619	Star Wars: The Force Awakens
+Peter Benchley                    	  579	Jaws
+George Orwell                     	  579	1984
+Ken Follett                       	  556	Eye of the Needle
+Rick Warren                       	  542	The Purpose Driven Life
+Ha-Joon Chang                     	  538	23 Things They Don't Tell you about Capitalism
+William P. Young                  	  512	The Shack
+Grances Hodgson Burnett           	  507	The Secret Garden
+Charles R. Swindoll               	  484	Great Lives: Joseph - A Man of Integrity and Forgiveness
+Neil Gaiman                       	  463	The Graveyard Book
+Jules Verne                       	  462	Around the World in 80 Days
+Bart D. Ehrman                    	  427	Truth and Fiction in the Da Vinci Code
+John Eldredge                     	  421	Walking with God
+Garth Stein                       	  417	The Art of Racing in the Rain
+Robert Louis Stevenson            	  403	Treasure Island
+H. G. Wells                       	  373	War of the Worlds
+Agatha Christie                   	  362	And Then There Were None
+J. M. Barrie                      	  340	Peter Pan
+Robert Bloch                      	  322	Psycho
+John Buchan                       	  279	The Thirty Nine Steps
+Mitch Albom                       	  278	Five People You Meet in Heaven
+Francis Chan                      	  259	Crazy Love
+Charles Dickens                   	  178	A Christmas Carol
+Washington Irving                 	   75	The Legend of Sleepy Hallow
+Lewis Carroll                     	    0	Alice in Wonderland

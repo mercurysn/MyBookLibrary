@@ -1,4 +1,6 @@
-﻿using AsciiImportExport;
+﻿using System.Collections.Generic;
+using System.Linq;
+using AsciiImportExport;
 using MyBookLibrary.Service.Model;
 
 namespace MyBookLibrary.Service.Report
@@ -23,6 +25,7 @@ namespace MyBookLibrary.Service.Report
                 .SetExportHeaderLine(true, "")
                 .AddColumn(x => x.Field)
                 .AddColumn(x => x.Value, b => b.SetAlignment(ColumnAlignment.Right))
+                .AddColumn(x => x.Books, b => b.SetExportFunc(ConcatBooks))
                 .Build();
         }
 
@@ -31,6 +34,11 @@ namespace MyBookLibrary.Service.Report
         public static string ConcatAuthors(Book book, string[] authors)
         {
             return string.Join(", ", authors);
-        } 
+        }
+
+        public static string ConcatBooks(BookAggregatedGroup group, List<Book> books)
+        {
+            return string.Join(" | ", books.Select(b => b.Name).ToArray());
+        }
     }
 }

@@ -58,6 +58,15 @@ namespace MyBookLibrary.IntegrationTests.Report
         }
 
         [Test]
+        public void TestYearStatsReport()
+        {
+            string report = StatReporter.GetYearStatsReport(_books);
+
+            Console.WriteLine(report);
+            File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\year-stats.txt", report);
+        }
+
+        [Test]
         public void TestSeriesReport()
         {
             string report = StatReporter.GetSeriesReport(_books);

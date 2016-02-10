@@ -22,7 +22,8 @@ namespace MyBookLibrary.Service
                 .Select(b => new BookAggregatedGroup
                 {
                     Field = b.Key,
-                    Value = b.Count()
+                    Value = b.Count(),
+                    Books = books.Where(x => x.Author[0] == b.Key.ToString()).OrderBy(y => y.ReleaseDate).ToList()
                 })
                 .OrderByDescending(b => b.Value)
                 .ToList();
@@ -36,7 +37,8 @@ namespace MyBookLibrary.Service
                 .Select(b => new BookAggregatedGroup
                 {
                     Field = b.Key.ToString(),
-                    Value = b.Sum(x => x.Minutes)
+                    Value = b.Sum(x => x.Minutes),
+                    Books = books.Where(x => x.Author[0] == b.Key.ToString()).OrderBy(y => y.ReleaseDate).ToList()
                 })
                 .OrderByDescending(b => b.Value)
                 .ToList();
@@ -50,7 +52,8 @@ namespace MyBookLibrary.Service
                 .Select(b => new BookAggregatedGroup
                 {
                     Field = b.Key,
-                    Value = b.Count()
+                    Value = b.Count(),
+                    Books = books.Where(x => x.Series.Equals(b.Key.ToString())).OrderBy(y => y.SeriesOrder).ToList()
                 })
                 .OrderByDescending(b => b.Value)
                 .ToList();
@@ -65,7 +68,22 @@ namespace MyBookLibrary.Service
                 .Select(b => new BookAggregatedGroup
                 {
                     Field = b.Key.ToString(),
-                    Value = b.Count()
+                    Value = b.Count(),
+                    Books = books.Where(x => ((DateTime)x.ReleaseDate).Year.ToDecade().ToString() == b.Key.ToString()).OrderBy(y => y.ReleaseDate).ToList()
+                })
+                .OrderBy(b => b.Field)
+                .ToList();
+        }
+
+        public static List<BookAggregatedGroup> YearStats(this List<Book> books)
+        {
+            return books
+                .GroupBy(b => ((DateTime)b.DateCompleted).Year)
+                .Select(b => new BookAggregatedGroup
+                {
+                    Field = b.Key.ToString(),
+                    Value = b.Count(),
+                    Books = books.Where(x => ((DateTime)x.DateCompleted).Year.ToString() == b.Key.ToString()).OrderBy(y => y.DateCompleted).ToList()
                 })
                 .OrderBy(b => b.Field)
                 .ToList();

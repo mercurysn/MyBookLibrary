@@ -60,6 +60,7 @@
     <Content Include="Source\book-decade.txt" />
     <Content Include="Source\longestBook.txt" />
     <Content Include="Source\series.txt" />
+    <Content Include="Source\year-stats.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Database\2015-11-18 Book.json" />

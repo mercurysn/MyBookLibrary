@@ -1,40 +1,40 @@
-Field                            	Value
-Mitch Rapp                       	   16
-Scarpetta                        	   15
-Pendergast                       	   11
-Star Wars: Fate of the Jedi      	    9
-High Heels                       	    8
-Harry Potter                     	    7
-Zombie Fallout                   	    7
-Cotton Malone                    	    6
-Game of Thrones                  	    5
-Millennium                       	    4
-Twilight                         	    4
-Robert Langdon                   	    4
-Hannibal                         	    4
-Alex Cross                       	    4
-Lord of the Rings                	    3
-Hunger Games                     	    3
-Divergent                        	    3
-Shopaholic                       	    3
-Star Wars: Thrawn                	    3
-Zombie                           	    3
-Bourne                           	    3
-Maze Runner                      	    3
-Harry Bosch                      	    3
-Jack McEvoy                      	    2
-Jurassic Park                    	    2
-Charlie and the Chocolate Factory	    2
-Star Wars: Hand of Thrawn        	    2
-The Shining                      	    2
-Outlander                        	    1
-John Corey                       	    1
-The Mote in God's Eye            	    1
-Kurt Wallander                   	    1
-The Strain                       	    1
-Psycho                           	    1
-Star Wars: Old Republic          	    1
-Wheel of Time                    	    1
-To Kill a Mockingbird            	    1
-Lincoln Rhyme                    	    1
-Zomble Fallout                   	    1
+Field                            	Value	Books
+Mitch Rapp                       	   16	Term Limits | Transfer of Power | Transfer of Power | The Third Option | The Third Option | Separation of Power | Separtion of Power | Executive Power | Executive Power | Memorial Day | Memorial Day | Consent to Kill | Consent to Kill | Act of Treason | Act of Treason | Protect and Defend | Protect and Defend | Extreme Measures | Extreme Measures | Pursuit of Honor | Pursuit of Honor | American Assassin | American Assassin | Kill Shot | Kill Shot | The Last Man | The Last Man | The Survivor
+Scarpetta                        	   15	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Blow Fly | Trace | Predator | Scarpetta
+Pendergast                       	   11	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | Dance of Death | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Cold Vengeance
+Star Wars: Fate of the Jedi      	    9	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Conviction | Star Wars - Fate of the Jedi - Ascention | Star Wars - Fate of the Jedi: Apocalpyse
+High Heels                       	    8	Spying in High Heels | Killer in High Heels | Undercover in High Heels | Alibi in High Heels | Mayhem in High Heels | Fearless in High Heels | Danger in High Heels | Homicide in High Heels
+Harry Potter                     	    7	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Goblet of Fire | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
+Zombie Fallout                   	    7	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen
+Cotton Malone                    	    6	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
+Game of Thrones                  	    5	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
+Millennium                       	    4	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest | The Girl in the Spider's Web
+Twilight                         	    4	Twilight | Eclipse | New Moon | Breaking Dawn
+Robert Langdon                   	    4	Angels and Demons | Angels and Demons | The Da Vinci Code | The Da Vinci Code | The Lost Symbol | Inferno
+Hannibal                         	    4	Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
+Alex Cross                       	    4	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse
+Lord of the Rings                	    3	The Fellowship of the Ring | The Fellowship of the Ring | The Two Towers | The Two Towers | The Two Towers | The Return of the King | The Return of the King
+Hunger Games                     	    3	The Hunger Games | The Hunger Games | Catching Fire | Catching Fire | Mockingjay | Mockingjay
+Divergent                        	    3	Divergent | Insurgent | Allegiant
+Shopaholic                       	    3	Confession of a Shopaholic | Shopaholic Takes Manhattan | Shopaholic Ties the Knot
+Star Wars: Thrawn                	    3	Heir to the Empire | Dark Force Rising | The Last Command
+Zombie                           	    3	The Zombie Survival Guide | World War Z | Zombie Fallout 3.5: Dr. Hugh Mann
+Bourne                           	    3	The Bourne Identity | The Bourne Supremacy | The Bourne Ultimatum
+Maze Runner                      	    3	The Maze Runner | The Scorch Trials | The Death Cure
+Harry Bosch                      	    3	The Black Echo | The Black Ice | The Concrete Blonde
+Jack McEvoy                      	    2	The Poet | The Scarecrow
+Jurassic Park                    	    2	Jurassic Park | The Lost World
+Charlie and the Chocolate Factory	    2	Charlie and the Chocolate Factory | Charlie and the Great Class Elevator
+Star Wars: Hand of Thrawn        	    2	Specter of the Past | Vision of the Future
+The Shining                      	    2	The Shining | Doctor Sleep
+Outlander                        	    1	Outlander
+John Corey                       	    1	The Lion's Game
+The Mote in God's Eye            	    1	The Mote in God's Eyes
+Kurt Wallander                   	    1	The Fifth Woman
+The Strain                       	    1	The Strain
+Psycho                           	    1	Psycho
+Star Wars: Old Republic          	    1	The Old Republic: Fatal Alliance
+Wheel of Time                    	    1	The Eye of the World
+To Kill a Mockingbird            	    1	To Kill a Mockingbird
+Lincoln Rhyme                    	    1	The Bone Collector
+Zomble Fallout                   	    1	Zombie Fallout 8: An Old Beginning
