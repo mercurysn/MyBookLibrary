@@ -1,4 +1,5 @@
-﻿using MyBookLibrary.RestClients;
+﻿using System;
+using MyBookLibrary.RestClients;
 using NUnit.Framework;
 using RestSharp;
 
@@ -32,6 +33,21 @@ namespace MyBookLibrary.IntegrationTests.RestClients
             Assert.AreEqual("Fiction / Thrillers / Suspense", googleBook.VolumeInfo.Categories[2]);
             Assert.AreEqual("Fiction / Political", googleBook.VolumeInfo.Categories[3]);
             Assert.AreEqual("Fiction / General", googleBook.VolumeInfo.Categories[4]);
+        }
+
+        [Test]
+        public void GoogleBooksApi_SearchBook_IntegrationTests()
+        {
+            GoogleBooksClient client =
+                new GoogleBooksClient(
+                    "https://www.googleapis.com");
+
+            var bookName = "Act of Treason";
+
+            //var result = api.Execute("books/v1/volumes/ItvZr-OV0DEC?key=AIzaSyDhHJkRg7Yv6Z4hpw0OGsuMUl_WIlWpj20", Method.GET);
+            var googleBook = client.GetGoogleBookApiResultRaw($"books/v1/volumes?q={bookName.Replace(" ", "+")}", Method.GET);
+
+            Console.WriteLine(googleBook.Content);
         }
     }
 }

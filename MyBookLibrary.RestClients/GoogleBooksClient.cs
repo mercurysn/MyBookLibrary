@@ -28,6 +28,14 @@ namespace MyBookLibrary.RestClients
             return response.Data;
         }
 
+        public IRestResponse GetGoogleBookApiResultRaw(string url, Method method)
+        {
+            RestRequest request = new RestRequest(url, method);
+
+            return _client.Execute<GoogleBook>(request);
+
+        }
+
         private GoogleBook MapIsbn(GoogleBook googleBook)
         {
             if (googleBook?.VolumeInfo?.IndustryIdentifiers == null)
