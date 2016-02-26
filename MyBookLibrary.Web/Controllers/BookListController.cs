@@ -29,5 +29,17 @@ namespace MyBookLibrary.Web.Controllers
             });
 
         }
+
+        public ActionResult BookListSummary()
+        {
+            var books = _bookReadService.GetAll().RemoveDuplicates().OrderByDescending(b => b.DateCompleted).ToList();
+
+            return View("BookListSummary", new BookListIndexViewModel
+            {
+                Books = books,
+                BookDecade = books
+                    .DistinctBy(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).Select(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).ToList().OrderByDescending(x => x).ToList()
+            });
+        }
     }
 }

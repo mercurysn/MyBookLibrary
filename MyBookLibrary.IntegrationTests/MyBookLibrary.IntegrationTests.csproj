@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExtensionMethod\ImageBase64ConverterTests.cs" />
+    <Compile Include="ExtensionMethod\StringHelperTests.cs" />
     <Compile Include="GenerateJsonFileGeneratorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Report\StatReportTester.cs" />

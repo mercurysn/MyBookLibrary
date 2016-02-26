@@ -60,6 +60,7 @@
     <Compile Include="ExtensionMethods\BookHelper.cs" />
     <Compile Include="ExtensionMethods\DateHelper.cs" />
     <Compile Include="ExtensionMethods\ImageBase64Converter.cs" />
+    <Compile Include="ExtensionMethods\StringHelper.cs" />
     <Compile Include="ExtensionMethods\TimeHelper.cs" />
     <Compile Include="Helpers\IntHelper.cs" />
     <Compile Include="IBookReadService.cs" />
