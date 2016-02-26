@@ -56,6 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Source\author-by-minutes.txt" />
+    <Content Include="Source\author-by-rating.txt" />
     <Content Include="Source\author.txt" />
     <Content Include="Source\book-decade.txt" />
     <Content Include="Source\longestBook.txt" />
@@ -70,6 +71,7 @@
     <None Include="Source\2015-11-18 Shelfari.csv" />
     <None Include="Source\2016-02-07 Shelfari.csv" />
     <None Include="Source\2016-02-09 Shelfari.csv" />
+    <None Include="Source\2016-02-26 Shelfari.csv" />
     <None Include="Source\Shelfari.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

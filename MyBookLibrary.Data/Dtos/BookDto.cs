@@ -12,5 +12,6 @@
         public string URL { get; set; }
         public string GoogleBookID { get; set; }
         public string Series { get; set; }
+        public string Ratings { get; set; }
     }
 }

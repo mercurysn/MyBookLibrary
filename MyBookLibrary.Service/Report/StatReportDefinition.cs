@@ -5,7 +5,7 @@ using MyBookLibrary.Service.Model;
 
 namespace MyBookLibrary.Service.Report
 {
-    public class StatReportDefinition
+    public class StatReportDefinition<T>
     {
         public static IDocumentFormatDefinition<Book> BookLengthReportBasicFormat()
         {
@@ -19,15 +19,17 @@ namespace MyBookLibrary.Service.Report
                 .Build();
         }
 
-        public static IDocumentFormatDefinition<BookAggregatedGroup> GenericBookGroupReportFormat()
+        public static IDocumentFormatDefinition<BookAggregatedGroup<T>> GenericBookGroupReportFormat()
         {
-            return new DocumentFormatDefinitionBuilder<BookAggregatedGroup>("\t", true)
+            return new DocumentFormatDefinitionBuilder<BookAggregatedGroup<T>>("\t", true)
                 .SetExportHeaderLine(true, "")
                 .AddColumn(x => x.Field)
                 .AddColumn(x => x.Value, b => b.SetAlignment(ColumnAlignment.Right))
                 .AddColumn(x => x.Books, b => b.SetExportFunc(ConcatBooks))
                 .Build();
         }
+
+        
 
 
 
@@ -36,7 +38,7 @@ namespace MyBookLibrary.Service.Report
             return string.Join(", ", authors);
         }
 
-        public static string ConcatBooks(BookAggregatedGroup group, List<Book> books)
+        public static string ConcatBooks(BookAggregatedGroup<T> group, List<Book> books)
         {
             return string.Join(" | ", books.Select(b => b.Name).ToArray());
         }

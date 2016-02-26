@@ -1,11 +1,11 @@
 Field                             	Value	Books
 Vince Flynn                       	   16	Term Limits | Transfer of Power | Transfer of Power | The Third Option | The Third Option | Executive Power | Executive Power | Memorial Day | Memorial Day | Consent to Kill | Consent to Kill | Act of Treason | Act of Treason | Protect and Defend | Protect and Defend | Extreme Measures | Extreme Measures | Pursuit of Honor | Pursuit of Honor | American Assassin | American Assassin | Separation of Power | Separtion of Power | Kill Shot | Kill Shot | The Last Man | The Last Man | The Survivor
 Patricia Cornwell                 	   15	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
-Douglas Preston                   	   11	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance
-Lincoln Child                     	   11	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | Dance of Death | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Cold Vengeance
+Douglas Preston                   	   12	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves
+Lincoln Child                     	   12	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | Dance of Death | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Cold Vengeance | Two Graves
 Roald Dahl                        	    9	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
 Mark Tufo                         	    9	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning
-Gemma Halliday                    	    8	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Danger in High Heels | Homicide in High Heels
+Gemma Halliday                    	    9	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
 J.K. Rowling                      	    7	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
 Arthur Conan Doyle                	    7	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
 Timothy Zahn                      	    7	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
@@ -16,12 +16,12 @@ Dan Brown                         	    5	Digital Fortress | Angels and Demons | 
 Michael Connelly                  	    5	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Scarecrow
 Sophie Kinsella                   	    5	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
 George R. R. Martin               	    5	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
+James Patterson                   	    5	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel
 J.R.R. Tolkien                    	    4	The Hobbit | The Hobbit | The Fellowship of the Ring | The Fellowship of the Ring | The Two Towers | The Two Towers | The Two Towers | The Return of the King | The Return of the King
 Michael Crichton                  	    4	Jurassic Park | The Lost World | State of Fear | Micro
+Dean Koontz                       	    4	Chase | Phantoms | Lightning | Fear Nothing
 Thomas Harris                     	    4	Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
-James Patterson                   	    4	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse
 Stieg Larsson                     	    3	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
-Dean Koontz                       	    3	Phantoms | Lightning | Fear Nothing
 Suzanne Collins                   	    3	The Hunger Games | The Hunger Games | Catching Fire | Catching Fire | Mockingjay | Mockingjay
 Troy Denning                      	    3	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 Aaron Allston                     	    3	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Conviction
@@ -46,7 +46,7 @@ Henry T Blackaby                  	    1	Experiencing God
 R.A. Salvatore                    	    1	Star Wars Episode II: Attack of the Clones
 Peter Benchley                    	    1	Jaws
 Rick Warren                       	    1	The Purpose Driven Life
-Grances Hodgson Burnett           	    1	The Secret Garden
+Frances Hodgson Burnett           	    1	The Secret Garden
 Neil Gaiman                       	    1	The Graveyard Book
 Bart D. Ehrman                    	    1	Truth and Fiction in the Da Vinci Code
 John Eldredge                     	    1	Walking with God
@@ -86,5 +86,6 @@ William L. Shirer                 	    1	The Rise and Fall of the Third Reich
 Chris Taylor                      	    1	How Star Wars Conquered the Universe
 Alexandar Dumas                   	    1	The Count of Monte Cristo
 Alan Dean Foster                  	    1	Star Wars: The Force Awakens
+Paul Jennings                     	    1	Unbelievable
 Jerry Pournelle                   	    1	The Mote in God's Eyes
 Kyle Mills                        	    1	The Survivor

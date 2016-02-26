@@ -14,12 +14,12 @@ namespace MyBookLibrary.Service
             return books.RemoveDuplicates().OrderByDescending(x => x.Minutes).ToList();
         }
 
-        public static List<BookAggregatedGroup> GroupByAuthorBookCount(this List<Book> books)
+        public static List<BookAggregatedGroup<int>> GroupByAuthorBookCount(this List<Book> books)
         {
             return books
                 .RemoveDuplicates()
                 .GroupBy(b => b.Author[0])
-                .Select(b => new BookAggregatedGroup
+                .Select(b => new BookAggregatedGroup<int>
                 {
                     Field = b.Key,
                     Value = b.Count(),
@@ -29,12 +29,12 @@ namespace MyBookLibrary.Service
                 .ToList();
         }
 
-        public static List<BookAggregatedGroup> GroupByAuthorMinutes(this List<Book> books)
+        public static List<BookAggregatedGroup<int>> GroupByAuthorMinutes(this List<Book> books)
         {
             return books
                 .RemoveDuplicates()
                 .GroupBy(b => b.Author[0])
-                .Select(b => new BookAggregatedGroup
+                .Select(b => new BookAggregatedGroup<int>
                 {
                     Field = b.Key.ToString(),
                     Value = b.Sum(x => x.Minutes),
@@ -44,12 +44,27 @@ namespace MyBookLibrary.Service
                 .ToList();
         }
 
-        public static List<BookAggregatedGroup> GroupBySeries(this List<Book> books)
+        public static List<BookAggregatedGroup<string>> GroupByAuthorRatings(this List<Book> books)
+        {
+            return books
+                .RemoveDuplicates()
+                .GroupBy(b => b.Author[0])
+                .Select(b => new BookAggregatedGroup<string>
+                {
+                    Field = b.Key.ToString(),
+                    Value = (Convert.ToDouble(b.Average(x => x.Ratings))).ToString("#.00"),
+                    Books = books.Where(x => x.Author[0] == b.Key.ToString()).OrderBy(y => y.ReleaseDate).ToList()
+                })
+                .OrderByDescending(b => b.Value)
+                .ToList();
+        }
+
+        public static List<BookAggregatedGroup<int>> GroupBySeries(this List<Book> books)
         {
             return books
                 .RemoveDuplicates()
                 .GroupBy(b => b.Series)
-                .Select(b => new BookAggregatedGroup
+                .Select(b => new BookAggregatedGroup<int>
                 {
                     Field = b.Key,
                     Value = b.Count(),
@@ -59,13 +74,13 @@ namespace MyBookLibrary.Service
                 .ToList();
         }
 
-        public static List<BookAggregatedGroup> GroupByDecade(this List<Book> books)
+        public static List<BookAggregatedGroup<int>> GroupByDecade(this List<Book> books)
         {
             return books
                 .RemoveDuplicates()
                 .ReoveBooksWithoutReleaseDate()
                 .GroupBy(b =>  ((DateTime)b.ReleaseDate).Year.ToDecade())
-                .Select(b => new BookAggregatedGroup
+                .Select(b => new BookAggregatedGroup<int>
                 {
                     Field = b.Key.ToString(),
                     Value = b.Count(),
@@ -75,11 +90,11 @@ namespace MyBookLibrary.Service
                 .ToList();
         }
 
-        public static List<BookAggregatedGroup> YearStats(this List<Book> books)
+        public static List<BookAggregatedGroup<int>> YearStats(this List<Book> books)
         {
             return books
                 .GroupBy(b => ((DateTime)b.DateCompleted).Year)
-                .Select(b => new BookAggregatedGroup
+                .Select(b => new BookAggregatedGroup<int>
                 {
                     Field = b.Key.ToString(),
                     Value = b.Count(),

@@ -49,6 +49,15 @@ namespace MyBookLibrary.IntegrationTests.Report
         }
 
         [Test]
+        public void TestAuthorReportByRating()
+        {
+            string report = StatReporter.GetAuthorRatingsReport(_books);
+
+            Console.WriteLine(report);
+            File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\author-by-rating.txt", report);
+        }
+
+        [Test]
         public void TestGroupByDecadeReport()
         {
             string report = StatReporter.GetDecadeReport(_books);

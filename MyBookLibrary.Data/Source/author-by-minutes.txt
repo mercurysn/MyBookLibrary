@@ -1,10 +1,10 @@
 Field                             	Value	Books
 Vince Flynn                       	12369	Term Limits | Transfer of Power | Transfer of Power | The Third Option | The Third Option | Executive Power | Executive Power | Memorial Day | Memorial Day | Consent to Kill | Consent to Kill | Act of Treason | Act of Treason | Protect and Defend | Protect and Defend | Extreme Measures | Extreme Measures | Pursuit of Honor | Pursuit of Honor | American Assassin | American Assassin | Separation of Power | Separtion of Power | Kill Shot | Kill Shot | The Last Man | The Last Man | The Survivor
 George R. R. Martin               	12094	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
+Douglas Preston                   	10821	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves
+Lincoln Child                     	10821	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | Dance of Death | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Cold Vengeance | Two Graves
 Stephen King                      	10660	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
 Patricia Cornwell                 	10423	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
-Douglas Preston                   	 9837	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance
-Lincoln Child                     	 9837	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | Dance of Death | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Cold Vengeance
 Timothy Zahn                      	 6688	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
 J.K. Rowling                      	 6499	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
 Mark Tufo                         	 5628	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning
@@ -12,19 +12,19 @@ Steve Berry                       	 5544	The Templar Legacy | The Alexandria Lin
 Stephanie Meyer                   	 5261	Twilight | New Moon | Eclipse | The Host | Breaking Dawn
 Dan Brown                         	 4926	Digital Fortress | Angels and Demons | Angels and Demons | The Da Vinci Code | The Da Vinci Code | The Lost Symbol | Inferno
 Robert Ludlum                     	 4764	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
+Gemma Halliday                    	 4336	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
 Arthur Conan Doyle                	 4238	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
 Stieg Larsson                     	 3891	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
-Gemma Halliday                    	 3883	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Danger in High Heels | Homicide in High Heels
 Sophie Kinsella                   	 3774	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
 J.R.R. Tolkien                    	 3745	The Hobbit | The Hobbit | The Fellowship of the Ring | The Fellowship of the Ring | The Two Towers | The Two Towers | The Two Towers | The Return of the King | The Return of the King
 Michael Connelly                  	 3661	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Scarecrow
 Michael Crichton                  	 3561	Jurassic Park | The Lost World | State of Fear | Micro
+James Patterson                   	 3462	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel
 William L. Shirer                 	 3433	The Rise and Fall of the Third Reich
-James Patterson                   	 2857	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse
+Dean Koontz                       	 2677	Chase | Phantoms | Lightning | Fear Nothing
 Alexandar Dumas                   	 2596	The Count of Monte Cristo
 Troy Denning                      	 2542	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 Thomas Harris                     	 2532	Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
-Dean Koontz                       	 2420	Phantoms | Lightning | Fear Nothing
 Neal Stephenson                   	 2314	Reamde
 Christie Golden                   	 2192	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
 Roald Dahl                        	 2134	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
@@ -70,7 +70,7 @@ Ken Follett                       	  556	Eye of the Needle
 Rick Warren                       	  542	The Purpose Driven Life
 Ha-Joon Chang                     	  538	23 Things They Don't Tell you about Capitalism
 William P. Young                  	  512	The Shack
-Grances Hodgson Burnett           	  507	The Secret Garden
+Frances Hodgson Burnett           	  507	The Secret Garden
 Charles R. Swindoll               	  484	Great Lives: Joseph - A Man of Integrity and Forgiveness
 Neil Gaiman                       	  463	The Graveyard Book
 Jules Verne                       	  462	Around the World in 80 Days
@@ -86,5 +86,6 @@ John Buchan                       	  279	The Thirty Nine Steps
 Mitch Albom                       	  278	Five People You Meet in Heaven
 Francis Chan                      	  259	Crazy Love
 Charles Dickens                   	  178	A Christmas Carol
+Paul Jennings                     	  169	Unbelievable
 Washington Irving                 	   75	The Legend of Sleepy Hallow
 Lewis Carroll                     	    0	Alice in Wonderland

@@ -17,6 +17,7 @@ namespace MyBookLibrary.Data.Mappers
             Map(m => m.Series);
             Map(m => m.Pages);
             Map(m => m.URL);
+            Map(m => m.Ratings);
         }
     }
 }
