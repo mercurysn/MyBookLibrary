@@ -41,7 +41,7 @@
                                             <li><a href="#"><i class="fa fa-check"></i>@(book.DateCompleted?.ToString("dd-MMM-yyyy") ?? "Unknown")</a></li>
                                             <li><a href="#"><i class="fa fa-book"></i>@book.Pages pages</a></li>
                                             <li><a href="#"><i class="fa fa-clock-o"></i>@book.Minutes</a></li>
-                                            <li><a href="#"><i class="fa fa-heart"></i>@(book.Ratings?.ToString() ?? "No Ratings")</a></li>
+                                            <li><a href="#"><i class="fa fa-heart"></i>@(book.Ratings?.ToString() ?? "-")</a></li>
                                             <li><a href="#"><i class="fa fa-calendar"></i>@(book.ReleaseDate?.Year.ToString() ?? "Unknown")</a></li>
                                         </ul>
                                     </div>
