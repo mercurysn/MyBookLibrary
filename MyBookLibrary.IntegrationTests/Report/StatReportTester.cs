@@ -17,11 +17,11 @@ namespace MyBookLibrary.IntegrationTests.Report
         [SetUp]
         public void Setup()
         {
-            _books = JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadFile());
+            _books = JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadImageFreeFile());
 
         }
 
-        [Test]
+        [Test, Explicit]
         public void TestLongestBookReport()
         {
             string report = StatReporter.GetLongestBooks(_books);
@@ -30,7 +30,7 @@ namespace MyBookLibrary.IntegrationTests.Report
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\longestBook.txt", report);
         }
 
-        [Test]
+        [Test, Explicit]
         public void TestAuthorReport()
         {
             string report = StatReporter.GetAuthorCountReport(_books);
@@ -39,7 +39,7 @@ namespace MyBookLibrary.IntegrationTests.Report
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\author.txt", report);
         }
 
-        [Test]
+        [Test, Explicit]
         public void TestAuthorReportByMinutes()
         {
             string report = StatReporter.GetAuthorMinutesReport(_books);
@@ -48,7 +48,7 @@ namespace MyBookLibrary.IntegrationTests.Report
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\author-by-minutes.txt", report);
         }
 
-        [Test]
+        [Test, Explicit]
         public void TestAuthorReportByRating()
         {
             string report = StatReporter.GetAuthorRatingsReport(_books);
@@ -57,7 +57,7 @@ namespace MyBookLibrary.IntegrationTests.Report
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\author-by-rating.txt", report);
         }
 
-        [Test]
+        [Test, Explicit]
         public void TestGroupByDecadeReport()
         {
             string report = StatReporter.GetDecadeReport(_books);
@@ -66,7 +66,7 @@ namespace MyBookLibrary.IntegrationTests.Report
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\book-decade.txt", report);
         }
 
-        [Test]
+        [Test, Explicit]
         public void TestYearStatsReport()
         {
             string report = StatReporter.GetYearStatsReport(_books);
@@ -75,7 +75,7 @@ namespace MyBookLibrary.IntegrationTests.Report
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\year-stats.txt", report);
         }
 
-        [Test]
+        [Test, Explicit]
         public void TestSeriesReport()
         {
             string report = StatReporter.GetSeriesReport(_books);

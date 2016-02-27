@@ -2826,4 +2826,6 @@ span.stButton_gradient,
 .book-list-summary-cover {
     min-height: 300px;
     max-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }

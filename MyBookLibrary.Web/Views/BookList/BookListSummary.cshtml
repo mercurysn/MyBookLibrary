@@ -26,7 +26,7 @@
                         <div class="col-md-6 col-sm-12 blog-padding-right">
                             <div class="single-blog two-column">
                                 <div class="post-thumb">
-                                    <a href="blogdetails.html"><img src="@book.CoverUrl" class="img-responsive book-list-summary-cover" alt=""></a>
+                                    <a href="blogdetails.html"><img src="@(Environment.GetEnvironmentVariable("environment") == "loc" ? $"data:image/jpeg;base64,{book.CoverHash}" : book.CoverUrl)" class="img-responsive book-list-summary-cover" alt=""></a>
                                     <div class="post-overlay">
                                         <span class="uppercase"><a href="#">14 <br><small>Feb</small></a></span>
                                     </div>
@@ -38,8 +38,8 @@
                                     </h3>
                                     <div class="post-bottom overflow">
                                         <ul class="nav nav-justified post-nav">
-                                            <li><a href="#"><i class="fa fa-check"></i>@(book.DateCompleted?.ToString("dd/MM/yyyy") ?? "Unknown")</a></li>
-                                            <li><a href="#"><i class="fa fa-book"></i>@book.Pages</a></li>
+                                            <li><a href="#"><i class="fa fa-check"></i>@(book.DateCompleted?.ToString("dd-MMM-yyyy") ?? "Unknown")</a></li>
+                                            <li><a href="#"><i class="fa fa-book"></i>@book.Pages pages</a></li>
                                             <li><a href="#"><i class="fa fa-clock-o"></i>@book.Minutes</a></li>
                                             <li><a href="#"><i class="fa fa-heart"></i>@(book.Ratings?.ToString() ?? "No Ratings")</a></li>
                                             <li><a href="#"><i class="fa fa-calendar"></i>@(book.ReleaseDate?.Year.ToString() ?? "Unknown")</a></li>

@@ -2,6 +2,7 @@
 using MyBookLibrary.Data;
 using MyBookLibrary.Data.Dtos;
 using MyBookLibrary.RestClients;
+using MyBookLibrary.Service.ExtensionMethods;
 using MyBookLibrary.Service.Model;
 using Newtonsoft.Json;
 using RestSharp;
@@ -10,6 +11,13 @@ namespace MyBookLibrary.Service
 {
     public class JsonFileGenerator
     {
+        private readonly IBookReadService _bookReadService;
+
+        public JsonFileGenerator(IBookReadService bookReadService)
+        {
+            _bookReadService = bookReadService;
+        }
+
         public void GenerateJsonDataFile()
         {
             var bookDtos = GetBookDtos();
@@ -19,14 +27,35 @@ namespace MyBookLibrary.Service
             BookDatabaseWriter.SaveToImageFreeFile(JsonConvert.SerializeObject(books, Formatting.Indented));
         }
 
+        public void PersistGoogleBooksDataIntoFile()
+        {
+            var books = _bookReadService.ReadAllFromLocalImageFreeFile();
+
+            books = PersistGoogleBookFields(books);
+
+            BookDatabaseWriter.SaveToFullFile(JsonConvert.SerializeObject(books, Formatting.Indented));
+        }
+
+        public void PersistCoverHashIntoFile()
+        {
+            var books = _bookReadService.ReadAllFromLocalFullFile();
+
+            foreach (var book in books)
+            {
+                book.CoverHash = book.CoverUrl.ToBase64();
+            }
+
+            BookDatabaseWriter.SaveToFullFile(JsonConvert.SerializeObject(books, Formatting.Indented));
+        }
+
         private static List<Book> GetBookModel(List<BookDto> bookDtos)
         {
             List<Book> books = AutoMapper.Mapper.Map<List<Book>>(bookDtos);
 
-            books = PersistGoogleBookFields(books);
-
             return books;
         }
+
+
 
         private static List<Book> PersistGoogleBookFields(List<Book> books)
         {

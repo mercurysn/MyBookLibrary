@@ -4,7 +4,7 @@ namespace MyBookLibrary.Data
 {
     public class BookDatabaseWriter
     {
-        public static void SaveToFile(string json)
+        public static void SaveToFullFile(string json)
         {
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\Book.json", json);
         }
