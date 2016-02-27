@@ -350,7 +350,8 @@
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\fontawesome-webfont.woff2" />
     <Content Include="fonts\FontAwesome.otf" />
-    <None Include="Properties\PublishProfiles\mercury-book-repo.pubxml" />
+    <None Include="Properties\PublishProfiles\mercury-book-repo - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\mercury-book-repo - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\html5shiv.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
