@@ -49,6 +49,13 @@ namespace MyBookLibrary.Service.Report
             return definition.Export(books.YearStats());
         }
 
+        public static string GetYearMonthReport(List<Book> books)
+        {
+            IDocumentFormatDefinition<MonthAggregatedGroup<int>> definition = StatReportDefinition<int>.MonthGroupReportFormat();
+
+            return definition.Export(books.GroupByYearMonth());
+        }
+
         public static string GetSeriesReport(List<Book> books)
         {
             IDocumentFormatDefinition<BookAggregatedGroup<int>> definition = StatReportDefinition<int>.GenericBookGroupReportFormat();

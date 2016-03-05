@@ -103,6 +103,26 @@ namespace MyBookLibrary.Service
                 .OrderBy(b => b.Field)
                 .ToList();
         }
+
+        public static List<MonthAggregatedGroup<int>> GroupByYearMonth(this List<Book> books)
+        {
+            return books
+                .ReoveBooksWithoutDateCompleted()
+                .GroupBy(b => $"{((DateTime) b.DateCompleted).Year.ToString()}-{((DateTime)b.DateCompleted).Month.ToString()}")
+                .Select(b => new MonthAggregatedGroup<int>
+                {
+                    Display = b.Key.ToString(),
+                    YearMonth = b.Key.ToString(),
+                    Year = Convert.ToInt32(b.Key.ToString().Split('-').ElementAt(0)),
+                    Month = Convert.ToInt32(b.Key.ToString().Split('-').ElementAt(1)),
+                    NumberOfBooks = b.Count(),
+                    Minutes = b.Sum(c => c.Minutes),
+                    Pages = b.Sum(c => c.Pages)
+                })
+                .OrderByDescending(b => b.Year)
+                .ThenByDescending(b => b.Month)
+                .ToList();
+        } 
     }
 
     public class BookComparer : IEqualityComparer<Book>

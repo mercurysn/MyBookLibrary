@@ -29,7 +29,17 @@ namespace MyBookLibrary.Service.Report
                 .Build();
         }
 
-        
+        public static IDocumentFormatDefinition<MonthAggregatedGroup<T>> MonthGroupReportFormat()
+        {
+            return new DocumentFormatDefinitionBuilder<MonthAggregatedGroup<T>>("\t", true)
+                .SetExportHeaderLine(true, "")
+                .AddColumn(x => x.Display)
+                .AddColumn(x => x.NumberOfBooks, b => b.SetAlignment(ColumnAlignment.Right))
+                .AddColumn(x => x.Minutes, b => b.SetAlignment(ColumnAlignment.Right))
+                .AddColumn(x => x.Pages, b => b.SetAlignment(ColumnAlignment.Right))
+                .AddColumn(x => x.Books, b => b.SetExportFunc(ConcatBooks))
+                .Build();
+        }
 
 
 
@@ -39,6 +49,11 @@ namespace MyBookLibrary.Service.Report
         }
 
         public static string ConcatBooks(BookAggregatedGroup<T> group, List<Book> books)
+        {
+            return string.Join(" | ", books.Select(b => b.Name).ToArray());
+        }
+
+        public static string ConcatBooks(MonthAggregatedGroup<T> group, List<Book> books)
         {
             return string.Join(" | ", books.Select(b => b.Name).ToArray());
         }

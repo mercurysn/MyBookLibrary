@@ -75,6 +75,15 @@ namespace MyBookLibrary.IntegrationTests.Report
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\year-stats.txt", report);
         }
 
+        [Test]
+        public void TestYearMonthReport()
+        {
+            string report = StatReporter.GetYearMonthReport(_books);
+
+            Console.WriteLine(report);
+            File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\year-month.txt", report);
+        }
+
         [Test, Explicit]
         public void TestSeriesReport()
         {
