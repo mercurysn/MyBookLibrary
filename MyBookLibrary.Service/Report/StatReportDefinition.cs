@@ -35,7 +35,7 @@ namespace MyBookLibrary.Service.Report
                 .SetExportHeaderLine(true, "")
                 .AddColumn(x => x.Display)
                 .AddColumn(x => x.NumberOfBooks, b => b.SetAlignment(ColumnAlignment.Right))
-                .AddColumn(x => x.Minutes, b => b.SetAlignment(ColumnAlignment.Right))
+                .AddColumn(x => x.MinutesDisplay, b => b.SetAlignment(ColumnAlignment.Right))
                 .AddColumn(x => x.Pages, b => b.SetAlignment(ColumnAlignment.Right))
                 .AddColumn(x => x.Books, b => b.SetExportFunc(ConcatBooks))
                 .Build();

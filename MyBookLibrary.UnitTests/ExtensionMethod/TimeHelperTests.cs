@@ -13,5 +13,13 @@ namespace MyBookLibrary.UnitTests.ExtensionMethod
 
             Assert.AreEqual("875", time.ConvertTimeToMinutes());
         }
+
+        [Test]
+        public void Test_ConvertMinuteToHourMinutes()
+        {
+            const int minutes = 875;
+
+            Assert.AreEqual("14h 35m", minutes.ConvertMinuteToHoursMinutes());
+        }
     }
 }

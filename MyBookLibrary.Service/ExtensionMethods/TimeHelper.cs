@@ -18,6 +18,14 @@ namespace MyBookLibrary.Service.ExtensionMethods
             return (hoursInMinutes + minutes).ToString();
         }
 
+        public static string ConvertMinuteToHoursMinutes(this int value)
+        {
+            var hours = (value/60).ToString();
+            var minutes = (value % 60).ToString("00");
+
+            return $"{hours}h {minutes}m";
+        }
+
         private static int ExtractMinutes(string[] splitValue)
         {
             int result;

@@ -117,6 +117,7 @@ namespace MyBookLibrary.Service
                     Month = Convert.ToInt32(b.Key.ToString().Split('-').ElementAt(1)),
                     NumberOfBooks = b.Count(),
                     Minutes = b.Sum(c => c.Minutes),
+                    MinutesDisplay = b.Sum(c => c.Minutes).ConvertMinuteToHoursMinutes(),
                     Pages = b.Sum(c => c.Pages)
                 })
                 .OrderByDescending(b => b.Year)
