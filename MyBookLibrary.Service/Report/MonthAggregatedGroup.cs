@@ -14,6 +14,7 @@ namespace MyBookLibrary.Service.Report
         public int Minutes { get; set; }
         public string MinutesDisplay { get; set; }
         public int Pages { get; set; }
+        public string PagesDisplay { get; set; }
         public List<Book> Books { get; set; }
     }
 }

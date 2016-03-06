@@ -36,7 +36,7 @@ namespace MyBookLibrary.Service.Report
                 .AddColumn(x => x.Display)
                 .AddColumn(x => x.NumberOfBooks, b => b.SetAlignment(ColumnAlignment.Right))
                 .AddColumn(x => x.MinutesDisplay, b => b.SetAlignment(ColumnAlignment.Right))
-                .AddColumn(x => x.Pages, b => b.SetAlignment(ColumnAlignment.Right))
+                .AddColumn(x => x.PagesDisplay, b => b.SetAlignment(ColumnAlignment.Right))
                 .AddColumn(x => x.Books, b => b.SetExportFunc(ConcatBooks))
                 .Build();
         }

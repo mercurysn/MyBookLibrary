@@ -118,7 +118,8 @@ namespace MyBookLibrary.Service
                     NumberOfBooks = b.Count(),
                     Minutes = b.Sum(c => c.Minutes),
                     MinutesDisplay = b.Sum(c => c.Minutes).ConvertMinuteToHoursMinutes(),
-                    Pages = b.Sum(c => c.Pages)
+                    Pages = b.Sum(c => c.Pages),
+                    PagesDisplay = b.Sum(c => c.Pages).ToString("#,##0")
                 })
                 .OrderByDescending(b => b.Year)
                 .ThenByDescending(b => b.Month)
