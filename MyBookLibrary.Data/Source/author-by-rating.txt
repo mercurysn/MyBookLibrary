@@ -1,13 +1,14 @@
 Field                             	Value	Books
 William P. Young                  	 5.00	The Shack
 Andy Weir                         	 5.00	The Martian
+Ernest Cline                      	 5.00	Ready Player One
 Stieg Larsson                     	 4.33	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
-Suzanne Collins                   	 4.33	The Hunger Games | The Hunger Games | Catching Fire | Catching Fire | Mockingjay | Mockingjay
-Vince Flynn                       	 4.25	Term Limits | Transfer of Power | Transfer of Power | The Third Option | The Third Option | Executive Power | Executive Power | Memorial Day | Memorial Day | Consent to Kill | Consent to Kill | Act of Treason | Act of Treason | Protect and Defend | Protect and Defend | Extreme Measures | Extreme Measures | Pursuit of Honor | Pursuit of Honor | American Assassin | American Assassin | Separation of Power | Separtion of Power | Kill Shot | Kill Shot | The Last Man | The Last Man | The Survivor
+Suzanne Collins                   	 4.33	The Hunger Games | Catching Fire | Mockingjay
+Vince Flynn                       	 4.25	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor
 James Patterson                   	 4.20	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel
-J.K. Rowling                      	 4.14	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
+J.K. Rowling                      	 4.14	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Roald Dahl                        	 4.11	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
-J.R.R. Tolkien                    	 4.00	The Hobbit | The Hobbit | The Fellowship of the Ring | The Fellowship of the Ring | The Two Towers | The Two Towers | The Two Towers | The Return of the King | The Return of the King
+J.R.R. Tolkien                    	 4.00	The Hobbit | The Fellowship of the Ring | The Two Towers | The Return of the King
 Michael Crichton                  	 4.00	Jurassic Park | The Lost World | State of Fear | Micro
 Stephen R. Covey                  	 4.00	The 7 Habits of Highly Effective People | The 8th Habit
 Henry T Blackaby                  	 4.00	Experiencing God
@@ -33,13 +34,13 @@ Ken Follett                       	 4.00	Eye of the Needle
 William L. Shirer                 	 4.00	The Rise and Fall of the Third Reich
 Alan Dean Foster                  	 4.00	Star Wars: The Force Awakens
 Paul Jennings                     	 4.00	Unbelievable
+John Grisham                      	 4.00	A Time to Kill
 Timothy Zahn                      	 3.86	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
 Douglas Preston                   	 3.83	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves
 Stephanie Meyer                   	 3.80	Twilight | New Moon | Eclipse | The Host | Breaking Dawn
-Dan Brown                         	 3.80	Digital Fortress | Angels and Demons | Angels and Demons | The Da Vinci Code | The Da Vinci Code | The Lost Symbol | Inferno
+Dan Brown                         	 3.80	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
 Sophie Kinsella                   	 3.80	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
 Mark Tufo                         	 3.78	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning
-Thomas Harris                     	 3.75	Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
 Troy Denning                      	 3.67	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 Christie Golden                   	 3.67	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
 Michael Connelly                  	 3.60	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Scarecrow
@@ -48,6 +49,7 @@ Dean Koontz                       	 3.50	Chase | Phantoms | Lightning | Fear Not
 Max Brooks                        	 3.50	The Zombie Survival Guide | World War Z
 Stephen King                      	 3.50	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
 George R. R. Martin               	 3.40	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
+Thomas Harris                     	 3.40	Black Sunday | Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
 Arthur Conan Doyle                	 3.29	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
 Gemma Halliday                    	 3.22	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
 Steve Berry                       	 3.17	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb

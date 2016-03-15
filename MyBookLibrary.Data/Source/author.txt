@@ -16,11 +16,11 @@ Dan Brown                         	    5	Digital Fortress | Angels and Demons | 
 Michael Connelly                  	    5	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Scarecrow
 Sophie Kinsella                   	    5	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
 George R. R. Martin               	    5	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
+Thomas Harris                     	    5	Black Sunday | Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
 James Patterson                   	    5	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel
 J.R.R. Tolkien                    	    4	The Hobbit | The Hobbit | The Fellowship of the Ring | The Fellowship of the Ring | The Two Towers | The Two Towers | The Two Towers | The Return of the King | The Return of the King
 Michael Crichton                  	    4	Jurassic Park | The Lost World | State of Fear | Micro
 Dean Koontz                       	    4	Chase | Phantoms | Lightning | Fear Nothing
-Thomas Harris                     	    4	Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
 Stieg Larsson                     	    3	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Suzanne Collins                   	    3	The Hunger Games | The Hunger Games | Catching Fire | Catching Fire | Mockingjay | Mockingjay
 Troy Denning                      	    3	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
@@ -87,5 +87,7 @@ Chris Taylor                      	    1	How Star Wars Conquered the Universe
 Alexandar Dumas                   	    1	The Count of Monte Cristo
 Alan Dean Foster                  	    1	Star Wars: The Force Awakens
 Paul Jennings                     	    1	Unbelievable
+John Grisham                      	    1	A Time to Kill
+Ernest Cline                      	    1	Ready Player One
 Jerry Pournelle                   	    1	The Mote in God's Eyes
 Kyle Mills                        	    1	The Survivor

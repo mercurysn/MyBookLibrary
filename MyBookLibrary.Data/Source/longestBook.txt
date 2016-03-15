@@ -57,10 +57,12 @@ Star Wars - Fate of the Jedi: Apocalpyse                	Troy Denning           
 Two Graves                                              	Douglas Preston, Lincoln Child    	    984	  484	Pendergast
 The Charlemagne Pursuit                                 	Steve Berry                       	    982	  528	Cotton Malone
 The Dead Zone                                           	Stephen King                      	    961	  428
+A Time to Kill                                          	John Grisham                      	    958	  515	Jake Brigance
 The Shining                                             	Stephen King                      	    951	  679	The Shining
 Still Life with Crows                                   	Douglas Preston, Lincoln Child    	    949	  435	Pendergast
 The Last Command                                        	Timothy Zahn                      	    947	  467	Star Wars: Thrawn
 The Templar Legacy                                      	Steve Berry                       	    944	  496	Cotton Malone
+Ready Player One                                        	Ernest Cline                      	    941	  374
 Term Limits                                             	Vince Flynn                       	    934	  360	Mitch Rapp
 The Return of the King                                  	J.R.R. Tolkien                    	    926	  416	Lord of the Rings
 The Poet                                                	Michael Connelly                  	    921	  480	Jack McEvoy
@@ -172,6 +174,7 @@ Protect and Defend                                      	Vince Flynn            
 Star Wars - Fate of the Jedi: Outcast                   	Aaron Allston                     	    612	  318	Star Wars: Fate of the Jedi
 Body of Evidence                                        	Patricia Cornwell                 	    610	  256	Scarpetta
 Pop Goes the Weasel                                     	James Patterson                   	    605	  461	Alex Cross
+Black Sunday                                            	Thomas Harris                     	    593	  320
 All That Remains                                        	Patricia Cornwell                 	    590	  416	Scarpetta
 Jaws                                                    	Peter Benchley                    	    579	  311
 1984                                                    	George Orwell                     	    579	  326

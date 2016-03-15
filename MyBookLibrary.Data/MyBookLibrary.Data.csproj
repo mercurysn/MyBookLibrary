@@ -74,6 +74,7 @@
     <None Include="Source\2016-02-07 Shelfari.csv" />
     <None Include="Source\2016-02-09 Shelfari.csv" />
     <None Include="Source\2016-02-26 Shelfari.csv" />
+    <None Include="Source\2016-03-15 Shelfari.csv" />
     <None Include="Source\Shelfari.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

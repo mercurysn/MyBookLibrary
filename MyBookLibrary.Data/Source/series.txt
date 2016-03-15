@@ -38,3 +38,4 @@ Wheel of Time                    	    1	The Eye of the World
 To Kill a Mockingbird            	    1	To Kill a Mockingbird
 Lincoln Rhyme                    	    1	The Bone Collector
 Zomble Fallout                   	    1	Zombie Fallout 8: An Old Beginning
+Jake Brigance                    	    1	A Time to Kill
