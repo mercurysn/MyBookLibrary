@@ -21,10 +21,10 @@ Michael Connelly                  	 3661	The Poet | The Black Echo | The Black I
 Michael Crichton                  	 3561	Jurassic Park | The Lost World | State of Fear | Micro
 James Patterson                   	 3462	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel
 William L. Shirer                 	 3433	The Rise and Fall of the Third Reich
+Thomas Harris                     	 3125	Black Sunday | Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
 Dean Koontz                       	 2677	Chase | Phantoms | Lightning | Fear Nothing
 Alexandar Dumas                   	 2596	The Count of Monte Cristo
 Troy Denning                      	 2542	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
-Thomas Harris                     	 2532	Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
 Neal Stephenson                   	 2314	Reamde
 Christie Golden                   	 2192	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
 Roald Dahl                        	 2134	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
@@ -48,6 +48,8 @@ Kathryn Stockett                  	 1086	The Help
 Henning Mankell                   	 1024	The Fifth Woman
 Nora Roberts                      	 1011	Black Hills
 David Lagercrantz                 	 1006	The Girl in the Spider's Web
+John Grisham                      	  958	A Time to Kill
+Ernest Cline                      	  941	Ready Player One
 Daphne du Maurier                 	  889	Rebecca
 Truman Capote                     	  868	In Cold Blood
 Sean Williams                     	  828	The Old Republic: Fatal Alliance

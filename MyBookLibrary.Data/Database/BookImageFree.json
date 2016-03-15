@@ -6587,5 +6587,80 @@
     "CrowdRating": 0.0,
     "Categories": null,
     "Ratings": 4
+  },
+  {
+    "Id": 0,
+    "Name": "A Time to Kill",
+    "Author": [
+      "John Grisham"
+    ],
+    "Minutes": 958,
+    "DateStarted": "2016-02-25T00:00:00",
+    "DateCompleted": "2016-03-02T00:00:00",
+    "ReleaseDate": "1989-01-01T00:00:00",
+    "Pages": 515,
+    "CoverUrl": "http://covers.booktopia.com.au/big/9780099134015/a-time-to-kill.jpg",
+    "CoverHash": null,
+    "Series": "Jake Brigance",
+    "SeriesOrder": 1.0,
+    "Description": null,
+    "Publisher": null,
+    "Isbn10": null,
+    "Isbn13": null,
+    "GoogleBookId": "Xp39K0c0IaEC",
+    "GoogleBookLink": null,
+    "CrowdRating": 0.0,
+    "Categories": null,
+    "Ratings": 4
+  },
+  {
+    "Id": 0,
+    "Name": "Black Sunday",
+    "Author": [
+      "Thomas Harris"
+    ],
+    "Minutes": 593,
+    "DateStarted": "2016-03-03T00:00:00",
+    "DateCompleted": "2016-03-09T00:00:00",
+    "ReleaseDate": "1975-01-01T00:00:00",
+    "Pages": 320,
+    "CoverUrl": "http://d.gr-assets.com/books/1388540135l/1589614.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": null,
+    "Publisher": null,
+    "Isbn10": null,
+    "Isbn13": null,
+    "GoogleBookId": "AuqPW_YOkO0C",
+    "GoogleBookLink": null,
+    "CrowdRating": 0.0,
+    "Categories": null,
+    "Ratings": 2
+  },
+  {
+    "Id": 0,
+    "Name": "Ready Player One",
+    "Author": [
+      "Ernest Cline"
+    ],
+    "Minutes": 941,
+    "DateStarted": "2016-03-10T00:00:00",
+    "DateCompleted": "2016-03-15T00:00:00",
+    "ReleaseDate": "2011-08-16T00:00:00",
+    "Pages": 374,
+    "CoverUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Ready_Player_One_cover.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": null,
+    "Publisher": null,
+    "Isbn10": null,
+    "Isbn13": null,
+    "GoogleBookId": "4zugGMReN3cC",
+    "GoogleBookLink": null,
+    "CrowdRating": 0.0,
+    "Categories": null,
+    "Ratings": 5
   }
 ]

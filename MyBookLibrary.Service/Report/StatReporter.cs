@@ -25,14 +25,14 @@ namespace MyBookLibrary.Service.Report
         {
             IDocumentFormatDefinition<BookAggregatedGroup<int>> definition = StatReportDefinition<int>.GenericBookGroupReportFormat();
 
-            return definition.Export(books.DenormaliseAuthors().GroupByAuthorMinutes());
+            return definition.Export(books.RemoveDuplicates().DenormaliseAuthors().GroupByAuthorMinutes());
         }
 
         public static string GetAuthorRatingsReport(List<Book> books)
         {
             IDocumentFormatDefinition<BookAggregatedGroup<string>> definition = StatReportDefinition<string>.GenericBookGroupReportFormat();
 
-            return definition.Export(books.DenormaliseAuthors().GroupByAuthorRatings());
+            return definition.Export(books.RemoveDuplicates().DenormaliseAuthors().GroupByAuthorRatings());
         }
 
         public static string GetDecadeReport(List<Book> books)
