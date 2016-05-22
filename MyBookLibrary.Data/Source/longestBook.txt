@@ -108,6 +108,8 @@ The 7 Habits of Highly Effective People                 	Stephen R. Covey       
 Star Wars - Fate of the Jedi: Conviction                	Aaron Allston                     	    777	  380	Star Wars: Fate of the Jedi
 Wheels of Darkness                                      	Douglas Preston, Lincoln Child    	    777	  388	Pendergast
 Twilight                                                	Stephanie Meyer                   	    776	  498	Twilight
+White Fire                                              	Douglas Preston, Lincoln Child    	    774	  368	Pendergast
+The Last Coyote                                         	Michael Connelly                  	    772	  400	Harry Bosch
 Allegiance                                              	Timothy Zahn                      	    768	  336
 Blow Fly                                                	Patricia Cornwell                 	    763	  526	Scarpetta
 Fear Nothing                                            	Dean Koontz                       	    759	  373
@@ -203,6 +205,7 @@ Around the World in 80 Days                             	Jules Verne            
 Homicide in High Heels                                  	Gemma Halliday                    	    458	  213	High Heels
 Deadly in High Heels                                    	Gemma Halliday                    	    453	  215	High Heels
 His Last Bow                                            	Arthur Conan Doyle                	    451	  242
+Roses Are Red                                           	James Patterson                   	    451	  416	Alex Cross
 Einstein: His Life and Universe                         	Walter Isaacson                   	    438	  704
 Truth and Fiction in the Da Vinci Code                  	Bart D. Ehrman                    	    427	  240
 Hannibal Rising                                         	Thomas Harris                     	    424	  323	Hannibal
@@ -210,10 +213,12 @@ Walking with God                                        	John Eldredge          
 Danger in High Heels                                    	Gemma Halliday                    	    421	  192	High Heels
 The Art of Racing in the Rain                           	Garth Stein                       	    417	  321
 Treasure Island                                         	Robert Louis Stevenson            	    403	  292
+Unbreakable Bond                                        	Gemma Halliday, Jennifer Fischetto	    385	  184	Jamie Bond
 The Hound of the Baskervilles                           	Arthur Conan Doyle                	    378	  359
 War of the Worlds                                       	H. G. Wells                       	    373	  303
 The Valley of Fear                                      	Arthur Conan Doyle                	    367	  320
 And Then There Were None                                	Agatha Christie                   	    362	  256
+Demon Seed                                              	Dean Koontz                       	    357	  301
 Peter Pan                                               	J. M. Barrie                      	    340	  267
 Psycho                                                  	Robert Bloch                      	    322	  185	Psycho
 Fearless in High Heels                                  	Gemma Halliday                    	    320	  186	High Heels
