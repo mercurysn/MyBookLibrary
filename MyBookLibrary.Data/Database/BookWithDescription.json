@@ -3369,15 +3369,17 @@
     "CoverHash": null,
     "Series": "",
     "SeriesOrder": 0.0,
-    "Description": null,
-    "Publisher": null,
-    "Isbn10": null,
-    "Isbn13": null,
-    "GoogleBookId": "_do7AQAAQBAJ",
-    "GoogleBookLink": null,
+    "Description": "Published in 1904, Doyle's The Return of Sherlock Holmes revives his famous character Holmes after his deadly encounter with the wicked Professor Moriarty in The Adventure of the Empty House. The collection contains stories such well-loved tales as The Adventure of the Six Napoleons and The Adventure of Black Peter.",
+    "Publisher": "ReadHowYouWant.com",
+    "Isbn10": "1427055475",
+    "Isbn13": "9781427055477",
+    "GoogleBookId": "fbhBUwPO0dQC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/fbhBUwPO0dQC",
     "CrowdRating": 0.0,
-    "GoogleError": true,
-    "Categories": null,
+    "GoogleError": false,
+    "Categories": [
+      "Fiction / Mystery & Detective / Collections & Anthologies"
+    ],
     "Ratings": 4
   },
   {
