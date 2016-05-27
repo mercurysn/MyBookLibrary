@@ -34,6 +34,7 @@ namespace MyBookLibrary.Service.Mapper
                 .ForMember(dest => dest.GoogleBookLink, src => src.Ignore())
                 .ForMember(dest => dest.Categories, src => src.Ignore())
                 .ForMember(dest => dest.CrowdRating, src => src.Ignore())
+                .ForMember(dest => dest.GoogleError, src => src.Ignore())
                 ;
 
 

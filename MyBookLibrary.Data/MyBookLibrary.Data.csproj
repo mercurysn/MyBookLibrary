@@ -68,6 +68,7 @@
     <None Include="Database\2015-11-18 Book.json" />
     <None Include="Database\Book.json" />
     <None Include="Database\BookImageFree.json" />
+    <None Include="Database\BookWithDescription.json" />
     <None Include="Database\BookWithImage.json" />
     <None Include="Database\copy-job.bat" />
     <None Include="packages.config" />

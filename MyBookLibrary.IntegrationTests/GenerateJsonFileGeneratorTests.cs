@@ -14,12 +14,20 @@ namespace MyBookLibrary.IntegrationTests
             Mapper.Initialize(cfg => cfg.AddProfile(new MapToModelProfile()));
         }
 
-        [Test]
+        [Test, Explicit]
         public void FileGeneration()
         {
             JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService());
 
             fileGenerator.GenerateJsonDataFile();
+        }
+
+        [Test]
+        public void PersistGoogleBooksData()
+        {
+            JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService());
+
+            fileGenerator.PersistGoogleBooksDataIntoFile();
         }
 
         [Test, Explicit]
@@ -30,12 +38,6 @@ namespace MyBookLibrary.IntegrationTests
             fileGenerator.PersistCoverHashIntoFile();
         }
 
-        [Test, Explicit]
-        public void PersistGoogleBooksData()
-        {
-            JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService());
-
-            fileGenerator.PersistGoogleBooksDataIntoFile();
-        }
+        
     }
 }

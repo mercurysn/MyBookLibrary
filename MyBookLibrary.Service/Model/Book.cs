@@ -24,6 +24,7 @@ namespace MyBookLibrary.Service.Model
         public string GoogleBookId { get; set; }
         public string GoogleBookLink { get; set; }
         public decimal CrowdRating { get; set; }
+        public bool GoogleError { get; set; }
         public List<string> Categories { get; set; }
         public int? Ratings { get; set; }
 
