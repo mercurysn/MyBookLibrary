@@ -50,7 +50,6 @@ namespace MyBookLibrary.Service
 
             foreach (var book in fullFileBooks)
             {
-                if (string.IsNullOrWhiteSpace(book.CoverHash))
                     book.CoverHash = book.CoverUrl.ToBase64();
             }
 

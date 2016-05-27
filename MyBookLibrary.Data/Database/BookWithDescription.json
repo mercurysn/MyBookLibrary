@@ -22,6 +22,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/iF83AwEACAAJ",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / General"
     ],
@@ -50,6 +51,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/IM1nVGX7XU0C",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Historical"
     ],
@@ -78,6 +80,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/OQluPwAACAAJ",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -104,6 +107,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/0F1hBQAAQBAJ",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / General",
       "Fiction / Thrillers / Suspense"
@@ -133,6 +137,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/26ev_abfrU8C",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Biography & Autobiography / General"
     ],
@@ -161,6 +166,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/YqWiofFa9u0C",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Action & Adventure",
       "Fiction / Thrillers / Suspense"
@@ -190,6 +196,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/TUVjJcCX3eQC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / General"
     ],
@@ -218,6 +225,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/gCtazG4ZXlQC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / General",
       "Juvenile Fiction / Action & Adventure / General",
@@ -252,6 +260,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/filhBQAAQBAJ",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / General",
       "Fiction / Mystery & Detective / General",
@@ -282,6 +291,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/KKFTfEQ8bRAC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / General",
       "Juvenile Fiction / Action & Adventure / General",
@@ -316,6 +326,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/Vlie5OyfQLwC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / General",
       "Juvenile Fiction / General"
@@ -346,6 +357,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/lKt5laoj1coC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Science Fiction / General"
     ],
@@ -374,6 +386,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -400,6 +413,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/qaKkenvL29UC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / General",
       "Juvenile Fiction / Action & Adventure / General",
@@ -434,6 +448,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/xFr92V2k3PIC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Fantasy / Epic",
       "Fiction / Fairy Tales, Folk Tales, Legends & Mythology",
@@ -465,6 +480,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/0zlhBQAAQBAJ",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / General",
       "Fiction / Mystery & Detective / General",
@@ -496,6 +512,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/d5xgYw4Ts0gC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense",
       "Fiction / Thrillers / General"
@@ -525,6 +542,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/dPGH7o9NdB0C",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense"
     ],
@@ -553,6 +571,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/s8l5ApOH2CwC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / General",
       "Fiction / Thrillers / Suspense"
@@ -582,6 +601,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/2i98Wf4aO8kC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense"
     ],
@@ -610,6 +630,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/gOaUyBGAI9AC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Mystery & Detective / General",
       "Fiction / Crime"
@@ -639,6 +660,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/Zr2oJPMnGQMC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / General"
     ],
@@ -667,6 +689,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/Gd24H39VwBcC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense"
     ],
@@ -695,6 +718,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/UraJfjMXYV0C",
     "CrowdRating": 5.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Fantasy / Epic",
       "Fiction / Fairy Tales, Folk Tales, Legends & Mythology",
@@ -725,6 +749,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/ivzfRJGrdFsC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense",
       "Fiction / Thrillers / General"
@@ -754,6 +779,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/ivzfRJGrdFsC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense",
       "Fiction / Thrillers / General"
@@ -783,6 +809,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/bEjboR018YYC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / General",
       "Juvenile Fiction / General"
@@ -812,6 +839,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/dQkFLM8_5ZEC",
     "CrowdRating": 5.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Fantasy / Epic",
       "Fiction / Fairy Tales, Folk Tales, Legends & Mythology",
@@ -842,6 +870,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/QcVUqyfPj7oC",
     "CrowdRating": 5.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Mystery & Detective / General"
     ],
@@ -870,6 +899,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/sl-WlVneiYIC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Crime",
       "Fiction / Thrillers / Suspense",
@@ -900,6 +930,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/Ab-c_4vHZuIC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / General",
       "Juvenile Fiction / General"
@@ -929,6 +960,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/PuQ3ITwH4DAC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense"
     ],
@@ -957,6 +989,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/fcwFK82FOzgC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense",
       "Fiction / Horror"
@@ -986,6 +1019,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/H_Qk684J9OQC",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Mystery & Detective / Traditional",
       "Fiction / Thrillers / Suspense",
@@ -1019,6 +1053,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/sy7yyjzeke4C",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense"
     ],
@@ -1047,6 +1082,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/c3lANwAACAAJ",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Mystery & Detective / General",
       "Fiction / Thrillers / General"
@@ -1076,6 +1112,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/6z87CQAAQBAJ",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense",
       "Fiction / Thrillers / General",
@@ -1107,6 +1144,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/wXYuLuPnY2UC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Horror",
       "Fiction / Thrillers / Suspense"
@@ -1136,6 +1174,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/upUxaNWSaRIC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Business & Economics / General",
       "Business & Economics / Organizational Behavior",
@@ -1167,6 +1206,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/lGjFtMRqp_YC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / General",
       "Juvenile Fiction / General"
@@ -1196,6 +1236,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/TUhjpwAACAAJ",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Espionage",
       "Fiction / Horror",
@@ -1227,6 +1268,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/AbQXSDAZQLwC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Science / Astronomy",
       "Science / Cosmology",
@@ -1257,6 +1299,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/klg0BNzAq6IC",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1283,6 +1326,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/wHlDzHnt6x0C",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / General",
       "Juvenile Fiction / Action & Adventure / General",
@@ -1317,6 +1361,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/B63l8_yh2BkC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense"
     ],
@@ -1345,6 +1390,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": true,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1371,6 +1417,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/G8kdAgAAQBAJ",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / General",
       "Juvenile Fiction / Action & Adventure / General"
@@ -1400,6 +1447,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/HHAkrdifnMoC",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / General"
     ],
@@ -1428,6 +1476,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/H6DPdKWoyEUC",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Science Fiction / General"
     ],
@@ -1456,6 +1505,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/LpeVNAEACAAJ",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1482,6 +1532,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/JtZaP8AWwkcC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Religion / Christian Life / Spiritual Growth"
     ],
@@ -1510,6 +1561,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/h62hbrZbaXAC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / Action & Adventure / General",
       "Juvenile Fiction / Media Tie-In"
@@ -1539,6 +1591,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/F2xu1nZOzKoC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1565,6 +1618,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/nmzpzTQQKZAC",
     "CrowdRating": 5.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / Media Tie-In",
       "Juvenile Fiction / Fantasy & Magic"
@@ -1594,6 +1648,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/q2eOiOexY9UC",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Science Fiction / General"
     ],
@@ -1622,6 +1677,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/cG7CjP1Gd-AC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense"
     ],
@@ -1650,6 +1706,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/m3XJ3x0cFsYC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Religion / Christian Life / Spiritual Growth",
       "Self-Help / Personal Growth / Success",
@@ -1680,6 +1737,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": true,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1706,6 +1764,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/dW9Du-7cSnUC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / Classics"
     ],
@@ -1734,6 +1793,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/hgnEk_vyvUEC",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1760,6 +1820,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/ahdykgEACAAJ",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1786,6 +1847,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/QpNKcdZKYvoC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "History / Ancient / General",
       "Religion / Christianity / History",
@@ -1817,6 +1879,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/oM2FRyqFxkwC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Religion / Spirituality"
     ],
@@ -1845,6 +1908,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/14LMPgAACAAJ",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1871,6 +1935,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/102lZa2nM1EC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Religion / Christian Life / General",
       "Religion / Christian Life / Spiritual Growth",
@@ -1901,6 +1966,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/CkSXAgAAQBAJ",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / Classics",
       "Juvenile Fiction / Action & Adventure / General",
@@ -1931,6 +1997,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/wrOQLV6xB-wC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / General",
       "Juvenile Fiction / Action & Adventure / General",
@@ -1965,6 +2032,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/UzPUoSk3EHYC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense"
     ],
@@ -1993,6 +2061,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2019,6 +2088,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2045,6 +2115,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2071,6 +2142,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2097,6 +2169,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2123,6 +2196,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2149,6 +2223,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2175,6 +2250,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2201,6 +2277,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2227,6 +2304,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2253,6 +2331,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2279,6 +2358,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2305,6 +2385,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2331,6 +2412,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2357,6 +2439,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2383,6 +2466,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2409,6 +2493,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2435,6 +2520,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2461,6 +2547,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2487,6 +2574,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2513,6 +2601,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2539,6 +2628,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2565,6 +2655,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2591,6 +2682,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2617,6 +2709,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2643,6 +2736,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2669,6 +2763,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2695,6 +2790,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2721,6 +2817,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2747,6 +2844,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2773,6 +2871,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2799,6 +2898,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2825,6 +2925,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2851,6 +2952,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2877,6 +2979,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2903,6 +3006,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2929,6 +3033,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2955,6 +3060,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2981,6 +3087,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3007,6 +3114,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3033,6 +3141,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/d5xgYw4Ts0gC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense",
       "Fiction / Thrillers / General"
@@ -3062,6 +3171,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/wrOQLV6xB-wC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / General",
       "Juvenile Fiction / Action & Adventure / General",
@@ -3096,6 +3206,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3122,6 +3233,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/wHlDzHnt6x0C",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / General",
       "Juvenile Fiction / Action & Adventure / General",
@@ -3156,6 +3268,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3182,6 +3295,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3208,6 +3322,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3234,6 +3349,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3260,6 +3376,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/kA6Edy_qm1IC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Contemporary Women",
       "Fiction / General",
@@ -3291,6 +3408,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/ZfiREZrremoC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Fantasy / Epic",
       "Fiction / Action & Adventure",
@@ -3321,6 +3439,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/G1RpNwAACAAJ",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Science Fiction / General"
     ],
@@ -3349,6 +3468,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/5s7FycWq59gC",
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Mystery & Detective / Collections & Anthologies"
     ],
@@ -3377,6 +3497,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/fbhBUwPO0dQC",
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Mystery & Detective / Collections & Anthologies"
     ],
@@ -3405,6 +3526,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/0WG2nQEACAAJ",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3431,6 +3553,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/rR3U1dINYY4C",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Mystery & Detective / General",
       "Fiction / General",
@@ -3461,6 +3584,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3487,6 +3611,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3513,6 +3638,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3539,6 +3665,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -3565,6 +3692,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 1
   },
@@ -3591,6 +3719,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3617,6 +3746,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3643,6 +3773,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3669,6 +3800,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3695,6 +3827,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3721,6 +3854,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3747,6 +3881,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3773,6 +3908,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3799,6 +3935,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3825,6 +3962,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3851,6 +3989,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3878,6 +4017,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -3904,6 +4044,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3930,6 +4071,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3956,6 +4098,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3982,6 +4125,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4008,6 +4152,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4035,6 +4180,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4061,6 +4207,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4087,6 +4234,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -4113,6 +4261,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4139,6 +4288,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -4165,6 +4315,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4191,6 +4342,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4217,6 +4369,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4243,6 +4396,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4269,6 +4423,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4296,6 +4451,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -4322,6 +4478,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4348,6 +4505,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4374,6 +4532,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4400,6 +4559,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4426,6 +4586,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4452,6 +4613,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4479,6 +4641,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4505,6 +4668,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4531,6 +4695,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4557,6 +4722,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4583,6 +4749,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4609,6 +4776,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -4635,6 +4803,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4661,6 +4830,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4688,6 +4858,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4714,6 +4885,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4740,6 +4912,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4766,6 +4939,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4792,6 +4966,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4818,6 +4993,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4844,6 +5020,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4870,6 +5047,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4896,6 +5074,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4922,6 +5101,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4948,6 +5128,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4974,6 +5155,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5000,6 +5182,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5026,6 +5209,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5052,6 +5236,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5078,6 +5263,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5104,6 +5290,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5130,6 +5317,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5157,6 +5345,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5183,6 +5372,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5209,6 +5399,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5235,6 +5426,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 1
   },
@@ -5261,6 +5453,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5287,6 +5480,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -5313,6 +5507,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5339,6 +5534,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5365,6 +5561,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5391,6 +5588,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5417,6 +5615,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -5443,6 +5642,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5469,6 +5669,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/UzPUoSk3EHYC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense"
     ],
@@ -5497,6 +5698,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5523,6 +5725,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5549,6 +5752,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5575,6 +5779,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -5601,6 +5806,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5627,6 +5833,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5653,6 +5860,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 1
   },
@@ -5680,6 +5888,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5706,6 +5915,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5732,6 +5942,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5758,6 +5969,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5784,6 +5996,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5810,6 +6023,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5836,6 +6050,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5862,6 +6077,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5888,6 +6104,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/9HIC6vE0uHcC",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / General"
     ],
@@ -5917,6 +6134,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5943,6 +6161,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5969,6 +6188,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5995,6 +6215,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6021,6 +6242,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6047,6 +6269,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6073,6 +6296,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6099,6 +6323,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6125,6 +6350,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -6151,6 +6377,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -6178,6 +6405,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6204,6 +6432,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6230,6 +6459,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6256,6 +6486,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6282,6 +6513,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6308,6 +6540,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6334,6 +6567,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -6360,6 +6594,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6386,6 +6621,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6413,6 +6649,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/9Yk1BgAAQBAJ",
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense"
     ],
@@ -6441,6 +6678,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -6468,6 +6706,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6494,6 +6733,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6520,6 +6760,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6546,6 +6787,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6572,6 +6814,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6598,6 +6841,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6624,6 +6868,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6650,6 +6895,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6676,6 +6922,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6703,6 +6950,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6729,6 +6977,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6755,6 +7004,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/h62hbrZbaXAC",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / Action & Adventure / General",
       "Juvenile Fiction / Media Tie-In"
@@ -6784,6 +7034,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": true,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6810,6 +7061,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/G8kdAgAAQBAJ",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / General",
       "Juvenile Fiction / Action & Adventure / General"
@@ -6839,6 +7091,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6865,6 +7118,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6891,6 +7145,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6917,6 +7172,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 1
   },
@@ -6943,6 +7199,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6969,6 +7226,7 @@
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6995,6 +7253,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/BFH1qvbEi40C",
     "CrowdRating": 5.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / General",
       "Fiction / General",
@@ -7026,6 +7285,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/MqCh8fLRUcQC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / General"
     ],
@@ -7054,6 +7314,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/8XGxBgAAQBAJ",
     "CrowdRating": 4.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Mystery & Detective / Cozy",
       "Fiction / Mystery & Detective / Women Sleuths",
@@ -7086,6 +7347,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/I5lf2DeYMH8C",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Horror"
     ],
@@ -7114,6 +7376,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/yDfThYbJGrYC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Juvenile Fiction / Humorous Stories"
     ],
@@ -7142,6 +7405,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/Xp39K0c0IaEC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / Suspense",
       "Fiction / Thrillers / General"
@@ -7171,6 +7435,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/AuqPW_YOkO0C",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Literary",
       "Fiction / General"
@@ -7200,6 +7465,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/4zugGMReN3cC",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / General"
     ],
@@ -7228,6 +7494,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/DDQdswEACAAJ",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -7254,6 +7521,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/DLtOEUTcPtgC",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Thrillers / General",
       "Fiction / Thrillers / Suspense"
@@ -7284,6 +7552,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/XxiDAgAAQBAJ",
     "CrowdRating": 3.5,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Mystery & Detective / General"
     ],
@@ -7313,6 +7582,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/yuu5BgAAQBAJ",
     "CrowdRating": 4.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Romance / Suspense",
       "Fiction / Mystery & Detective / Women Sleuths",
@@ -7345,6 +7615,7 @@
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/iXU3IMWNDCkC",
     "CrowdRating": 3.0,
     "GoogleError": false,
+    "ImageError": false,
     "Categories": [
       "Fiction / Crime",
       "Fiction / Mystery & Detective / General"
