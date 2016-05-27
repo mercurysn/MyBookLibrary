@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using MyBookLibrary.Data;
 using MyBookLibrary.Data.Dtos;
 using MyBookLibrary.RestClients;
@@ -29,23 +30,31 @@ namespace MyBookLibrary.Service
 
         public void PersistGoogleBooksDataIntoFile()
         {
-            var books = _bookReadService.ReadAllFromLocalImageFreeFile();
+            var imageFreeBooks = _bookReadService.ReadAllFromLocalWithImageFile();
 
-            books = PersistGoogleBookFields(books);
+            var fullFileBooks = _bookReadService.ReadAllFromLocalFullFile();
 
-            BookDatabaseWriter.SaveToFullFile(JsonConvert.SerializeObject(books, Formatting.Indented));
+            fullFileBooks = fullFileBooks.PersistNewBookToList(imageFreeBooks);
+
+            //fullFileBooks = PersistGoogleBookFields(fullFileBooks);
+
+            BookDatabaseWriter.SaveToFullFile(JsonConvert.SerializeObject(fullFileBooks, Formatting.Indented));
         }
+
+        
 
         public void PersistCoverHashIntoFile()
         {
-            var books = _bookReadService.ReadAllFromLocalFullFile();
+            var imageFreeBooks = _bookReadService.ReadAllFromLocalImageFreeFile();
 
-            foreach (var book in books)
+            var withImageBooks = _bookReadService.ReadAllFromLocalWithImageFile().PersistNewBookToList(imageFreeBooks);
+
+            foreach (var book in withImageBooks)
             {
                 book.CoverHash = book.CoverUrl.ToBase64();
             }
 
-            BookDatabaseWriter.SaveToFullFile(JsonConvert.SerializeObject(books, Formatting.Indented));
+            BookDatabaseWriter.SaveToWithImageFile(JsonConvert.SerializeObject(withImageBooks, Formatting.Indented));
         }
 
         private static List<Book> GetBookModel(List<BookDto> bookDtos)

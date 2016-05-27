@@ -62,5 +62,22 @@ namespace MyBookLibrary.Service.ExtensionMethods
 
             return books;
         }
+
+        public static List<Book> PersistNewBookToList(this List<Book> destinationBookList, List<Book> sourceBookList)
+        {
+            if (sourceBookList == null || sourceBookList.Count == 0)
+                return destinationBookList;
+
+            if (destinationBookList == null || destinationBookList.Count == 0)
+                return sourceBookList;
+
+            foreach (var imageFreeBook in sourceBookList)
+            {
+                if (destinationBookList.All(b => b.Name != imageFreeBook.Name))
+                    destinationBookList.Add(imageFreeBook);
+            }
+
+            return destinationBookList;
+        }
     }
 }

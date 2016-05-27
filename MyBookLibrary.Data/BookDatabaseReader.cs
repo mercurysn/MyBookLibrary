@@ -11,7 +11,12 @@ namespace MyBookLibrary.Data
 
         public static string ReadFullFile()
         {
-            return File.ReadAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\BookImageFree.json");
+            return File.ReadAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\Book.json");
+        }
+
+        public static string ReadWithImageFile()
+        {
+            return File.ReadAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\BookWithImage.json");
         }
     }
 }

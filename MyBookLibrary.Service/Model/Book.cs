@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace MyBookLibrary.Service.Model
 {
-    public class Book
+    public class Book : IEquatable<Book>
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -26,5 +26,18 @@ namespace MyBookLibrary.Service.Model
         public decimal CrowdRating { get; set; }
         public List<string> Categories { get; set; }
         public int? Ratings { get; set; }
+
+        public override bool Equals(object obj)
+        {
+            return this.Equals(obj as Book);
+        }
+
+        public bool Equals(Book other)
+        {
+            if (other == null)
+                return false;
+
+            return Name == other.Name;
+        }
     }
 }

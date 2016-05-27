@@ -23,19 +23,19 @@ namespace MyBookLibrary.IntegrationTests
         }
 
         [Test, Explicit]
-        public void PersistGoogleBooksData()
-        {
-            JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService());
-
-            fileGenerator.PersistGoogleBooksDataIntoFile();
-        }
-
-        [Test, Explicit]
         public void PersistCoverHashData()
         {
             JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService());
 
             fileGenerator.PersistCoverHashIntoFile();
+        }
+
+        [Test, Explicit]
+        public void PersistGoogleBooksData()
+        {
+            JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService());
+
+            fileGenerator.PersistGoogleBooksDataIntoFile();
         }
     }
 }
