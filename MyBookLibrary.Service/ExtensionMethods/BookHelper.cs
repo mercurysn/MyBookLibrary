@@ -75,6 +75,11 @@ namespace MyBookLibrary.Service.ExtensionMethods
             {
                 if (destinationBookList.All(b => b.Name != imageFreeBook.Name))
                     destinationBookList.Add(imageFreeBook);
+
+                var destinationBook = destinationBookList.FirstOrDefault(b => b.Name == imageFreeBook.Name);
+
+                if (destinationBook != null && destinationBook.GoogleBookId != imageFreeBook.GoogleBookId && !string.IsNullOrWhiteSpace(imageFreeBook.GoogleBookId))
+                    destinationBook.GoogleBookId = imageFreeBook.GoogleBookId;
             }
 
             return destinationBookList;

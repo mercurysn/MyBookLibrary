@@ -90,6 +90,7 @@ namespace MyBookLibrary.Service
                 book.GoogleBookLink = googleBook.selfLink;
                 book.Categories = googleBook.VolumeInfo.Categories;
                 book.CrowdRating = googleBook.VolumeInfo.averageRating;
+                book.GoogleError = false;
             }
 
             return books;
