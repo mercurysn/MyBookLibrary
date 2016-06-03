@@ -52,6 +52,7 @@
     <Compile Include="ExtensionMethod\BookHelperTests.cs" />
     <Compile Include="ExtensionMethod\DateHelperTests.cs" />
     <Compile Include="ExtensionMethod\TimeHelperTests.cs" />
+    <Compile Include="Model\BookModelTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

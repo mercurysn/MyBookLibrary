@@ -62,5 +62,27 @@ namespace MyBookLibrary.Service.ExtensionMethods
 
             return books;
         }
+
+        public static List<Book> PersistNewBookToList(this List<Book> destinationBookList, List<Book> sourceBookList)
+        {
+            if (sourceBookList == null || sourceBookList.Count == 0)
+                return destinationBookList;
+
+            if (destinationBookList == null || destinationBookList.Count == 0)
+                return sourceBookList;
+
+            foreach (var imageFreeBook in sourceBookList)
+            {
+                if (destinationBookList.All(b => b.Name != imageFreeBook.Name))
+                    destinationBookList.Add(imageFreeBook);
+
+                var destinationBook = destinationBookList.FirstOrDefault(b => b.Name == imageFreeBook.Name);
+
+                if (destinationBook != null && destinationBook.GoogleBookId != imageFreeBook.GoogleBookId && !string.IsNullOrWhiteSpace(imageFreeBook.GoogleBookId))
+                    destinationBook.GoogleBookId = imageFreeBook.GoogleBookId;
+            }
+
+            return destinationBookList;
+        }
     }
 }

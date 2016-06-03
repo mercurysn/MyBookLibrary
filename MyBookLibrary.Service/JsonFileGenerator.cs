@@ -1,4 +1,6 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
+using System.Threading;
 using MyBookLibrary.Data;
 using MyBookLibrary.Data.Dtos;
 using MyBookLibrary.RestClients;
@@ -29,23 +31,29 @@ namespace MyBookLibrary.Service
 
         public void PersistGoogleBooksDataIntoFile()
         {
-            var books = _bookReadService.ReadAllFromLocalImageFreeFile();
+            var imageFreeBooks = _bookReadService.ReadAllFromLocalImageFreeFile();
 
-            books = PersistGoogleBookFields(books);
+            var withImageBooks = _bookReadService.ReadAllFromLocalWithDescriptionFile().PersistNewBookToList(imageFreeBooks);
 
-            BookDatabaseWriter.SaveToFullFile(JsonConvert.SerializeObject(books, Formatting.Indented));
+            withImageBooks = PersistGoogleBookFields(withImageBooks);
+
+            BookDatabaseWriter.SaveToWithDescriptionFile(JsonConvert.SerializeObject(withImageBooks, Formatting.Indented));
         }
+
+        
 
         public void PersistCoverHashIntoFile()
         {
-            var books = _bookReadService.ReadAllFromLocalFullFile();
+            var withDescriptionBooks = _bookReadService.ReadAllFromLocalWithDescriptionFile();
 
-            foreach (var book in books)
+            var fullFileBooks = _bookReadService.ReadAllFromLocalFullFile().PersistNewBookToList(withDescriptionBooks); ;
+
+            foreach (var book in fullFileBooks)
             {
-                book.CoverHash = book.CoverUrl.ToBase64();
+                    book.CoverHash = book.CoverUrl.ToBase64();
             }
 
-            BookDatabaseWriter.SaveToFullFile(JsonConvert.SerializeObject(books, Formatting.Indented));
+            BookDatabaseWriter.SaveToFullFile(JsonConvert.SerializeObject(fullFileBooks, Formatting.Indented));
         }
 
         private static List<Book> GetBookModel(List<BookDto> bookDtos)
@@ -61,12 +69,18 @@ namespace MyBookLibrary.Service
         {
             foreach (var book in books)
             {
-                if (string.IsNullOrWhiteSpace(book.GoogleBookId))
-                    break;
+                if (string.IsNullOrWhiteSpace(book.GoogleBookId) || !string.IsNullOrWhiteSpace(book.Description))
+                    continue;
 
                 GoogleBooksClient client = new GoogleBooksClient("https://www.googleapis.com");
 
                 var googleBook = client.GetGoogleBookApiResult(string.Format("books/v1/volumes/{0}?key=AIzaSyDhHJkRg7Yv6Z4hpw0OGsuMUl_WIlWpj20", book.GoogleBookId), Method.GET);
+
+                if (googleBook?.VolumeInfo == null)
+                {
+                    book.GoogleError = true;
+                    continue;
+                }
 
                 book.Description = googleBook.VolumeInfo.Description;
                 book.Publisher = googleBook.VolumeInfo.Publisher;
@@ -75,6 +89,7 @@ namespace MyBookLibrary.Service
                 book.GoogleBookLink = googleBook.selfLink;
                 book.Categories = googleBook.VolumeInfo.Categories;
                 book.CrowdRating = googleBook.VolumeInfo.averageRating;
+                book.GoogleError = false;
             }
 
             return books;

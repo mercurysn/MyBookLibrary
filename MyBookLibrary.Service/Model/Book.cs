@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace MyBookLibrary.Service.Model
 {
-    public class Book
+    public class Book : IEquatable<Book>
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -24,7 +24,22 @@ namespace MyBookLibrary.Service.Model
         public string GoogleBookId { get; set; }
         public string GoogleBookLink { get; set; }
         public decimal CrowdRating { get; set; }
+        public bool GoogleError { get; set; }
+        public bool ImageError { get; set; }
         public List<string> Categories { get; set; }
         public int? Ratings { get; set; }
+
+        public override bool Equals(object obj)
+        {
+            return this.Equals(obj as Book);
+        }
+
+        public bool Equals(Book other)
+        {
+            if (other == null)
+                return false;
+
+            return Name == other.Name;
+        }
     }
 }

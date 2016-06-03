@@ -21,5 +21,15 @@ namespace MyBookLibrary.Service
         {
             return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadFullFile());
         }
+
+        public List<Book> ReadAllFromLocalWithImageFile()
+        {
+            return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadWithImageFile());
+        }
+
+        public List<Book> ReadAllFromLocalWithDescriptionFile()
+        {
+            return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadWithDescriptionFile());
+        }
     }
 }

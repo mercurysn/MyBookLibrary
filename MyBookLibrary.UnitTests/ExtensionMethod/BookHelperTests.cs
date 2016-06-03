@@ -33,5 +33,67 @@ namespace MyBookLibrary.UnitTests.ExtensionMethod
             Assert.AreEqual("Author 3", books[3].Author[0]);
             Assert.AreEqual(4, books.Count);
         }
+
+        [Test]
+        public void Test_PersistNewBookToList()
+        {
+            List<Book> oldList = new List<Book>
+            {
+                new Book { Name = "Book 1"}
+            };
+
+            List<Book> newList = new List<Book>
+            {
+                new Book { Name = "Book 1"},
+                new Book { Name = "Book 2"},
+                new Book { Name = "Book 3"}
+            };
+
+            oldList = oldList.PersistNewBookToList(newList);
+
+            Assert.AreEqual(3, oldList.Count);
+
+            Assert.AreEqual("Book 1", oldList[0].Name);
+            Assert.AreEqual("Book 2", oldList[1].Name);
+            Assert.AreEqual("Book 3", oldList[2].Name);
+        }
+
+        [Test]
+        public void Test_PersistNewBookToList_DestinationNull()
+        {
+            List<Book> oldList = new List<Book>();
+
+            List<Book> newList = new List<Book>
+            {
+                new Book { Name = "Book 1"},
+                new Book { Name = "Book 2"},
+                new Book { Name = "Book 3"}
+            };
+
+            oldList = oldList.PersistNewBookToList(newList);
+
+            Assert.AreEqual(3, oldList.Count);
+
+            Assert.AreEqual("Book 1", oldList[0].Name);
+            Assert.AreEqual("Book 2", oldList[1].Name);
+            Assert.AreEqual("Book 3", oldList[2].Name);
+        }
+
+        [Test]
+        public void Test_PersistNewBookToList_SourceNull()
+        {
+            List<Book> oldList = new List<Book>
+            {
+                new Book { Name = "Book 1"}
+            };
+
+            List<Book> newList = new List<Book>();
+
+            oldList = oldList.PersistNewBookToList(newList);
+
+            Assert.AreEqual(1, oldList.Count);
+
+            Assert.AreEqual("Book 1", oldList[0].Name);
+        }
     }
 }

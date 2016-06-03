@@ -21,6 +21,8 @@
     "GoogleBookId": "iF83AwEACAAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -46,6 +48,8 @@
     "GoogleBookId": "IM1nVGX7XU0C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -71,6 +75,8 @@
     "GoogleBookId": "OQluPwAACAAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -96,6 +102,8 @@
     "GoogleBookId": "0F1hBQAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -121,6 +129,8 @@
     "GoogleBookId": "26ev_abfrU8C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -146,6 +156,8 @@
     "GoogleBookId": "YqWiofFa9u0C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -171,6 +183,8 @@
     "GoogleBookId": "TUVjJcCX3eQC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -196,6 +210,8 @@
     "GoogleBookId": "gCtazG4ZXlQC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -221,6 +237,8 @@
     "GoogleBookId": "filhBQAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -246,6 +264,8 @@
     "GoogleBookId": "KKFTfEQ8bRAC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -271,6 +291,8 @@
     "GoogleBookId": "Vlie5OyfQLwC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -297,6 +319,8 @@
     "GoogleBookId": "lKt5laoj1coC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -322,6 +346,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -347,6 +373,8 @@
     "GoogleBookId": "qaKkenvL29UC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -372,6 +400,8 @@
     "GoogleBookId": "xFr92V2k3PIC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -397,6 +427,8 @@
     "GoogleBookId": "0zlhBQAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -422,6 +454,8 @@
     "GoogleBookId": "d5xgYw4Ts0gC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -444,9 +478,11 @@
     "Publisher": null,
     "Isbn10": null,
     "Isbn13": null,
-    "GoogleBookId": "vNDkBQAAQBAJ",
+    "GoogleBookId": "dPGH7o9NdB0C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -472,6 +508,8 @@
     "GoogleBookId": "s8l5ApOH2CwC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -497,6 +535,8 @@
     "GoogleBookId": "2i98Wf4aO8kC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -522,6 +562,8 @@
     "GoogleBookId": "gOaUyBGAI9AC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -547,6 +589,8 @@
     "GoogleBookId": "Zr2oJPMnGQMC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -572,6 +616,8 @@
     "GoogleBookId": "Gd24H39VwBcC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -597,6 +643,8 @@
     "GoogleBookId": "UraJfjMXYV0C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -622,6 +670,8 @@
     "GoogleBookId": "ivzfRJGrdFsC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -647,6 +697,8 @@
     "GoogleBookId": "ivzfRJGrdFsC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -672,6 +724,8 @@
     "GoogleBookId": "bEjboR018YYC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -697,6 +751,8 @@
     "GoogleBookId": "dQkFLM8_5ZEC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -722,6 +778,8 @@
     "GoogleBookId": "QcVUqyfPj7oC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -747,6 +805,8 @@
     "GoogleBookId": "sl-WlVneiYIC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -772,6 +832,8 @@
     "GoogleBookId": "Ab-c_4vHZuIC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -797,6 +859,8 @@
     "GoogleBookId": "PuQ3ITwH4DAC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -822,6 +886,8 @@
     "GoogleBookId": "fcwFK82FOzgC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -847,6 +913,8 @@
     "GoogleBookId": "H_Qk684J9OQC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -872,6 +940,8 @@
     "GoogleBookId": "sy7yyjzeke4C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -897,6 +967,8 @@
     "GoogleBookId": "c3lANwAACAAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -922,6 +994,8 @@
     "GoogleBookId": "6z87CQAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -947,6 +1021,8 @@
     "GoogleBookId": "wXYuLuPnY2UC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -972,6 +1048,8 @@
     "GoogleBookId": "upUxaNWSaRIC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -994,9 +1072,11 @@
     "Publisher": null,
     "Isbn10": null,
     "Isbn13": null,
-    "GoogleBookId": "ihg1bwnMdg4",
+    "GoogleBookId": "lGjFtMRqp_YC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1022,6 +1102,8 @@
     "GoogleBookId": "TUhjpwAACAAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1047,6 +1129,8 @@
     "GoogleBookId": "AbQXSDAZQLwC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1069,9 +1153,11 @@
     "Publisher": null,
     "Isbn10": null,
     "Isbn13": null,
-    "GoogleBookId": "guhwBAAAQBAJ",
+    "GoogleBookId": "klg0BNzAq6IC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1097,6 +1183,8 @@
     "GoogleBookId": "wHlDzHnt6x0C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1122,6 +1210,8 @@
     "GoogleBookId": "B63l8_yh2BkC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1144,9 +1234,11 @@
     "Publisher": null,
     "Isbn10": null,
     "Isbn13": null,
-    "GoogleBookId": "FNB1BwAAQBAJ",
+    "GoogleBookId": "Iw_gHtk4ghYC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1172,6 +1264,8 @@
     "GoogleBookId": "G8kdAgAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -1197,6 +1291,8 @@
     "GoogleBookId": "HHAkrdifnMoC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1222,6 +1318,8 @@
     "GoogleBookId": "H6DPdKWoyEUC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1247,6 +1345,8 @@
     "GoogleBookId": "LpeVNAEACAAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1272,6 +1372,8 @@
     "GoogleBookId": "JtZaP8AWwkcC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1297,6 +1399,8 @@
     "GoogleBookId": "h62hbrZbaXAC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -1322,6 +1426,8 @@
     "GoogleBookId": "F2xu1nZOzKoC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1347,6 +1453,8 @@
     "GoogleBookId": "nmzpzTQQKZAC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1372,6 +1480,8 @@
     "GoogleBookId": "q2eOiOexY9UC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1397,6 +1507,8 @@
     "GoogleBookId": "cG7CjP1Gd-AC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1422,6 +1534,8 @@
     "GoogleBookId": "m3XJ3x0cFsYC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1447,6 +1561,8 @@
     "GoogleBookId": "0ckXBAAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1472,6 +1588,8 @@
     "GoogleBookId": "dW9Du-7cSnUC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1497,6 +1615,8 @@
     "GoogleBookId": "hgnEk_vyvUEC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1522,6 +1642,8 @@
     "GoogleBookId": "ahdykgEACAAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1547,6 +1669,8 @@
     "GoogleBookId": "QpNKcdZKYvoC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1572,6 +1696,8 @@
     "GoogleBookId": "oM2FRyqFxkwC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1597,6 +1723,8 @@
     "GoogleBookId": "14LMPgAACAAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1622,6 +1750,8 @@
     "GoogleBookId": "102lZa2nM1EC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1647,6 +1777,8 @@
     "GoogleBookId": "CkSXAgAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1672,6 +1804,8 @@
     "GoogleBookId": "wrOQLV6xB-wC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -1697,6 +1831,8 @@
     "GoogleBookId": "UzPUoSk3EHYC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -1722,6 +1858,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1747,6 +1885,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -1772,6 +1912,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1797,6 +1939,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1822,6 +1966,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1847,6 +1993,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1872,6 +2020,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1897,6 +2047,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1922,6 +2074,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1947,6 +2101,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -1972,6 +2128,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -1997,6 +2155,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2022,6 +2182,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2047,6 +2209,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2072,6 +2236,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2097,6 +2263,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2122,6 +2290,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2147,6 +2317,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2172,6 +2344,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2197,6 +2371,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2222,6 +2398,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2247,6 +2425,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2272,6 +2452,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2297,6 +2479,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2322,6 +2506,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2347,6 +2533,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2372,6 +2560,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2397,6 +2587,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2422,6 +2614,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2447,6 +2641,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2472,6 +2668,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2497,6 +2695,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2522,6 +2722,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2547,6 +2749,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2572,6 +2776,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2597,6 +2803,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2622,6 +2830,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2647,6 +2857,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2672,6 +2884,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2697,6 +2911,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -2722,6 +2938,8 @@
     "GoogleBookId": "d5xgYw4Ts0gC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2747,6 +2965,8 @@
     "GoogleBookId": "wrOQLV6xB-wC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2772,6 +2992,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2797,6 +3019,8 @@
     "GoogleBookId": "wHlDzHnt6x0C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2822,6 +3046,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2847,6 +3073,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2872,6 +3100,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2897,6 +3127,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2922,6 +3154,8 @@
     "GoogleBookId": "kA6Edy_qm1IC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2947,6 +3181,8 @@
     "GoogleBookId": "ZfiREZrremoC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -2972,6 +3208,8 @@
     "GoogleBookId": "G1RpNwAACAAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -2994,9 +3232,11 @@
     "Publisher": null,
     "Isbn10": null,
     "Isbn13": null,
-    "GoogleBookId": "2pNwAwAAQBAJ",
+    "GoogleBookId": "5s7FycWq59gC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3019,9 +3259,11 @@
     "Publisher": null,
     "Isbn10": null,
     "Isbn13": null,
-    "GoogleBookId": "_do7AQAAQBAJ",
+    "GoogleBookId": "fbhBUwPO0dQC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3047,6 +3289,8 @@
     "GoogleBookId": "0WG2nQEACAAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3072,6 +3316,8 @@
     "GoogleBookId": "rR3U1dINYY4C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3097,6 +3343,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3122,6 +3370,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3147,6 +3397,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3172,6 +3424,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -3197,6 +3451,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 1
   },
@@ -3222,6 +3478,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3247,6 +3505,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3272,6 +3532,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3297,6 +3559,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3322,6 +3586,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3347,6 +3613,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3372,6 +3640,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3397,6 +3667,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3422,6 +3694,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3447,6 +3721,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3472,6 +3748,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3498,6 +3776,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -3523,6 +3803,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3548,6 +3830,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3573,6 +3857,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3598,6 +3884,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3623,6 +3911,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3649,6 +3939,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3674,6 +3966,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3699,6 +3993,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -3724,6 +4020,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3749,6 +4047,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -3774,6 +4074,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3799,6 +4101,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3824,6 +4128,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3849,6 +4155,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3874,6 +4182,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3900,6 +4210,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -3925,6 +4237,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -3950,6 +4264,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -3975,6 +4291,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4000,6 +4318,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4025,6 +4345,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4050,6 +4372,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4076,6 +4400,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4101,6 +4427,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4126,6 +4454,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4151,6 +4481,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4176,6 +4508,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4201,6 +4535,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -4226,6 +4562,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4251,6 +4589,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4277,6 +4617,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4302,6 +4644,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4327,6 +4671,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4352,6 +4698,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4377,6 +4725,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4402,6 +4752,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4427,6 +4779,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4452,6 +4806,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4477,6 +4833,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4502,6 +4860,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4527,6 +4887,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4552,6 +4914,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4577,6 +4941,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4602,6 +4968,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4627,6 +4995,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4652,6 +5022,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4677,6 +5049,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4702,6 +5076,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -4728,6 +5104,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4753,6 +5131,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4778,6 +5158,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4803,6 +5185,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 1
   },
@@ -4828,6 +5212,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4853,6 +5239,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -4878,6 +5266,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4903,6 +5293,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4928,6 +5320,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4953,6 +5347,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -4978,6 +5374,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -5003,6 +5401,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5028,6 +5428,8 @@
     "GoogleBookId": "UzPUoSk3EHYC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -5053,6 +5455,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5078,6 +5482,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5103,6 +5509,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5128,6 +5536,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -5153,6 +5563,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5178,6 +5590,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5203,6 +5617,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 1
   },
@@ -5229,6 +5645,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5254,6 +5672,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5279,6 +5699,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5304,6 +5726,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5329,6 +5753,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5354,6 +5780,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5379,6 +5807,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5404,6 +5834,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5429,6 +5861,8 @@
     "GoogleBookId": "9HIC6vE0uHcC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5455,6 +5889,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5480,6 +5916,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5505,6 +5943,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5530,6 +5970,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5555,6 +5997,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5580,6 +6024,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5605,6 +6051,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5630,6 +6078,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5655,6 +6105,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -5680,6 +6132,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -5706,6 +6160,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5731,6 +6187,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5756,6 +6214,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5781,6 +6241,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5806,6 +6268,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5831,6 +6295,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -5856,6 +6322,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -5881,6 +6349,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5906,6 +6376,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5932,6 +6404,8 @@
     "GoogleBookId": "9Yk1BgAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -5957,6 +6431,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -5983,6 +6459,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6008,6 +6486,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6033,6 +6513,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6058,6 +6540,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6083,6 +6567,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6108,6 +6594,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6133,6 +6621,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6158,6 +6648,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6183,6 +6675,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6209,6 +6703,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6234,6 +6730,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6259,6 +6757,8 @@
     "GoogleBookId": "h62hbrZbaXAC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -6284,6 +6784,8 @@
     "GoogleBookId": "FNB1BwAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6309,6 +6811,8 @@
     "GoogleBookId": "G8kdAgAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -6334,6 +6838,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6359,6 +6865,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6384,6 +6892,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6409,6 +6919,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 1
   },
@@ -6434,6 +6946,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6459,6 +6973,8 @@
     "GoogleBookId": "",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6484,6 +7000,8 @@
     "GoogleBookId": "BFH1qvbEi40C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6510,6 +7028,8 @@
     "GoogleBookId": "MqCh8fLRUcQC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6535,6 +7055,8 @@
     "GoogleBookId": "8XGxBgAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6560,6 +7082,8 @@
     "GoogleBookId": "I5lf2DeYMH8C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6585,6 +7109,8 @@
     "GoogleBookId": "yDfThYbJGrYC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6610,6 +7136,8 @@
     "GoogleBookId": "Xp39K0c0IaEC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6635,6 +7163,8 @@
     "GoogleBookId": "AuqPW_YOkO0C",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 2
   },
@@ -6660,6 +7190,8 @@
     "GoogleBookId": "4zugGMReN3cC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 5
   },
@@ -6685,6 +7217,8 @@
     "GoogleBookId": "DDQdswEACAAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6710,6 +7244,8 @@
     "GoogleBookId": "DLtOEUTcPtgC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6736,6 +7272,8 @@
     "GoogleBookId": "XxiDAgAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 3
   },
@@ -6762,6 +7300,8 @@
     "GoogleBookId": "yuu5BgAAQBAJ",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   },
@@ -6787,6 +7327,8 @@
     "GoogleBookId": "iXU3IMWNDCkC",
     "GoogleBookLink": null,
     "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
     "Categories": null,
     "Ratings": 4
   }
