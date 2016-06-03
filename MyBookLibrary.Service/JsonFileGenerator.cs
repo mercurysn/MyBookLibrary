@@ -60,6 +60,12 @@ namespace MyBookLibrary.Service
         {
             List<Book> books = AutoMapper.Mapper.Map<List<Book>>(bookDtos);
 
+            int index = 1;
+            foreach (var book in books)
+            {
+                book.Id = index++;
+            }
+
             return books;
         }
 
