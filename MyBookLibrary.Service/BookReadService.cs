@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using MyBookLibrary.Data;
 using MyBookLibrary.Service.Model;
 using Newtonsoft.Json;
@@ -7,6 +8,13 @@ namespace MyBookLibrary.Service
 {
     public class BookReadService : IBookReadService
     {
+        public Book GetBookFromId(int id)
+        {
+            var books = GetAll();
+
+            return books.FirstOrDefault(b => b.Id == id);
+        }
+
         public List<Book> GetAll()
         {
             return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseDropboxReader.ReadFile());

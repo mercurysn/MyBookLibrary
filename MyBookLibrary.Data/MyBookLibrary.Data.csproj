@@ -48,6 +48,7 @@
     <Compile Include="BookDatabaseReader.cs" />
     <Compile Include="BookDatabaseWriter.cs" />
     <Compile Include="BookRepository.cs" />
+    <Compile Include="DatabaseReaderFactory.cs" />
     <Compile Include="Dtos\BookDto.cs" />
     <Compile Include="IBookDatabaseReader.cs" />
     <Compile Include="Mappers\ShelfariFileMapper.cs" />
@@ -79,6 +80,12 @@
     <None Include="Source\2016-03-15 Shelfari.csv" />
     <None Include="Source\2016-05-22 Shelfari.csv" />
     <None Include="Source\Shelfari.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyBookLibrary.Common\MyBookLibrary.Common.csproj">
+      <Project>{b06229f0-d05b-43fb-a7e7-abb1bb4635c1}</Project>
+      <Name>MyBookLibrary.Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

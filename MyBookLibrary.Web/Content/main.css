@@ -2829,3 +2829,10 @@ span.stButton_gradient,
     margin-left: auto;
     margin-right: auto;
 }
+
+.book-details-cover {
+    min-height: 400px;
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
