@@ -2,12 +2,8 @@
 {
     public interface IBookDatabaseReader
     {
-        //string ReadImageFreeFile();
-
-        //string ReadFullFile();
-
-        //string ReadWithImageFile();
-
-        //string ReadWithDescriptionFile();
+        string ReadImageFreeFile();
+        string ReadFullFile();
+        string ReadWithDescriptionFile();
     }
 }

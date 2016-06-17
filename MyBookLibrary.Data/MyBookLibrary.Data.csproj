@@ -45,7 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BookDatabaseDropboxReader.cs" />
-    <Compile Include="BookDatabaseReader.cs" />
+    <Compile Include="LocalDatabaseReader.cs" />
     <Compile Include="BookDatabaseWriter.cs" />
     <Compile Include="BookRepository.cs" />
     <Compile Include="DatabaseReaderFactory.cs" />

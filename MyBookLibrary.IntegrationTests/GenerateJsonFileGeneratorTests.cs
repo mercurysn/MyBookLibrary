@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using MyBookLibrary.Data;
 using MyBookLibrary.Service;
 using MyBookLibrary.Service.Mapper;
 using NUnit.Framework;
@@ -17,7 +18,7 @@ namespace MyBookLibrary.IntegrationTests
         [Test]
         public void FileGeneration()
         {
-            JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService());
+            JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService(new LocalDatabaseReader()));
 
             fileGenerator.GenerateJsonDataFile();
         }
@@ -25,7 +26,7 @@ namespace MyBookLibrary.IntegrationTests
         [Test]
         public void PersistGoogleBooksData()
         {
-            JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService());
+            JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService(new LocalDatabaseReader()));
 
             fileGenerator.PersistGoogleBooksDataIntoFile();
         }
@@ -33,7 +34,7 @@ namespace MyBookLibrary.IntegrationTests
         [Test, Explicit]
         public void PersistCoverHashData()
         {
-            JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService());
+            JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService(new LocalDatabaseReader()));
 
             fileGenerator.PersistCoverHashIntoFile();
         }

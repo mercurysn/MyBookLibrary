@@ -8,7 +8,17 @@ namespace MyBookLibrary.Data
 {
     public class BookDatabaseDropboxReader : IBookDatabaseReader
     {
-        public static string ReadFile()
+        public string ReadImageFreeFile()
+        {
+            return ReadFullFile();
+        }
+
+        public string ReadWithDescriptionFile()
+        {
+            return ReadFullFile();
+        }
+
+        public string ReadFullFile()
         {
             Uri address = new Uri("https://www.sugarsync.com/pf/D6545386_06492321_198651?directDownload=true"); //public link of our file
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(address);

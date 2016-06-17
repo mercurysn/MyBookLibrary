@@ -1,3 +1,5 @@
+using MyBookLibrary.Common;
+using MyBookLibrary.Data;
 using MyBookLibrary.Service;
 
 [assembly: WebActivatorEx.PreApplicationStartMethod(typeof(MyBookLibrary.Web.App_Start.NinjectWebCommon), "Start")]
@@ -64,6 +66,10 @@ namespace MyBookLibrary.Web.App_Start
         private static void RegisterServices(IKernel kernel)
         {
             kernel.Bind<IBookReadService>().To<BookReadService>();
+            if (CurrentEnvironment.IsLocal())
+                kernel.Bind<IBookDatabaseReader>().To<LocalDatabaseReader>();
+            else
+                kernel.Bind<IBookDatabaseReader>().To<BookDatabaseDropboxReader>();
         }        
     }
 }

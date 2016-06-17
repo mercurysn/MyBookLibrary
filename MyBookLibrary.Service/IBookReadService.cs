@@ -9,7 +9,6 @@ namespace MyBookLibrary.Service
         List<Book> GetAll();
         List<Book> ReadAllFromLocalImageFreeFile();
         List<Book> ReadAllFromLocalFullFile();
-        List<Book> ReadAllFromLocalWithImageFile();
         List<Book> ReadAllFromLocalWithDescriptionFile();
     }
 }

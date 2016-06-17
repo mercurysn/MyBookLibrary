@@ -2,24 +2,19 @@
 
 namespace MyBookLibrary.Data
 {
-    public class BookDatabaseReader : IBookDatabaseReader
+    public class LocalDatabaseReader : IBookDatabaseReader
     {
-        public static string ReadImageFreeFile()
+        public string ReadImageFreeFile()
         {
             return File.ReadAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\BookImageFree.json");
         }
 
-        public static string ReadFullFile()
+        public string ReadFullFile()
         {
             return File.ReadAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\Book.json");
         }
 
-        public static string ReadWithImageFile()
-        {
-            return File.ReadAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\BookWithImage.json");
-        }
-
-        public static string ReadWithDescriptionFile()
+        public string ReadWithDescriptionFile()
         {
             return File.ReadAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\BookWithDescription.json");
         }

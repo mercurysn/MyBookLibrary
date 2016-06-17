@@ -12,11 +12,12 @@ namespace MyBookLibrary.IntegrationTests.Service
     public class StatServiceTests
     {
         private List<Book> _books = new List<Book>();
+        private readonly IBookDatabaseReader _reader = new LocalDatabaseReader();
 
         [SetUp]
         public void Setup()
         {
-            _books = JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadImageFreeFile());
+            _books = JsonConvert.DeserializeObject<List<Book>>(_reader.ReadImageFreeFile());
 
         }
 

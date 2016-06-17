@@ -427,6 +427,10 @@
       <Project>{b06229f0-d05b-43fb-a7e7-abb1bb4635c1}</Project>
       <Name>MyBookLibrary.Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MyBookLibrary.Data\MyBookLibrary.Data.csproj">
+      <Project>{0f1b2efa-1c43-434a-a1d4-6493adbd580c}</Project>
+      <Name>MyBookLibrary.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MyBookLibrary.Service\MyBookLibrary.Service.csproj">
       <Project>{d2b48e8b-af0d-4367-916c-f4ed7ad5dd3e}</Project>
       <Name>MyBookLibrary.Service</Name>

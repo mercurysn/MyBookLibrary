@@ -7,7 +7,7 @@ namespace MyBookLibrary.Data
         public static IBookDatabaseReader GetReader()
         {
             if (CurrentEnvironment.IsLocal())
-                return new BookDatabaseReader();
+                return new LocalDatabaseReader();
 
             return new BookDatabaseDropboxReader();
         }

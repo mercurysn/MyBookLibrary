@@ -8,6 +8,13 @@ namespace MyBookLibrary.Service
 {
     public class BookReadService : IBookReadService
     {
+        private readonly IBookDatabaseReader _reader;
+
+        public BookReadService(IBookDatabaseReader reader)
+        {
+            _reader = reader;
+        }
+
         public Book GetBookFromId(int id)
         {
             var books = GetAll();
@@ -17,27 +24,22 @@ namespace MyBookLibrary.Service
 
         public List<Book> GetAll()
         {
-            return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseDropboxReader.ReadFile());
+            return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadWithDescriptionFile());
         }
 
         public List<Book> ReadAllFromLocalImageFreeFile()
         {
-            return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadImageFreeFile());
+            return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadImageFreeFile());
         }
 
         public List<Book> ReadAllFromLocalFullFile()
         {
-            return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadFullFile());
-        }
-
-        public List<Book> ReadAllFromLocalWithImageFile()
-        {
-            return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadWithImageFile());
+            return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadFullFile());
         }
 
         public List<Book> ReadAllFromLocalWithDescriptionFile()
         {
-            return JsonConvert.DeserializeObject<List<Book>>(BookDatabaseReader.ReadWithDescriptionFile());
+            return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadWithDescriptionFile());
         }
     }
 }
