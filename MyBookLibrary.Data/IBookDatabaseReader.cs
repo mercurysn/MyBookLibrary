@@ -5,5 +5,6 @@
         string ReadImageFreeFile();
         string ReadFullFile();
         string ReadWithDescriptionFile();
+        string ReadFile();
     }
 }

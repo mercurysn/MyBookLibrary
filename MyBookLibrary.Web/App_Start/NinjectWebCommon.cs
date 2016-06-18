@@ -69,7 +69,7 @@ namespace MyBookLibrary.Web.App_Start
             if (CurrentEnvironment.IsLocal())
                 kernel.Bind<IBookDatabaseReader>().To<LocalDatabaseReader>();
             else
-                kernel.Bind<IBookDatabaseReader>().To<BookDatabaseDropboxReader>();
+                kernel.Bind<IBookDatabaseReader>().To<BookDatabaseS3Reader>();
         }        
     }
 }

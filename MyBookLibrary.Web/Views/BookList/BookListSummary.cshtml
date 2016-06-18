@@ -1,4 +1,5 @@
-﻿@using MyBookLibrary.Service.ExtensionMethods
+﻿@using MyBookLibrary.Common
+@using MyBookLibrary.Service.ExtensionMethods
 @model MyBookLibrary.Web.Models.ViewModels.BookListIndexViewModel
 
 <section id="page-breadcrumb">
@@ -26,7 +27,7 @@
                         <div class="col-md-12 blog-padding-right">
                             <div class="single-blog two-column">
                                 <div class="post-thumb">
-                                    <a href="blogdetails.html"><img src="@(Environment.GetEnvironmentVariable("environment") == "loc" ? $"data:image/jpeg;base64,{book.CoverHash}" : book.CoverUrl)" class="img-responsive book-list-summary-cover" alt=""></a>
+                                    <a href="/Book/@book.Id"><img src="@(CurrentEnvironment.IsLocal() ? $"data:image/jpeg;base64,{book.CoverHash}" : book.CoverUrl)" class="img-responsive book-list-summary-cover" alt=""></a>
                                     <div class="post-overlay">
                                         <span class="uppercase"><a href="#">14 <br><small>Feb</small></a></span>
                                     </div>

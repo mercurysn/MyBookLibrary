@@ -23,7 +23,7 @@ namespace MyBookLibrary.Web.Controllers
 
             return View(new BookListIndexViewModel
             {
-                Books = books,
+                Books = books.OrderByDescending(b => b.Id).ToList(),
                 BookDecade = books
                     .DistinctBy(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).Select(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).ToList().OrderByDescending(x => x).ToList()
             });

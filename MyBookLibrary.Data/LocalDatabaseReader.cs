@@ -1,4 +1,5 @@
 ﻿using System.IO;
+using MyBookLibrary.Common;
 
 namespace MyBookLibrary.Data
 {
@@ -17,6 +18,14 @@ namespace MyBookLibrary.Data
         public string ReadWithDescriptionFile()
         {
             return File.ReadAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\BookWithDescription.json");
+        }
+
+        public string ReadFile()
+        {
+            if (CurrentEnvironment.IsLocal())
+                return ReadFullFile();
+
+            return ReadWithDescriptionFile();
         }
     }
 }

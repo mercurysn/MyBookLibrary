@@ -1508,7 +1508,7 @@
     "GoogleBookId": "LpeVNAEACAAJ",
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/LpeVNAEACAAJ",
     "CrowdRating": 3.5,
-    "GoogleError": false,
+    "GoogleError": true,
     "ImageError": false,
     "Categories": null,
     "Ratings": 3
@@ -3529,7 +3529,7 @@
     "GoogleBookId": "0WG2nQEACAAJ",
     "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/0WG2nQEACAAJ",
     "CrowdRating": 4.0,
-    "GoogleError": false,
+    "GoogleError": true,
     "ImageError": false,
     "Categories": null,
     "Ratings": 3

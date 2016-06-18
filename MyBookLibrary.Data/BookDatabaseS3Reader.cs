@@ -7,21 +7,31 @@ using MyBookLibrary.Common;
 
 namespace MyBookLibrary.Data
 {
-    public class BookDatabaseDropboxReader : IBookDatabaseReader
+    public class BookDatabaseS3Reader : IBookDatabaseReader
     {
         public string ReadImageFreeFile()
         {
-            return ReadFullFile();
+            Uri address = new Uri("https://s3.amazonaws.com/mercury-book-repo/BookImageFree.json");
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(address);
+            WebResponse response = request.GetResponse();
+            Stream stream = response.GetResponseStream();
+            var streamString = ReadStreamAsString(stream);
+            return streamString;
         }
 
         public string ReadWithDescriptionFile()
         {
-            return ReadFullFile();
+            Uri address = new Uri("https://s3.amazonaws.com/mercury-book-repo/BookWithDescription.json");
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(address);
+            WebResponse response = request.GetResponse();
+            Stream stream = response.GetResponseStream();
+            var streamString = ReadStreamAsString(stream);
+            return streamString;
         }
 
         public string ReadFullFile()
         {
-            Uri address = new Uri("https://www.sugarsync.com/pf/D6545386_06492321_198651?directDownload=true"); //public link of our file
+            Uri address = new Uri("https://s3.amazonaws.com/mercury-book-repo/Book.json");
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(address);
             WebResponse response = request.GetResponse();
             Stream stream = response.GetResponseStream();

@@ -1,4 +1,5 @@
-﻿@using MyBookLibrary.Service.ExtensionMethods
+﻿@using MyBookLibrary.Common
+@using MyBookLibrary.Service.ExtensionMethods
 @using MyBookLibrary.Service.Helpers
 @model MyBookLibrary.Web.Models.ViewModels.BookListIndexViewModel
 @{
@@ -20,16 +21,16 @@
                 
                 @foreach (var book in Model.Books)
                 {
-                    <div class="col-sm-6 portfolio-item branded logos @(book.ReleaseDate?.Year.ToDecade().ToString() ?? "")">
+                    <div class="col-sm-2 portfolio-item branded logos @(book.ReleaseDate?.Year.ToDecade().ToString() ?? "")">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-single">
                                 <div class="portfolio-thumb">
-                                    <img src="@book.CoverUrl" style="min-height: 300px;max-height: 300px; object-fit: contain;" class="img-responsive" alt="">
+                                    <img src="@(CurrentEnvironment.IsLocal() ? $"data:image/jpeg;base64,{book.CoverHash}" : book.CoverUrl)" style="min-height: 300px;max-height: 300px; object-fit: contain;" class="img-responsive" alt="">
                                 </div>
                                 <div class="portfolio-view">
                                     <ul class="nav nav-pills">
-                                        <li><a href="portfolio-details.html"><i class="fa fa-link"></i></a></li>
-                                        <li><a href="images/portfolio/17.jpg" data-lightbox="example-set"><i class="fa fa-eye"></i></a></li>
+                                        <li><a href="/Book/@book.Id"><i class="fa fa-link"></i></a></li>
+                                        <li><a href="@(CurrentEnvironment.IsLocal() ? $"data:image/jpeg;base64,{book.CoverHash}" : book.CoverUrl)" data-lightbox="example-set"><i class="fa fa-eye"></i></a></li>
                                     </ul>
                                 </div>
                             </div>

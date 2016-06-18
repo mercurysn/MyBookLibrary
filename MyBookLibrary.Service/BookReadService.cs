@@ -24,7 +24,7 @@ namespace MyBookLibrary.Service
 
         public List<Book> GetAll()
         {
-            return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadWithDescriptionFile());
+            return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadFile());
         }
 
         public List<Book> ReadAllFromLocalImageFreeFile()

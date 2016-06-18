@@ -1,4 +1,5 @@
-﻿@using MyBookLibrary.Service.ExtensionMethods
+﻿@using MyBookLibrary.Common
+@using MyBookLibrary.Service.ExtensionMethods
 @model MyBookLibrary.Service.Model.Book
 
 
@@ -26,7 +27,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <img src="@Model.CoverUrl" class="book-details-cover" alt="">
+                    <img src="@(CurrentEnvironment.IsLocal() ? $"data:image/jpeg;base64,{Model.CoverHash}" : Model.CoverUrl)" class="img-responsive book-details-cover" alt="">
                 </div>
                 <div class="col-sm-6">
                     <div class="project-name overflow">
@@ -38,7 +39,7 @@
                         </ul>
                     </div>
                     <div class="project-info overflow">
-                        <p>@Model.Description</p>
+                        <p>@Html.Raw(Model.Description)</p>
                         @*<ul class="elements">
                             <li><i class="fa fa-angle-right"></i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
                             <li><i class="fa fa-angle-right"></i> Donec tincidunt felis quis ipsum porttitor, non rutrum lorem rhoncus.</li>
