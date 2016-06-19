@@ -28,6 +28,7 @@ namespace MyBookLibrary.Service.Model
         public bool ImageError { get; set; }
         public List<string> Categories { get; set; }
         public int? Ratings { get; set; }
+        public int MinutesRank { get; set; }
 
         public override bool Equals(object obj)
         {

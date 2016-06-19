@@ -50,7 +50,7 @@ namespace MyBookLibrary.Service
 
             foreach (var book in fullFileBooks)
             {
-                    book.CoverHash = book.CoverUrl.ToBase64();
+                book.CoverHash = book.CoverUrl.ToBase64();
             }
 
             BookDatabaseWriter.SaveToFullFile(JsonConvert.SerializeObject(fullFileBooks, Formatting.Indented));
@@ -66,7 +66,7 @@ namespace MyBookLibrary.Service
                 book.Id = index++;
             }
 
-            return books;
+            return books.ComputeMinutesRank();
         }
 
 

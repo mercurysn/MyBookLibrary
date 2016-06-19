@@ -12,6 +12,20 @@ namespace MyBookLibrary.Service.ExtensionMethods
             return books.Distinct(new BookComparer()).ToList();
         }
 
+        public static List<Book> ComputeMinutesRank(this List<Book> books)
+        {
+            books = books.OrderByDescending(b => b.Minutes).ToList();
+
+            int rank = 1;
+
+            foreach (var book in books)
+            {
+                book.MinutesRank = rank++;
+            }
+
+            return books;
+        }
+
         public static List<Book> RemoveBooksWithoutSeries(this List<Book> books)
         {
             return books.Where(b => !string.IsNullOrWhiteSpace(b.Series)).ToList();
