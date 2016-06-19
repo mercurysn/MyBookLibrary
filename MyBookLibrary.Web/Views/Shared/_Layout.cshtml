@@ -55,12 +55,12 @@
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="active">@Html.ActionLink($"Home {CurrentEnvironment.IsLocal()}", "Index", "Home")</li>
+                        <li class="active">@Html.ActionLink($"Home", "Index", "Home")</li>
                         <li class="dropdown">
-                            <a href="#">Series <i class="fa fa-angle-down"></i></a>
+                            <a href="#">Library<i class="fa fa-angle-down"></i></a>
                             <ul role="menu" class="sub-menu">
-                                <li>@Html.ActionLink("Series List", "Index", "BookList")</li>
-                                <li>@Html.ActionLink("Book List", "BookListSummary", "BookList")</li>
+                                <li>@Html.ActionLink("By Decade", "Index", "BookList")</li>
+                                <li>@Html.ActionLink("By Recent", "BookListSummary", "BookList")</li>
                             </ul>
                         </li>
                     </ul>
