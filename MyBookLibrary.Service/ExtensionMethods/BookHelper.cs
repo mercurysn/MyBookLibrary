@@ -21,6 +21,27 @@ namespace MyBookLibrary.Service.ExtensionMethods
             foreach (var book in books)
             {
                 book.MinutesRank = rank++;
+                book.MinutesRankPercentile = CalculatePercentile(book.MinutesRank, books.Count);
+            }
+
+            return books;
+        }
+
+        private static int CalculatePercentile(int value, int total)
+        {
+            return 100 - ((value - 1)*100/total);
+        }
+
+        public static List<Book> ComputeReleaseDateRank(this List<Book> books)
+        {
+            books = books.OrderByDescending(b => b.ReleaseDate).ToList();
+
+            int rank = 1;
+
+            foreach (var book in books.Where(book => book.ReleaseDate != null))
+            {
+                book.ReleaseDateRank = rank++;
+                book.ReleaseDateRankPercentile = CalculatePercentile(book.ReleaseDateRank, books.Count);
             }
 
             return books;

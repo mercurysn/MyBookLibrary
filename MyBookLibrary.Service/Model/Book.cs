@@ -29,6 +29,9 @@ namespace MyBookLibrary.Service.Model
         public List<string> Categories { get; set; }
         public int? Ratings { get; set; }
         public int MinutesRank { get; set; }
+        public int MinutesRankPercentile { get; set; }
+        public int ReleaseDateRank { get; set; }
+        public int ReleaseDateRankPercentile { get; set; }
 
         public override bool Equals(object obj)
         {

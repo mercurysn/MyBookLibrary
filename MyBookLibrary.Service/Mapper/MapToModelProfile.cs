@@ -36,6 +36,10 @@ namespace MyBookLibrary.Service.Mapper
                 .ForMember(dest => dest.CrowdRating, src => src.Ignore())
                 .ForMember(dest => dest.GoogleError, src => src.Ignore())
                 .ForMember(dest => dest.ImageError, src => src.Ignore())
+                .ForMember(dest => dest.MinutesRank, src => src.Ignore())
+                .ForMember(dest => dest.MinutesRankPercentile, src => src.Ignore())
+                .ForMember(dest => dest.ReleaseDateRank, src => src.Ignore())
+                .ForMember(dest => dest.ReleaseDateRankPercentile, src => src.Ignore())
                 ;
 
 

@@ -66,7 +66,9 @@ namespace MyBookLibrary.Service
                 book.Id = index++;
             }
 
-            return books.ComputeMinutesRank();
+            return books
+                .ComputeMinutesRank()
+                .ComputeReleaseDateRank();
         }
 
 
