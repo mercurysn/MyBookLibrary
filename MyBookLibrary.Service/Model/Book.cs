@@ -32,6 +32,9 @@ namespace MyBookLibrary.Service.Model
         public int MinutesRankPercentile { get; set; }
         public int ReleaseDateRank { get; set; }
         public int ReleaseDateRankPercentile { get; set; }
+        public int? DaysTaken { get; set; }
+        public int SpeedRank { get; set; }
+        public int SpeedRankPercentile { get; set; }
 
         public override bool Equals(object obj)
         {

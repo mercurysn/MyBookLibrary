@@ -27,6 +27,40 @@ namespace MyBookLibrary.Service.ExtensionMethods
             return books;
         }
 
+        public static List<Book> ComputeDaysTaken(this List<Book> books)
+        {
+            foreach (var book in books)
+            {
+                if (book.DateCompleted == null || book.DateStarted == null)
+                    continue;
+
+                book.DaysTaken = ((DateTime)book.DateCompleted - (DateTime)book.DateStarted).Days;
+            }
+
+            return books;
+        }
+
+        public static List<Book> ComputeSpeedRank(this List<Book> books)
+        {
+            books = books.OrderByDescending(b => b.DaysTaken).ToList();
+
+            int rank = 1;
+
+            foreach (var book in books)
+            {
+                if (book.DaysTaken == null)
+                {
+                    book.SpeedRankPercentile = 0;
+                    continue;
+                }
+
+                book.SpeedRank = rank++;
+                book.SpeedRankPercentile = CalculatePercentile(book.MinutesRank, books.Count);
+            }
+
+            return books;
+        }
+
         private static int CalculatePercentile(int value, int total)
         {
             return 100 - ((value - 1)*100/total);
