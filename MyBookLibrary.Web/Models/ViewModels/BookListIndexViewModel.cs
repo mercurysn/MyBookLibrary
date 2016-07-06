@@ -7,5 +7,6 @@ namespace MyBookLibrary.Web.Models.ViewModels
     {
         public List<Book> Books { get; set; }
         public List<int> BookDecade { get; set; }
+        public string Size { get; set; }
     }
 }

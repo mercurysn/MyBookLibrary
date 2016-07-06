@@ -110,4 +110,16 @@ jQuery(function($) {'use strict';
 		});
 	}
 
+	$("#book-list-large").on('click', function () {
+	    $(".book-list-cover-column").removeClass('col-sm-2');
+	    $(".book-list-cover-column").removeClass('col-sm-1');
+	    $(".book-list-cover-column").addClass('col-sm-2');
+	});
+
+	$("#book-list-small").on('click', function () {
+	    $(".book-list-cover-column").removeClass('col-sm-2');
+	    $(".book-list-cover-column").removeClass('col-sm-1');
+	    $(".book-list-cover-column").addClass('col-sm-1');
+	});
+
 });
