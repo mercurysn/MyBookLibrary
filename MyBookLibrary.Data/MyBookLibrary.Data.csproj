@@ -80,6 +80,7 @@
     <None Include="Source\2016-02-26 Shelfari.csv" />
     <None Include="Source\2016-03-15 Shelfari.csv" />
     <None Include="Source\2016-05-22 Shelfari.csv" />
+    <None Include="Source\2016-10-26 Shelfari.csv" />
     <None Include="Source\Shelfari.csv" />
   </ItemGroup>
   <ItemGroup>
