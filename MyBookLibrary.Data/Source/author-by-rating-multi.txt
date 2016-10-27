@@ -1,0 +1,100 @@
+Field                             	Value	Books
+Andy Weir                         	 5.00	The Martian
+Ernest Cline                      	 5.00	Ready Player One
+William P. Young                  	 5.00	The Shack
+Suzanne Collins                   	 4.33	The Hunger Games | Catching Fire | Mockingjay
+Stieg Larsson                     	 4.33	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
+Vince Flynn                       	 4.25	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor
+J.K. Rowling                      	 4.14	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
+James Patterson                   	 4.13	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | Four Blind Mice
+Roald Dahl                        	 4.11	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
+Alan Dean Foster                  	 4.00	Star Wars: The Force Awakens
+David Lagercrantz                 	 4.00	The Girl in the Spider's Web
+Arnold Schwarzenegger             	 4.00	Total Recall: My Truly Unbelievably Life Story
+Michael Crichton                  	 4.00	Jurassic Park | The Lost World | State of Fear | Micro
+Fredrick Forsyth                  	 4.00	The Day of the Jackal
+James Dashner                     	 4.00	The Maze Runner | The Scorch Trials | The Death Cure
+Sean Williams                     	 4.00	The Old Republic: Fatal Alliance
+Kathryn Stockett                  	 4.00	The Help
+Garth Stein                       	 4.00	The Art of Racing in the Rain
+Francis Chan                      	 4.00	Crazy Love
+Markus Zusak                      	 4.00	The Book Thief
+Stephen R. Covey                  	 4.00	The 7 Habits of Highly Effective People | The 8th Habit
+Mitch Albom                       	 4.00	Five People You Meet in Heaven
+Rick Warren                       	 4.00	The Purpose Driven Life
+Jeffery Deaver                    	 4.00	The Bone Collector
+Bryce Courtenay                   	 4.00	The Power of One
+John Grisham                      	 4.00	A Time to Kill
+Paul Jennings                     	 4.00	Unbelievable
+Ken Follett                       	 4.00	Eye of the Needle
+Truman Capote                     	 4.00	In Cold Blood
+William L. Shirer                 	 4.00	The Rise and Fall of the Third Reich
+Harper Lee                        	 4.00	To Kill a Mockingbird
+Robert Bloch                      	 4.00	Psycho
+J.R.R. Tolkien                    	 4.00	The Hobbit | The Fellowship of the Ring | The Two Towers | The Return of the King
+Agatha Christie                   	 4.00	And Then There Were None
+Frances Hodgson Burnett           	 4.00	The Secret Garden
+Henry T Blackaby                  	 4.00	Experiencing God
+Jules Verne                       	 4.00	Around the World in 80 Days
+Kyle Mills                        	 4.00	The Survivor
+Jennifer Fischetto                	 4.00	Unbreakable Bond
+Timothy Zahn                      	 3.86	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
+Dan Brown                         	 3.80	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
+Stephanie Meyer                   	 3.80	Twilight | New Moon | Eclipse | The Host | Breaking Dawn
+Sophie Kinsella                   	 3.80	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
+Michael Connelly                  	 3.75	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Blood Work | The Scarecrow
+Mark Tufo                         	 3.70	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning
+Douglas Preston                   	 3.67	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore
+Troy Denning                      	 3.67	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
+Christie Golden                   	 3.67	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
+Lincoln Child                     	 3.67	Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
+Dean Koontz                       	 3.60	Chase | Demon Seed | Phantoms | Lightning | Fear Nothing
+Stephen King                      	 3.50	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
+Walter Isaacson                   	 3.50	Einstein: His Life and Universe | Steve Jobs
+Christopher Paolini               	 3.50	Eragon | Eldest
+Max Brooks                        	 3.50	The Zombie Survival Guide | World War Z
+George R. R. Martin               	 3.40	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
+Thomas Harris                     	 3.40	Black Sunday | Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
+Gemma Halliday                    	 3.30	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Unbreakable Bond | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
+Arthur Conan Doyle                	 3.29	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
+Steve Berry                       	 3.17	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
+Patricia Cornwell                 	 3.07	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
+Chris Taylor                      	 3.00	How Star Wars Conquered the Universe
+Sam Gennawey                      	 3.00	The DIsneyland Story: The Unofficial Guide to the Evolution of Walt Disney's Dream
+Veronica Roth                     	 3.00	Divergent | Insurgent | Allegiant
+Neal Stephenson                   	 3.00	Reamde
+Aaron Allston                     	 3.00	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Conviction
+Ha-Joon Chang                     	 3.00	23 Things They Don't Tell you about Capitalism
+Gillian Flynn                     	 3.00	Gone Girl
+Guillermo del Toro and Chuck Hogan	 3.00	The Strain
+P.D. James                        	 3.00	The Private Patient
+Neil Gaiman                       	 3.00	The Graveyard Book
+Neil deGrasse Tyson               	 3.00	Death by Black Hole
+Neal Gabler                       	 3.00	Walt Disney: The Triumph of the American Imagination
+Sara Gruen                        	 3.00	Water for Elephants
+Henning Mankell                   	 3.00	The Fifth Woman
+Bart D. Ehrman                    	 3.00	Truth and Fiction in the Da Vinci Code
+R.A. Salvatore                    	 3.00	Star Wars Episode II: Attack of the Clones
+Alice Sebold                      	 3.00	The Lovely Bones
+Charles R. Swindoll               	 3.00	Great Lives: Joseph - A Man of Integrity and Forgiveness
+Diana Gabaldon                    	 3.00	Outlander
+Robert Jordan                     	 3.00	The Eye of the World
+Larry Niven                       	 3.00	The Mote in God's Eyes
+Peter Benchley                    	 3.00	Jaws
+Daphne du Maurier                 	 3.00	Rebecca
+John Buchan                       	 3.00	The Thirty Nine Steps
+J. M. Barrie                      	 3.00	Peter Pan
+John Eldredge                     	 3.00	Walking with God
+H. G. Wells                       	 3.00	War of the Worlds
+Robert Louis Stevenson            	 3.00	Treasure Island
+Lewis Carroll                     	 3.00	Alice in Wonderland
+Charles Dickens                   	 3.00	A Christmas Carol
+Jerry Pournelle                   	 3.00	The Mote in God's Eyes
+Robert Ludlum                     	 2.33	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
+Nora Roberts                      	 2.00	Black Hills
+Bernard Goldberg                  	 2.00	100 People Who Are Screwing Up America
+Nelson DeMille                    	 2.00	The Lion's Game
+Caleb Carr                        	 2.00	The Alienist
+Washington Irving                 	 1.00	The Legend of Sleepy Hallow
+George Orwell                     	 1.00	1984
+Alexandar Dumas                   	 1.00	The Count of Monte Cristo

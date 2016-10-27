@@ -59,6 +59,11 @@ namespace MyBookLibrary.Service
                 .ToList();
         }
 
+        public static List<BookAggregatedGroup<string>> RemoveAuthorsWithLessThanXBooks(this List<BookAggregatedGroup<string>> booksGroups, int minBookCount = 2)
+        {
+            return booksGroups.Where(bg => bg.Books.Count >= minBookCount).ToList();
+        }
+
         public static List<BookAggregatedGroup<int>> GroupBySeries(this List<Book> books)
         {
             return books
