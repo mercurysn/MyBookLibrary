@@ -15,13 +15,19 @@
                 {
                     <li><a class="btn btn-default" href="#" data-filter=".@decade">@decade</a></li>
                 }
-            </ul><!--/#portfolio-filter-->
+            </ul>
+
+            <ul class="portfolio-filter text-center">
+                <li><a id="book-list-small" class="btn btn-default" href="/BookList/Small">Small Cover</a></li>
+                <li><a id="book-list-large" class="btn btn-default" href="/BookList/Large">Large Cover</a></li>
+            </ul>
+
 
             <div class="portfolio-items">
                 
                 @foreach (var book in Model.Books)
                 {
-                    <div class="col-sm-2 portfolio-item branded logos @(book.ReleaseDate?.Year.ToDecade().ToString() ?? "")">
+                    <div class="book-list-cover-column col-sm-2 portfolio-item branded logos @(book.ReleaseDate?.Year.ToDecade().ToString() ?? "")">
                         <div class="portfolio-wrapper">
                             <div class="portfolio-single">
                                 <div class="portfolio-thumb">
@@ -35,7 +41,7 @@
                                 </div>
                             </div>
                             <div class="portfolio-info">
-                                <h2 style="text-align: center">@book.Name</h2>
+                                <h3 style="text-align: center">@book.Name</h3>
                             </div>
                         </div>
                     </div>

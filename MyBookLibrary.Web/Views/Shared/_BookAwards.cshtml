@@ -1,0 +1,26 @@
+﻿@model MyBookLibrary.Service.Model.Book
+
+@if (Model.MinutesRankPercentile >= 95)
+{
+    <h3><span class="label label-danger"><i class="glyphicon glyphicon-headphones"></i> Longest <span class="badge">@Model.MinutesRank</span></span></h3>
+}
+
+@if (Model.MinutesRankPercentile <= 5)
+{
+    <h3><span class="label label-danger"><i class="glyphicon glyphicon-headphones"></i> Shortest <span class="badge">@Model.MinutesRank</span></span></h3>
+}
+
+@if (Model.ReleaseDateRankPercentile >= 95)
+{
+    <h3><span class="label label-info"><i class="glyphicon glyphicon-certificate"></i> Newest <span class="badge">@Model.ReleaseDateRank</span></span></h3>
+}
+
+@if (Model.ReleaseDateRankPercentile <= 5)
+{
+    <h3><span class="label label-info"><i class="glyphicon glyphicon-certificate"></i> Newest <span class="badge">@Model.ReleaseDateRank</span></span></h3>
+}
+
+@if (Model.Ratings == 5)
+{
+    <h3><span class="label label-danger"><i class="glyphicon glyphicon-heart"></i> 5 Stars</span></h3>
+}

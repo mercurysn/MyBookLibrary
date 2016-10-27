@@ -68,7 +68,8 @@ namespace MyBookLibrary.Service
 
             return books
                 .ComputeMinutesRank()
-                .ComputeReleaseDateRank();
+                .ComputeReleaseDateRank()
+                .ComputeDaysTaken();
         }
 
 

@@ -1,5 +1,9 @@
 Display	NumberOfBooks	MinutesDisplay	PagesDisplay	Books
-2016-5 	            2	       12h 22m	         485
+2016-9 	            3	       35h 13m	       1,166
+2016-8 	            2	       36h 15m	       1,148
+2016-7 	            4	       63h 54m	       1,963
+2016-6 	            4	       54h 45m	       1,689
+2016-5 	            3	       28h 56m	         988
 2016-4 	            2	       20h 25m	         784
 2016-3 	            4	       54h 24m	       1,609
 2016-2 	            6	       50h 31m	       1,978

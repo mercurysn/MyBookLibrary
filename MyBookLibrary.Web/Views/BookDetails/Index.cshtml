@@ -42,6 +42,10 @@
                         </ul>
                     </div>
                     <div class="project-info overflow">
+                        <h2>Badges</h2>
+                        @Html.Partial("_BookAwards", Model)
+                    </div>
+                    <div class="project-info overflow">
                         <h2>Stats</h2>
                         <ul class="elements">
                             <li><i class="fa fa-angle-right"></i>@Model.Pages pages</li>

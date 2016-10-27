@@ -58,7 +58,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Source\author-by-minutes.txt" />
-    <Content Include="Source\author-by-rating-multi.txt" />
     <Content Include="Source\author-by-rating.txt" />
     <Content Include="Source\author.txt" />
     <Content Include="Source\book-decade.txt" />
@@ -81,7 +80,7 @@
     <None Include="Source\2016-02-26 Shelfari.csv" />
     <None Include="Source\2016-03-15 Shelfari.csv" />
     <None Include="Source\2016-05-22 Shelfari.csv" />
-    <None Include="Source\2016-10-25 Shelfari.csv" />
+    <None Include="Source\2016-10-26 Shelfari.csv" />
     <None Include="Source\Shelfari.csv" />
   </ItemGroup>
   <ItemGroup>

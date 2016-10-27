@@ -17,7 +17,7 @@ namespace MyBookLibrary.Web.Controllers
             _bookReadService = bookReadService;
         }
 
-        public ActionResult Index()
+        public ActionResult Index(string size)
         {
             var books = _bookReadService.GetAll().RemoveDuplicates();
 
@@ -25,7 +25,8 @@ namespace MyBookLibrary.Web.Controllers
             {
                 Books = books.OrderByDescending(b => b.Id).ToList(),
                 BookDecade = books
-                    .DistinctBy(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).Select(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).ToList().OrderByDescending(x => x).ToList()
+                    .DistinctBy(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).Select(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).ToList().OrderByDescending(x => x).ToList(),
+                Size = size
             });
 
         }

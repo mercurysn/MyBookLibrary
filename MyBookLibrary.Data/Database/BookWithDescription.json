@@ -28,7 +28,10 @@
     "MinutesRank": 199,
     "MinutesRankPercentile": 27,
     "ReleaseDateRank": 1,
-    "ReleaseDateRankPercentile": 100
+    "ReleaseDateRankPercentile": 100,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 237,
@@ -62,7 +65,10 @@
     "MinutesRank": 192,
     "MinutesRankPercentile": 30,
     "ReleaseDateRank": 2,
-    "ReleaseDateRankPercentile": 100
+    "ReleaseDateRankPercentile": 100,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 231,
@@ -93,7 +99,10 @@
     "MinutesRank": 59,
     "MinutesRankPercentile": 79,
     "ReleaseDateRank": 3,
-    "ReleaseDateRankPercentile": 100
+    "ReleaseDateRankPercentile": 100,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 261,
@@ -130,7 +139,10 @@
     "MinutesRank": 234,
     "MinutesRankPercentile": 15,
     "ReleaseDateRank": 4,
-    "ReleaseDateRankPercentile": 99
+    "ReleaseDateRankPercentile": 99,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 249,
@@ -161,7 +173,10 @@
     "MinutesRank": 29,
     "MinutesRankPercentile": 90,
     "ReleaseDateRank": 5,
-    "ReleaseDateRankPercentile": 99
+    "ReleaseDateRankPercentile": 99,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 254,
@@ -192,7 +207,10 @@
     "MinutesRank": 193,
     "MinutesRankPercentile": 30,
     "ReleaseDateRank": 6,
-    "ReleaseDateRankPercentile": 99
+    "ReleaseDateRankPercentile": 99,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 253,
@@ -223,7 +241,10 @@
     "MinutesRank": 233,
     "MinutesRankPercentile": 15,
     "ReleaseDateRank": 7,
-    "ReleaseDateRankPercentile": 98
+    "ReleaseDateRankPercentile": 98,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 238,
@@ -254,7 +275,10 @@
     "MinutesRank": 186,
     "MinutesRankPercentile": 32,
     "ReleaseDateRank": 8,
-    "ReleaseDateRankPercentile": 98
+    "ReleaseDateRankPercentile": 98,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 241,
@@ -285,7 +309,10 @@
     "MinutesRank": 184,
     "MinutesRankPercentile": 33,
     "ReleaseDateRank": 9,
-    "ReleaseDateRankPercentile": 98
+    "ReleaseDateRankPercentile": 98,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 269,
@@ -319,7 +346,10 @@
     "MinutesRank": 124,
     "MinutesRankPercentile": 55,
     "ReleaseDateRank": 10,
-    "ReleaseDateRankPercentile": 97
+    "ReleaseDateRankPercentile": 97,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 214,
@@ -350,7 +380,10 @@
     "MinutesRank": 22,
     "MinutesRankPercentile": 93,
     "ReleaseDateRank": 11,
-    "ReleaseDateRankPercentile": 97
+    "ReleaseDateRankPercentile": 97,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 145,
@@ -381,7 +414,10 @@
     "MinutesRank": 144,
     "MinutesRankPercentile": 48,
     "ReleaseDateRank": 12,
-    "ReleaseDateRankPercentile": 96
+    "ReleaseDateRankPercentile": 96,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 245,
@@ -412,7 +448,10 @@
     "MinutesRank": 42,
     "MinutesRankPercentile": 85,
     "ReleaseDateRank": 13,
-    "ReleaseDateRankPercentile": 96
+    "ReleaseDateRankPercentile": 96,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 124,
@@ -443,7 +482,10 @@
     "MinutesRank": 52,
     "MinutesRankPercentile": 82,
     "ReleaseDateRank": 14,
-    "ReleaseDateRankPercentile": 96
+    "ReleaseDateRankPercentile": 96,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 142,
@@ -474,7 +516,10 @@
     "MinutesRank": 98,
     "MinutesRankPercentile": 65,
     "ReleaseDateRank": 15,
-    "ReleaseDateRankPercentile": 95
+    "ReleaseDateRankPercentile": 95,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 240,
@@ -505,7 +550,10 @@
     "MinutesRank": 241,
     "MinutesRankPercentile": 12,
     "ReleaseDateRank": 16,
-    "ReleaseDateRankPercentile": 95
+    "ReleaseDateRankPercentile": 95,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 260,
@@ -539,7 +587,10 @@
     "MinutesRank": 67,
     "MinutesRankPercentile": 76,
     "ReleaseDateRank": 17,
-    "ReleaseDateRankPercentile": 95
+    "ReleaseDateRankPercentile": 95,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 107,
@@ -570,7 +621,10 @@
     "MinutesRank": 141,
     "MinutesRankPercentile": 49,
     "ReleaseDateRank": 18,
-    "ReleaseDateRankPercentile": 94
+    "ReleaseDateRankPercentile": 94,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 207,
@@ -601,7 +655,10 @@
     "MinutesRank": 142,
     "MinutesRankPercentile": 48,
     "ReleaseDateRank": 19,
-    "ReleaseDateRankPercentile": 94
+    "ReleaseDateRankPercentile": 94,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 230,
@@ -632,7 +689,10 @@
     "MinutesRank": 84,
     "MinutesRankPercentile": 70,
     "ReleaseDateRank": 20,
-    "ReleaseDateRankPercentile": 93
+    "ReleaseDateRankPercentile": 93,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 270,
@@ -670,7 +730,10 @@
     "MinutesRank": 244,
     "MinutesRankPercentile": 11,
     "ReleaseDateRank": 21,
-    "ReleaseDateRankPercentile": 93
+    "ReleaseDateRankPercentile": 93,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 96,
@@ -701,7 +764,10 @@
     "MinutesRank": 165,
     "MinutesRankPercentile": 40,
     "ReleaseDateRank": 22,
-    "ReleaseDateRankPercentile": 93
+    "ReleaseDateRankPercentile": 93,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 98,
@@ -732,7 +798,10 @@
     "MinutesRank": 66,
     "MinutesRankPercentile": 77,
     "ReleaseDateRank": 23,
-    "ReleaseDateRankPercentile": 92
+    "ReleaseDateRankPercentile": 92,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 220,
@@ -763,7 +832,10 @@
     "MinutesRank": 175,
     "MinutesRankPercentile": 36,
     "ReleaseDateRank": 24,
-    "ReleaseDateRankPercentile": 92
+    "ReleaseDateRankPercentile": 92,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 95,
@@ -794,7 +866,10 @@
     "MinutesRank": 188,
     "MinutesRankPercentile": 31,
     "ReleaseDateRank": 25,
-    "ReleaseDateRankPercentile": 92
+    "ReleaseDateRankPercentile": 92,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 206,
@@ -825,7 +900,10 @@
     "MinutesRank": 189,
     "MinutesRankPercentile": 31,
     "ReleaseDateRank": 26,
-    "ReleaseDateRankPercentile": 91
+    "ReleaseDateRankPercentile": 91,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 229,
@@ -856,7 +934,10 @@
     "MinutesRank": 252,
     "MinutesRankPercentile": 8,
     "ReleaseDateRank": 27,
-    "ReleaseDateRankPercentile": 91
+    "ReleaseDateRankPercentile": 91,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 5,
@@ -889,7 +970,10 @@
     "MinutesRank": 20,
     "MinutesRankPercentile": 93,
     "ReleaseDateRank": 28,
-    "ReleaseDateRankPercentile": 91
+    "ReleaseDateRankPercentile": 91,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 211,
@@ -920,7 +1004,10 @@
     "MinutesRank": 171,
     "MinutesRankPercentile": 38,
     "ReleaseDateRank": 29,
-    "ReleaseDateRankPercentile": 90
+    "ReleaseDateRankPercentile": 90,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 1,
@@ -953,7 +1040,10 @@
     "MinutesRank": 7,
     "MinutesRankPercentile": 98,
     "ReleaseDateRank": 30,
-    "ReleaseDateRankPercentile": 90
+    "ReleaseDateRankPercentile": 90,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 266,
@@ -986,7 +1076,10 @@
     "MinutesRank": 75,
     "MinutesRankPercentile": 73,
     "ReleaseDateRank": 31,
-    "ReleaseDateRankPercentile": 89
+    "ReleaseDateRankPercentile": 89,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 91,
@@ -1017,7 +1110,10 @@
     "MinutesRank": 87,
     "MinutesRankPercentile": 69,
     "ReleaseDateRank": 32,
-    "ReleaseDateRankPercentile": 89
+    "ReleaseDateRankPercentile": 89,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 248,
@@ -1049,7 +1145,10 @@
     "MinutesRank": 140,
     "MinutesRankPercentile": 49,
     "ReleaseDateRank": 33,
-    "ReleaseDateRankPercentile": 89
+    "ReleaseDateRankPercentile": 89,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 136,
@@ -1080,7 +1179,10 @@
     "MinutesRank": 2,
     "MinutesRankPercentile": 100,
     "ReleaseDateRank": 34,
-    "ReleaseDateRankPercentile": 88
+    "ReleaseDateRankPercentile": 88,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 84,
@@ -1111,7 +1213,10 @@
     "MinutesRank": 121,
     "MinutesRankPercentile": 56,
     "ReleaseDateRank": 35,
-    "ReleaseDateRankPercentile": 88
+    "ReleaseDateRankPercentile": 88,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 90,
@@ -1142,7 +1247,10 @@
     "MinutesRank": 170,
     "MinutesRankPercentile": 38,
     "ReleaseDateRank": 36,
-    "ReleaseDateRankPercentile": 88
+    "ReleaseDateRankPercentile": 88,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 173,
@@ -1173,7 +1281,10 @@
     "MinutesRank": 185,
     "MinutesRankPercentile": 33,
     "ReleaseDateRank": 37,
-    "ReleaseDateRankPercentile": 87
+    "ReleaseDateRankPercentile": 87,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 92,
@@ -1204,7 +1315,10 @@
     "MinutesRank": 218,
     "MinutesRankPercentile": 20,
     "ReleaseDateRank": 38,
-    "ReleaseDateRankPercentile": 87
+    "ReleaseDateRankPercentile": 87,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 32,
@@ -1237,7 +1351,10 @@
     "MinutesRank": 96,
     "MinutesRankPercentile": 65,
     "ReleaseDateRank": 39,
-    "ReleaseDateRankPercentile": 86
+    "ReleaseDateRankPercentile": 86,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 197,
@@ -1268,7 +1385,10 @@
     "MinutesRank": 97,
     "MinutesRankPercentile": 65,
     "ReleaseDateRank": 40,
-    "ReleaseDateRankPercentile": 86
+    "ReleaseDateRankPercentile": 86,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 159,
@@ -1299,7 +1419,10 @@
     "MinutesRank": 99,
     "MinutesRankPercentile": 64,
     "ReleaseDateRank": 41,
-    "ReleaseDateRankPercentile": 86
+    "ReleaseDateRankPercentile": 86,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 78,
@@ -1330,7 +1453,10 @@
     "MinutesRank": 89,
     "MinutesRankPercentile": 68,
     "ReleaseDateRank": 42,
-    "ReleaseDateRankPercentile": 85
+    "ReleaseDateRankPercentile": 85,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 100,
@@ -1361,7 +1487,10 @@
     "MinutesRank": 95,
     "MinutesRankPercentile": 66,
     "ReleaseDateRank": 43,
-    "ReleaseDateRankPercentile": 85
+    "ReleaseDateRankPercentile": 85,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 188,
@@ -1392,7 +1521,10 @@
     "MinutesRank": 15,
     "MinutesRankPercentile": 95,
     "ReleaseDateRank": 44,
-    "ReleaseDateRankPercentile": 85
+    "ReleaseDateRankPercentile": 85,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 186,
@@ -1423,7 +1555,10 @@
     "MinutesRank": 38,
     "MinutesRankPercentile": 87,
     "ReleaseDateRank": 45,
-    "ReleaseDateRankPercentile": 84
+    "ReleaseDateRankPercentile": 84,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 189,
@@ -1455,7 +1590,10 @@
     "MinutesRank": 56,
     "MinutesRankPercentile": 80,
     "ReleaseDateRank": 46,
-    "ReleaseDateRankPercentile": 84
+    "ReleaseDateRankPercentile": 84,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 193,
@@ -1486,7 +1624,10 @@
     "MinutesRank": 111,
     "MinutesRankPercentile": 60,
     "ReleaseDateRank": 47,
-    "ReleaseDateRankPercentile": 84
+    "ReleaseDateRankPercentile": 84,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 194,
@@ -1517,7 +1658,10 @@
     "MinutesRank": 127,
     "MinutesRankPercentile": 54,
     "ReleaseDateRank": 48,
-    "ReleaseDateRankPercentile": 83
+    "ReleaseDateRankPercentile": 83,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 88,
@@ -1548,7 +1692,10 @@
     "MinutesRank": 159,
     "MinutesRankPercentile": 42,
     "ReleaseDateRank": 49,
-    "ReleaseDateRankPercentile": 83
+    "ReleaseDateRankPercentile": 83,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 205,
@@ -1579,7 +1726,10 @@
     "MinutesRank": 160,
     "MinutesRankPercentile": 42,
     "ReleaseDateRank": 50,
-    "ReleaseDateRankPercentile": 82
+    "ReleaseDateRankPercentile": 82,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 184,
@@ -1610,7 +1760,10 @@
     "MinutesRank": 197,
     "MinutesRankPercentile": 28,
     "ReleaseDateRank": 51,
-    "ReleaseDateRankPercentile": 82
+    "ReleaseDateRankPercentile": 82,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 187,
@@ -1641,7 +1794,10 @@
     "MinutesRank": 213,
     "MinutesRankPercentile": 22,
     "ReleaseDateRank": 52,
-    "ReleaseDateRankPercentile": 82
+    "ReleaseDateRankPercentile": 82,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 185,
@@ -1672,7 +1828,10 @@
     "MinutesRank": 219,
     "MinutesRankPercentile": 20,
     "ReleaseDateRank": 53,
-    "ReleaseDateRankPercentile": 81
+    "ReleaseDateRankPercentile": 81,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 191,
@@ -1703,7 +1862,10 @@
     "MinutesRank": 259,
     "MinutesRankPercentile": 5,
     "ReleaseDateRank": 54,
-    "ReleaseDateRankPercentile": 81
+    "ReleaseDateRankPercentile": 81,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 190,
@@ -1734,7 +1896,10 @@
     "MinutesRank": 268,
     "MinutesRankPercentile": 2,
     "ReleaseDateRank": 55,
-    "ReleaseDateRankPercentile": 81
+    "ReleaseDateRankPercentile": 81,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 192,
@@ -1765,7 +1930,10 @@
     "MinutesRank": 269,
     "MinutesRankPercentile": 2,
     "ReleaseDateRank": 56,
-    "ReleaseDateRankPercentile": 80
+    "ReleaseDateRankPercentile": 80,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 165,
@@ -1796,7 +1964,10 @@
     "MinutesRank": 183,
     "MinutesRankPercentile": 33,
     "ReleaseDateRank": 57,
-    "ReleaseDateRankPercentile": 80
+    "ReleaseDateRankPercentile": 80,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 46,
@@ -1831,7 +2002,10 @@
     "MinutesRank": 152,
     "MinutesRankPercentile": 45,
     "ReleaseDateRank": 58,
-    "ReleaseDateRankPercentile": 79
+    "ReleaseDateRankPercentile": 79,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 251,
@@ -1862,7 +2036,10 @@
     "MinutesRank": 153,
     "MinutesRankPercentile": 44,
     "ReleaseDateRank": 59,
-    "ReleaseDateRankPercentile": 79
+    "ReleaseDateRankPercentile": 79,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 132,
@@ -1893,7 +2070,10 @@
     "MinutesRank": 102,
     "MinutesRankPercentile": 63,
     "ReleaseDateRank": 60,
-    "ReleaseDateRankPercentile": 79
+    "ReleaseDateRankPercentile": 79,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 73,
@@ -1924,7 +2104,10 @@
     "MinutesRank": 110,
     "MinutesRankPercentile": 60,
     "ReleaseDateRank": 61,
-    "ReleaseDateRankPercentile": 78
+    "ReleaseDateRankPercentile": 78,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 239,
@@ -1956,7 +2139,10 @@
     "MinutesRank": 94,
     "MinutesRankPercentile": 66,
     "ReleaseDateRank": 62,
-    "ReleaseDateRankPercentile": 78
+    "ReleaseDateRankPercentile": 78,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 69,
@@ -1987,7 +2173,10 @@
     "MinutesRank": 174,
     "MinutesRankPercentile": 37,
     "ReleaseDateRank": 63,
-    "ReleaseDateRankPercentile": 78
+    "ReleaseDateRankPercentile": 78,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 158,
@@ -2018,7 +2207,10 @@
     "MinutesRank": 196,
     "MinutesRankPercentile": 29,
     "ReleaseDateRank": 64,
-    "ReleaseDateRankPercentile": 77
+    "ReleaseDateRankPercentile": 77,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 133,
@@ -2049,7 +2241,10 @@
     "MinutesRank": 9,
     "MinutesRankPercentile": 98,
     "ReleaseDateRank": 65,
-    "ReleaseDateRankPercentile": 77
+    "ReleaseDateRankPercentile": 77,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 82,
@@ -2080,7 +2275,10 @@
     "MinutesRank": 145,
     "MinutesRankPercentile": 47,
     "ReleaseDateRank": 66,
-    "ReleaseDateRankPercentile": 77
+    "ReleaseDateRankPercentile": 77,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 204,
@@ -2111,7 +2309,10 @@
     "MinutesRank": 147,
     "MinutesRankPercentile": 47,
     "ReleaseDateRank": 67,
-    "ReleaseDateRankPercentile": 76
+    "ReleaseDateRankPercentile": 76,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 183,
@@ -2142,7 +2343,10 @@
     "MinutesRank": 187,
     "MinutesRankPercentile": 32,
     "ReleaseDateRank": 68,
-    "ReleaseDateRankPercentile": 76
+    "ReleaseDateRankPercentile": 76,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 19,
@@ -2176,7 +2380,10 @@
     "MinutesRank": 47,
     "MinutesRankPercentile": 84,
     "ReleaseDateRank": 69,
-    "ReleaseDateRankPercentile": 75
+    "ReleaseDateRankPercentile": 75,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 49,
@@ -2209,7 +2416,10 @@
     "MinutesRank": 166,
     "MinutesRankPercentile": 40,
     "ReleaseDateRank": 70,
-    "ReleaseDateRankPercentile": 75
+    "ReleaseDateRankPercentile": 75,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 60,
@@ -2240,7 +2450,10 @@
     "MinutesRank": 227,
     "MinutesRankPercentile": 17,
     "ReleaseDateRank": 71,
-    "ReleaseDateRankPercentile": 75
+    "ReleaseDateRankPercentile": 75,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 33,
@@ -2274,7 +2487,10 @@
     "MinutesRank": 104,
     "MinutesRankPercentile": 62,
     "ReleaseDateRank": 72,
-    "ReleaseDateRankPercentile": 74
+    "ReleaseDateRankPercentile": 74,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 22,
@@ -2307,7 +2523,10 @@
     "MinutesRank": 55,
     "MinutesRankPercentile": 81,
     "ReleaseDateRank": 73,
-    "ReleaseDateRankPercentile": 74
+    "ReleaseDateRankPercentile": 74,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 50,
@@ -2338,7 +2557,10 @@
     "MinutesRank": 167,
     "MinutesRankPercentile": 39,
     "ReleaseDateRank": 74,
-    "ReleaseDateRankPercentile": 74
+    "ReleaseDateRankPercentile": 74,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 228,
@@ -2370,7 +2592,10 @@
     "MinutesRank": 108,
     "MinutesRankPercentile": 61,
     "ReleaseDateRank": 75,
-    "ReleaseDateRankPercentile": 73
+    "ReleaseDateRankPercentile": 73,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 55,
@@ -2403,7 +2628,10 @@
     "MinutesRank": 202,
     "MinutesRankPercentile": 26,
     "ReleaseDateRank": 76,
-    "ReleaseDateRankPercentile": 73
+    "ReleaseDateRankPercentile": 73,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 89,
@@ -2434,7 +2662,10 @@
     "MinutesRank": 46,
     "MinutesRankPercentile": 84,
     "ReleaseDateRank": 77,
-    "ReleaseDateRankPercentile": 72
+    "ReleaseDateRankPercentile": 72,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 93,
@@ -2465,7 +2696,10 @@
     "MinutesRank": 106,
     "MinutesRankPercentile": 62,
     "ReleaseDateRank": 78,
-    "ReleaseDateRankPercentile": 72
+    "ReleaseDateRankPercentile": 72,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 47,
@@ -2499,7 +2733,10 @@
     "MinutesRank": 155,
     "MinutesRankPercentile": 44,
     "ReleaseDateRank": 79,
-    "ReleaseDateRankPercentile": 72
+    "ReleaseDateRankPercentile": 72,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 252,
@@ -2533,7 +2770,10 @@
     "MinutesRank": 156,
     "MinutesRankPercentile": 43,
     "ReleaseDateRank": 80,
-    "ReleaseDateRankPercentile": 71
+    "ReleaseDateRankPercentile": 71,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 219,
@@ -2564,7 +2804,10 @@
     "MinutesRank": 226,
     "MinutesRankPercentile": 17,
     "ReleaseDateRank": 81,
-    "ReleaseDateRankPercentile": 71
+    "ReleaseDateRankPercentile": 71,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 86,
@@ -2595,7 +2838,10 @@
     "MinutesRank": 68,
     "MinutesRankPercentile": 76,
     "ReleaseDateRank": 82,
-    "ReleaseDateRankPercentile": 71
+    "ReleaseDateRankPercentile": 71,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 34,
@@ -2633,7 +2879,10 @@
     "MinutesRank": 105,
     "MinutesRankPercentile": 62,
     "ReleaseDateRank": 83,
-    "ReleaseDateRankPercentile": 70
+    "ReleaseDateRankPercentile": 70,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 77,
@@ -2664,7 +2913,10 @@
     "MinutesRank": 135,
     "MinutesRankPercentile": 51,
     "ReleaseDateRank": 84,
-    "ReleaseDateRankPercentile": 70
+    "ReleaseDateRankPercentile": 70,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 203,
@@ -2695,7 +2947,10 @@
     "MinutesRank": 136,
     "MinutesRankPercentile": 51,
     "ReleaseDateRank": 85,
-    "ReleaseDateRankPercentile": 70
+    "ReleaseDateRankPercentile": 70,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 52,
@@ -2729,7 +2984,10 @@
     "MinutesRank": 169,
     "MinutesRankPercentile": 39,
     "ReleaseDateRank": 86,
-    "ReleaseDateRankPercentile": 69
+    "ReleaseDateRankPercentile": 69,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 250,
@@ -2763,7 +3021,10 @@
     "MinutesRank": 173,
     "MinutesRankPercentile": 37,
     "ReleaseDateRank": 87,
-    "ReleaseDateRankPercentile": 69
+    "ReleaseDateRankPercentile": 69,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 11,
@@ -2797,7 +3058,10 @@
     "MinutesRank": 32,
     "MinutesRankPercentile": 89,
     "ReleaseDateRank": 88,
-    "ReleaseDateRankPercentile": 68
+    "ReleaseDateRankPercentile": 68,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 7,
@@ -2830,7 +3094,10 @@
     "MinutesRank": 23,
     "MinutesRankPercentile": 92,
     "ReleaseDateRank": 89,
-    "ReleaseDateRankPercentile": 68
+    "ReleaseDateRankPercentile": 68,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 210,
@@ -2861,7 +3128,10 @@
     "MinutesRank": 228,
     "MinutesRankPercentile": 17,
     "ReleaseDateRank": 90,
-    "ReleaseDateRankPercentile": 68
+    "ReleaseDateRankPercentile": 68,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 157,
@@ -2892,7 +3162,10 @@
     "MinutesRank": 107,
     "MinutesRankPercentile": 61,
     "ReleaseDateRank": 91,
-    "ReleaseDateRankPercentile": 67
+    "ReleaseDateRankPercentile": 67,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 36,
@@ -2926,7 +3199,10 @@
     "MinutesRank": 114,
     "MinutesRankPercentile": 59,
     "ReleaseDateRank": 92,
-    "ReleaseDateRankPercentile": 67
+    "ReleaseDateRankPercentile": 67,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 61,
@@ -2957,7 +3233,10 @@
     "MinutesRank": 231,
     "MinutesRankPercentile": 16,
     "ReleaseDateRank": 93,
-    "ReleaseDateRankPercentile": 67
+    "ReleaseDateRankPercentile": 67,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 138,
@@ -2988,7 +3267,10 @@
     "MinutesRank": 242,
     "MinutesRankPercentile": 12,
     "ReleaseDateRank": 94,
-    "ReleaseDateRankPercentile": 66
+    "ReleaseDateRankPercentile": 66,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 65,
@@ -3023,7 +3305,10 @@
     "MinutesRank": 260,
     "MinutesRankPercentile": 5,
     "ReleaseDateRank": 95,
-    "ReleaseDateRankPercentile": 66
+    "ReleaseDateRankPercentile": 66,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 72,
@@ -3054,7 +3339,10 @@
     "MinutesRank": 200,
     "MinutesRankPercentile": 27,
     "ReleaseDateRank": 96,
-    "ReleaseDateRankPercentile": 65
+    "ReleaseDateRankPercentile": 65,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 202,
@@ -3085,7 +3373,10 @@
     "MinutesRank": 201,
     "MinutesRankPercentile": 27,
     "ReleaseDateRank": 97,
-    "ReleaseDateRankPercentile": 65
+    "ReleaseDateRankPercentile": 65,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 218,
@@ -3117,7 +3408,10 @@
     "MinutesRank": 122,
     "MinutesRankPercentile": 56,
     "ReleaseDateRank": 98,
-    "ReleaseDateRankPercentile": 65
+    "ReleaseDateRankPercentile": 65,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 27,
@@ -3151,7 +3445,10 @@
     "MinutesRank": 65,
     "MinutesRankPercentile": 77,
     "ReleaseDateRank": 99,
-    "ReleaseDateRankPercentile": 64
+    "ReleaseDateRankPercentile": 64,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 8,
@@ -3190,7 +3487,10 @@
     "MinutesRank": 25,
     "MinutesRankPercentile": 92,
     "ReleaseDateRank": 100,
-    "ReleaseDateRankPercentile": 64
+    "ReleaseDateRankPercentile": 64,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 116,
@@ -3221,7 +3521,10 @@
     "MinutesRank": 26,
     "MinutesRankPercentile": 91,
     "ReleaseDateRank": 101,
-    "ReleaseDateRankPercentile": 64
+    "ReleaseDateRankPercentile": 64,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 172,
@@ -3252,7 +3555,10 @@
     "MinutesRank": 209,
     "MinutesRankPercentile": 24,
     "ReleaseDateRank": 102,
-    "ReleaseDateRankPercentile": 63
+    "ReleaseDateRankPercentile": 63,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 42,
@@ -3287,7 +3593,10 @@
     "MinutesRank": 137,
     "MinutesRankPercentile": 50,
     "ReleaseDateRank": 103,
-    "ReleaseDateRankPercentile": 63
+    "ReleaseDateRankPercentile": 63,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 4,
@@ -3321,7 +3630,10 @@
     "MinutesRank": 19,
     "MinutesRankPercentile": 94,
     "ReleaseDateRank": 104,
-    "ReleaseDateRankPercentile": 62
+    "ReleaseDateRankPercentile": 62,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 75,
@@ -3352,7 +3664,10 @@
     "MinutesRank": 48,
     "MinutesRankPercentile": 83,
     "ReleaseDateRank": 105,
-    "ReleaseDateRankPercentile": 62
+    "ReleaseDateRankPercentile": 62,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 80,
@@ -3383,7 +3698,10 @@
     "MinutesRank": 80,
     "MinutesRankPercentile": 71,
     "ReleaseDateRank": 106,
-    "ReleaseDateRankPercentile": 62
+    "ReleaseDateRankPercentile": 62,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 150,
@@ -3414,7 +3732,10 @@
     "MinutesRank": 126,
     "MinutesRankPercentile": 54,
     "ReleaseDateRank": 107,
-    "ReleaseDateRankPercentile": 61
+    "ReleaseDateRankPercentile": 61,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 70,
@@ -3445,7 +3766,10 @@
     "MinutesRank": 224,
     "MinutesRankPercentile": 18,
     "ReleaseDateRank": 108,
-    "ReleaseDateRankPercentile": 61
+    "ReleaseDateRankPercentile": 61,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 152,
@@ -3476,7 +3800,10 @@
     "MinutesRank": 237,
     "MinutesRankPercentile": 13,
     "ReleaseDateRank": 109,
-    "ReleaseDateRankPercentile": 61
+    "ReleaseDateRankPercentile": 61,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 162,
@@ -3507,7 +3834,10 @@
     "MinutesRank": 239,
     "MinutesRankPercentile": 13,
     "ReleaseDateRank": 110,
-    "ReleaseDateRankPercentile": 60
+    "ReleaseDateRankPercentile": 60,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 31,
@@ -3541,7 +3871,10 @@
     "MinutesRank": 88,
     "MinutesRankPercentile": 68,
     "ReleaseDateRank": 111,
-    "ReleaseDateRankPercentile": 60
+    "ReleaseDateRankPercentile": 60,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 164,
@@ -3572,7 +3905,10 @@
     "MinutesRank": 214,
     "MinutesRankPercentile": 22,
     "ReleaseDateRank": 112,
-    "ReleaseDateRankPercentile": 60
+    "ReleaseDateRankPercentile": 60,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 83,
@@ -3603,7 +3939,10 @@
     "MinutesRank": 162,
     "MinutesRankPercentile": 41,
     "ReleaseDateRank": 113,
-    "ReleaseDateRankPercentile": 59
+    "ReleaseDateRankPercentile": 59,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 209,
@@ -3635,7 +3974,10 @@
     "MinutesRank": 82,
     "MinutesRankPercentile": 71,
     "ReleaseDateRank": 114,
-    "ReleaseDateRankPercentile": 59
+    "ReleaseDateRankPercentile": 59,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 9,
@@ -3670,7 +4012,10 @@
     "MinutesRank": 28,
     "MinutesRankPercentile": 91,
     "ReleaseDateRank": 115,
-    "ReleaseDateRankPercentile": 58
+    "ReleaseDateRankPercentile": 58,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 71,
@@ -3701,7 +4046,10 @@
     "MinutesRank": 74,
     "MinutesRankPercentile": 74,
     "ReleaseDateRank": 116,
-    "ReleaseDateRankPercentile": 58
+    "ReleaseDateRankPercentile": 58,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 135,
@@ -3732,7 +4080,10 @@
     "MinutesRank": 100,
     "MinutesRankPercentile": 64,
     "ReleaseDateRank": 117,
-    "ReleaseDateRankPercentile": 58
+    "ReleaseDateRankPercentile": 58,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 68,
@@ -3765,7 +4116,10 @@
     "MinutesRank": 176,
     "MinutesRankPercentile": 36,
     "ReleaseDateRank": 118,
-    "ReleaseDateRankPercentile": 57
+    "ReleaseDateRankPercentile": 57,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 201,
@@ -3798,7 +4152,10 @@
     "MinutesRank": 177,
     "MinutesRankPercentile": 36,
     "ReleaseDateRank": 119,
-    "ReleaseDateRankPercentile": 57
+    "ReleaseDateRankPercentile": 57,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 131,
@@ -3829,7 +4186,10 @@
     "MinutesRank": 10,
     "MinutesRankPercentile": 97,
     "ReleaseDateRank": 120,
-    "ReleaseDateRankPercentile": 57
+    "ReleaseDateRankPercentile": 57,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 226,
@@ -3860,7 +4220,10 @@
     "MinutesRank": 190,
     "MinutesRankPercentile": 31,
     "ReleaseDateRank": 121,
-    "ReleaseDateRankPercentile": 56
+    "ReleaseDateRankPercentile": 56,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 20,
@@ -3893,7 +4256,10 @@
     "MinutesRank": 50,
     "MinutesRankPercentile": 82,
     "ReleaseDateRank": 122,
-    "ReleaseDateRankPercentile": 56
+    "ReleaseDateRankPercentile": 56,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 200,
@@ -3924,7 +4290,10 @@
     "MinutesRank": 51,
     "MinutesRankPercentile": 82,
     "ReleaseDateRank": 123,
-    "ReleaseDateRankPercentile": 55
+    "ReleaseDateRankPercentile": 55,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 40,
@@ -3958,7 +4327,10 @@
     "MinutesRank": 123,
     "MinutesRankPercentile": 55,
     "ReleaseDateRank": 124,
-    "ReleaseDateRankPercentile": 55
+    "ReleaseDateRankPercentile": 55,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 14,
@@ -3997,7 +4369,10 @@
     "MinutesRank": 36,
     "MinutesRankPercentile": 88,
     "ReleaseDateRank": 125,
-    "ReleaseDateRankPercentile": 55
+    "ReleaseDateRankPercentile": 55,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 115,
@@ -4028,7 +4403,10 @@
     "MinutesRank": 37,
     "MinutesRankPercentile": 87,
     "ReleaseDateRank": 126,
-    "ReleaseDateRankPercentile": 54
+    "ReleaseDateRankPercentile": 54,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 16,
@@ -4064,7 +4442,10 @@
     "MinutesRank": 41,
     "MinutesRankPercentile": 86,
     "ReleaseDateRank": 127,
-    "ReleaseDateRankPercentile": 54
+    "ReleaseDateRankPercentile": 54,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 18,
@@ -4097,7 +4478,10 @@
     "MinutesRank": 45,
     "MinutesRankPercentile": 84,
     "ReleaseDateRank": 128,
-    "ReleaseDateRankPercentile": 54
+    "ReleaseDateRankPercentile": 54,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 171,
@@ -4129,7 +4513,10 @@
     "MinutesRank": 35,
     "MinutesRankPercentile": 88,
     "ReleaseDateRank": 129,
-    "ReleaseDateRankPercentile": 53
+    "ReleaseDateRankPercentile": 53,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 21,
@@ -4163,7 +4550,10 @@
     "MinutesRank": 53,
     "MinutesRankPercentile": 81,
     "ReleaseDateRank": 130,
-    "ReleaseDateRankPercentile": 53
+    "ReleaseDateRankPercentile": 53,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 94,
@@ -4194,7 +4584,10 @@
     "MinutesRank": 92,
     "MinutesRankPercentile": 67,
     "ReleaseDateRank": 131,
-    "ReleaseDateRankPercentile": 53
+    "ReleaseDateRankPercentile": 53,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 35,
@@ -4227,7 +4620,10 @@
     "MinutesRank": 112,
     "MinutesRankPercentile": 60,
     "ReleaseDateRank": 132,
-    "ReleaseDateRankPercentile": 52
+    "ReleaseDateRankPercentile": 52,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 199,
@@ -4258,7 +4654,10 @@
     "MinutesRank": 113,
     "MinutesRankPercentile": 59,
     "ReleaseDateRank": 133,
-    "ReleaseDateRankPercentile": 52
+    "ReleaseDateRankPercentile": 52,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 216,
@@ -4289,7 +4688,10 @@
     "MinutesRank": 132,
     "MinutesRankPercentile": 52,
     "ReleaseDateRank": 134,
-    "ReleaseDateRankPercentile": 51
+    "ReleaseDateRankPercentile": 51,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 62,
@@ -4325,7 +4727,10 @@
     "MinutesRank": 238,
     "MinutesRankPercentile": 13,
     "ReleaseDateRank": 135,
-    "ReleaseDateRankPercentile": 51
+    "ReleaseDateRankPercentile": 51,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 163,
@@ -4357,7 +4762,10 @@
     "MinutesRank": 72,
     "MinutesRankPercentile": 74,
     "ReleaseDateRank": 136,
-    "ReleaseDateRankPercentile": 51
+    "ReleaseDateRankPercentile": 51,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 3,
@@ -4388,7 +4796,10 @@
     "MinutesRank": 16,
     "MinutesRankPercentile": 95,
     "ReleaseDateRank": 137,
-    "ReleaseDateRankPercentile": 50
+    "ReleaseDateRankPercentile": 50,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 114,
@@ -4419,7 +4830,10 @@
     "MinutesRank": 17,
     "MinutesRankPercentile": 95,
     "ReleaseDateRank": 138,
-    "ReleaseDateRankPercentile": 50
+    "ReleaseDateRankPercentile": 50,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 37,
@@ -4455,7 +4869,10 @@
     "MinutesRank": 116,
     "MinutesRankPercentile": 58,
     "ReleaseDateRank": 139,
-    "ReleaseDateRankPercentile": 50
+    "ReleaseDateRankPercentile": 50,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 198,
@@ -4486,7 +4903,10 @@
     "MinutesRank": 117,
     "MinutesRankPercentile": 58,
     "ReleaseDateRank": 140,
-    "ReleaseDateRankPercentile": 49
+    "ReleaseDateRankPercentile": 49,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 25,
@@ -4520,7 +4940,10 @@
     "MinutesRank": 63,
     "MinutesRankPercentile": 78,
     "ReleaseDateRank": 141,
-    "ReleaseDateRankPercentile": 49
+    "ReleaseDateRankPercentile": 49,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 26,
@@ -4554,7 +4977,10 @@
     "MinutesRank": 64,
     "MinutesRankPercentile": 77,
     "ReleaseDateRank": 142,
-    "ReleaseDateRankPercentile": 48
+    "ReleaseDateRankPercentile": 48,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 147,
@@ -4585,7 +5011,10 @@
     "MinutesRank": 191,
     "MinutesRankPercentile": 30,
     "ReleaseDateRank": 143,
-    "ReleaseDateRankPercentile": 48
+    "ReleaseDateRankPercentile": 48,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 130,
@@ -4616,7 +5045,10 @@
     "MinutesRank": 223,
     "MinutesRankPercentile": 19,
     "ReleaseDateRank": 144,
-    "ReleaseDateRankPercentile": 48
+    "ReleaseDateRankPercentile": 48,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 179,
@@ -4647,7 +5079,10 @@
     "MinutesRank": 254,
     "MinutesRankPercentile": 7,
     "ReleaseDateRank": 145,
-    "ReleaseDateRankPercentile": 47
+    "ReleaseDateRankPercentile": 47,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 156,
@@ -4679,7 +5114,10 @@
     "MinutesRank": 54,
     "MinutesRankPercentile": 81,
     "ReleaseDateRank": 146,
-    "ReleaseDateRankPercentile": 47
+    "ReleaseDateRankPercentile": 47,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 54,
@@ -4713,7 +5151,10 @@
     "MinutesRank": 198,
     "MinutesRankPercentile": 28,
     "ReleaseDateRank": 147,
-    "ReleaseDateRankPercentile": 47
+    "ReleaseDateRankPercentile": 47,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 48,
@@ -4746,7 +5187,10 @@
     "MinutesRank": 157,
     "MinutesRankPercentile": 43,
     "ReleaseDateRank": 148,
-    "ReleaseDateRankPercentile": 46
+    "ReleaseDateRankPercentile": 46,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 57,
@@ -4781,7 +5225,10 @@
     "MinutesRank": 215,
     "MinutesRankPercentile": 22,
     "ReleaseDateRank": 149,
-    "ReleaseDateRankPercentile": 46
+    "ReleaseDateRankPercentile": 46,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 117,
@@ -4817,7 +5264,10 @@
     "MinutesRank": 129,
     "MinutesRankPercentile": 53,
     "ReleaseDateRank": 150,
-    "ReleaseDateRankPercentile": 46
+    "ReleaseDateRankPercentile": 46,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 126,
@@ -4848,7 +5298,10 @@
     "MinutesRank": 4,
     "MinutesRankPercentile": 99,
     "ReleaseDateRank": 151,
-    "ReleaseDateRankPercentile": 45
+    "ReleaseDateRankPercentile": 45,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 182,
@@ -4879,7 +5332,10 @@
     "MinutesRank": 49,
     "MinutesRankPercentile": 83,
     "ReleaseDateRank": 152,
-    "ReleaseDateRankPercentile": 45
+    "ReleaseDateRankPercentile": 45,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 10,
@@ -4918,7 +5374,10 @@
     "MinutesRank": 30,
     "MinutesRankPercentile": 90,
     "ReleaseDateRank": 153,
-    "ReleaseDateRankPercentile": 44
+    "ReleaseDateRankPercentile": 44,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 113,
@@ -4949,7 +5408,10 @@
     "MinutesRank": 31,
     "MinutesRankPercentile": 89,
     "ReleaseDateRank": 154,
-    "ReleaseDateRankPercentile": 44
+    "ReleaseDateRankPercentile": 44,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 17,
@@ -4984,7 +5446,10 @@
     "MinutesRank": 43,
     "MinutesRankPercentile": 85,
     "ReleaseDateRank": 155,
-    "ReleaseDateRankPercentile": 44
+    "ReleaseDateRankPercentile": 44,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 109,
@@ -5019,7 +5484,10 @@
     "MinutesRank": 44,
     "MinutesRankPercentile": 85,
     "ReleaseDateRank": 156,
-    "ReleaseDateRankPercentile": 43
+    "ReleaseDateRankPercentile": 43,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 6,
@@ -5053,7 +5521,10 @@
     "MinutesRank": 21,
     "MinutesRankPercentile": 93,
     "ReleaseDateRank": 157,
-    "ReleaseDateRankPercentile": 43
+    "ReleaseDateRankPercentile": 43,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 45,
@@ -5086,7 +5557,10 @@
     "MinutesRank": 149,
     "MinutesRankPercentile": 46,
     "ReleaseDateRank": 158,
-    "ReleaseDateRankPercentile": 43
+    "ReleaseDateRankPercentile": 43,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 196,
@@ -5117,7 +5591,10 @@
     "MinutesRank": 151,
     "MinutesRankPercentile": 45,
     "ReleaseDateRank": 159,
-    "ReleaseDateRankPercentile": 42
+    "ReleaseDateRankPercentile": 42,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 103,
@@ -5148,7 +5625,10 @@
     "MinutesRank": 154,
     "MinutesRankPercentile": 44,
     "ReleaseDateRank": 160,
-    "ReleaseDateRankPercentile": 42
+    "ReleaseDateRankPercentile": 42,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 268,
@@ -5182,7 +5662,10 @@
     "MinutesRank": 236,
     "MinutesRankPercentile": 14,
     "ReleaseDateRank": 161,
-    "ReleaseDateRankPercentile": 41
+    "ReleaseDateRankPercentile": 41,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 169,
@@ -5213,7 +5696,10 @@
     "MinutesRank": 131,
     "MinutesRankPercentile": 53,
     "ReleaseDateRank": 162,
-    "ReleaseDateRankPercentile": 41
+    "ReleaseDateRankPercentile": 41,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 44,
@@ -5252,7 +5738,10 @@
     "MinutesRank": 148,
     "MinutesRankPercentile": 46,
     "ReleaseDateRank": 163,
-    "ReleaseDateRankPercentile": 41
+    "ReleaseDateRankPercentile": 41,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 112,
@@ -5291,7 +5780,10 @@
     "MinutesRank": 150,
     "MinutesRankPercentile": 46,
     "ReleaseDateRank": 164,
-    "ReleaseDateRankPercentile": 40
+    "ReleaseDateRankPercentile": 40,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 154,
@@ -5322,7 +5814,10 @@
     "MinutesRank": 130,
     "MinutesRankPercentile": 53,
     "ReleaseDateRank": 165,
-    "ReleaseDateRankPercentile": 40
+    "ReleaseDateRankPercentile": 40,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 118,
@@ -5357,7 +5852,10 @@
     "MinutesRank": 8,
     "MinutesRankPercentile": 98,
     "ReleaseDateRank": 166,
-    "ReleaseDateRankPercentile": 40
+    "ReleaseDateRankPercentile": 40,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 23,
@@ -5390,7 +5888,10 @@
     "MinutesRank": 57,
     "MinutesRankPercentile": 80,
     "ReleaseDateRank": 167,
-    "ReleaseDateRankPercentile": 39
+    "ReleaseDateRankPercentile": 39,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 195,
@@ -5421,7 +5922,10 @@
     "MinutesRank": 58,
     "MinutesRankPercentile": 79,
     "ReleaseDateRank": 168,
-    "ReleaseDateRankPercentile": 39
+    "ReleaseDateRankPercentile": 39,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 259,
@@ -5456,7 +5960,10 @@
     "MinutesRank": 204,
     "MinutesRankPercentile": 26,
     "ReleaseDateRank": 169,
-    "ReleaseDateRankPercentile": 39
+    "ReleaseDateRankPercentile": 39,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 166,
@@ -5487,7 +5994,10 @@
     "MinutesRank": 18,
     "MinutesRankPercentile": 94,
     "ReleaseDateRank": 170,
-    "ReleaseDateRankPercentile": 38
+    "ReleaseDateRankPercentile": 38,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 161,
@@ -5518,7 +6028,10 @@
     "MinutesRank": 182,
     "MinutesRankPercentile": 34,
     "ReleaseDateRank": 171,
-    "ReleaseDateRankPercentile": 38
+    "ReleaseDateRankPercentile": 38,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 58,
@@ -5549,7 +6062,10 @@
     "MinutesRank": 221,
     "MinutesRankPercentile": 19,
     "ReleaseDateRank": 172,
-    "ReleaseDateRankPercentile": 37
+    "ReleaseDateRankPercentile": 37,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 111,
@@ -5580,7 +6096,10 @@
     "MinutesRank": 222,
     "MinutesRankPercentile": 19,
     "ReleaseDateRank": 173,
-    "ReleaseDateRankPercentile": 37
+    "ReleaseDateRankPercentile": 37,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 43,
@@ -5611,7 +6130,10 @@
     "MinutesRank": 143,
     "MinutesRankPercentile": 48,
     "ReleaseDateRank": 174,
-    "ReleaseDateRankPercentile": 37
+    "ReleaseDateRankPercentile": 37,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 74,
@@ -5642,7 +6164,10 @@
     "MinutesRank": 230,
     "MinutesRankPercentile": 16,
     "ReleaseDateRank": 175,
-    "ReleaseDateRankPercentile": 36
+    "ReleaseDateRankPercentile": 36,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 137,
@@ -5673,7 +6198,10 @@
     "MinutesRank": 90,
     "MinutesRankPercentile": 68,
     "ReleaseDateRank": 176,
-    "ReleaseDateRankPercentile": 36
+    "ReleaseDateRankPercentile": 36,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 153,
@@ -5704,7 +6232,10 @@
     "MinutesRank": 179,
     "MinutesRankPercentile": 35,
     "ReleaseDateRank": 177,
-    "ReleaseDateRankPercentile": 36
+    "ReleaseDateRankPercentile": 36,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 110,
@@ -5743,7 +6274,10 @@
     "MinutesRank": 229,
     "MinutesRankPercentile": 16,
     "ReleaseDateRank": 178,
-    "ReleaseDateRankPercentile": 35
+    "ReleaseDateRankPercentile": 35,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 146,
@@ -5775,7 +6309,10 @@
     "MinutesRank": 103,
     "MinutesRankPercentile": 63,
     "ReleaseDateRank": 179,
-    "ReleaseDateRankPercentile": 35
+    "ReleaseDateRankPercentile": 35,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 168,
@@ -5806,7 +6343,10 @@
     "MinutesRank": 76,
     "MinutesRankPercentile": 73,
     "ReleaseDateRank": 180,
-    "ReleaseDateRankPercentile": 34
+    "ReleaseDateRankPercentile": 34,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 41,
@@ -5842,7 +6382,10 @@
     "MinutesRank": 128,
     "MinutesRankPercentile": 54,
     "ReleaseDateRank": 181,
-    "ReleaseDateRankPercentile": 34
+    "ReleaseDateRankPercentile": 34,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 222,
@@ -5873,7 +6416,10 @@
     "MinutesRank": 164,
     "MinutesRankPercentile": 40,
     "ReleaseDateRank": 182,
-    "ReleaseDateRankPercentile": 34
+    "ReleaseDateRankPercentile": 34,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 247,
@@ -5904,7 +6450,10 @@
     "MinutesRank": 195,
     "MinutesRankPercentile": 29,
     "ReleaseDateRank": 183,
-    "ReleaseDateRankPercentile": 33
+    "ReleaseDateRankPercentile": 33,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 236,
@@ -5935,7 +6484,10 @@
     "MinutesRank": 109,
     "MinutesRankPercentile": 61,
     "ReleaseDateRank": 184,
-    "ReleaseDateRankPercentile": 33
+    "ReleaseDateRankPercentile": 33,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 104,
@@ -5966,7 +6518,10 @@
     "MinutesRank": 11,
     "MinutesRankPercentile": 97,
     "ReleaseDateRank": 185,
-    "ReleaseDateRankPercentile": 33
+    "ReleaseDateRankPercentile": 33,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 144,
@@ -5997,7 +6552,10 @@
     "MinutesRank": 216,
     "MinutesRankPercentile": 21,
     "ReleaseDateRank": 186,
-    "ReleaseDateRankPercentile": 32
+    "ReleaseDateRankPercentile": 32,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 139,
@@ -6028,7 +6586,10 @@
     "MinutesRank": 217,
     "MinutesRankPercentile": 21,
     "ReleaseDateRank": 187,
-    "ReleaseDateRankPercentile": 32
+    "ReleaseDateRankPercentile": 32,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 267,
@@ -6059,7 +6620,10 @@
     "MinutesRank": 125,
     "MinutesRankPercentile": 55,
     "ReleaseDateRank": 188,
-    "ReleaseDateRankPercentile": 31
+    "ReleaseDateRankPercentile": 31,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 140,
@@ -6091,7 +6655,10 @@
     "MinutesRank": 118,
     "MinutesRankPercentile": 57,
     "ReleaseDateRank": 189,
-    "ReleaseDateRankPercentile": 31
+    "ReleaseDateRankPercentile": 31,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 227,
@@ -6122,7 +6689,10 @@
     "MinutesRank": 163,
     "MinutesRankPercentile": 41,
     "ReleaseDateRank": 190,
-    "ReleaseDateRankPercentile": 31
+    "ReleaseDateRankPercentile": 31,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 87,
@@ -6153,7 +6723,10 @@
     "MinutesRank": 81,
     "MinutesRankPercentile": 71,
     "ReleaseDateRank": 191,
-    "ReleaseDateRankPercentile": 30
+    "ReleaseDateRankPercentile": 30,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 134,
@@ -6184,7 +6757,10 @@
     "MinutesRank": 158,
     "MinutesRankPercentile": 43,
     "ReleaseDateRank": 192,
-    "ReleaseDateRankPercentile": 30
+    "ReleaseDateRankPercentile": 30,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 258,
@@ -6215,7 +6791,10 @@
     "MinutesRank": 210,
     "MinutesRankPercentile": 23,
     "ReleaseDateRank": 193,
-    "ReleaseDateRankPercentile": 30
+    "ReleaseDateRankPercentile": 30,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 129,
@@ -6246,7 +6825,10 @@
     "MinutesRank": 146,
     "MinutesRankPercentile": 47,
     "ReleaseDateRank": 194,
-    "ReleaseDateRankPercentile": 29
+    "ReleaseDateRankPercentile": 29,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 217,
@@ -6279,7 +6861,10 @@
     "MinutesRank": 133,
     "MinutesRankPercentile": 52,
     "ReleaseDateRank": 195,
-    "ReleaseDateRankPercentile": 29
+    "ReleaseDateRankPercentile": 29,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 127,
@@ -6310,7 +6895,10 @@
     "MinutesRank": 73,
     "MinutesRankPercentile": 74,
     "ReleaseDateRank": 196,
-    "ReleaseDateRankPercentile": 29
+    "ReleaseDateRankPercentile": 29,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 246,
@@ -6341,7 +6929,10 @@
     "MinutesRank": 172,
     "MinutesRankPercentile": 37,
     "ReleaseDateRank": 197,
-    "ReleaseDateRankPercentile": 28
+    "ReleaseDateRankPercentile": 28,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 123,
@@ -6376,7 +6967,10 @@
     "MinutesRank": 206,
     "MinutesRankPercentile": 25,
     "ReleaseDateRank": 198,
-    "ReleaseDateRankPercentile": 28
+    "ReleaseDateRankPercentile": 28,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 119,
@@ -6409,7 +7003,10 @@
     "MinutesRank": 83,
     "MinutesRankPercentile": 70,
     "ReleaseDateRank": 199,
-    "ReleaseDateRankPercentile": 27
+    "ReleaseDateRankPercentile": 27,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 235,
@@ -6440,7 +7037,10 @@
     "MinutesRank": 101,
     "MinutesRankPercentile": 64,
     "ReleaseDateRank": 200,
-    "ReleaseDateRankPercentile": 27
+    "ReleaseDateRankPercentile": 27,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 108,
@@ -6471,7 +7071,10 @@
     "MinutesRank": 203,
     "MinutesRankPercentile": 26,
     "ReleaseDateRank": 201,
-    "ReleaseDateRankPercentile": 27
+    "ReleaseDateRankPercentile": 27,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 2,
@@ -6504,7 +7107,10 @@
     "MinutesRank": 12,
     "MinutesRankPercentile": 96,
     "ReleaseDateRank": 202,
-    "ReleaseDateRankPercentile": 26
+    "ReleaseDateRankPercentile": 26,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 105,
@@ -6535,7 +7141,10 @@
     "MinutesRank": 115,
     "MinutesRankPercentile": 58,
     "ReleaseDateRank": 203,
-    "ReleaseDateRankPercentile": 26
+    "ReleaseDateRankPercentile": 26,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 85,
@@ -6566,7 +7175,10 @@
     "MinutesRank": 139,
     "MinutesRankPercentile": 50,
     "ReleaseDateRank": 204,
-    "ReleaseDateRankPercentile": 26
+    "ReleaseDateRankPercentile": 26,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 106,
@@ -6597,7 +7209,10 @@
     "MinutesRank": 27,
     "MinutesRankPercentile": 91,
     "ReleaseDateRank": 205,
-    "ReleaseDateRankPercentile": 25
+    "ReleaseDateRankPercentile": 25,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 208,
@@ -6628,7 +7243,10 @@
     "MinutesRank": 14,
     "MinutesRankPercentile": 96,
     "ReleaseDateRank": 206,
-    "ReleaseDateRankPercentile": 25
+    "ReleaseDateRankPercentile": 25,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 141,
@@ -6659,7 +7277,10 @@
     "MinutesRank": 13,
     "MinutesRankPercentile": 96,
     "ReleaseDateRank": 207,
-    "ReleaseDateRankPercentile": 24
+    "ReleaseDateRankPercentile": 24,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 102,
@@ -6690,7 +7311,10 @@
     "MinutesRank": 161,
     "MinutesRankPercentile": 41,
     "ReleaseDateRank": 208,
-    "ReleaseDateRankPercentile": 24
+    "ReleaseDateRankPercentile": 24,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 264,
@@ -6724,7 +7348,10 @@
     "MinutesRank": 70,
     "MinutesRankPercentile": 75,
     "ReleaseDateRank": 209,
-    "ReleaseDateRankPercentile": 24
+    "ReleaseDateRankPercentile": 24,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 39,
@@ -6760,7 +7387,10 @@
     "MinutesRank": 120,
     "MinutesRankPercentile": 57,
     "ReleaseDateRank": 210,
-    "ReleaseDateRankPercentile": 23
+    "ReleaseDateRankPercentile": 23,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 149,
@@ -6791,7 +7421,10 @@
     "MinutesRank": 194,
     "MinutesRankPercentile": 29,
     "ReleaseDateRank": 211,
-    "ReleaseDateRankPercentile": 23
+    "ReleaseDateRankPercentile": 23,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 38,
@@ -6825,7 +7458,10 @@
     "MinutesRank": 119,
     "MinutesRankPercentile": 57,
     "ReleaseDateRank": 212,
-    "ReleaseDateRankPercentile": 23
+    "ReleaseDateRankPercentile": 23,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 99,
@@ -6856,7 +7492,10 @@
     "MinutesRank": 256,
     "MinutesRankPercentile": 6,
     "ReleaseDateRank": 213,
-    "ReleaseDateRankPercentile": 22
+    "ReleaseDateRankPercentile": 22,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 263,
@@ -6889,7 +7528,10 @@
     "MinutesRank": 267,
     "MinutesRankPercentile": 2,
     "ReleaseDateRank": 214,
-    "ReleaseDateRankPercentile": 22
+    "ReleaseDateRankPercentile": 22,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 213,
@@ -6920,7 +7562,10 @@
     "MinutesRank": 5,
     "MinutesRankPercentile": 99,
     "ReleaseDateRank": 215,
-    "ReleaseDateRankPercentile": 22
+    "ReleaseDateRankPercentile": 22,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 255,
@@ -6951,7 +7596,10 @@
     "MinutesRank": 255,
     "MinutesRankPercentile": 7,
     "ReleaseDateRank": 216,
-    "ReleaseDateRankPercentile": 21
+    "ReleaseDateRankPercentile": 21,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 242,
@@ -6982,7 +7630,10 @@
     "MinutesRank": 265,
     "MinutesRankPercentile": 3,
     "ReleaseDateRank": 217,
-    "ReleaseDateRankPercentile": 21
+    "ReleaseDateRankPercentile": 21,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 30,
@@ -7017,7 +7668,10 @@
     "MinutesRank": 86,
     "MinutesRankPercentile": 69,
     "ReleaseDateRank": 218,
-    "ReleaseDateRankPercentile": 20
+    "ReleaseDateRankPercentile": 20,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 212,
@@ -7048,7 +7702,10 @@
     "MinutesRank": 257,
     "MinutesRankPercentile": 6,
     "ReleaseDateRank": 219,
-    "ReleaseDateRankPercentile": 20
+    "ReleaseDateRankPercentile": 20,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 148,
@@ -7079,7 +7736,10 @@
     "MinutesRank": 138,
     "MinutesRankPercentile": 50,
     "ReleaseDateRank": 220,
-    "ReleaseDateRankPercentile": 20
+    "ReleaseDateRankPercentile": 20,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 170,
@@ -7110,7 +7770,10 @@
     "MinutesRank": 24,
     "MinutesRankPercentile": 92,
     "ReleaseDateRank": 221,
-    "ReleaseDateRankPercentile": 19
+    "ReleaseDateRankPercentile": 19,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 234,
@@ -7141,7 +7804,10 @@
     "MinutesRank": 69,
     "MinutesRankPercentile": 75,
     "ReleaseDateRank": 222,
-    "ReleaseDateRankPercentile": 19
+    "ReleaseDateRankPercentile": 19,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 175,
@@ -7172,7 +7838,10 @@
     "MinutesRank": 3,
     "MinutesRankPercentile": 100,
     "ReleaseDateRank": 223,
-    "ReleaseDateRankPercentile": 19
+    "ReleaseDateRankPercentile": 19,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 243,
@@ -7203,7 +7872,10 @@
     "MinutesRank": 212,
     "MinutesRankPercentile": 23,
     "ReleaseDateRank": 224,
-    "ReleaseDateRankPercentile": 18
+    "ReleaseDateRankPercentile": 18,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 167,
@@ -7234,7 +7906,10 @@
     "MinutesRank": 71,
     "MinutesRankPercentile": 75,
     "ReleaseDateRank": 225,
-    "ReleaseDateRankPercentile": 18
+    "ReleaseDateRankPercentile": 18,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 265,
@@ -7268,7 +7943,10 @@
     "MinutesRank": 205,
     "MinutesRankPercentile": 25,
     "ReleaseDateRank": 226,
-    "ReleaseDateRankPercentile": 17
+    "ReleaseDateRankPercentile": 17,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 174,
@@ -7299,7 +7977,10 @@
     "MinutesRank": 258,
     "MinutesRankPercentile": 6,
     "ReleaseDateRank": 227,
-    "ReleaseDateRankPercentile": 17
+    "ReleaseDateRankPercentile": 17,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 12,
@@ -7333,7 +8014,10 @@
     "MinutesRank": 33,
     "MinutesRankPercentile": 89,
     "ReleaseDateRank": 228,
-    "ReleaseDateRankPercentile": 17
+    "ReleaseDateRankPercentile": 17,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 56,
@@ -7366,7 +8050,10 @@
     "MinutesRank": 207,
     "MinutesRankPercentile": 24,
     "ReleaseDateRank": 229,
-    "ReleaseDateRankPercentile": 16
+    "ReleaseDateRankPercentile": 16,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 271,
@@ -7400,7 +8087,10 @@
     "MinutesRank": 249,
     "MinutesRankPercentile": 9,
     "ReleaseDateRank": 230,
-    "ReleaseDateRankPercentile": 16
+    "ReleaseDateRankPercentile": 16,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 262,
@@ -7433,7 +8123,10 @@
     "MinutesRank": 261,
     "MinutesRankPercentile": 5,
     "ReleaseDateRank": 231,
-    "ReleaseDateRankPercentile": 16
+    "ReleaseDateRankPercentile": 16,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 221,
@@ -7464,7 +8157,10 @@
     "MinutesRank": 264,
     "MinutesRankPercentile": 3,
     "ReleaseDateRank": 232,
-    "ReleaseDateRankPercentile": 15
+    "ReleaseDateRankPercentile": 15,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 160,
@@ -7495,7 +8191,10 @@
     "MinutesRank": 91,
     "MinutesRankPercentile": 67,
     "ReleaseDateRank": 233,
-    "ReleaseDateRankPercentile": 15
+    "ReleaseDateRankPercentile": 15,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 97,
@@ -7526,7 +8225,10 @@
     "MinutesRank": 262,
     "MinutesRankPercentile": 4,
     "ReleaseDateRank": 234,
-    "ReleaseDateRankPercentile": 15
+    "ReleaseDateRankPercentile": 15,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 232,
@@ -7557,7 +8259,10 @@
     "MinutesRank": 263,
     "MinutesRankPercentile": 4,
     "ReleaseDateRank": 235,
-    "ReleaseDateRankPercentile": 14
+    "ReleaseDateRankPercentile": 14,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 244,
@@ -7588,7 +8293,10 @@
     "MinutesRank": 1,
     "MinutesRankPercentile": 100,
     "ReleaseDateRank": 236,
-    "ReleaseDateRankPercentile": 14
+    "ReleaseDateRankPercentile": 14,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 215,
@@ -7619,7 +8327,10 @@
     "MinutesRank": 181,
     "MinutesRankPercentile": 34,
     "ReleaseDateRank": 237,
-    "ReleaseDateRankPercentile": 13
+    "ReleaseDateRankPercentile": 13,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 64,
@@ -7650,7 +8361,10 @@
     "MinutesRank": 251,
     "MinutesRankPercentile": 8,
     "ReleaseDateRank": 238,
-    "ReleaseDateRankPercentile": 13
+    "ReleaseDateRankPercentile": 13,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 28,
@@ -7685,7 +8399,10 @@
     "MinutesRank": 77,
     "MinutesRankPercentile": 72,
     "ReleaseDateRank": 239,
-    "ReleaseDateRankPercentile": 13
+    "ReleaseDateRankPercentile": 13,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 181,
@@ -7716,7 +8433,10 @@
     "MinutesRank": 78,
     "MinutesRankPercentile": 72,
     "ReleaseDateRank": 240,
-    "ReleaseDateRankPercentile": 12
+    "ReleaseDateRankPercentile": 12,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 24,
@@ -7751,7 +8471,10 @@
     "MinutesRank": 60,
     "MinutesRankPercentile": 79,
     "ReleaseDateRank": 241,
-    "ReleaseDateRankPercentile": 12
+    "ReleaseDateRankPercentile": 12,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 155,
@@ -7782,7 +8505,10 @@
     "MinutesRank": 61,
     "MinutesRankPercentile": 78,
     "ReleaseDateRank": 242,
-    "ReleaseDateRankPercentile": 12
+    "ReleaseDateRankPercentile": 12,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 180,
@@ -7813,7 +8539,10 @@
     "MinutesRank": 62,
     "MinutesRankPercentile": 78,
     "ReleaseDateRank": 243,
-    "ReleaseDateRankPercentile": 11
+    "ReleaseDateRankPercentile": 11,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 15,
@@ -7849,7 +8578,10 @@
     "MinutesRank": 39,
     "MinutesRankPercentile": 86,
     "ReleaseDateRank": 244,
-    "ReleaseDateRankPercentile": 11
+    "ReleaseDateRankPercentile": 11,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 178,
@@ -7880,7 +8612,10 @@
     "MinutesRank": 40,
     "MinutesRankPercentile": 86,
     "ReleaseDateRank": 245,
-    "ReleaseDateRankPercentile": 10
+    "ReleaseDateRankPercentile": 10,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 128,
@@ -7911,7 +8646,10 @@
     "MinutesRank": 208,
     "MinutesRankPercentile": 24,
     "ReleaseDateRank": 246,
-    "ReleaseDateRankPercentile": 10
+    "ReleaseDateRankPercentile": 10,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 151,
@@ -7942,7 +8680,10 @@
     "MinutesRank": 248,
     "MinutesRankPercentile": 9,
     "ReleaseDateRank": 247,
-    "ReleaseDateRankPercentile": 10
+    "ReleaseDateRankPercentile": 10,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 233,
@@ -7973,7 +8714,10 @@
     "MinutesRank": 85,
     "MinutesRankPercentile": 70,
     "ReleaseDateRank": 248,
-    "ReleaseDateRankPercentile": 9
+    "ReleaseDateRankPercentile": 9,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 53,
@@ -8004,7 +8748,10 @@
     "MinutesRank": 178,
     "MinutesRankPercentile": 35,
     "ReleaseDateRank": 249,
-    "ReleaseDateRankPercentile": 9
+    "ReleaseDateRankPercentile": 9,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 177,
@@ -8035,7 +8782,10 @@
     "MinutesRank": 180,
     "MinutesRankPercentile": 34,
     "ReleaseDateRank": 250,
-    "ReleaseDateRankPercentile": 9
+    "ReleaseDateRankPercentile": 9,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 225,
@@ -8066,7 +8816,10 @@
     "MinutesRank": 220,
     "MinutesRankPercentile": 20,
     "ReleaseDateRank": 251,
-    "ReleaseDateRankPercentile": 8
+    "ReleaseDateRankPercentile": 8,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 224,
@@ -8097,7 +8850,10 @@
     "MinutesRank": 235,
     "MinutesRankPercentile": 14,
     "ReleaseDateRank": 252,
-    "ReleaseDateRankPercentile": 8
+    "ReleaseDateRankPercentile": 8,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 76,
@@ -8128,7 +8884,10 @@
     "MinutesRank": 253,
     "MinutesRankPercentile": 8,
     "ReleaseDateRank": 253,
-    "ReleaseDateRankPercentile": 8
+    "ReleaseDateRankPercentile": 8,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 223,
@@ -8159,7 +8918,10 @@
     "MinutesRank": 247,
     "MinutesRankPercentile": 10,
     "ReleaseDateRank": 254,
-    "ReleaseDateRankPercentile": 7
+    "ReleaseDateRankPercentile": 7,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 59,
@@ -8192,7 +8954,10 @@
     "MinutesRank": 225,
     "MinutesRankPercentile": 18,
     "ReleaseDateRank": 255,
-    "ReleaseDateRankPercentile": 7
+    "ReleaseDateRankPercentile": 7,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 101,
@@ -8223,7 +8988,10 @@
     "MinutesRank": 250,
     "MinutesRankPercentile": 9,
     "ReleaseDateRank": 256,
-    "ReleaseDateRankPercentile": 6
+    "ReleaseDateRankPercentile": 6,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 121,
@@ -8256,7 +9024,10 @@
     "MinutesRank": 134,
     "MinutesRankPercentile": 51,
     "ReleaseDateRank": 257,
-    "ReleaseDateRankPercentile": 6
+    "ReleaseDateRankPercentile": 6,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 122,
@@ -8287,7 +9058,10 @@
     "MinutesRank": 245,
     "MinutesRankPercentile": 10,
     "ReleaseDateRank": 258,
-    "ReleaseDateRankPercentile": 6
+    "ReleaseDateRankPercentile": 6,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 13,
@@ -8318,7 +9092,10 @@
     "MinutesRank": 34,
     "MinutesRankPercentile": 88,
     "ReleaseDateRank": 259,
-    "ReleaseDateRankPercentile": 5
+    "ReleaseDateRankPercentile": 5,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 29,
@@ -8351,7 +9128,10 @@
     "MinutesRank": 79,
     "MinutesRankPercentile": 72,
     "ReleaseDateRank": 260,
-    "ReleaseDateRankPercentile": 5
+    "ReleaseDateRankPercentile": 5,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 125,
@@ -8382,7 +9162,10 @@
     "MinutesRank": 93,
     "MinutesRankPercentile": 67,
     "ReleaseDateRank": 261,
-    "ReleaseDateRankPercentile": 5
+    "ReleaseDateRankPercentile": 5,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 51,
@@ -8415,7 +9198,10 @@
     "MinutesRank": 168,
     "MinutesRankPercentile": 39,
     "ReleaseDateRank": 262,
-    "ReleaseDateRankPercentile": 4
+    "ReleaseDateRankPercentile": 4,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 63,
@@ -8448,7 +9234,10 @@
     "MinutesRank": 240,
     "MinutesRankPercentile": 12,
     "ReleaseDateRank": 263,
-    "ReleaseDateRankPercentile": 4
+    "ReleaseDateRankPercentile": 4,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 67,
@@ -8487,7 +9276,10 @@
     "MinutesRank": 271,
     "MinutesRankPercentile": 1,
     "ReleaseDateRank": 264,
-    "ReleaseDateRankPercentile": 3
+    "ReleaseDateRankPercentile": 3,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 79,
@@ -8518,7 +9310,10 @@
     "MinutesRank": 246,
     "MinutesRankPercentile": 10,
     "ReleaseDateRank": 265,
-    "ReleaseDateRankPercentile": 3
+    "ReleaseDateRankPercentile": 3,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 120,
@@ -8551,7 +9346,10 @@
     "MinutesRank": 211,
     "MinutesRankPercentile": 23,
     "ReleaseDateRank": 266,
-    "ReleaseDateRankPercentile": 3
+    "ReleaseDateRankPercentile": 3,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 81,
@@ -8582,7 +9380,10 @@
     "MinutesRank": 243,
     "MinutesRankPercentile": 11,
     "ReleaseDateRank": 267,
-    "ReleaseDateRankPercentile": 2
+    "ReleaseDateRankPercentile": 2,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 176,
@@ -8613,7 +9414,10 @@
     "MinutesRank": 232,
     "MinutesRankPercentile": 15,
     "ReleaseDateRank": 268,
-    "ReleaseDateRankPercentile": 2
+    "ReleaseDateRankPercentile": 2,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 66,
@@ -8648,7 +9452,10 @@
     "MinutesRank": 270,
     "MinutesRankPercentile": 1,
     "ReleaseDateRank": 269,
-    "ReleaseDateRankPercentile": 2
+    "ReleaseDateRankPercentile": 2,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 256,
@@ -8679,7 +9486,10 @@
     "MinutesRank": 6,
     "MinutesRankPercentile": 99,
     "ReleaseDateRank": 270,
-    "ReleaseDateRankPercentile": 1
+    "ReleaseDateRankPercentile": 1,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   },
   {
     "Id": 143,
@@ -8710,6 +9520,526 @@
     "MinutesRank": 266,
     "MinutesRankPercentile": 3,
     "ReleaseDateRank": 271,
-    "ReleaseDateRankPercentile": 1
+    "ReleaseDateRankPercentile": 1,
+    "DaysTaken": null,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 283,
+    "Name": "Crimson Shore",
+    "Author": [
+      "Douglas Preston",
+      "Lincoln Child"
+    ],
+    "Minutes": 646,
+    "DateStarted": "2016-08-26T00:00:00",
+    "DateCompleted": "2016-09-07T00:00:00",
+    "ReleaseDate": "2015-10-11T00:00:00",
+    "Pages": 339,
+    "CoverUrl": "http://2.bp.blogspot.com/-OK_ZDsD0aqQ/VjpHq69fi0I/AAAAAAAAcRs/TZeBv8f8MSA/s1600/CrimsonShore.JPG",
+    "CoverHash": null,
+    "Series": "Pendergast",
+    "SeriesOrder": 15.0,
+    "Description": "<b><i>A secret chamber.<br>A mysterious shipwreck.<br>A murder in the desolate salt marshes.</i></b><br>A seemingly straightforward private case turns out to be much more complicated-and sinister-than Special Agent A.X.L. Pendergast ever could have anticipated.<br>Pendergast, together with his ward Constance Greene, travels to the quaint seaside village of Exmouth, Massachusetts, to investigate the theft of a priceless wine collection. But inside the wine cellar, they find something considerably more disturbing: a bricked-up niche that once held a crumbling skeleton. <br>Pendergast and Constance soon learn that Exmouth is a town with a very dark and troubled history, and this skeleton may be only the first hint of an ancient transgression, kept secret all these years. But they will discover that the sins of the past are still very much alive. Local legend holds that during the 1692 witch trials in Salem, the real witches escaped, fleeing north to Exmouth and settling deep in the surrounding salt marshes, where they continued to practice their wicked arts. <br>Then, a murdered corpse turns up in the marshes. The only clue is a series of mysterious carvings. Could these demonic symbols bear some relation to the ancient witches' colony, long believed to be abandoned?<br>A terrible evil lurks beneath the surface of this sleepy seaside town-one with deep roots in Exmouth's grim history. And it may be that Constance, with her own troubled past, is the only one who truly comprehends the awful danger that she, Pendergast, and the residents of Exmouth must face . . . <b><br><br></b>",
+    "Publisher": "Grand Central Publishing",
+    "Isbn10": "1455525936",
+    "Isbn13": "9781455525935",
+    "GoogleBookId": "3zg6CQAAQBAJ",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/3zg6CQAAQBAJ",
+    "CrowdRating": 4.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Thrillers / General"
+    ],
+    "Ratings": 3,
+    "MinutesRank": 201,
+    "MinutesRankPercentile": 30,
+    "ReleaseDateRank": 2,
+    "ReleaseDateRankPercentile": 100,
+    "DaysTaken": 12,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 277,
+    "Name": "Blue Labyrinth",
+    "Author": [
+      "Douglas Preston",
+      "Lincoln Child"
+    ],
+    "Minutes": 852,
+    "DateStarted": "2016-06-26T00:00:00",
+    "DateCompleted": "2016-07-04T00:00:00",
+    "ReleaseDate": "2014-11-11T00:00:00",
+    "Pages": 416,
+    "CoverUrl": "http://i.imgur.com/hPtQqJ3.jpg",
+    "CoverHash": null,
+    "Series": "Pendergast",
+    "SeriesOrder": 14.0,
+    "Description": "<p>A corpse, stiff with rigor mortis and bound in heavy ropes, has been dumped on the doorstep of FBI Special Agent Aloysius Pendergast. </p><p>The murder has the hallmarks of the perfect crime – no witnesses, no motive, no evidence – save for one enigmatic clue: a piece of turquoise lodged in the stomach of the deceased. </p><p>The gem leads Pendergast to an abandoned mine on the shore of California's desolate Salton Sea where an ingenious killer is determined to make him pay for the long-buried sins of his forefathers. </p><p>But Pendergast already knows what is at stake, for the dead man left on his doorstep wasn't just anyone, it was his son. </p>",
+    "Publisher": "Head of Zeus",
+    "Isbn10": "178185940X",
+    "Isbn13": "9781781859407",
+    "GoogleBookId": "7tdVBQAAQBAJ",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/7tdVBQAAQBAJ",
+    "CrowdRating": 4.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Crime",
+      "Fiction / Mystery & Detective / General"
+    ],
+    "Ratings": 3,
+    "MinutesRank": 99,
+    "MinutesRankPercentile": 66,
+    "ReleaseDateRank": 6,
+    "ReleaseDateRankPercentile": 99,
+    "DaysTaken": 8,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 285,
+    "Name": "The DIsneyland Story: The Unofficial Guide to the Evolution of Walt Disney's Dream",
+    "Author": [
+      "Sam Gennawey"
+    ],
+    "Minutes": 991,
+    "DateStarted": "2016-09-14T00:00:00",
+    "DateCompleted": "2016-09-27T00:00:00",
+    "ReleaseDate": "2013-11-05T00:00:00",
+    "Pages": 411,
+    "CoverUrl": "https://images-na.ssl-images-amazon.com/images/I/51jfWzHe1NL._SY344_BO1,204,203,200_.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": "The Disneyland Story: The Unofficial Guide to the Evolution of Walt Disney's Dream is the story of how Walt Disney’s greatest creation was conceived, nurtured, and how it grew into a source of joy and inspiration for generations of visitors. Despite his successors' battles with the whims of history and their own doubts and egos, Walt’s vision maintained momentum, thrived, and taught future generations how to do it Walt Disney's way.",
+    "Publisher": "The Unofficial Guides",
+    "Isbn10": "1628090138",
+    "Isbn13": "9781628090130",
+    "GoogleBookId": "gG2oAgAAQBAJ",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/gG2oAgAAQBAJ",
+    "CrowdRating": 3.5,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "History / United States / State & Local / West (AK, CA, CO, HI, ID, MT, NV, UT, WY)",
+      "Performing Arts / Animation",
+      "Social Science / Popular Culture",
+      "Travel / United States / West / Pacific (AK, CA, HI, OR, WA)",
+      "Travel / Special Interest / Amusement & Theme Parks"
+    ],
+    "Ratings": 3,
+    "MinutesRank": 70,
+    "MinutesRankPercentile": 76,
+    "ReleaseDateRank": 14,
+    "ReleaseDateRankPercentile": 96,
+    "DaysTaken": 13,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 279,
+    "Name": "Encounters",
+    "Author": [
+      "Mark Tufo"
+    ],
+    "Minutes": 677,
+    "DateStarted": "2016-07-19T00:00:00",
+    "DateCompleted": "2016-07-25T00:00:00",
+    "ReleaseDate": "2011-10-31T00:00:00",
+    "Pages": 362,
+    "CoverUrl": "http://www.marktufo.com/images/indianhill1.jpg",
+    "CoverHash": null,
+    "Series": "Indian Hill",
+    "SeriesOrder": 1.0,
+    "Description": "<p> A journey of a thousand miles begins with a single step and for Michael Talbot - that step is taken at Indian Hill with his best friend Paul Ginson by his side. Together they grow up, meet girls, and go off to college.  And that's where everything changes. While out on a date Mike, along with thousands of others, are quite literally abducted by aliens. Known as the Progerians, their mission is to determine how best to conquer the human race. To that end they force the men to fight one another in death matches. The women are given to the victors as spoils. </p><p> Believing his friend to be dead, and furious with the government's refusal to even acknowledge what happened to him, Paul decides to take matters into his own hands. The aliens may have killed his best friend but they aren't going take his planet. Not if he has anything to say about it.</p>",
+    "Publisher": "Permuted Press",
+    "Isbn10": "1618683292",
+    "Isbn13": "9781618683298",
+    "GoogleBookId": "RanZBAAAQBAJ",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/RanZBAAAQBAJ",
+    "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Horror",
+      "Fiction / Science Fiction / Apocalyptic & Post-Apocalyptic",
+      "Fiction / Science Fiction / Military"
+    ],
+    "Ratings": 3,
+    "MinutesRank": 177,
+    "MinutesRankPercentile": 39,
+    "ReleaseDateRank": 31,
+    "ReleaseDateRankPercentile": 90,
+    "DaysTaken": 6,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 281,
+    "Name": "Eldest",
+    "Author": [
+      "Christopher Paolini"
+    ],
+    "Minutes": 1414,
+    "DateStarted": "2016-07-28T00:00:00",
+    "DateCompleted": "2016-08-17T00:00:00",
+    "ReleaseDate": "2007-03-23T00:00:00",
+    "Pages": 668,
+    "CoverUrl": "http://s4.thingpic.com/images/mk/f9yaSWJji1ad7n5avKnef4zr.png",
+    "CoverHash": null,
+    "Series": "Eragon",
+    "SeriesOrder": 2.0,
+    "Description": "<p><b>Darkness falls . . . Despair abounds . . . Evil reigns . . . </b><br><b></b><br>Eragon and his dragon, Saphira, have just saved the rebel state from destruction by the mighty forces of King Galbatorix, cruel ruler of the Empire. Now Eragon must travel to Ellesméra, land of the elves, for further training in magic and swordsmanship, the vital skills of the Dragon Rider. It is the journey of a lifetime, filled with awe-inspiring new places and people, each day a fresh adventure. But chaos and betrayal plague him at every turn, and Eragon isn't sure whom he can trust.</p><p>Meanwhile, his cousin Roran must fight a new battle back home in Carvahall - one that puts Eragon in even graver danger.</p><p>Will the king's dark hand strangle all resistance? Eragon may not escape with even his life . . .</p>",
+    "Publisher": "Random House",
+    "Isbn10": "1407047175",
+    "Isbn13": "9781407047171",
+    "GoogleBookId": "Vh278GE3R1IC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/Vh278GE3R1IC",
+    "CrowdRating": 4.5,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Juvenile Fiction / Action & Adventure / General",
+      "Juvenile Fiction / Fantasy & Magic"
+    ],
+    "Ratings": 3,
+    "MinutesRank": 23,
+    "MinutesRankPercentile": 93,
+    "ReleaseDateRank": 106,
+    "ReleaseDateRankPercentile": 64,
+    "DaysTaken": 20,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 278,
+    "Name": "Walt Disney: The Triumph of the American Imagination",
+    "Author": [
+      "Neal Gabler"
+    ],
+    "Minutes": 1930,
+    "DateStarted": "2016-07-05T00:00:00",
+    "DateCompleted": "2016-07-18T00:00:00",
+    "ReleaseDate": "2006-10-31T00:00:00",
+    "Pages": 880,
+    "CoverUrl": "https://images-na.ssl-images-amazon.com/images/I/71vThtjjvhL.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": "The definitive portrait of one of the most important cultural figures in American history.<br> <br> Walt Disney was a true visionary whose desire for escape, iron determination and obsessive perfectionism transformed animation from a novelty to an art form, first with Mickey Mouse and then with his feature films–most notably <i>Snow White, Fantasia,</i> and <i>Bambi</i>. In his superb biography, Neal Gabler shows us how, over the course of two decades, Disney revolutionized the entertainment industry. In a way that was unprecedented and later widely imitated, he built a synergistic empire that combined film, television, theme parks, music, book publishing, and merchandise. Walt Disney is a revelation of both the work and the man–of both the remarkable accomplishment and the hidden life.",
+    "Publisher": "Vintage Books",
+    "Isbn10": "0679757473",
+    "Isbn13": "9780679757474",
+    "GoogleBookId": "41e-Ru0wRkEC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/41e-Ru0wRkEC",
+    "CrowdRating": 4.5,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Biography & Autobiography / Entertainment & Performing Arts",
+      "Performing Arts / Film & Video / General"
+    ],
+    "Ratings": 3,
+    "MinutesRank": 13,
+    "MinutesRankPercentile": 96,
+    "ReleaseDateRank": 116,
+    "ReleaseDateRankPercentile": 60,
+    "DaysTaken": 13,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 280,
+    "Name": "100 People Who Are Screwing Up America",
+    "Author": [
+      "Bernard Goldberg"
+    ],
+    "Minutes": 375,
+    "DateStarted": "2016-07-26T00:00:00",
+    "DateCompleted": "2016-07-27T00:00:00",
+    "ReleaseDate": "2005-07-05T00:00:00",
+    "Pages": 305,
+    "CoverUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/100_People_Who_Are_Screwing_Up_America.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": "<p>The number one New York Times bestselling author of Bias delivers another bombshell—this time aimed at . . .</p><p>100 People Who Are Screwing Up America</p><p>No preaching. No pontificating. Just some uncommon sense about the things that have made this country great—and the culprits who are screwing it up.</p><p>Bernard Goldberg takes dead aim at the America Bashers (the cultural elites who look down their snobby noses at \"ordinary\" Americans) . . . the Hollywood Blowhards (incredibly ditzy celebrities who think they're smart just because they're famous) . . . the TV Schlockmeisters (including the one whose show has been compared to a churning mass of maggots devouring rotten meat) . . . the Intellectual Thugs (bigwigs at some of our best colleges, whose views run the gamut from left wing to far left wing) . . . and many more.</p><p>Goldberg names names, counting down the villains in his rogues' gallery from 100 all the way to 1—and, yes, you-know-who is number 37. Some supposedly \"serious\" journalists also made the list, including the journalist-diva who sold out her integrity and hosted one of the dumbest hours in the history of network television news. And there are those famous miscreants who have made America a nastier place than it ought to be—a far more selfish, vulgar, and cynical place.</p><p>But Goldberg doesn't just round up the usual suspects we have come to know and detest. He also exposes some of the people who operate away from the limelight but still manage to pull a lot of strings and do all sorts of harm to our culture. Most of all, 100 People Who Are Screwing Up America is about a country where as long as anything goes, as one of the good guys in the book puts it, sooner or later everything will go.</p><p>This is serious stuff for sure. But Goldberg will also make you laugh as he harpoons scoundrels like the congresswoman who thinks there aren't enough hurricanes named after black people, and the environmentalist to the stars who yells at total strangers driving SUVs—even though she tools around the country in a gas-guzzling private jet.</p><p>With Bias, Bernard Goldberg took us behind the scenes and exposed the way Big Journalism distorts the news. Now he has written a book that goes even further. This time he casts his eye on American culture at large—and the result is a book that is sure to become the voice of all those Americans who feel that no one is speaking for them on perhaps the most vital issue of all: the kind of country in which we want to live.</p>",
+    "Publisher": "Harper Collins",
+    "Isbn10": "0061737909",
+    "Isbn13": "9780061737909",
+    "GoogleBookId": "YRXVrzKyfOAC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/YRXVrzKyfOAC",
+    "CrowdRating": 4.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Social Science / Popular Culture",
+      "Social Science / Media Studies"
+    ],
+    "Ratings": 2,
+    "MinutesRank": 259,
+    "MinutesRankPercentile": 10,
+    "ReleaseDateRank": 133,
+    "ReleaseDateRankPercentile": 54,
+    "DaysTaken": 1,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 274,
+    "Name": "The Book Thief",
+    "Author": [
+      "Markus Zusak"
+    ],
+    "Minutes": 836,
+    "DateStarted": "2016-06-08T00:00:00",
+    "DateCompleted": "2016-06-16T00:00:00",
+    "ReleaseDate": "2005-01-01T00:00:00",
+    "Pages": 352,
+    "CoverUrl": "http://www.readbreatherelax.com/wp-content/uploads/2013/12/the-book-thief-markus-zusak.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": "<p><i>It is 1939. In Nazi Germany, the country is holding its breath. Death has never been busier - and will become busier still.</i><br> <br> By her brother's graveside, Liesel's life is changed forever when she picks up a single object, abandoned in the snow. It is <i>The Gravedigger's Handbook</i>, and this is her first act of book thievery. So begins Liesel's love affair with books and words, and soon she is stealing from Nazi book-burnings, the mayor's wife's library . . . wherever there are books to be found.</p> <p>But these are dangerous times, and when Liesel's foster family hides a Jew in their basement, nothing will ever be the same again.</p> <p>In superbly crafted writing that burns with intensity, award-winning author Markus Zusak has given us one of the most enduring stories of our time.</p> <p><b>Now a major film from Twentieth-Century Fox starring Geoffrey Rush and Emily Watson.</b></p>",
+    "Publisher": "Random House",
+    "Isbn10": "186230291X",
+    "Isbn13": "9781862302914",
+    "GoogleBookId": "EvfvBdFrcr8C",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/EvfvBdFrcr8C",
+    "CrowdRating": 4.5,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Juvenile Fiction / Historical / General"
+    ],
+    "Ratings": 4,
+    "MinutesRank": 105,
+    "MinutesRankPercentile": 64,
+    "ReleaseDateRank": 135,
+    "ReleaseDateRankPercentile": 53,
+    "DaysTaken": 8,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 284,
+    "Name": "Four Blind Mice",
+    "Author": [
+      "James Patterson"
+    ],
+    "Minutes": 476,
+    "DateStarted": "2016-09-08T00:00:00",
+    "DateCompleted": "2016-09-13T00:00:00",
+    "ReleaseDate": "2003-09-15T00:00:00",
+    "Pages": 416,
+    "CoverUrl": "https://images-na.ssl-images-amazon.com/images/I/51j6tb8m8PL.jpg",
+    "CoverHash": null,
+    "Series": "Alex Cross",
+    "SeriesOrder": 8.0,
+    "Description": "<p>Alex Cross is preparing to resign from the Washington Police Force. He's enjoying the feeling; not least because the Mastermind is now in prison. And Alex has met a woman, Jamilla Hughes, and he is talking about the future. Then John Sampson shows up at the house, desperate for Alex's help. Three young military wives have been brutally killed during a 'girls' night out' and Sampson's friend, a master sergeant at the army base, stands accused.</p><p>Uncovering evidence of a series of suspicious murder convictions, Alex and Sampson are determined to infiltrate the closed world of the military. But what is the army trying to hide? And do the mysterious symbols daubed on the house of the accused mean that there are more sinister forces at work?</p>",
+    "Publisher": "Hachette UK",
+    "Isbn10": "0755387147",
+    "Isbn13": "9780755387144",
+    "GoogleBookId": "xmLtmpAgETkC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/xmLtmpAgETkC",
+    "CrowdRating": 4.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Thrillers / General",
+      "Fiction / Thrillers / Suspense"
+    ],
+    "Ratings": 4,
+    "MinutesRank": 243,
+    "MinutesRankPercentile": 16,
+    "ReleaseDateRank": 144,
+    "ReleaseDateRankPercentile": 50,
+    "DaysTaken": 5,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 282,
+    "Name": "Blood Work",
+    "Author": [
+      "Michael Connelly"
+    ],
+    "Minutes": 761,
+    "DateStarted": "2016-08-18T00:00:00",
+    "DateCompleted": "2016-08-25T00:00:00",
+    "ReleaseDate": "2002-07-01T00:00:00",
+    "Pages": 480,
+    "CoverUrl": "https://images-na.ssl-images-amazon.com/images/I/51p1WBVb4BL._SX308_BO1,204,203,200_.jpg",
+    "CoverHash": null,
+    "Series": "Terrell McCaleb",
+    "SeriesOrder": 1.0,
+    "Description": "In Blood Work, Connelly introduces a new character, Terry  McCaleb, who was a top man at the FBI until a heart ailment forced his  early retirement. Now he lives a quiet life, nursing his new heart and  restoring the boat on which he lives in Los Angeles Harbor. Although he  isn't looking for any excitement, when Graciela Rivers asks him to  investigate her sister Gloria's death, her story hooks him immediately:  the new heart beating in McCaleb's chest is Gloria's.<br><br>As McCaleb  investigates the evidence in the case, the suspected randomness of the  crime gives way to an unsettling suspicion of a twisted intelligence  behind the murder. Soon McCaleb finds himself on the trail of a killer  more horrifying than anything he ever encountered before.",
+    "Publisher": "Allen & Unwin",
+    "Isbn10": "1742698417",
+    "Isbn13": "9781742698410",
+    "GoogleBookId": "cXMtBQAAQBAJ",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/cXMtBQAAQBAJ",
+    "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Mystery & Detective / General"
+    ],
+    "Ratings": 4,
+    "MinutesRank": 136,
+    "MinutesRankPercentile": 53,
+    "ReleaseDateRank": 155,
+    "ReleaseDateRankPercentile": 46,
+    "DaysTaken": 7,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 272,
+    "Name": "Eragon",
+    "Author": [
+      "Christopher Paolini"
+    ],
+    "Minutes": 994,
+    "DateStarted": "2016-05-18T00:00:00",
+    "DateCompleted": "2016-05-26T00:00:00",
+    "ReleaseDate": "2002-06-01T00:00:00",
+    "Pages": 503,
+    "CoverUrl": "https://upload.wikimedia.org/wikipedia/en/c/ce/Eragon_book_cover.png",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": "<p><b>One boy . . . One dragon . . . A world of adventure.</b></p> <p>When Eragon finds a polished stone in the forest, he thinks it is the lucky discovery of a poor farm boy; perhaps it will buy his family meat for the winter. But when the stone brings a dragon hatchling, Eragon soon realizes he has stumbled upon a legacy nearly as old as the Empire itself.</p> <p>Overnight his simple life is shattered and he is thrust into a perilous new world of destiny, magic and power. With only an ancient sword and the advice of an old storyteller for guidance, Eragon and the fledgling dragon must navigate the dangerous terrain and dark enemies of an Empire ruled by a king whose evil knows no bounds. Can Eragon take up the mantle of the legendary Dragon Riders? The fate of the Empire may rest in his hands...</p>",
+    "Publisher": "Random House",
+    "Isbn10": "0552553204",
+    "Isbn13": "9780552553209",
+    "GoogleBookId": "Hb-yqZYzsiIC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/Hb-yqZYzsiIC",
+    "CrowdRating": 3.5,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": null,
+    "Ratings": 4,
+    "MinutesRank": 68,
+    "MinutesRankPercentile": 77,
+    "ReleaseDateRank": 157,
+    "ReleaseDateRankPercentile": 46,
+    "DaysTaken": 8,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 276,
+    "Name": "Violets are Blue",
+    "Author": [
+      "James Patterson"
+    ],
+    "Minutes": 486,
+    "DateStarted": "2016-06-23T00:00:00",
+    "DateCompleted": "2016-06-25T00:00:00",
+    "ReleaseDate": "2002-01-01T00:00:00",
+    "Pages": 391,
+    "CoverUrl": "http://d.gr-assets.com/books/1328304719l/5436970.jpg",
+    "CoverHash": null,
+    "Series": "Alex Cross",
+    "SeriesOrder": 7.0,
+    "Description": "D.C. Detective Alex Cross has seen a lot of crime scenes. But even he is appalled by the gruesome murders of two joggers in San Francisco's Golden Gate Park - killings that look more like the work of savage beasts than humans. Local police are horrified and even the FBI is baffled. Then, as Cross is called in to take on the case, the carnage takes off, leaving a trail of bodies across America and sweeping him to Savannah, Las Vegas, New Orleans, Los Angeles . . as his nemesis, the merciless criminal known as the Mastermind, stalks him, taunts him, and once again, threatens everything he holds dear...",
+    "Publisher": "Little, Brown",
+    "Isbn10": "0759526540",
+    "Isbn13": "9780759526549",
+    "GoogleBookId": "4fErHUhtVmkC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/4fErHUhtVmkC",
+    "CrowdRating": 4.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Thrillers / Suspense"
+    ],
+    "Ratings": 4,
+    "MinutesRank": 241,
+    "MinutesRankPercentile": 16,
+    "ReleaseDateRank": 161,
+    "ReleaseDateRankPercentile": 44,
+    "DaysTaken": 2,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 275,
+    "Name": "Trunk Music",
+    "Author": [
+      "Michael Connelly"
+    ],
+    "Minutes": 761,
+    "DateStarted": "2016-06-17T00:00:00",
+    "DateCompleted": "2016-06-22T00:00:00",
+    "ReleaseDate": "1997-01-28T00:00:00",
+    "Pages": 448,
+    "CoverUrl": "https://knitewrites.files.wordpress.com/2015/01/trunkmusic.jpg?w=351&h=630",
+    "CoverHash": null,
+    "Series": "Harry Bosch",
+    "SeriesOrder": 5.0,
+    "Description": "Back on the job after an involuntary leave of absence, LAPD homicide detective Harry Bosch is ready for a challenge. But his first case is a little more than he bargained for. <br><br>It starts with the body of a Hollywood producer in the trunk of a Rolls-Royce, shot twice in the head at close range - what looks like \"trunk music,\" a Mafia hit. But the LAPD's organized crime unit is curiously uninterested, and when Harry follows a trail of gambling debts to Las Vegas, the case suddenly becomes more complex - and much more personal. <br><br>A rekindled romance with an old girlfriend opens new perspectives on the murder, and he begins to glimpse a shocking triangle of corruption and collusion. Yanked off the case, Harry himself is soon the one being investigated. But only a bullet can stop Harry when he's searching for the truth . . .",
+    "Publisher": "Little, Brown",
+    "Isbn10": "0759525803",
+    "Isbn13": "9780759525801",
+    "GoogleBookId": "pInEReHMjZIC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/pInEReHMjZIC",
+    "CrowdRating": 4.5,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Thrillers / General"
+    ],
+    "Ratings": 4,
+    "MinutesRank": 135,
+    "MinutesRankPercentile": 53,
+    "ReleaseDateRank": 192,
+    "ReleaseDateRankPercentile": 33,
+    "DaysTaken": 5,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 273,
+    "Name": "The Alienist",
+    "Author": [
+      "Caleb Carr"
+    ],
+    "Minutes": 1202,
+    "DateStarted": "2016-05-27T00:00:00",
+    "DateCompleted": "2016-06-07T00:00:00",
+    "ReleaseDate": "1994-01-01T00:00:00",
+    "Pages": 498,
+    "CoverUrl": "https://images-na.ssl-images-amazon.com/images/I/71CK5IDXUHL.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": "The year is 1896, the place, New York City. On a cold March night <i>New York Times </i> reporter John Schuyler Moore is summoned to the East River by his friend and former Harvard classmate Dr. Laszlo Kreizler, a psychologist, or \"alienist.\" On the unfinished Williamsburg Bridge, they view the horribly mutilated body of an adolescent boy, a prostitute from one of Manhattan's infamous brothels.<br><br>        The newly appointed police commissioner, Theodore Roosevelt, in a highly unorthodox move, enlists the two men in the murder investigation, counting on the reserved Kreizler's intellect and Moore's knowledge of New York's vast criminal underworld. They are joined by Sara Howard, a brave and determined woman who works as a secretary in the police department. Laboring in secret (for alienists, and the emerging discipline of psychology, are viewed by the public with skepticism at best), the unlikely team embarks on what is a revolutionary effort in criminology-- amassing a psychological profile of the man they're looking for based on the details of his crimes. Their dangerous quest takes them into the tortured past and twisted mind of a murderer who has killed before. and will kill again before the hunt is over.<br><br>        Fast-paced and gripping, infused with a historian's exactitude, <i>The Alienist </i> conjures up the Gilded Age and its untarnished underside: verminous tenements and opulent mansions, corrupt cops and flamboyant gangsters, shining opera houses and seamy gin mills. Here is a New York during an age when questioning society's belief that all killers are born, not made, could have unexpected and mortal consequences.<br><br><br><i>From the Paperback edition.</i>",
+    "Publisher": "Random House Publishing Group",
+    "Isbn10": "1588365409",
+    "Isbn13": "9781588365408",
+    "GoogleBookId": "clOrZLvg56kC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/clOrZLvg56kC",
+    "CrowdRating": 4.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Mystery & Detective / Historical",
+      "Fiction / Thrillers / Suspense",
+      "Fiction / Historical"
+    ],
+    "Ratings": 2,
+    "MinutesRank": 37,
+    "MinutesRankPercentile": 88,
+    "ReleaseDateRank": 207,
+    "ReleaseDateRankPercentile": 28,
+    "DaysTaken": 11,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   }
 ]
