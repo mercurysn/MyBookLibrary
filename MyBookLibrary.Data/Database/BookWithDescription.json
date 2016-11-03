@@ -10041,5 +10041,45 @@
     "DaysTaken": 11,
     "SpeedRank": 0,
     "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 287,
+    "Name": "Order to Kill",
+    "Author": [
+      "Vince Flynn",
+      "Kyle Mills"
+    ],
+    "Minutes": 590,
+    "DateStarted": "2016-10-27T00:00:00",
+    "DateCompleted": "2016-11-01T00:00:00",
+    "ReleaseDate": "2016-10-11T00:00:00",
+    "Pages": 384,
+    "CoverUrl": "http://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476783482/order-to-kill-9781476783482_hr.jpg",
+    "CoverHash": null,
+    "Series": "Mitch Rapp",
+    "SeriesOrder": 15.0,
+    "Description": "In the next thrilling novel in the #1 <i>New York Times</i> bestselling Mitch Rapp series, the anti-terrorism operative heads to Pakistan to confront a mortal threat he may not be prepared for. In fact, this time he might have met his match.<br><br>Mitch Rapp is used to winning.<br> <br>But in this follow-up to #1 <i>New York Times</i> bestselling <i>The Survivor</i>, the CIA operative finds himself chasing false leads from continent to continent in an effort to keep Pakistani nukes from falling into the hands of terrorists. Together with friend and colleague Scott Coleman, Rapp struggles to prevent the loss of these lethal weapons, particularly because Russia is also interested in the nukes, though not for the same reason as Rapp and Coleman.<br> <br>Soon, it becomes alarmingly clear that the forces in Moscow are bent on fomenting even more chaos and turmoil in the Middle East, and Rapp must go deep into Russian territory, posing as an American ISIS recruit. There, he uncovers a plan much more dangerous and insidious than he ever expected, one that could have far-reaching and catastrophic consequences.<br> <br>Written with breathless tension and heart-pounding action, Mitch Rapp's latest adventure is as timely and provocative as ever.",
+    "Publisher": "Simon and Schuster",
+    "Isbn10": "1476783489",
+    "Isbn13": "9781476783482",
+    "GoogleBookId": "16MxDQAAQBAJ",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/16MxDQAAQBAJ",
+    "CrowdRating": 0.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Thrillers / Suspense",
+      "Fiction / Thrillers / General",
+      "Fiction / Thrillers / Military",
+      "Fiction / Thrillers / Political"
+    ],
+    "Ratings": 4,
+    "MinutesRank": 219,
+    "MinutesRankPercentile": 25,
+    "ReleaseDateRank": 1,
+    "ReleaseDateRankPercentile": 100,
+    "DaysTaken": 5,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   }
 ]

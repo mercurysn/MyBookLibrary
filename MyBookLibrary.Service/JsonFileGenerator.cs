@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using System.Threading;
 using MyBookLibrary.Data;
 using MyBookLibrary.Data.Dtos;
 using MyBookLibrary.RestClients;
@@ -50,7 +49,14 @@ namespace MyBookLibrary.Service
 
             foreach (var book in fullFileBooks)
             {
-                book.CoverHash = book.CoverUrl.ToBase64();
+                var previouslySavedBook = withDescriptionBooks.FirstOrDefault(b => b.Id == book.Id);
+                var previouslySavedBookUrl = "";
+
+                if (previouslySavedBook != null)
+                    previouslySavedBookUrl = previouslySavedBook.CoverUrl;
+
+                if (!string.IsNullOrEmpty(book.CoverUrl) && (book.CoverUrl != previouslySavedBookUrl || string.IsNullOrEmpty(book.CoverHash)))
+                    book.CoverHash = book.CoverUrl.ToBase64();
             }
 
             BookDatabaseWriter.SaveToFullFile(JsonConvert.SerializeObject(fullFileBooks, Formatting.Indented));

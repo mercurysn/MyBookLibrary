@@ -35,6 +35,13 @@ namespace MyBookLibrary.Service.Report
             return definition.Export(books.RemoveDuplicates().DenormaliseAuthors().GroupByAuthorRatings());
         }
 
+        public static string GetMultiBookAuthorRatingsReport(List<Book> books)
+        {
+            IDocumentFormatDefinition<BookAggregatedGroup<string>> definition = StatReportDefinition<string>.GenericBookGroupReportFormat();
+
+            return definition.Export(books.RemoveDuplicates().DenormaliseAuthors().GroupByAuthorRatings().RemoveAuthorsWithLessThanXBooks());
+        }
+
         public static string GetDecadeReport(List<Book> books)
         {
             IDocumentFormatDefinition<BookAggregatedGroup<int>> definition = StatReportDefinition<int>.GenericBookGroupReportFormat();

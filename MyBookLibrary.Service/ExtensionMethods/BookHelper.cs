@@ -102,7 +102,8 @@ namespace MyBookLibrary.Service.ExtensionMethods
             {
                 Author = b.Author,
                 Name = b.Name,
-                Minutes = b.Minutes
+                Minutes = b.Minutes,
+                Ratings = b.Ratings
             }).ToList();
 
             foreach (var booksWithMultipleAuthor in booksWithMultipleAuthors)
@@ -113,6 +114,7 @@ namespace MyBookLibrary.Service.ExtensionMethods
                     {
                         Author = new[] { booksWithMultipleAuthor.Author[i]},
                         Name = booksWithMultipleAuthor.Name,
+                        Ratings = booksWithMultipleAuthor.Ratings,
                         Categories = booksWithMultipleAuthor.Categories,
                         CoverHash = booksWithMultipleAuthor.CoverHash,
                         CoverUrl = booksWithMultipleAuthor.CoverUrl,
