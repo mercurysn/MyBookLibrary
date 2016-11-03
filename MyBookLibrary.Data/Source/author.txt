@@ -1,5 +1,5 @@
 Field                             	Value	Books
-Vince Flynn                       	   16	Term Limits | Transfer of Power | Transfer of Power | The Third Option | The Third Option | Executive Power | Executive Power | Memorial Day | Memorial Day | Consent to Kill | Consent to Kill | Act of Treason | Act of Treason | Protect and Defend | Protect and Defend | Extreme Measures | Extreme Measures | Pursuit of Honor | Pursuit of Honor | American Assassin | American Assassin | Separation of Power | Separtion of Power | Kill Shot | Kill Shot | The Last Man | The Last Man | The Survivor
+Vince Flynn                       	   17	Term Limits | Transfer of Power | Transfer of Power | The Third Option | The Third Option | Executive Power | Executive Power | Memorial Day | Memorial Day | Consent to Kill | Consent to Kill | Act of Treason | Act of Treason | Protect and Defend | Protect and Defend | Extreme Measures | Extreme Measures | Pursuit of Honor | Pursuit of Honor | American Assassin | American Assassin | Separation of Power | Separtion of Power | Kill Shot | Kill Shot | The Last Man | The Last Man | The Survivor | Order to Kill
 Douglas Preston                   	   15	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore
 Patricia Cornwell                 	   15	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
 Lincoln Child                     	   15	Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
@@ -33,6 +33,7 @@ Walter Isaacson                   	    2	Einstein: His Life and Universe | Steve
 Christopher Paolini               	    2	Eragon | Eldest
 Max Brooks                        	    2	The Zombie Survival Guide | World War Z
 Stephen R. Covey                  	    2	The 7 Habits of Highly Effective People | The 7 Habits of Highly Effective People | The 8th Habit
+Kyle Mills                        	    2	Order to Kill | The Survivor
 Alan Dean Foster                  	    1	Star Wars: The Force Awakens
 David Lagercrantz                 	    1	The Girl in the Spider's Web
 Chris Taylor                      	    1	How Star Wars Conquered the Universe
@@ -95,6 +96,5 @@ Jules Verne                       	    1	Around the World in 80 Days
 Lewis Carroll                     	    1	Alice in Wonderland
 Alexandar Dumas                   	    1	The Count of Monte Cristo
 Charles Dickens                   	    1	A Christmas Carol
-Kyle Mills                        	    1	The Survivor
 Jennifer Fischetto                	    1	Unbreakable Bond
 Jerry Pournelle                   	    1	The Mote in God's Eyes

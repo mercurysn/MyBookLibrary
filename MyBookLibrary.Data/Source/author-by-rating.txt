@@ -4,7 +4,7 @@ Ernest Cline                      	 5.00	Ready Player One
 William P. Young                  	 5.00	The Shack
 Suzanne Collins                   	 4.33	The Hunger Games | Catching Fire | Mockingjay
 Stieg Larsson                     	 4.33	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
-Vince Flynn                       	 4.25	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor
+Vince Flynn                       	 4.24	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
 J.K. Rowling                      	 4.14	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 James Patterson                   	 4.13	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | Four Blind Mice
 Roald Dahl                        	 4.11	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
@@ -36,7 +36,7 @@ Agatha Christie                   	 4.00	And Then There Were None
 Frances Hodgson Burnett           	 4.00	The Secret Garden
 Henry T Blackaby                  	 4.00	Experiencing God
 Jules Verne                       	 4.00	Around the World in 80 Days
-Kyle Mills                        	 4.00	The Survivor
+Kyle Mills                        	 4.00	Order to Kill | The Survivor
 Jennifer Fischetto                	 4.00	Unbreakable Bond
 Timothy Zahn                      	 3.86	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
 Dan Brown                         	 3.80	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno

@@ -1,7 +1,7 @@
 Field                             	Value	Books
 Douglas Preston                   	13093	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore
 Lincoln Child                     	13093	Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
-Vince Flynn                       	12369	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor
+Vince Flynn                       	12959	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
 George R. R. Martin               	12094	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
 Stephen King                      	10660	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
 Patricia Cornwell                 	10423	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
@@ -43,6 +43,7 @@ Arnold Schwarzenegger             	 1404	Total Recall: My Truly Unbelievably Lif
 Max Brooks                        	 1347	The Zombie Survival Guide | World War Z
 Bryce Courtenay                   	 1290	The Power of One
 Chris Taylor                      	 1242	How Star Wars Conquered the Universe
+Kyle Mills                        	 1230	Order to Kill | The Survivor
 Larry Niven                       	 1227	The Mote in God's Eyes
 Jerry Pournelle                   	 1227	The Mote in God's Eyes
 Caleb Carr                        	 1202	The Alienist
@@ -68,7 +69,6 @@ Jeffery Deaver                    	  684	The Bone Collector
 Henry T Blackaby                  	  676	Experiencing God
 Harper Lee                        	  659	To Kill a Mockingbird
 Andy Weir                         	  653	The Martian
-Kyle Mills                        	  640	The Survivor
 R.A. Salvatore                    	  620	Star Wars Episode II: Attack of the Clones
 Alan Dean Foster                  	  619	Star Wars: The Force Awakens
 Peter Benchley                    	  579	Jaws

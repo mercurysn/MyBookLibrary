@@ -21,7 +21,8 @@ namespace MyBookLibrary.GoogleSheetDownloader
         {
             AmazonS3Client s3Client = new AmazonS3Client();
 
-            s3Client.SendFileToS3();
+            s3Client.SendFileToS3("BookImageFree.json");
+            s3Client.SendFileToS3("BookWithDescription.json");
         }
 
         private static void DownloadGoogleBookFile()

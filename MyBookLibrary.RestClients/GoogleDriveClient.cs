@@ -102,6 +102,8 @@ namespace MyBookLibrary.RestClients
             stream.WriteTo(file);
             file.Close();
             stream.Close();
+
+            Console.WriteLine($"File saved to {@"C:\Source\MyBookLibrary\MyBookLibrary.Data\Source\Shelfari.csv"}");
         }
     }
 }

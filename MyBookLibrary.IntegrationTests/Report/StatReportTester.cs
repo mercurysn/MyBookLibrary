@@ -61,7 +61,7 @@ namespace MyBookLibrary.IntegrationTests.Report
         [Test]
         public void TestMultiBookAuthorReportByRating()
         {
-            string report = StatReporter.GetAuthorRatingsReport(_books);
+            string report = StatReporter.GetMultiBookAuthorRatingsReport(_books);
 
             Console.WriteLine(report);
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Source\author-by-rating-multi.txt", report);
