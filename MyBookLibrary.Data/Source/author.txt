@@ -32,7 +32,7 @@ Stieg Larsson                     	    3	The Girl with the Dragon Tattoo | The G
 Walter Isaacson                   	    2	Einstein: His Life and Universe | Steve Jobs
 Christopher Paolini               	    2	Eragon | Eldest
 Max Brooks                        	    2	The Zombie Survival Guide | World War Z
-Stephen R. Covey                  	    2	The 7 Habits of Highly Effective People | The 8th Habit
+Stephen R. Covey                  	    2	The 7 Habits of Highly Effective People | The 7 Habits of Highly Effective People | The 8th Habit
 Alan Dean Foster                  	    1	Star Wars: The Force Awakens
 David Lagercrantz                 	    1	The Girl in the Spider's Web
 Chris Taylor                      	    1	How Star Wars Conquered the Universe
