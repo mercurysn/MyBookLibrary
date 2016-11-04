@@ -45,7 +45,7 @@ namespace MyBookLibrary.Service
         {
             var withDescriptionBooks = _bookReadService.ReadAllFromLocalWithDescriptionFile();
 
-            var fullFileBooks = _bookReadService.ReadAllFromLocalFullFile().PersistNewBookToList(withDescriptionBooks); ;
+            var fullFileBooks = _bookReadService.ReadAllFromLocalFullFile().PersistNewBookToList(withDescriptionBooks);
 
             foreach (var book in fullFileBooks)
             {

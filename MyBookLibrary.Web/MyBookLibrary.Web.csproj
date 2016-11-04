@@ -410,6 +410,8 @@
     <Content Include="Views\BookList\BookListSummary.cshtml" />
     <Content Include="Views\BookDetails\Index.cshtml" />
     <Content Include="Views\Shared\_BookAwards.cshtml" />
+    <Content Include="Views\BookList\Books.cshtml" />
+    <Content Include="Views\Shared\_BookCoverShadow.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

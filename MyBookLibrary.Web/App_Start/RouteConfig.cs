@@ -22,6 +22,12 @@ namespace MyBookLibrary.Web
             );
 
             routes.MapRoute(
+                name: "BookList-Books",
+                url: "BookList/Books",
+                defaults: new { controller = "BookList", action = "Books" }
+            );
+
+            routes.MapRoute(
                 name: "BookListCoverSize",
                 url: "BookList/{size}",
                 defaults: new { controller = "BookList", action = "Index", size = UrlParameter.Optional }

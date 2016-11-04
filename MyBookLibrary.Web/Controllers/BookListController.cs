@@ -42,5 +42,15 @@ namespace MyBookLibrary.Web.Controllers
                     .DistinctBy(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).Select(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).ToList().OrderByDescending(x => x).ToList()
             });
         }
+
+        public ActionResult Books()
+        {
+            var books = _bookReadService.GetAll().RemoveDuplicates().OrderByDescending(b => b.DateCompleted).ToList();
+
+            return View("Books", new BookListIndexViewModel
+            {
+                Books = books
+            });
+        }
     }
 }

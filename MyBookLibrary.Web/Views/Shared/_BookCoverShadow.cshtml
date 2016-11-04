@@ -1,0 +1,13 @@
+﻿@using MyBookLibrary.Common
+@model MyBookLibrary.Service.Model.Book
+
+<div id="post-143" class="post-143 book type-book status-publish has-post-thumbnail hentry" style="padding: 0px; margin: 10px 35px 35px 5px; float: left; width: 108px; height: 162px;">
+
+    <div class="book-image">
+        <img src="@(CurrentEnvironment.IsLocal() ? $"data:image/jpeg;base64,{Model.CoverHash}" : Model.CoverUrl)" width="130" height="160">
+        <div class="book-texture"></div>
+    </div>
+    <div class="post-meta" style="display: none;">
+        <span class="author"><a href="http://www.codedevelopr.com/user/jasondavis/" title="Posts by jasondavis" rel="author">jasondavis</a></span> <span class="published">September 19 2012</span>
+    </div>
+</div>
