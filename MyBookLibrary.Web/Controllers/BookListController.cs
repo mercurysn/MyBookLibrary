@@ -28,8 +28,8 @@ namespace MyBookLibrary.Web.Controllers
                     .DistinctBy(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).Select(b => ((DateTime)b.ReleaseDate).Year.ToDecade()).ToList().OrderByDescending(x => x).ToList(),
                 Size = size
             });
-
         }
+        
 
         public ActionResult BookListSummary()
         {

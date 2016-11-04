@@ -17,9 +17,9 @@
                 }
             </ul>
 
-            <ul class="portfolio-filter text-center">
-                <li><a id="book-list-small" class="btn btn-default" href="/BookList/Small">Small Cover</a></li>
-                <li><a id="book-list-large" class="btn btn-default" href="/BookList/Large">Large Cover</a></li>
+            <ul class="text-center">
+                <li><a href="/BookList/Small">Small Cover</a></li>
+                <li><a href="/BookList">Large Cover</a></li>
             </ul>
 
 
@@ -31,7 +31,16 @@
                         <div class="portfolio-wrapper">
                             <div class="portfolio-single">
                                 <div class="portfolio-thumb">
-                                    <img src="@(CurrentEnvironment.IsLocal() ? $"data:image/jpeg;base64,{book.CoverHash}" : book.CoverUrl)" style="min-height: 300px;max-height: 300px; object-fit: contain;" class="img-responsive" alt="">
+                                    @if (Model.Size == "Small")
+                                    {
+                                        @Html.Partial("_BookCoverShadow", book)
+                                    }
+                                    else
+                                    {
+                                        <img src="@(CurrentEnvironment.IsLocal() ? $"data:image/jpeg;base64,{book.CoverHash}" : book.CoverUrl)" style="min-height: 300px; max-height: 300px; object-fit: contain;" class="img-responsive" alt="">
+                                    }
+
+
                                 </div>
                                 <div class="portfolio-view">
                                     <ul class="nav nav-pills">
@@ -40,9 +49,12 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="portfolio-info">
-                                <h3 style="text-align: center">@book.Name</h3>
-                            </div>
+                            @if (Model.Size != "Small")
+                            {
+                                <div class="portfolio-info">
+                                    <h3 style="text-align: center">@book.Name</h3>
+                                </div>
+                            }
                         </div>
                     </div>
                 }
