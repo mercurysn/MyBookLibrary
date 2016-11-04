@@ -14,21 +14,23 @@
                             <tr>
                                 <td>&nbsp;</td>
                                 <td>Name</td> 
-                                <td>Author</td> 
                                 <td>Date Completed</td> 
-                                <td>Pages</td> 
-                                <td>Minutes</td> 
+                                <td>Pages</td>
+                                <td>Minutes</td>
+                                <td>Days</td>
+                                <td>Badges</td>
                             </tr>
                             </thead>
                             @foreach (var book in Model.Books)
                             {
                                 <tr>
                                     <td>@Html.Partial("_BookCoverShadow", book)</td>
-                                    <td>@book.Name</td>
-                                    <td>@book.Author.ConcatAuthor()</td>
+                                    <td><b>@book.Name</b><br/><br/>@book.Author.ConcatAuthor()</td>
                                     <td>@(book.DateCompleted?.ToString("dd/MM/yyyy"))</td>
                                     <td>@book.Pages</td>
                                     <td>@(book.Minutes.ConvertMinuteToHoursMinutes())</td>
+                                    <td>@book.DaysTaken</td>
+                                    <td>@Html.Partial("_BookAwards", book)</td>
                                 </tr>
                             }
                         </table>
