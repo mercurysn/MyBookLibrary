@@ -56,17 +56,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookAggrService.cs" />
     <Compile Include="BookReadService.cs" />
     <Compile Include="ExtensionMethods\BookHelper.cs" />
     <Compile Include="ExtensionMethods\DateHelper.cs" />
+    <Compile Include="ExtensionMethods\DoubleHelper.cs" />
     <Compile Include="ExtensionMethods\ImageBase64Converter.cs" />
     <Compile Include="ExtensionMethods\StringHelper.cs" />
     <Compile Include="ExtensionMethods\TimeHelper.cs" />
     <Compile Include="Helpers\IntHelper.cs" />
+    <Compile Include="IBookAggrService.cs" />
     <Compile Include="IBookReadService.cs" />
     <Compile Include="JsonFileGenerator.cs" />
     <Compile Include="Mapper\MapToModelProfile.cs" />
     <Compile Include="Model\Book.cs" />
+    <Compile Include="Model\Series.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Report\MonthAggregatedGroup.cs" />
     <Compile Include="Report\BookAggregatedGroup.cs" />

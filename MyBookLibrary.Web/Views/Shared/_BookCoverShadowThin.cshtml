@@ -1,7 +1,7 @@
 ﻿@using MyBookLibrary.Common
 @model MyBookLibrary.Service.Model.Book
 
-<div id="post-143" class="post-143 book type-book status-publish has-post-thumbnail hentry" style="padding: 0px; margin: 20px 20px 20px 5px; float: left; width: 90px; height: 152px;">
+<div id="post-143" class="post-143 book type-book status-publish has-post-thumbnail hentry" style="padding: 0px; margin: 20px 5px 20px 5px; float: left; width: 90px; height: 152px;">
 
     <div class="book-image">
         <img src="@(CurrentEnvironment.IsLocal() ? $"data:image/jpeg;base64,{Model.CoverHash}" : Model.CoverUrl)" width="130" height="160">

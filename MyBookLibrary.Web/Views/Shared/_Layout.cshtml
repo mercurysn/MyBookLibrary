@@ -55,7 +55,8 @@
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="active">@Html.ActionLink($"Home", "Index", "Home")</li>
+                        <li class="active">@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li class="active">@Html.ActionLink("Series", "Index", "Series")</li>
                         <li class="dropdown">
                             <a href="#">Library<i class="fa fa-angle-down"></i></a>
                             <ul role="menu" class="sub-menu">
@@ -64,6 +65,7 @@
                                 <li>@Html.ActionLink("By List", "Books", "BookList")</li>
                             </ul>
                         </li>
+                        
                     </ul>
                 </div>
                 <div class="search">

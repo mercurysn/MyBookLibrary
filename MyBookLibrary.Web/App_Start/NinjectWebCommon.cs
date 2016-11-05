@@ -66,6 +66,7 @@ namespace MyBookLibrary.Web.App_Start
         private static void RegisterServices(IKernel kernel)
         {
             kernel.Bind<IBookReadService>().To<BookReadService>();
+            kernel.Bind<IBookAggrService>().To<BookAggrService>();
             if (CurrentEnvironment.IsLocal())
                 kernel.Bind<IBookDatabaseReader>().To<LocalDatabaseReader>();
             else

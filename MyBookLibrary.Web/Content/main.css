@@ -2845,6 +2845,16 @@ span.stButton_gradient,
     width: 108px;
     height: 162px;
 }
+
+.book-image-small {
+    -webkit-box-shadow: 0 2px 7.68px .32px rgba(0, 0, 0, 0.4),0 12px 26px 0 rgba(0, 0, 0, 0.4);
+    box-shadow: 0 2px 7.68px .32px rgba(0, 0, 0, 0.4),0 12px 26px 0 rgba(0, 0, 0, 0.4);
+    position: relative;
+    background-color: #FFF;
+    width: 54px;
+    height: 81px;
+}
+
 a {
     color: #3A5875;
     text-decoration: none;
@@ -2860,6 +2870,17 @@ a {
     position: relative;
     z-index: 1;
 }
+
+.book-image-small img {
+    border: 0;
+    width: 54px;
+    height: 81px;
+    vertical-align: top;
+    font-size: 0;
+    position: relative;
+    z-index: 1;
+}
+
 .book-texture {
     position: absolute;
     top: 0;

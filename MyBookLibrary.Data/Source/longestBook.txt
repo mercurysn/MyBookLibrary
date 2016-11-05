@@ -176,7 +176,7 @@ Predator                                                                        
 Crimson Shore                                                                     	Douglas Preston, Lincoln Child    	    646	  339	Pendergast
 Can You Keep a Secret?                                                            	Sophie Kinsella                   	    643	  364
 The Survivor                                                                      	Vince Flynn, Kyle Mills           	    640	  400	Mitch Rapp
-Zombie Fallout 8: An Old Beginning                                                	Mark Tufo                         	    635	  342	Zomble Fallout
+Zombie Fallout 8: An Old Beginning                                                	Mark Tufo                         	    635	  342	Zombie Fallout
 The Silence of the Lambs                                                          	Thomas Harris                     	    634	  352	Hannibal
 Cat & Mouse                                                                       	James Patterson                   	    632	  451	Alex Cross
 Zombie Fallout                                                                    	Mark Tufo                         	    629	  324	Zombie Fallout
