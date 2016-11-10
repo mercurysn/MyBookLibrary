@@ -60,6 +60,7 @@ Neal Gabler                       	    1	Walt Disney: The Triumph of the America
 Sara Gruen                        	    1	Water for Elephants
 Bernard Goldberg                  	    1	100 People Who Are Screwing Up America
 Markus Zusak                      	    1	The Book Thief
+Bill Bryson                       	    1	A Short History of Nearly Everything
 Henning Mankell                   	    1	The Fifth Woman
 Bart D. Ehrman                    	    1	Truth and Fiction in the Da Vinci Code
 Mitch Albom                       	    1	Five People You Meet in Heaven

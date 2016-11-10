@@ -31,7 +31,7 @@ namespace MyBookLibrary.IntegrationTests
             fileGenerator.PersistGoogleBooksDataIntoFile();
         }
 
-        [Test, Explicit]
+        [Test]
         public void PersistCoverHashData()
         {
             JsonFileGenerator fileGenerator = new JsonFileGenerator(new BookReadService(new LocalDatabaseReader()));

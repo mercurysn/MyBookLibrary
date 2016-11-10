@@ -19,6 +19,7 @@ Kathryn Stockett                  	 4.00	The Help
 Garth Stein                       	 4.00	The Art of Racing in the Rain
 Francis Chan                      	 4.00	Crazy Love
 Markus Zusak                      	 4.00	The Book Thief
+Bill Bryson                       	 4.00	A Short History of Nearly Everything
 Stephen R. Covey                  	 4.00	The 7 Habits of Highly Effective People | The 8th Habit
 Mitch Albom                       	 4.00	Five People You Meet in Heaven
 Rick Warren                       	 4.00	The Purpose Driven Life
