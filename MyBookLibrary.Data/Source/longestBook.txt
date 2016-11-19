@@ -118,6 +118,7 @@ Wheels of Darkness                                                              
 Twilight                                                                          	Stephanie Meyer                   	    776	  498	Twilight
 White Fire                                                                        	Douglas Preston, Lincoln Child    	    774	  368	Pendergast
 The Last Coyote                                                                   	Michael Connelly                  	    772	  400	Harry Bosch
+Prey                                                                              	Michael Crichton                  	    771	  507
 Allegiance                                                                        	Timothy Zahn                      	    768	  336
 Blow Fly                                                                          	Patricia Cornwell                 	    763	  526	Scarpetta
 Blood Work                                                                        	Michael Connelly                  	    761	  480	Terrell McCaleb
@@ -127,6 +128,7 @@ Fear Nothing                                                                    
 Hannibal                                                                          	Thomas Harris                     	    746	  484	Hannibal
 Trace                                                                             	Patricia Cornwell                 	    741	  448	Scarpetta
 Black Notice                                                                      	Patricia Cornwell                 	    741	  415	Scarpetta
+Reckoning                                                                         	Mark Tufo                         	    737	  406	Indian Hill
 Along Came a Spider                                                               	James Patterson                   	    734	  448	Alex Cross
 The Return of Shelock Holmes                                                      	Arthur Conan Doyle                	    732	  403
 Extreme Measures                                                                  	Vince Flynn                       	    729	  416	Mitch Rapp
@@ -147,6 +149,7 @@ Catching Fire                                                                   
 The Lovely Bones                                                                  	Alice Sebold                      	    698	  328
 The Body Farm                                                                     	Patricia Cornwell                 	    697	  320	Scarpetta
 American Assassin                                                                 	Vince Flynn                       	    696	  448	Mitch Rapp
+Zombie Fallout 9: Tattered Remnants                                               	Mark Tufo                         	    689	  328	Zombie Fallout
 Postmortem                                                                        	Patricia Cornwell                 	    687	  304	Scarpetta
 Water for Elephants                                                               	Sara Gruen                        	    686	  331
 Kiss the Girls                                                                    	James Patterson                   	    685	  458	Alex Cross
