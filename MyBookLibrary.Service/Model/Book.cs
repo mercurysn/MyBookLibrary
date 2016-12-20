@@ -27,7 +27,7 @@ namespace MyBookLibrary.Service.Model
         public bool GoogleError { get; set; }
         public bool ImageError { get; set; }
         public List<string> Categories { get; set; }
-        public int? Ratings { get; set; }
+        public double? Ratings { get; set; }
         public int MinutesRank { get; set; }
         public int MinutesRankPercentile { get; set; }
         public int ReleaseDateRank { get; set; }

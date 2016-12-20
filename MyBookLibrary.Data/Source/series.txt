@@ -4,12 +4,12 @@ Pendergast                       	   15	Relic | Reliquary | The Cabinet of Curio
 Scarpetta                        	   15	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Blow Fly | Trace | Predator | Scarpetta
 High Heels                       	    9	Spying in High Heels | Killer in High Heels | Undercover in High Heels | Alibi in High Heels | Mayhem in High Heels | Fearless in High Heels | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
 Star Wars: Fate of the Jedi      	    9	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Conviction | Star Wars - Fate of the Jedi - Ascention | Star Wars - Fate of the Jedi: Apocalpyse
+Alex Cross                       	    9	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | Four Blind Mice | The Big Bad Wolf
 Zombie Fallout                   	    8	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 9: Tattered Remnants
-Alex Cross                       	    8	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | Four Blind Mice
 Harry Potter                     	    7	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Goblet of Fire | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
 Cotton Malone                    	    6	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
+Harry Bosch                      	    6	The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Angels Flight
 Game of Thrones                  	    5	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
-Harry Bosch                      	    5	The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music
 Millennium                       	    4	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest | The Girl in the Spider's Web
 Robert Langdon                   	    4	Angels and Demons | Angels and Demons | The Da Vinci Code | The Da Vinci Code | The Lost Symbol | Inferno
 Twilight                         	    4	Twilight | Eclipse | New Moon | Breaking Dawn
@@ -25,6 +25,7 @@ Lord of the Rings                	    3	The Fellowship of the Ring | The Fellows
 The Shining                      	    2	The Shining | Doctor Sleep
 Indian Hill                      	    2	Encounters | Reckoning
 Jack McEvoy                      	    2	The Poet | The Scarecrow
+Eragon                           	    2	Eldest | Brisingr
 Star Wars: Hand of Thrawn        	    2	Specter of the Past | Vision of the Future
 Jurassic Park                    	    2	Jurassic Park | The Lost World
 Charlie and the Chocolate Factory	    2	Charlie and the Chocolate Factory | Charlie and the Great Class Elevator
@@ -32,7 +33,6 @@ Zomble Fallout                   	    1	Zombie Fallout 8: An Old Beginning
 Jamie Bond                       	    1	Unbreakable Bond
 Star Wars: Old Republic          	    1	The Old Republic: Fatal Alliance
 The Strain                       	    1	The Strain
-Eragon                           	    1	Eldest
 Kurt Wallander                   	    1	The Fifth Woman
 Terrell McCaleb                  	    1	Blood Work
 John Corey                       	    1	The Lion's Game

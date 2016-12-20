@@ -8,7 +8,7 @@ namespace MyBookLibrary.IntegrationTests.RestClients
     [TestFixture]
     public class GoogleBooksClientTester
     {
-        [Test]
+        [Test, Explicit]
         public void GoogleBooksApi_IntegrationTests()
         {
             GoogleBooksClient client =

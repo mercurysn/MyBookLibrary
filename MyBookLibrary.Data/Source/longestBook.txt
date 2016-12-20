@@ -14,6 +14,7 @@ Outlander                                                                       
 Walt Disney: The Triumph of the American Imagination                              	Neal Gabler                       	   1930	  880
 The Eye of the World                                                              	Robert Jordan                     	   1799	  814	Wheel of Time
 The Bourne Ultimatum                                                              	Robert Ludlum                     	   1763	  672	Bourne
+Brisingr                                                                          	Christopher Paolini               	   1736	  831	Eragon
 The Bourne Supremacy                                                              	Robert Ludlum                     	   1661	  597	Bourne
 Harry Potter and the Order of Phoenix                                             	J.K. Rowling                      	   1582	  870	Harry Potter
 Vision of the Future                                                              	Timothy Zahn                      	   1578	  528	Star Wars: Hand of Thrawn
@@ -172,6 +173,7 @@ To Kill a Mockingbird                                                           
 Zombie Fallout 7: For the Fallen                                                  	Mark Tufo                         	    657	  370	Zombie Fallout
 Zombie Fallout 2: A Plague Upon Your Family                                       	Mark Tufo                         	    657	  330	Zombie Fallout
 Point of Origin                                                                   	Patricia Cornwell                 	    657	  356	Scarpetta
+Angels Flight                                                                     	Michael Connelly                  	    655	  454	Harry Bosch
 The Martian                                                                       	Andy Weir                         	    653	  385
 Zombie Fallout 3: The End                                                         	Mark Tufo                         	    653	  338	Zombie Fallout
 The Maze Runner                                                                   	James Dashner                     	    651	  374	Maze Runner
@@ -216,6 +218,7 @@ Mayhem in High Heels                                                            
 Star Wars - Fate of the Jedi: Omen                                                	Christie Golden                   	    505	  250	Star Wars: Fate of the Jedi
 Alibi in High Heels                                                               	Gemma Halliday                    	    505	  294	High Heels
 Harry Potter and the Philosopher's Stone                                          	J.K. Rowling                      	    497	  223	Harry Potter
+The Big Bad Wolf                                                                  	James Patterson                   	    488	  400	Alex Cross
 Violets are Blue                                                                  	James Patterson                   	    486	  391	Alex Cross
 Great Lives: Joseph - A Man of Integrity and Forgiveness                          	Charles R. Swindoll               	    484	  218
 Four Blind Mice                                                                   	James Patterson                   	    476	  416	Alex Cross
@@ -227,10 +230,12 @@ Roses Are Red                                                                   
 His Last Bow                                                                      	Arthur Conan Doyle                	    451	  242
 Einstein: His Life and Universe                                                   	Walter Isaacson                   	    438	  704
 Truth and Fiction in the Da Vinci Code                                            	Bart D. Ehrman                    	    427	  240
+The Maltese Falcon                                                                	Dashiell Hammett                  	    426	  213
 Hannibal Rising                                                                   	Thomas Harris                     	    424	  323	Hannibal
 Danger in High Heels                                                              	Gemma Halliday                    	    421	  192	High Heels
 Walking with God                                                                  	John Eldredge                     	    421	  234
 The Art of Racing in the Rain                                                     	Garth Stein                       	    417	  321
+The Matrix and Philosophy                                                         	William Irwin                     	    407	  280
 Treasure Island                                                                   	Robert Louis Stevenson            	    403	  292
 Unbreakable Bond                                                                  	Gemma Halliday, Jennifer Fischetto	    385	  184	Jamie Bond
 The Hound of the Baskervilles                                                     	Arthur Conan Doyle                	    378	  359

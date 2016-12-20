@@ -7,8 +7,8 @@ Stieg Larsson                     	 4.33	The Girl with the Dragon Tattoo | The G
 Vince Flynn                       	 4.24	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
 Michael Crichton                  	 4.20	Jurassic Park | The Lost World | Prey | State of Fear | Micro
 J.K. Rowling                      	 4.14	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
-James Patterson                   	 4.13	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | Four Blind Mice
 Roald Dahl                        	 4.11	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
+James Patterson                   	 4.06	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice
 Alan Dean Foster                  	 4.00	Star Wars: The Force Awakens
 David Lagercrantz                 	 4.00	The Girl in the Spider's Web
 Arnold Schwarzenegger             	 4.00	Total Recall: My Truly Unbelievably Life Story
@@ -40,19 +40,19 @@ Jules Verne                       	 4.00	Around the World in 80 Days
 Kyle Mills                        	 4.00	Order to Kill | The Survivor
 Jennifer Fischetto                	 4.00	Unbreakable Bond
 Timothy Zahn                      	 3.86	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
+Michael Connelly                  	 3.83	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Angels Flight | Blood Work | The Scarecrow
 Dan Brown                         	 3.80	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
 Stephanie Meyer                   	 3.80	Twilight | New Moon | Eclipse | The Host | Breaking Dawn
 Sophie Kinsella                   	 3.80	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
-Michael Connelly                  	 3.75	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Blood Work | The Scarecrow
 Douglas Preston                   	 3.67	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore
 Troy Denning                      	 3.67	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 Christie Golden                   	 3.67	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
+Christopher Paolini               	 3.67	Eragon | Eldest | Brisingr
 Lincoln Child                     	 3.67	Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
 Dean Koontz                       	 3.60	Chase | Demon Seed | Phantoms | Lightning | Fear Nothing
 Mark Tufo                         	 3.58	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning | Zombie Fallout 9: Tattered Remnants
 Stephen King                      	 3.50	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
 Walter Isaacson                   	 3.50	Einstein: His Life and Universe | Steve Jobs
-Christopher Paolini               	 3.50	Eragon | Eldest
 Max Brooks                        	 3.50	The Zombie Survival Guide | World War Z
 George R. R. Martin               	 3.40	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
 Thomas Harris                     	 3.40	Black Sunday | Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
@@ -94,8 +94,10 @@ Jerry Pournelle                   	 3.00	The Mote in God's Eyes
 Robert Ludlum                     	 2.33	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
 Nora Roberts                      	 2.00	Black Hills
 Bernard Goldberg                  	 2.00	100 People Who Are Screwing Up America
+William Irwin                     	 2.00	The Matrix and Philosophy
 Nelson DeMille                    	 2.00	The Lion's Game
 Caleb Carr                        	 2.00	The Alienist
+Dashiell Hammett                  	 2.00	The Maltese Falcon
 Washington Irving                 	 1.00	The Legend of Sleepy Hallow
 George Orwell                     	 1.00	1984
 Alexandar Dumas                   	 1.00	The Count of Monte Cristo

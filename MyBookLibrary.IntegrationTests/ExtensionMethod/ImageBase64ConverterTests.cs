@@ -6,7 +6,7 @@ namespace MyBookLibrary.IntegrationTests.ExtensionMethod
     [TestFixture]
     class ImageConverterTests
     {
-        [Test]
+        [Test, Explicit]
         public void TestImageConverter()
         {
             string url = "http://d.gr-assets.com/books/1388272560l/13145.jpg";
