@@ -1,0 +1,51 @@
+﻿@using MyBookLibrary.Service.ExtensionMethods
+@model MyBookLibrary.Web.Models.ViewModels.BookGroupByTimeBViewModel
+
+<section id="page-breadcrumb">
+    <div class="vertical-center sun">
+        <div class="container">
+            <div class="row">
+                <div class="action">
+                    <div class="col-sm-12">
+                        <h1 class="title">Books</h1>
+                        <table class="table table-striped table-bordered table-condensed table-responsive">
+                            <thead>
+                                <tr>
+                                    <td>Year</td>
+                                    <td>Stats</td>
+                                    <td>Books Read</td>
+                                    <td>Books</td>
+                                </tr>
+                            </thead>
+                            @foreach (var row in Model.BookGroups)
+                            {
+                                <tr>
+
+                                    <td><b>@row.Name</b></td>
+                                    <td>
+                                        @row.TotalTime.ConvertMinuteToHoursMinutes()
+                                        <br /><br />
+                                        @row.TotalPages.ToString("#,##0") pages
+                                        <br /><br />
+                                        #@row.Rank
+                                        <br /><br />
+                                        @row.Percentile%
+                                        
+                                    </td>
+                                    <td>@row.Books.Count</td>
+                                    <td>
+                                        @foreach (var book in row.Books)
+                                        {
+                                            @Html.Partial("_BookCoverShadowSmall", book)
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--/#action-->

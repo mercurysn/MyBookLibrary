@@ -39,14 +39,14 @@ namespace MyBookLibrary.UnitTests.ExtensionMethod
         {
             List<Book> oldList = new List<Book>
             {
-                new Book { Name = "Book 1"}
+                new Book { Id = 1, Name = "Book 1"}
             };
 
             List<Book> newList = new List<Book>
             {
-                new Book { Name = "Book 1"},
-                new Book { Name = "Book 2"},
-                new Book { Name = "Book 3"}
+                new Book { Id = 1, Name = "Book 1"},
+                new Book { Id = 2, Name = "Book 2"},
+                new Book { Id = 3, Name = "Book 3"}
             };
 
             oldList = oldList.PersistNewBookToList(newList);

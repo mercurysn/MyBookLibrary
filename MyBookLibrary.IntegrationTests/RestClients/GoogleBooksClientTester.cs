@@ -35,7 +35,7 @@ namespace MyBookLibrary.IntegrationTests.RestClients
             Assert.AreEqual("Fiction / General", googleBook.VolumeInfo.Categories[4]);
         }
 
-        [Test]
+        [Test, Explicit]
         public void GoogleBooksApi_SearchBook_IntegrationTests()
         {
             GoogleBooksClient client =

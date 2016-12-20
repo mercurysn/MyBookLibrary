@@ -10406,5 +10406,44 @@
     "DaysTaken": 3,
     "SpeedRank": 0,
     "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 286,
+    "Name": "The 7 Habits of Highly Effective People",
+    "Author": [
+      "Stephen R. Covey"
+    ],
+    "Minutes": 778,
+    "DateStarted": "2016-09-28T00:00:00",
+    "DateCompleted": "2016-10-26T00:00:00",
+    "ReleaseDate": "1989-01-01T00:00:00",
+    "Pages": 358,
+    "CoverUrl": "http://ecx.images-amazon.com/images/I/51Osk63EaBL._SL160.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change was a groundbreaker when it was first published in 1990, and it continues to be a business bestseller with more than 10 million copies sold. Stephen Covey, an internationally respected leadership authority, realizes that true success encompasses a balance of personal and professional effectiveness, so this book is a manual for performing better in both arenas. His anecdotes are as frequently from family situations as from business challenges. Before you can adopt the seven habits, you'll need to accomplish what Covey calls a \"paradigm shift\"--a change in perception and interpretation of how the world works. Covey takes you through this change, which affects how you perceive and act regarding productivity, time management, positive thinking, developing your \"proactive muscles\" (acting with initiative rather than reacting), and much more. This isn't a quick-tips-start-tomorrow kind of book. The concepts are sometimes intricate, and you'll want to study this book, not skim it. When you finish, you'll probably have Post-it notes or hand-written annotations in every chapter, and you'll feel like you've taken a powerful seminar by Covey.",
+    "Publisher": "Simon and Schuster",
+    "Isbn10": "0743272455",
+    "Isbn13": "9780743272452",
+    "GoogleBookId": "upUxaNWSaRIC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/upUxaNWSaRIC",
+    "CrowdRating": 4.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Business & Economics / General",
+      "Business & Economics / Organizational Behavior",
+      "Self-Help / General",
+      "Self-Help / Motivational & Inspirational"
+    ],
+    "Ratings": 5.0,
+    "MinutesRank": 130,
+    "MinutesRankPercentile": 57,
+    "ReleaseDateRank": 234,
+    "ReleaseDateRankPercentile": 22,
+    "DaysTaken": 28,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   }
 ]

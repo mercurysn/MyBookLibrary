@@ -49,11 +49,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutoMapper\AutoMapperTests.cs" />
+    <Compile Include="ExtensionMethod\BookGroupDtoHelperTests.cs" />
     <Compile Include="ExtensionMethod\BookHelperTests.cs" />
     <Compile Include="ExtensionMethod\DateHelperTests.cs" />
     <Compile Include="ExtensionMethod\TimeHelperTests.cs" />
     <Compile Include="Model\BookModelTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\BookAggrServiceTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

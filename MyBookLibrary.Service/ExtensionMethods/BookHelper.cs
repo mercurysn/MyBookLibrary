@@ -144,7 +144,7 @@ namespace MyBookLibrary.Service.ExtensionMethods
 
             foreach (var imageFreeBook in sourceBookList)
             {
-                if (destinationBookList.All(b => b.Name != imageFreeBook.Name))
+                if (destinationBookList.All(b => b.Id != imageFreeBook.Id))
                     destinationBookList.Add(imageFreeBook);
 
                 var destinationBook = destinationBookList.FirstOrDefault(b => b.Name == imageFreeBook.Name);

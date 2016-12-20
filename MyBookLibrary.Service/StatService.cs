@@ -124,7 +124,8 @@ namespace MyBookLibrary.Service
                     Minutes = b.Sum(c => c.Minutes),
                     MinutesDisplay = b.Sum(c => c.Minutes).ConvertMinuteToHoursMinutes(),
                     Pages = b.Sum(c => c.Pages),
-                    PagesDisplay = b.Sum(c => c.Pages).ToString("#,##0")
+                    PagesDisplay = b.Sum(c => c.Pages).ToString("#,##0"),
+                    Books = books.Where(x => $"{((DateTime)x.DateCompleted).Year.ToString()}-{((DateTime)x.DateCompleted).Month.ToString()}" == b.Key.ToString()).OrderBy(y => y.DateCompleted).ToList()
                 })
                 .OrderByDescending(b => b.Year)
                 .ThenByDescending(b => b.Month)
