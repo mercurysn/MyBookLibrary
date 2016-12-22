@@ -33,7 +33,15 @@ namespace MyBookLibrary.Service
                 .OrderBy(b => b.MinutesRank)
                 .Take(size)
                 .ToList();
-        } 
+        }
+
+        public List<Book> GetShortestBooks(int size = 50)
+        {
+            return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadFile())
+                .OrderByDescending(b => b.MinutesRank)
+                .Take(size)
+                .ToList();
+        }
 
         public List<Book> ReadAllFromLocalImageFreeFile()
         {
