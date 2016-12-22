@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using MyBookLibrary.Service.ExtensionMethods;
 using MyBookLibrary.Service.Model;
 using NUnit.Framework;
@@ -30,7 +31,7 @@ namespace MyBookLibrary.UnitTests.ExtensionMethod
                 }
             };
 
-            var result = bookGroups.ComputeRankPercentile();
+            var result = bookGroups.ComputeRankPercentile().ToList();
 
             Assert.AreEqual(3, result.Count);
             Assert.AreEqual("2014", result[0].Name);

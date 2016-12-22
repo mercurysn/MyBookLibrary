@@ -10,5 +10,6 @@ namespace MyBookLibrary.Service
         List<Book> ReadAllFromLocalImageFreeFile();
         List<Book> ReadAllFromLocalFullFile();
         List<Book> ReadAllFromLocalWithDescriptionFile();
+        List<Book> GetLongestBooks(int size = 50);
     }
 }

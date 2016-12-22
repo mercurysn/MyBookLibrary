@@ -34,5 +34,10 @@ namespace MyBookLibrary.Web.Controllers
                 BookGroups = _bookAggrService.GroupByMonth(books)
             });
         }
+
+        public ActionResult Longest()
+        {
+            return View("BookStats", _bookReadService.GetLongestBooks(20));
+        }
     }
 }

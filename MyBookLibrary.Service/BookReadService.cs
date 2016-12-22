@@ -27,6 +27,14 @@ namespace MyBookLibrary.Service
             return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadFile());
         }
 
+        public List<Book> GetLongestBooks(int size = 50)
+        {
+            return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadFile())
+                .OrderBy(b => b.MinutesRank)
+                .Take(size)
+                .ToList();
+        } 
+
         public List<Book> ReadAllFromLocalImageFreeFile()
         {
             return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadImageFreeFile());
