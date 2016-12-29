@@ -36,7 +36,7 @@ namespace MyBookLibrary.Service
                     Name = b.Key.ToString(),
                     TotalTime = b.Sum(x => x.Minutes),
                     TotalPages = b.Sum(x => x.Pages),
-                    Books = books.Where(x => ((DateTime)x.DateCompleted).Year.ToString() == b.Key.ToString()).OrderBy(y => y.DateCompleted).ToList(),
+                    Books = books.Where(x => ((DateTime)x.DateCompleted).Year.ToString() == b.Key.ToString()).OrderByDescending(y => y.DateCompleted).ToList(),
                     SortOrder = (new DateTime(b.Key, 1, 1) - new DateTime(1990, 1, 1)).Days 
                 })
                 .ComputeRankPercentile()
@@ -56,7 +56,7 @@ namespace MyBookLibrary.Service
                     Month = Convert.ToInt32(b.Key.ToString().Split('-').ElementAt(1)),
                     TotalTime = b.Sum(c => c.Minutes),
                     TotalPages = b.Sum(c => c.Pages),
-                    Books = books.Where(x => $"{((DateTime)x.DateCompleted).Year.ToString()}-{((DateTime)x.DateCompleted).Month.ToString()}" == b.Key.ToString()).OrderBy(y => y.DateCompleted).ToList()
+                    Books = books.Where(x => $"{((DateTime)x.DateCompleted).Year.ToString()}-{((DateTime)x.DateCompleted).Month.ToString()}" == b.Key.ToString()).OrderByDescending(y => y.DateCompleted).ToList()
                 })
                 .ComputeRankPercentile()
                 .OrderByDescending(b => b.Year)
