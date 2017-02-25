@@ -1,5 +1,7 @@
 Display	NumberOfBooks	MinutesDisplay	PagesDisplay	Books
-2016-12	            5	       61h 52m	       2,178	Brisingr | The Maltese Falcon | Angels Flight | The Big Bad Wolf | The Matrix and Philosophy
+2017-2 	            3	       26h 41m	       1,128	Void Moon | No Country for Old Men | London Bridges
+2017-1 	            2	       41h 22m	       1,176	Inheritance | The Kill Order
+2016-12	            7	       86h 43m	       3,134	Brisingr | The Maltese Falcon | Angels Flight | The Big Bad Wolf | The Matrix and Philosophy | The Lions of Lucerne | Conquest
 2016-11	            5	       65h 29m	       2,169	Order to Kill | A Short History of Nearly Everything | Reckoning | Prey | Zombie Fallout 9: Tattered Remnants
 2016-10	            1	       12h 58m	         358	The 7 Habits of Highly Effective People
 2016-9 	            3	       35h 13m	       1,166	Crimson Shore | Four Blind Mice | The DIsneyland Story: The Unofficial Guide to the Evolution of Walt Disney's Dream

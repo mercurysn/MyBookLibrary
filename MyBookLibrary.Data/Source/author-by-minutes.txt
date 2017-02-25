@@ -5,19 +5,19 @@ Vince Flynn                       	12959	Term Limits | Transfer of Power | The T
 George R. R. Martin               	12094	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
 Stephen King                      	10660	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
 Patricia Cornwell                 	10423	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
-Mark Tufo                         	 7731	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning | Zombie Fallout 9: Tattered Remnants
+Mark Tufo                         	 8298	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning | Zombie Fallout 9: Tattered Remnants
+Michael Connelly                  	 7272	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | Blood Work | The Scarecrow
 J.K. Rowling                      	 6996	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Timothy Zahn                      	 6688	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
-Michael Connelly                  	 6610	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Angels Flight | Blood Work | The Scarecrow
+Christopher Paolini               	 6028	Eragon | Eldest | Brisingr | Inheritance
+James Patterson                   	 5853	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges
 Steve Berry                       	 5544	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
-James Patterson                   	 5363	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice
 Stephanie Meyer                   	 5261	Twilight | New Moon | Eclipse | The Host | Breaking Dawn
 Dan Brown                         	 4926	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
 Robert Ludlum                     	 4764	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
 Gemma Halliday                    	 4721	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Unbreakable Bond | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
 Michael Crichton                  	 4332	Jurassic Park | The Lost World | Prey | State of Fear | Micro
 Arthur Conan Doyle                	 4238	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
-Christopher Paolini               	 4144	Eragon | Eldest | Brisingr
 Stieg Larsson                     	 3891	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Sophie Kinsella                   	 3774	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
 J.R.R. Tolkien                    	 3745	The Hobbit | The Fellowship of the Ring | The Two Towers | The Return of the King
@@ -26,6 +26,7 @@ Thomas Harris                     	 3125	Black Sunday | Red Dragon | The Silence
 Dean Koontz                       	 3034	Chase | Demon Seed | Phantoms | Lightning | Fear Nothing
 Alexandar Dumas                   	 2596	The Count of Monte Cristo
 Troy Denning                      	 2542	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
+James Dashner                     	 2407	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
 Neal Stephenson                   	 2314	Reamde
 Christie Golden                   	 2192	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
 Roald Dahl                        	 2134	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
@@ -35,7 +36,6 @@ Aaron Allston                     	 2059	Star Wars - Fate of the Jedi: Outcast |
 Diana Gabaldon                    	 1962	Outlander
 Walter Isaacson                   	 1945	Einstein: His Life and Universe | Steve Jobs
 Neal Gabler                       	 1930	Walt Disney: The Triumph of the American Imagination
-James Dashner                     	 1809	The Maze Runner | The Scorch Trials | The Death Cure
 Robert Jordan                     	 1799	The Eye of the World
 Stephen R. Covey                  	 1642	The 7 Habits of Highly Effective People | The 8th Habit
 Nelson DeMille                    	 1492	The Lion's Game
@@ -56,6 +56,7 @@ David Lagercrantz                 	 1006	The Girl in the Spider's Web
 Sam Gennawey                      	  991	The DIsneyland Story: The Unofficial Guide to the Evolution of Walt Disney's Dream
 John Grisham                      	  958	A Time to Kill
 Ernest Cline                      	  941	Ready Player One
+Brad Thor                         	  924	The Lions of Lucerne
 Daphne du Maurier                 	  889	Rebecca
 Truman Capote                     	  868	In Cold Blood
 Markus Zusak                      	  836	The Book Thief
@@ -82,6 +83,7 @@ Frances Hodgson Burnett           	  507	The Secret Garden
 Charles R. Swindoll               	  484	Great Lives: Joseph - A Man of Integrity and Forgiveness
 Neil Gaiman                       	  463	The Graveyard Book
 Jules Verne                       	  462	Around the World in 80 Days
+Cormac McCarthy                   	  449	No Country for Old Men
 Bart D. Ehrman                    	  427	Truth and Fiction in the Da Vinci Code
 Dashiell Hammett                  	  426	The Maltese Falcon
 John Eldredge                     	  421	Walking with God

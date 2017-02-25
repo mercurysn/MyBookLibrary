@@ -3,11 +3,11 @@ Vince Flynn                       	   17	Term Limits | Transfer of Power | Trans
 Douglas Preston                   	   15	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore
 Patricia Cornwell                 	   15	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
 Lincoln Child                     	   15	Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
-Mark Tufo                         	   12	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning | Zombie Fallout 9: Tattered Remnants
+Mark Tufo                         	   13	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning | Zombie Fallout 9: Tattered Remnants
 Gemma Halliday                    	   10	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Unbreakable Bond | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
+Michael Connelly                  	   10	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | Blood Work | The Scarecrow
+James Patterson                   	   10	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges
 Roald Dahl                        	    9	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
-Michael Connelly                  	    9	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Angels Flight | Blood Work | The Scarecrow
-James Patterson                   	    9	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice
 Timothy Zahn                      	    7	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
 J.K. Rowling                      	    7	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
 Arthur Conan Doyle                	    7	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
@@ -20,15 +20,15 @@ Stephanie Meyer                   	    5	Twilight | New Moon | Eclipse | The Hos
 Sophie Kinsella                   	    5	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
 Thomas Harris                     	    5	Black Sunday | Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
 Dean Koontz                       	    5	Chase | Demon Seed | Phantoms | Lightning | Fear Nothing
+James Dashner                     	    4	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
+Christopher Paolini               	    4	Eragon | Eldest | Brisingr | Inheritance
 J.R.R. Tolkien                    	    4	The Hobbit | The Hobbit | The Fellowship of the Ring | The Fellowship of the Ring | The Two Towers | The Two Towers | The Two Towers | The Return of the King | The Return of the King
 Veronica Roth                     	    3	Divergent | Insurgent | Allegiant
 Troy Denning                      	    3	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 Christie Golden                   	    3	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
 Aaron Allston                     	    3	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Conviction
 Robert Ludlum                     	    3	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
-James Dashner                     	    3	The Maze Runner | The Scorch Trials | The Death Cure
 Suzanne Collins                   	    3	The Hunger Games | The Hunger Games | Catching Fire | Catching Fire | Mockingjay | Mockingjay
-Christopher Paolini               	    3	Eragon | Eldest | Brisingr
 Stieg Larsson                     	    3	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Walter Isaacson                   	    2	Einstein: His Life and Universe | Steve Jobs
 Max Brooks                        	    2	The Zombie Survival Guide | World War Z
@@ -60,12 +60,14 @@ Neal Gabler                       	    1	Walt Disney: The Triumph of the America
 Sara Gruen                        	    1	Water for Elephants
 Bernard Goldberg                  	    1	100 People Who Are Screwing Up America
 Markus Zusak                      	    1	The Book Thief
+Cormac McCarthy                   	    1	No Country for Old Men
 Bill Bryson                       	    1	A Short History of Nearly Everything
 Henning Mankell                   	    1	The Fifth Woman
 Bart D. Ehrman                    	    1	Truth and Fiction in the Da Vinci Code
 Mitch Albom                       	    1	Five People You Meet in Heaven
 William Irwin                     	    1	The Matrix and Philosophy
 R.A. Salvatore                    	    1	Star Wars Episode II: Attack of the Clones
+Brad Thor                         	    1	The Lions of Lucerne
 Alice Sebold                      	    1	The Lovely Bones
 Rick Warren                       	    1	The Purpose Driven Life
 Nelson DeMille                    	    1	The Lion's Game
