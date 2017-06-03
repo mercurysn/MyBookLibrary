@@ -1,5 +1,8 @@
 Display	NumberOfBooks	MinutesDisplay	PagesDisplay	Books
-2017-2 	            3	       26h 41m	       1,128	Void Moon | No Country for Old Men | London Bridges
+2017-5 	            1	       17h 46m	         670	The Lost Symbol
+2017-4 	            2	       35h 16m	         964	The Da Vinci Code | Angels and Demons
+2017-3 	            5	       47h 09m	       1,526	Pulp Physics | From the Ashes | The First Phone Call From Heaven | The Andromeda Strain | Off to be the Wizard
+2017-2 	            4	       39h 38m	       1,495	Void Moon | No Country for Old Men | London Bridges | Path of the Assassin
 2017-1 	            2	       41h 22m	       1,176	Inheritance | The Kill Order
 2016-12	            7	       86h 43m	       3,134	Brisingr | The Maltese Falcon | Angels Flight | The Big Bad Wolf | The Matrix and Philosophy | The Lions of Lucerne | Conquest
 2016-11	            5	       65h 29m	       2,169	Order to Kill | A Short History of Nearly Everything | Reckoning | Prey | Zombie Fallout 9: Tattered Remnants

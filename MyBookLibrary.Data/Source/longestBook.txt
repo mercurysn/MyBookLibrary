@@ -118,6 +118,7 @@ The 7 Habits of Highly Effective People                                         
 Lightning                                                                         	Dean Koontz                       	    778	  351
 Star Wars - Fate of the Jedi: Conviction                                          	Aaron Allston                     	    777	  380	Star Wars: Fate of the Jedi
 Wheels of Darkness                                                                	Douglas Preston, Lincoln Child    	    777	  388	Pendergast
+Path of the Assassin                                                              	Brad Thor                         	    777	  367	Scott Harvath
 Twilight                                                                          	Stephanie Meyer                   	    776	  498	Twilight
 White Fire                                                                        	Douglas Preston, Lincoln Child    	    774	  368	Pendergast
 The Last Coyote                                                                   	Michael Connelly                  	    772	  400	Harry Bosch
@@ -152,6 +153,7 @@ Catching Fire                                                                   
 The Lovely Bones                                                                  	Alice Sebold                      	    698	  328
 The Body Farm                                                                     	Patricia Cornwell                 	    697	  320	Scarpetta
 American Assassin                                                                 	Vince Flynn                       	    696	  448	Mitch Rapp
+From the Ashes                                                                    	Mark Tufo                         	    690	  210	Indian Hill
 Zombie Fallout 9: Tattered Remnants                                               	Mark Tufo                         	    689	  328	Zombie Fallout
 Postmortem                                                                        	Patricia Cornwell                 	    687	  304	Scarpetta
 Water for Elephants                                                               	Sara Gruen                        	    686	  331
@@ -193,6 +195,7 @@ The Scorch Trials                                                               
 Star Wars Episode II: Attack of the Clones                                        	R.A. Salvatore                    	    620	  336
 Star Wars: The Force Awakens                                                      	Alan Dean Foster                  	    619	  272
 Protect and Defend                                                                	Vince Flynn                       	    616	  416	Mitch Rapp
+Off to be the Wizard                                                              	Scott Meyer                       	    615	  386	Magic 2.0
 Star Wars - Fate of the Jedi: Outcast                                             	Aaron Allston                     	    612	  318	Star Wars: Fate of the Jedi
 Body of Evidence                                                                  	Patricia Cornwell                 	    610	  256	Scarpetta
 Pop Goes the Weasel                                                               	James Patterson                   	    605	  461	Alex Cross
@@ -203,6 +206,7 @@ All That Remains                                                                
 Jaws                                                                              	Peter Benchley                    	    579	  311
 1984                                                                              	George Orwell                     	    579	  326
 Killer in High Heels                                                              	Gemma Halliday                    	    578	  310	High Heels
+Pulp Physics                                                                      	Dr Richard Berendzen              	    569	  280
 Conquest                                                                          	Mark Tufo                         	    567	  444	Indian Hill
 The Concrete Blonde                                                               	Michael Connelly                  	    563	  484	Harry Bosch
 The Memoirs of Shelock Holmes                                                     	Arthur Conan Doyle                	    561	  304
@@ -223,6 +227,7 @@ Mayhem in High Heels                                                            
 Star Wars - Fate of the Jedi: Omen                                                	Christie Golden                   	    505	  250	Star Wars: Fate of the Jedi
 Alibi in High Heels                                                               	Gemma Halliday                    	    505	  294	High Heels
 Harry Potter and the Philosopher's Stone                                          	J.K. Rowling                      	    497	  223	Harry Potter
+The Andromeda Strain                                                              	Michael Crichton                  	    495	  327
 London Bridges                                                                    	James Patterson                   	    490	  403	Alex Cross
 The Big Bad Wolf                                                                  	James Patterson                   	    488	  400	Alex Cross
 Violets are Blue                                                                  	James Patterson                   	    486	  391	Alex Cross
@@ -230,6 +235,7 @@ Great Lives: Joseph - A Man of Integrity and Forgiveness                        
 Four Blind Mice                                                                   	James Patterson                   	    476	  416	Alex Cross
 The Graveyard Book                                                                	Neil Gaiman                       	    463	  312
 Around the World in 80 Days                                                       	Jules Verne                       	    462	  220
+The First Phone Call From Heaven                                                  	Mitch Albom                       	    460	  323
 Homicide in High Heels                                                            	Gemma Halliday                    	    458	  213	High Heels
 Deadly in High Heels                                                              	Gemma Halliday                    	    453	  215	High Heels
 Roses Are Red                                                                     	James Patterson                   	    451	  416	Alex Cross

@@ -5,7 +5,7 @@ Vince Flynn                       	12959	Term Limits | Transfer of Power | The T
 George R. R. Martin               	12094	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
 Stephen King                      	10660	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
 Patricia Cornwell                 	10423	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
-Mark Tufo                         	 8298	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning | Zombie Fallout 9: Tattered Remnants
+Mark Tufo                         	 8988	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | From the Ashes | Zombie Fallout 8: An Old Beginning | Zombie Fallout 9: Tattered Remnants
 Michael Connelly                  	 7272	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | Blood Work | The Scarecrow
 J.K. Rowling                      	 6996	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Timothy Zahn                      	 6688	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
@@ -14,9 +14,9 @@ James Patterson                   	 5853	Along Came a Spider | Kiss the Girls | 
 Steve Berry                       	 5544	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
 Stephanie Meyer                   	 5261	Twilight | New Moon | Eclipse | The Host | Breaking Dawn
 Dan Brown                         	 4926	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
+Michael Crichton                  	 4827	The Andromeda Strain | Jurassic Park | The Lost World | Prey | State of Fear | Micro
 Robert Ludlum                     	 4764	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
 Gemma Halliday                    	 4721	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Unbreakable Bond | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
-Michael Crichton                  	 4332	Jurassic Park | The Lost World | Prey | State of Fear | Micro
 Arthur Conan Doyle                	 4238	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
 Stieg Larsson                     	 3891	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Sophie Kinsella                   	 3774	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
@@ -37,6 +37,7 @@ Diana Gabaldon                    	 1962	Outlander
 Walter Isaacson                   	 1945	Einstein: His Life and Universe | Steve Jobs
 Neal Gabler                       	 1930	Walt Disney: The Triumph of the American Imagination
 Robert Jordan                     	 1799	The Eye of the World
+Brad Thor                         	 1701	The Lions of Lucerne | Path of the Assassin
 Stephen R. Covey                  	 1642	The 7 Habits of Highly Effective People | The 8th Habit
 Nelson DeMille                    	 1492	The Lion's Game
 Arnold Schwarzenegger             	 1404	Total Recall: My Truly Unbelievably Life Story
@@ -56,7 +57,6 @@ David Lagercrantz                 	 1006	The Girl in the Spider's Web
 Sam Gennawey                      	  991	The DIsneyland Story: The Unofficial Guide to the Evolution of Walt Disney's Dream
 John Grisham                      	  958	A Time to Kill
 Ernest Cline                      	  941	Ready Player One
-Brad Thor                         	  924	The Lions of Lucerne
 Daphne du Maurier                 	  889	Rebecca
 Truman Capote                     	  868	In Cold Blood
 Markus Zusak                      	  836	The Book Thief
@@ -64,6 +64,7 @@ Sean Williams                     	  828	The Old Republic: Fatal Alliance
 Guillermo del Toro and Chuck Hogan	  816	The Strain
 P.D. James                        	  815	The Private Patient
 Fredrick Forsyth                  	  801	The Day of the Jackal
+Mitch Albom                       	  738	Five People You Meet in Heaven | The First Phone Call From Heaven
 Neil deGrasse Tyson               	  728	Death by Black Hole
 Alice Sebold                      	  698	The Lovely Bones
 Sara Gruen                        	  686	Water for Elephants
@@ -73,8 +74,10 @@ Harper Lee                        	  659	To Kill a Mockingbird
 Andy Weir                         	  653	The Martian
 R.A. Salvatore                    	  620	Star Wars Episode II: Attack of the Clones
 Alan Dean Foster                  	  619	Star Wars: The Force Awakens
+Scott Meyer                       	  615	Off to be the Wizard
 Peter Benchley                    	  579	Jaws
 George Orwell                     	  579	1984
+Dr Richard Berendzen              	  569	Pulp Physics
 Ken Follett                       	  556	Eye of the Needle
 Rick Warren                       	  542	The Purpose Driven Life
 Ha-Joon Chang                     	  538	23 Things They Don't Tell you about Capitalism
@@ -97,7 +100,6 @@ Agatha Christie                   	  362	And Then There Were None
 J. M. Barrie                      	  340	Peter Pan
 Robert Bloch                      	  322	Psycho
 John Buchan                       	  279	The Thirty Nine Steps
-Mitch Albom                       	  278	Five People You Meet in Heaven
 Francis Chan                      	  259	Crazy Love
 Charles Dickens                   	  178	A Christmas Carol
 Paul Jennings                     	  169	Unbelievable

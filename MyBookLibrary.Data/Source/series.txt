@@ -11,12 +11,12 @@ Cotton Malone                    	    6	The Templar Legacy | The Alexandria Link
 Harry Bosch                      	    6	The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Angels Flight
 Game of Thrones                  	    5	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
 Millennium                       	    4	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest | The Girl in the Spider's Web
-Robert Langdon                   	    4	Angels and Demons | Angels and Demons | The Da Vinci Code | The Da Vinci Code | The Lost Symbol | Inferno
+Indian Hill                      	    4	Encounters | Reckoning | Conquest | From the Ashes
+Robert Langdon                   	    4	Angels and Demons | Angels and Demons | Angels and Demons | The Da Vinci Code | The Da Vinci Code | The Da Vinci Code | The Lost Symbol | The Lost Symbol | Inferno
 Maze Runner                      	    4	The Kill Order | The Maze Runner | The Scorch Trials | The Death Cure
 Twilight                         	    4	Twilight | Eclipse | New Moon | Breaking Dawn
 Hannibal                         	    4	Red Dragon | The Silence of the Lambs | Hannibal Rising | Hannibal
 Divergent                        	    3	Divergent | Insurgent | Allegiant
-Indian Hill                      	    3	Encounters | Reckoning | Conquest
 Eragon                           	    3	Eldest | Brisingr | Inheritance
 Bourne                           	    3	The Bourne Identity | The Bourne Supremacy | The Bourne Ultimatum
 Hunger Games                     	    3	The Hunger Games | The Hunger Games | Catching Fire | Catching Fire | Mockingjay | Mockingjay
@@ -26,15 +26,16 @@ Lord of the Rings                	    3	The Fellowship of the Ring | The Fellows
 The Shining                      	    2	The Shining | Doctor Sleep
 Jack McEvoy                      	    2	The Poet | The Scarecrow
 Zombie                           	    2	The Zombie Survival Guide | World War Z
+Scott Harvath                    	    2	The Lions of Lucerne | Path of the Assassin
 Star Wars: Hand of Thrawn        	    2	Specter of the Past | Vision of the Future
 Jurassic Park                    	    2	Jurassic Park | The Lost World
 Charlie and the Chocolate Factory	    2	Charlie and the Chocolate Factory | Charlie and the Great Class Elevator
+Magic 2.0                        	    1	Off to be the Wizard
 Jamie Bond                       	    1	Unbreakable Bond
 Star Wars: Old Republic          	    1	The Old Republic: Fatal Alliance
 The Strain                       	    1	The Strain
 Kurt Wallander                   	    1	The Fifth Woman
 Terrell McCaleb                  	    1	Blood Work
-Scott Harvath                    	    1	The Lions of Lucerne
 John Corey                       	    1	The Lion's Game
 Lincoln Rhyme                    	    1	The Bone Collector
 Outlander                        	    1	Outlander
