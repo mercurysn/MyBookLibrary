@@ -45,6 +45,7 @@ Doctor Sleep                                                                    
 Angels and Demons                                                                 	Dan Brown                         	   1113	  480	Robert Langdon
 State of Fear                                                                     	Michael Crichton                  	   1087	  623
 The Help                                                                          	Kathryn Stockett                  	   1086	  451
+A Beautiful Mind                                                                  	Sylvia Nasar                      	   1085	  464
 The Lost Symbol                                                                   	Dan Brown                         	   1066	  670	Robert Langdon
 The Alexandria Link                                                               	Steve Berry                       	   1040	  512	Cotton Malone
 The Last Precinct                                                                 	Patricia Cornwell                 	   1039	  449	Scarpetta
@@ -129,6 +130,7 @@ Blood Work                                                                      
 Trunk Music                                                                       	Michael Connelly                  	    761	  448	Harry Bosch
 Shopaholic Takes Manhattan                                                        	Sophie Kinsella                   	    759	  388	Shopaholic
 Fear Nothing                                                                      	Dean Koontz                       	    759	  373
+A Darkness More Than Night                                                        	Michael Connelly                  	    755	  470	Harry Bosch
 Hannibal                                                                          	Thomas Harris                     	    746	  484	Hannibal
 Trace                                                                             	Patricia Cornwell                 	    741	  448	Scarpetta
 Black Notice                                                                      	Patricia Cornwell                 	    741	  415	Scarpetta
@@ -150,9 +152,11 @@ Harry Potter and the Prisoner of Azkaban                                        
 Mockingjay                                                                        	Suzanne Collins                   	    703	  400	Hunger Games
 Confession of a Shopaholic                                                        	Sophie Kinsella                   	    702	  312	Shopaholic
 Catching Fire                                                                     	Suzanne Collins                   	    701	  391	Hunger Games
+Into the Fire                                                                     	Mark Tufo                         	    700	  372	Indian Hill
 The Lovely Bones                                                                  	Alice Sebold                      	    698	  328
 The Body Farm                                                                     	Patricia Cornwell                 	    697	  320	Scarpetta
 American Assassin                                                                 	Vince Flynn                       	    696	  448	Mitch Rapp
+State of the Union                                                                	Brad Thor                         	    695	  532	Scott Harvath
 From the Ashes                                                                    	Mark Tufo                         	    690	  210	Indian Hill
 Zombie Fallout 9: Tattered Remnants                                               	Mark Tufo                         	    689	  328	Zombie Fallout
 Postmortem                                                                        	Patricia Cornwell                 	    687	  304	Scarpetta
@@ -175,6 +179,7 @@ Unnatural Exposure                                                              
 The Hobbit                                                                        	J.R.R. Tolkien                    	    664	  310
 Void Moon                                                                         	Michael Connelly                  	    662	  416
 To Kill a Mockingbird                                                             	Harper Lee                        	    659	  296	To Kill a Mockingbird
+The Girl on the Train                                                             	Paula Hawkins                     	    657	  325
 Zombie Fallout 7: For the Fallen                                                  	Mark Tufo                         	    657	  370	Zombie Fallout
 Zombie Fallout 2: A Plague Upon Your Family                                       	Mark Tufo                         	    657	  330	Zombie Fallout
 Point of Origin                                                                   	Patricia Cornwell                 	    657	  356	Scarpetta
@@ -226,6 +231,7 @@ The Secret Garden                                                               
 Mayhem in High Heels                                                              	Gemma Halliday                    	    506	  303	High Heels
 Star Wars - Fate of the Jedi: Omen                                                	Christie Golden                   	    505	  250	Star Wars: Fate of the Jedi
 Alibi in High Heels                                                               	Gemma Halliday                    	    505	  294	High Heels
+Mary, Mary                                                                        	James Patterson                   	    503	  413	Alex Cross
 Harry Potter and the Philosopher's Stone                                          	J.K. Rowling                      	    497	  223	Harry Potter
 The Andromeda Strain                                                              	Michael Crichton                  	    495	  327
 London Bridges                                                                    	James Patterson                   	    490	  403	Alex Cross

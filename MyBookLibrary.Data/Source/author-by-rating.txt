@@ -1,4 +1,5 @@
 Field                             	Value	Books
+Paula Hawkins                     	 5.00	The Girl on the Train
 Andy Weir                         	 5.00	The Martian
 Scott Meyer                       	 5.00	Off to be the Wizard
 Ernest Cline                      	 5.00	Ready Player One
@@ -9,7 +10,7 @@ Vince Flynn                       	 4.24	Term Limits | Transfer of Power | The T
 J.K. Rowling                      	 4.14	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Roald Dahl                        	 4.11	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
 Michael Crichton                  	 4.08	The Andromeda Strain | Jurassic Park | The Lost World | Prey | State of Fear | Micro
-James Patterson                   	 4.05	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges
+James Patterson                   	 4.05	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary
 Alan Dean Foster                  	 4.00	Star Wars: The Force Awakens
 David Lagercrantz                 	 4.00	The Girl in the Spider's Web
 Arnold Schwarzenegger             	 4.00	Total Recall: My Truly Unbelievably Life Story
@@ -39,24 +40,24 @@ Henry T Blackaby                  	 4.00	Experiencing God
 Jules Verne                       	 4.00	Around the World in 80 Days
 Kyle Mills                        	 4.00	Order to Kill | The Survivor
 Jennifer Fischetto                	 4.00	Unbreakable Bond
-Michael Connelly                  	 3.90	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | Blood Work | The Scarecrow
+Michael Connelly                  	 3.95	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | Blood Work | The Scarecrow
 Timothy Zahn                      	 3.86	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
+Brad Thor                         	 3.83	The Lions of Lucerne | Path of the Assassin | State of the Union
 Dan Brown                         	 3.80	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
 Stephanie Meyer                   	 3.80	Twilight | New Moon | Eclipse | The Host | Breaking Dawn
 Sophie Kinsella                   	 3.80	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
 Mitch Albom                       	 3.75	Five People You Meet in Heaven | The First Phone Call From Heaven
 James Dashner                     	 3.75	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
 Christopher Paolini               	 3.75	Eragon | Eldest | Brisingr | Inheritance
-Brad Thor                         	 3.75	The Lions of Lucerne | Path of the Assassin
 Douglas Preston                   	 3.67	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore
 Troy Denning                      	 3.67	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 Christie Golden                   	 3.67	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
 Lincoln Child                     	 3.67	Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
 Dean Koontz                       	 3.60	Chase | Demon Seed | Phantoms | Lightning | Fear Nothing
-Mark Tufo                         	 3.50	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | From the Ashes | Zombie Fallout 8: An Old Beginning | Zombie Fallout 9: Tattered Remnants
 Stephen King                      	 3.50	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
 Walter Isaacson                   	 3.50	Einstein: His Life and Universe | Steve Jobs
 Max Brooks                        	 3.50	The Zombie Survival Guide | World War Z
+Mark Tufo                         	 3.47	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | From the Ashes | Zombie Fallout 8: An Old Beginning | Into the Fire | Zombie Fallout 9: Tattered Remnants
 George R. R. Martin               	 3.40	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
 Thomas Harris                     	 3.40	Black Sunday | Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
 Gemma Halliday                    	 3.30	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Unbreakable Bond | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
@@ -100,6 +101,7 @@ Bernard Goldberg                  	 2.00	100 People Who Are Screwing Up America
 Cormac McCarthy                   	 2.00	No Country for Old Men
 William Irwin                     	 2.00	The Matrix and Philosophy
 Nelson DeMille                    	 2.00	The Lion's Game
+Sylvia Nasar                      	 2.00	A Beautiful Mind
 Caleb Carr                        	 2.00	The Alienist
 Dashiell Hammett                  	 2.00	The Maltese Falcon
 Washington Irving                 	 1.00	The Legend of Sleepy Hallow

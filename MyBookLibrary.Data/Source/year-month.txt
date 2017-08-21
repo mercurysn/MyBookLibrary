@@ -1,5 +1,7 @@
 Display	NumberOfBooks	MinutesDisplay	PagesDisplay	Books
-2017-5 	            1	       17h 46m	         670	The Lost Symbol
+2017-7 	            3	       40h 42m	       1,161	A Beautiful Mind | Into the Fire | The Girl on the Train
+2017-6 	            3	       32h 33m	       1,415	A Darkness More Than Night | Mary, Mary | State of the Union
+2017-5 	            2	       34h 58m	       1,150	The Lost Symbol | Inferno
 2017-4 	            2	       35h 16m	         964	The Da Vinci Code | Angels and Demons
 2017-3 	            5	       47h 09m	       1,526	Pulp Physics | From the Ashes | The First Phone Call From Heaven | The Andromeda Strain | Off to be the Wizard
 2017-2 	            4	       39h 38m	       1,495	Void Moon | No Country for Old Men | London Bridges | Path of the Assassin

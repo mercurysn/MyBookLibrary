@@ -59,6 +59,22 @@ namespace MyBookLibrary.Service
                 .ToList();
         }
 
+        public static List<BookAggregatedGroup<string>> GroupBySeriesRatings(this List<Book> books)
+        {
+            return books
+                .RemoveDuplicates()
+                .RemoveBooksWithoutSeries()
+                .GroupBy(b => b.Series)
+                .Select(b => new BookAggregatedGroup<string>
+                {
+                    Field = b.Key,  
+                    Value = (Convert.ToDouble(b.Average(x => x.Ratings))).ToString("#.00"),
+                    Books = books.Where(x => x.Series.Equals(b.Key.ToString())).OrderBy(y => y.SeriesOrder).ToList()
+                })
+                .OrderByDescending(b => b.Value)
+                .ToList();
+        }
+
         public static List<BookAggregatedGroup<string>> RemoveAuthorsWithLessThanXBooks(this List<BookAggregatedGroup<string>> booksGroups, int minBookCount = 2)
         {
             return booksGroups.Where(bg => bg.Books.Count >= minBookCount).ToList();
