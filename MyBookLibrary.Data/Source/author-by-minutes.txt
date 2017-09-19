@@ -42,6 +42,7 @@ Stephen R. Covey                  	 1642	The 7 Habits of Highly Effective People
 Nelson DeMille                    	 1492	The Lion's Game
 Arnold Schwarzenegger             	 1404	Total Recall: My Truly Unbelievably Life Story
 Max Brooks                        	 1347	The Zombie Survival Guide | World War Z
+Scott Meyer                       	 1314	Off to be the Wizard | Spell or High Water
 Bryce Courtenay                   	 1290	The Power of One
 Chris Taylor                      	 1242	How Star Wars Conquered the Universe
 Kyle Mills                        	 1230	Order to Kill | The Survivor
@@ -76,7 +77,6 @@ Paula Hawkins                     	  657	The Girl on the Train
 Andy Weir                         	  653	The Martian
 R.A. Salvatore                    	  620	Star Wars Episode II: Attack of the Clones
 Alan Dean Foster                  	  619	Star Wars: The Force Awakens
-Scott Meyer                       	  615	Off to be the Wizard
 Peter Benchley                    	  579	Jaws
 George Orwell                     	  579	1984
 Dr Richard Berendzen              	  569	Pulp Physics
@@ -98,6 +98,7 @@ Robert Louis Stevenson            	  403	Treasure Island
 Jennifer Fischetto                	  385	Unbreakable Bond
 Bernard Goldberg                  	  375	100 People Who Are Screwing Up America
 H. G. Wells                       	  373	War of the Worlds
+John D. MacDonald                 	  372	Cape Fear
 Agatha Christie                   	  362	And Then There Were None
 J. M. Barrie                      	  340	Peter Pan
 Robert Bloch                      	  322	Psycho

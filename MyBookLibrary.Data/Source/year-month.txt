@@ -1,5 +1,7 @@
 Display	NumberOfBooks	MinutesDisplay	PagesDisplay	Books
-2017-7 	            3	       40h 42m	       1,161	A Beautiful Mind | Into the Fire | The Girl on the Train
+2017-9 	            1	       20h 36m	         734	Harry Potter and the Goblet of Fire
+2017-8 	            4	       40h 28m	       1,324	Spell or High Water | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban
+2017-7 	            4	       46h 54m	       1,486	A Beautiful Mind | Into the Fire | The Girl on the Train | Cape Fear
 2017-6 	            3	       32h 33m	       1,415	A Darkness More Than Night | Mary, Mary | State of the Union
 2017-5 	            2	       34h 58m	       1,150	The Lost Symbol | Inferno
 2017-4 	            2	       35h 16m	         964	The Da Vinci Code | Angels and Demons

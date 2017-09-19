@@ -9,7 +9,7 @@ James Patterson                   	   11	Along Came a Spider | Kiss the Girls | 
 Gemma Halliday                    	   10	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Unbreakable Bond | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
 Roald Dahl                        	    9	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
 Timothy Zahn                      	    7	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
-J.K. Rowling                      	    7	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
+J.K. Rowling                      	    7	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
 Arthur Conan Doyle                	    7	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
 Stephen King                      	    6	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
 Michael Crichton                  	    6	The Andromeda Strain | Jurassic Park | The Lost World | Prey | State of Fear | Micro
@@ -31,6 +31,7 @@ Robert Ludlum                     	    3	The Bourne Identity | The Bourne Ultima
 Suzanne Collins                   	    3	The Hunger Games | The Hunger Games | Catching Fire | Catching Fire | Mockingjay | Mockingjay
 Stieg Larsson                     	    3	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Brad Thor                         	    3	The Lions of Lucerne | Path of the Assassin | State of the Union
+Scott Meyer                       	    2	Off to be the Wizard | Spell or High Water
 Mitch Albom                       	    2	Five People You Meet in Heaven | The First Phone Call From Heaven
 Walter Isaacson                   	    2	Einstein: His Life and Universe | Steve Jobs
 Max Brooks                        	    2	The Zombie Survival Guide | World War Z
@@ -43,7 +44,6 @@ Chris Taylor                      	    1	How Star Wars Conquered the Universe
 Andy Weir                         	    1	The Martian
 Arnold Schwarzenegger             	    1	Total Recall: My Truly Unbelievably Life Story
 Sam Gennawey                      	    1	The DIsneyland Story: The Unofficial Guide to the Evolution of Walt Disney's Dream
-Scott Meyer                       	    1	Off to be the Wizard
 Neal Stephenson                   	    1	Reamde
 Ernest Cline                      	    1	Ready Player One
 Ha-Joon Chang                     	    1	23 Things They Don't Tell you about Capitalism
@@ -90,6 +90,7 @@ Truman Capote                     	    1	In Cold Blood
 William L. Shirer                 	    1	The Rise and Fall of the Third Reich
 Harper Lee                        	    1	To Kill a Mockingbird
 Robert Bloch                      	    1	Psycho
+John D. MacDonald                 	    1	Cape Fear
 George Orwell                     	    1	1984
 Agatha Christie                   	    1	And Then There Were None
 Daphne du Maurier                 	    1	Rebecca

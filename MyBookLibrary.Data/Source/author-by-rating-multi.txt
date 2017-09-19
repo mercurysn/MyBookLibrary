@@ -1,4 +1,5 @@
 Field              	Value	Books
+Scott Meyer        	 4.75	Off to be the Wizard | Spell or High Water
 Suzanne Collins    	 4.33	The Hunger Games | Catching Fire | Mockingjay
 Stieg Larsson      	 4.33	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Vince Flynn        	 4.24	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill

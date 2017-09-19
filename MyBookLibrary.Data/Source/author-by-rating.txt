@@ -1,9 +1,9 @@
 Field                             	Value	Books
 Paula Hawkins                     	 5.00	The Girl on the Train
 Andy Weir                         	 5.00	The Martian
-Scott Meyer                       	 5.00	Off to be the Wizard
 Ernest Cline                      	 5.00	Ready Player One
 William P. Young                  	 5.00	The Shack
+Scott Meyer                       	 4.75	Off to be the Wizard | Spell or High Water
 Suzanne Collins                   	 4.33	The Hunger Games | Catching Fire | Mockingjay
 Stieg Larsson                     	 4.33	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Vince Flynn                       	 4.24	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
@@ -103,6 +103,7 @@ William Irwin                     	 2.00	The Matrix and Philosophy
 Nelson DeMille                    	 2.00	The Lion's Game
 Sylvia Nasar                      	 2.00	A Beautiful Mind
 Caleb Carr                        	 2.00	The Alienist
+John D. MacDonald                 	 2.00	Cape Fear
 Dashiell Hammett                  	 2.00	The Maltese Falcon
 Washington Irving                 	 1.00	The Legend of Sleepy Hallow
 George Orwell                     	 1.00	1984

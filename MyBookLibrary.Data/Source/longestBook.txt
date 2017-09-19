@@ -153,6 +153,7 @@ Mockingjay                                                                      
 Confession of a Shopaholic                                                        	Sophie Kinsella                   	    702	  312	Shopaholic
 Catching Fire                                                                     	Suzanne Collins                   	    701	  391	Hunger Games
 Into the Fire                                                                     	Mark Tufo                         	    700	  372	Indian Hill
+Spell or High Water                                                               	Scott Meyer                       	    699	  325	Magic 2.0
 The Lovely Bones                                                                  	Alice Sebold                      	    698	  328
 The Body Farm                                                                     	Patricia Cornwell                 	    697	  320	Scarpetta
 American Assassin                                                                 	Vince Flynn                       	    696	  448	Mitch Rapp
@@ -260,6 +261,7 @@ Unbreakable Bond                                                                
 The Hound of the Baskervilles                                                     	Arthur Conan Doyle                	    378	  359
 100 People Who Are Screwing Up America                                            	Bernard Goldberg                  	    375	  305
 War of the Worlds                                                                 	H. G. Wells                       	    373	  303
+Cape Fear                                                                         	John D. MacDonald                 	    372	  325
 The Valley of Fear                                                                	Arthur Conan Doyle                	    367	  320
 And Then There Were None                                                          	Agatha Christie                   	    362	  256
 Demon Seed                                                                        	Dean Koontz                       	    357	  301
