@@ -1,5 +1,11 @@
 Display	NumberOfBooks	MinutesDisplay	PagesDisplay	Books
-2017-9 	            1	       20h 36m	         734	Harry Potter and the Goblet of Fire
+2018-4 	            1	       20h 07m	         503	Patriot Games
+2018-3 	            1	        9h 59m	         442	Congo
+2018-2 	            3	       39h 24m	       1,505	Bag of Bones | The Obsidian Chamber | The Five Love Languages
+2017-12	            3	       32h 59m	       1,223	The Hunt for Red October | Double Cross | Takedown
+2017-11	            3	       37h 45m	       1,467	Blowback | Airframe | The Girl With All the Gifts
+2017-10	            3	       40h 11m	       1,593	Harry Potter and the Deathly Hollows | City of Bones | Cross
+2017-9 	            3	       66h 09m	       2,256	Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince
 2017-8 	            4	       40h 28m	       1,324	Spell or High Water | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban
 2017-7 	            4	       46h 54m	       1,486	A Beautiful Mind | Into the Fire | The Girl on the Train | Cape Fear
 2017-6 	            3	       32h 33m	       1,415	A Darkness More Than Night | Mary, Mary | State of the Union

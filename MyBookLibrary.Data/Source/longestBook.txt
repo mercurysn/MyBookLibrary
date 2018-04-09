@@ -26,6 +26,7 @@ Eldest                                                                          
 Total Recall: My Truly Unbelievably Life Story                                    	Arnold Schwarzenegger             	   1404	  656
 The Host                                                                          	Stephanie Meyer                   	   1385	  619
 The Bourne Identity                                                               	Robert Ludlum                     	   1340	  523	Bourne
+Bag of Bones                                                                      	Stephen King                      	   1303	  736
 Harry Potter and the Deathly Hollows                                              	J.K. Rowling                      	   1298	  784	Harry Potter
 The Power of One                                                                  	Bryce Courtenay                   	   1290	  533
 The Girl Who Played with Fire                                                     	Stieg Larsson                     	   1252	  630	Millennium
@@ -34,6 +35,7 @@ Harry Potter and the Goblet of Fire                                             
 Breaking Dawn                                                                     	Stephanie Meyer                   	   1234	  756	Twilight
 The Mote in God's Eyes                                                            	Larry Niven, Jerry Pournelle      	   1227	  537	The Mote in God's Eye
 The Complete Stories of Sherlock Holmes                                           	Arthur Conan Doyle                	   1216	    0
+Patriot Games                                                                     	Tom Clancy                        	   1207	  503	Jack Ryan
 The Alienist                                                                      	Caleb Carr                        	   1202	  498
 Brimstone                                                                         	Douglas Preston, Lincoln Child    	   1182	  499	Pendergast
 Gone Girl                                                                         	Gillian Flynn                     	   1151	  432
@@ -72,6 +74,7 @@ Still Life with Crows                                                           
 The Last Command                                                                  	Timothy Zahn                      	    947	  467	Star Wars: Thrawn
 The Templar Legacy                                                                	Steve Berry                       	    944	  496	Cotton Malone
 Ready Player One                                                                  	Ernest Cline                      	    941	  374
+The Hunt for Red October                                                          	Tom Clancy                        	    935	  432	Jack Ryan
 Term Limits                                                                       	Vince Flynn                       	    934	  360	Mitch Rapp
 The Return of the King                                                            	J.R.R. Tolkien                    	    926	  416	Lord of the Rings
 The Lions of Lucerne                                                              	Brad Thor                         	    924	  512	Scott Harvath
@@ -105,6 +108,7 @@ Reliquary                                                                       
 The Strain                                                                        	Guillermo del Toro and Chuck Hogan	    816	  416	The Strain
 The Private Patient                                                               	P.D. James                        	    815	  416
 The Paris Vendetta                                                                	Steve Berry                       	    813	  432	Cotton Malone
+Blowback                                                                          	Brad Thor                         	    812	  575	Scott Harvath
 Cemetery Dance                                                                    	Douglas Preston, Lincoln Child    	    806	  435	Pendergast
 Remember Me?                                                                      	Sophie Kinsella                   	    806	  448
 Jack & Jill                                                                       	James Patterson                   	    806	  466	Alex Cross
@@ -113,6 +117,7 @@ The Day of the Jackal                                                           
 Memorial Day                                                                      	Vince Flynn                       	    800	  407	Mitch Rapp
 Scarpetta                                                                         	Patricia Cornwell                 	    794	  508	Scarpetta
 Heir to the Empire                                                                	Timothy Zahn                      	    789	  361	Star Wars: Thrawn
+The Girl With All the Gifts                                                       	M. R. Carey                       	    785	  461
 Executive Power                                                                   	Vince Flynn                       	    783	  384	Mitch Rapp
 Relic                                                                             	Douglas Preston, Lincoln Child    	    782	  382	Pendergast
 The 7 Habits of Highly Effective People                                           	Stephen R. Covey                  	    778	  358
@@ -121,6 +126,7 @@ Star Wars - Fate of the Jedi: Conviction                                        
 Wheels of Darkness                                                                	Douglas Preston, Lincoln Child    	    777	  388	Pendergast
 Path of the Assassin                                                              	Brad Thor                         	    777	  367	Scott Harvath
 Twilight                                                                          	Stephanie Meyer                   	    776	  498	Twilight
+The Obsidian Chamber                                                              	Douglas Preston, Lincoln Child    	    775	  560	Pendergast
 White Fire                                                                        	Douglas Preston, Lincoln Child    	    774	  368	Pendergast
 The Last Coyote                                                                   	Michael Connelly                  	    772	  400	Harry Bosch
 Prey                                                                              	Michael Crichton                  	    771	  507
@@ -172,9 +178,11 @@ Experiencing God                                                                
 Zombie Fallout 4: The End Has Come and Gone                                       	Mark Tufo                         	    671	  356	Zombie Fallout
 Divergent                                                                         	Veronica Roth                     	    671	  487	Divergent
 The Hunger Games                                                                  	Suzanne Collins                   	    671	  384	Hunger Games
+City of Bones                                                                     	Michael Connelly                  	    671	  416	Harry Bosch
 The Black Ice                                                                     	Michael Connelly                  	    671	  322	Harry Bosch
 Star Wars - Fate of the Jedi: Backlash                                            	Aaron Allston                     	    670	  328	Star Wars: Fate of the Jedi
 Zombie Fallout 5: Alive in a Dead World                                           	Mark Tufo                         	    668	  354	Zombie Fallout
+Airframe                                                                          	Michael Crichton                  	    668	  431
 Act of Treason                                                                    	Vince Flynn                       	    665	  415	Mitch Rapp
 Unnatural Exposure                                                                	Patricia Cornwell                 	    664	  338	Scarpetta
 The Hobbit                                                                        	J.R.R. Tolkien                    	    664	  310
@@ -205,6 +213,7 @@ Off to be the Wizard                                                            
 Star Wars - Fate of the Jedi: Outcast                                             	Aaron Allston                     	    612	  318	Star Wars: Fate of the Jedi
 Body of Evidence                                                                  	Patricia Cornwell                 	    610	  256	Scarpetta
 Pop Goes the Weasel                                                               	James Patterson                   	    605	  461	Alex Cross
+Congo                                                                             	Michael Crichton                  	    599	  442
 The Kill Order                                                                    	James Dashner                     	    598	  327	Maze Runner
 Black Sunday                                                                      	Thomas Harris                     	    593	  320
 Order to Kill                                                                     	Vince Flynn, Kyle Mills           	    590	  384	Mitch Rapp
@@ -212,6 +221,7 @@ All That Remains                                                                
 Jaws                                                                              	Peter Benchley                    	    579	  311
 1984                                                                              	George Orwell                     	    579	  326
 Killer in High Heels                                                              	Gemma Halliday                    	    578	  310	High Heels
+Takedown                                                                          	Brad Thor                         	    569	  402	Scott Harvath
 Pulp Physics                                                                      	Dr Richard Berendzen              	    569	  280
 Conquest                                                                          	Mark Tufo                         	    567	  444	Indian Hill
 The Concrete Blonde                                                               	Michael Connelly                  	    563	  484	Harry Bosch
@@ -240,6 +250,7 @@ The Big Bad Wolf                                                                
 Violets are Blue                                                                  	James Patterson                   	    486	  391	Alex Cross
 Great Lives: Joseph - A Man of Integrity and Forgiveness                          	Charles R. Swindoll               	    484	  218
 Four Blind Mice                                                                   	James Patterson                   	    476	  416	Alex Cross
+Double Cross                                                                      	James Patterson                   	    475	  389	Alex Cross
 The Graveyard Book                                                                	Neil Gaiman                       	    463	  312
 Around the World in 80 Days                                                       	Jules Verne                       	    462	  220
 The First Phone Call From Heaven                                                  	Mitch Albom                       	    460	  323
@@ -248,6 +259,7 @@ Deadly in High Heels                                                            
 Roses Are Red                                                                     	James Patterson                   	    451	  416	Alex Cross
 His Last Bow                                                                      	Arthur Conan Doyle                	    451	  242
 No Country for Old Men                                                            	Cormac McCarthy                   	    449	  309
+Cross                                                                             	James Patterson                   	    442	  393	Alex Cross
 Einstein: His Life and Universe                                                   	Walter Isaacson                   	    438	  704
 Truth and Fiction in the Da Vinci Code                                            	Bart D. Ehrman                    	    427	  240
 The Maltese Falcon                                                                	Dashiell Hammett                  	    426	  213
@@ -268,6 +280,7 @@ Demon Seed                                                                      
 Peter Pan                                                                         	J. M. Barrie                      	    340	  267
 Psycho                                                                            	Robert Bloch                      	    322	  185	Psycho
 Fearless in High Heels                                                            	Gemma Halliday                    	    320	  186	High Heels
+The Five Love Languages                                                           	Gary Chapman                      	    286	  209
 The Thirty Nine Steps                                                             	John Buchan                       	    279	  117
 Five People You Meet in Heaven                                                    	Mitch Albom                       	    278	  196
 Going Solo                                                                        	Roald Dahl                        	    278	  224

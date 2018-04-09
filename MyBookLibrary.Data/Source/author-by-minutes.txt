@@ -1,24 +1,25 @@
 Field                             	Value	Books
-Douglas Preston                   	13093	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore
-Lincoln Child                     	13093	Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
+Douglas Preston                   	13868	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore | The Obsidian Chamber
+Lincoln Child                     	13868	The Obsidian Chamber | Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
 Vince Flynn                       	12959	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
 George R. R. Martin               	12094	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
-Stephen King                      	10660	The Shining | The Stand | The Dead Zone | It | Under the Dome | Doctor Sleep
+Stephen King                      	11963	The Shining | The Stand | The Dead Zone | It | Bag of Bones | Under the Dome | Doctor Sleep
 Patricia Cornwell                 	10423	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
 Mark Tufo                         	 9688	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | From the Ashes | Zombie Fallout 8: An Old Beginning | Into the Fire | Zombie Fallout 9: Tattered Remnants
-Michael Connelly                  	 8027	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | Blood Work | The Scarecrow
+Michael Connelly                  	 8698	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | The Scarecrow
+James Patterson                   	 7273	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross
 J.K. Rowling                      	 6996	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Timothy Zahn                      	 6688	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
-James Patterson                   	 6356	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary
+Michael Crichton                  	 6094	The Andromeda Strain | Congo | Jurassic Park | The Lost World | Airframe | Prey | State of Fear | Micro
 Christopher Paolini               	 6028	Eragon | Eldest | Brisingr | Inheritance
 Steve Berry                       	 5544	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
 Stephanie Meyer                   	 5261	Twilight | New Moon | Eclipse | The Host | Breaking Dawn
 Dan Brown                         	 4926	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
-Michael Crichton                  	 4827	The Andromeda Strain | Jurassic Park | The Lost World | Prey | State of Fear | Micro
 Robert Ludlum                     	 4764	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
 Gemma Halliday                    	 4721	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Unbreakable Bond | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
 Arthur Conan Doyle                	 4238	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
 Stieg Larsson                     	 3891	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
+Brad Thor                         	 3777	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown
 Sophie Kinsella                   	 3774	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
 J.R.R. Tolkien                    	 3745	The Hobbit | The Fellowship of the Ring | The Two Towers | The Return of the King
 William L. Shirer                 	 3433	The Rise and Fall of the Third Reich
@@ -27,9 +28,9 @@ Dean Koontz                       	 3034	Chase | Demon Seed | Phantoms | Lightni
 Alexandar Dumas                   	 2596	The Count of Monte Cristo
 Troy Denning                      	 2542	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 James Dashner                     	 2407	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
-Brad Thor                         	 2396	The Lions of Lucerne | Path of the Assassin | State of the Union
 Neal Stephenson                   	 2314	Reamde
 Christie Golden                   	 2192	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
+Tom Clancy                        	 2142	The Hunt for Red October | Patriot Games
 Roald Dahl                        	 2134	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
 Suzanne Collins                   	 2075	The Hunger Games | Catching Fire | Mockingjay
 Veronica Roth                     	 2065	Divergent | Insurgent | Allegiant
@@ -66,6 +67,7 @@ Sean Williams                     	  828	The Old Republic: Fatal Alliance
 Guillermo del Toro and Chuck Hogan	  816	The Strain
 P.D. James                        	  815	The Private Patient
 Fredrick Forsyth                  	  801	The Day of the Jackal
+M. R. Carey                       	  785	The Girl With All the Gifts
 Mitch Albom                       	  738	Five People You Meet in Heaven | The First Phone Call From Heaven
 Neil deGrasse Tyson               	  728	Death by Black Hole
 Alice Sebold                      	  698	The Lovely Bones
@@ -102,6 +104,7 @@ John D. MacDonald                 	  372	Cape Fear
 Agatha Christie                   	  362	And Then There Were None
 J. M. Barrie                      	  340	Peter Pan
 Robert Bloch                      	  322	Psycho
+Gary Chapman                      	  286	The Five Love Languages
 John Buchan                       	  279	The Thirty Nine Steps
 Francis Chan                      	  259	Crazy Love
 Charles Dickens                   	  178	A Christmas Carol
