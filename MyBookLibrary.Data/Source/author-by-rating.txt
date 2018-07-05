@@ -3,14 +3,15 @@ Paula Hawkins                     	 5.00	The Girl on the Train
 Andy Weir                         	 5.00	The Martian
 Ernest Cline                      	 5.00	Ready Player One
 William P. Young                  	 5.00	The Shack
-Scott Meyer                       	 4.75	Off to be the Wizard | Spell or High Water
+Scott Meyer                       	 4.83	Off to be the Wizard | Spell or High Water | An Unwelcomed Quest
 Gary Chapman                      	 4.50	The Five Love Languages
 Suzanne Collins                   	 4.33	The Hunger Games | Catching Fire | Mockingjay
 Stieg Larsson                     	 4.33	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Vince Flynn                       	 4.24	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
+Michael Crichton                  	 4.15	The Andromeda Strain | Congo | Sphere | Jurassic Park | Disclosure | The Lost World | Airframe | Prey | State of Fear | Micro
 J.K. Rowling                      	 4.14	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Roald Dahl                        	 4.11	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
-Michael Crichton                  	 4.06	The Andromeda Strain | Congo | Jurassic Park | The Lost World | Airframe | Prey | State of Fear | Micro
+Michael Connelly                  	 4.04	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Scarecrow
 Alan Dean Foster                  	 4.00	Star Wars: The Force Awakens
 David Lagercrantz                 	 4.00	The Girl in the Spider's Web
 M. R. Carey                       	 4.00	The Girl With All the Gifts
@@ -27,9 +28,9 @@ Rick Warren                       	 4.00	The Purpose Driven Life
 Dr Richard Berendzen              	 4.00	Pulp Physics
 Jeffery Deaver                    	 4.00	The Bone Collector
 Bryce Courtenay                   	 4.00	The Power of One
+Paul Jennings                     	 4.00	Unbelievable | Unbearable
 John Grisham                      	 4.00	A Time to Kill
 Tom Clancy                        	 4.00	The Hunt for Red October | Patriot Games
-Paul Jennings                     	 4.00	Unbelievable
 Ken Follett                       	 4.00	Eye of the Needle
 Truman Capote                     	 4.00	In Cold Blood
 William L. Shirer                 	 4.00	The Rise and Fall of the Third Reich
@@ -42,21 +43,20 @@ Henry T Blackaby                  	 4.00	Experiencing God
 Jules Verne                       	 4.00	Around the World in 80 Days
 Kyle Mills                        	 4.00	Order to Kill | The Survivor
 Jennifer Fischetto                	 4.00	Unbreakable Bond
-Michael Connelly                  	 3.96	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | The Scarecrow
-James Patterson                   	 3.96	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross
+James Patterson                   	 3.89	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country
 Timothy Zahn                      	 3.86	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
 Dan Brown                         	 3.80	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
 Stephanie Meyer                   	 3.80	Twilight | New Moon | Eclipse | The Host | Breaking Dawn
 Sophie Kinsella                   	 3.80	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
-Brad Thor                         	 3.80	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown
 Mitch Albom                       	 3.75	Five People You Meet in Heaven | The First Phone Call From Heaven
 James Dashner                     	 3.75	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
 Christopher Paolini               	 3.75	Eragon | Eldest | Brisingr | Inheritance
+Brad Thor                         	 3.75	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment
 Troy Denning                      	 3.67	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 Christie Golden                   	 3.67	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
+Dean Koontz                       	 3.67	Chase | Demon Seed | Shattered | Phantoms | Lightning | Fear Nothing
 Douglas Preston                   	 3.66	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore | The Obsidian Chamber
 Lincoln Child                     	 3.66	The Obsidian Chamber | Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
-Dean Koontz                       	 3.60	Chase | Demon Seed | Phantoms | Lightning | Fear Nothing
 Walter Isaacson                   	 3.50	Einstein: His Life and Universe | Steve Jobs
 Max Brooks                        	 3.50	The Zombie Survival Guide | World War Z
 Mark Tufo                         	 3.47	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | From the Ashes | Zombie Fallout 8: An Old Beginning | Into the Fire | Zombie Fallout 9: Tattered Remnants

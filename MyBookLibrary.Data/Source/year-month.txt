@@ -1,5 +1,8 @@
 Display	NumberOfBooks	MinutesDisplay	PagesDisplay	Books
-2018-4 	            1	       20h 07m	         503	Patriot Games
+2018-7 	            2	       15h 21m	         605	Disclosure | Unbearable
+2018-6 	            2	       17h 25m	         660	Sphere | Shattered
+2018-5 	            2	       18h 16m	         884	Cross Country | The First Commandment
+2018-4 	            3	       41h 25m	       1,353	Patriot Games | An Unwelcomed Quest | Lost Light
 2018-3 	            1	        9h 59m	         442	Congo
 2018-2 	            3	       39h 24m	       1,505	Bag of Bones | The Obsidian Chamber | The Five Love Languages
 2017-12	            3	       32h 59m	       1,223	The Hunt for Red October | Double Cross | Takedown

@@ -142,7 +142,9 @@ Trace                                                                           
 Black Notice                                                                      	Patricia Cornwell                 	    741	  415	Scarpetta
 Reckoning                                                                         	Mark Tufo                         	    737	  406	Indian Hill
 Along Came a Spider                                                               	James Patterson                   	    734	  448	Alex Cross
+Disclosure                                                                        	Michael Crichton                  	    733	  455
 The Return of Shelock Holmes                                                      	Arthur Conan Doyle                	    732	  403
+Sphere                                                                            	Michael Crichton                  	    730	  371
 Extreme Measures                                                                  	Vince Flynn                       	    729	  416	Mitch Rapp
 Death by Black Hole                                                               	Neil deGrasse Tyson               	    728	  384
 Red Dragon                                                                        	Thomas Harris                     	    728	  480	Hannibal
@@ -155,6 +157,7 @@ Pursuit of Honor                                                                
 Cruel and Unusual                                                                 	Patricia Cornwell                 	    710	  356	Scarpetta
 The Third Option                                                                  	Vince Flynn                       	    708	  358	Mitch Rapp
 Harry Potter and the Prisoner of Azkaban                                          	J.K. Rowling                      	    708	  435	Harry Potter
+An Unwelcomed Quest                                                               	Scott Meyer                       	    706	  434	Magic 2.0
 Mockingjay                                                                        	Suzanne Collins                   	    703	  400	Hunger Games
 Confession of a Shopaholic                                                        	Sophie Kinsella                   	    702	  312	Shopaholic
 Catching Fire                                                                     	Suzanne Collins                   	    701	  391	Hunger Games
@@ -192,6 +195,7 @@ The Girl on the Train                                                           
 Zombie Fallout 7: For the Fallen                                                  	Mark Tufo                         	    657	  370	Zombie Fallout
 Zombie Fallout 2: A Plague Upon Your Family                                       	Mark Tufo                         	    657	  330	Zombie Fallout
 Point of Origin                                                                   	Patricia Cornwell                 	    657	  356	Scarpetta
+The First Commandment                                                             	Brad Thor                         	    655	  404	Scott Harvath
 Angels Flight                                                                     	Michael Connelly                  	    655	  454	Harry Bosch
 The Martian                                                                       	Andy Weir                         	    653	  385
 Zombie Fallout 3: The End                                                         	Mark Tufo                         	    653	  338	Zombie Fallout
@@ -221,6 +225,7 @@ All That Remains                                                                
 Jaws                                                                              	Peter Benchley                    	    579	  311
 1984                                                                              	George Orwell                     	    579	  326
 Killer in High Heels                                                              	Gemma Halliday                    	    578	  310	High Heels
+Lost Light                                                                        	Michael Connelly                  	    572	  416	Harry Bosch
 Takedown                                                                          	Brad Thor                         	    569	  402	Scott Harvath
 Pulp Physics                                                                      	Dr Richard Berendzen              	    569	  280
 Conquest                                                                          	Mark Tufo                         	    567	  444	Indian Hill
@@ -260,6 +265,7 @@ Roses Are Red                                                                   
 His Last Bow                                                                      	Arthur Conan Doyle                	    451	  242
 No Country for Old Men                                                            	Cormac McCarthy                   	    449	  309
 Cross                                                                             	James Patterson                   	    442	  393	Alex Cross
+Cross Country                                                                     	James Patterson                   	    441	  480	Alex Cross
 Einstein: His Life and Universe                                                   	Walter Isaacson                   	    438	  704
 Truth and Fiction in the Da Vinci Code                                            	Bart D. Ehrman                    	    427	  240
 The Maltese Falcon                                                                	Dashiell Hammett                  	    426	  213
@@ -280,6 +286,7 @@ Demon Seed                                                                      
 Peter Pan                                                                         	J. M. Barrie                      	    340	  267
 Psycho                                                                            	Robert Bloch                      	    322	  185	Psycho
 Fearless in High Heels                                                            	Gemma Halliday                    	    320	  186	High Heels
+Shattered                                                                         	Dean Koontz                       	    315	  289
 The Five Love Languages                                                           	Gary Chapman                      	    286	  209
 The Thirty Nine Steps                                                             	John Buchan                       	    279	  117
 Five People You Meet in Heaven                                                    	Mitch Albom                       	    278	  196
@@ -294,6 +301,7 @@ Charlie and the Chocolate Factory                                               
 James and the Giant Peach                                                         	Roald Dahl                        	    198	  119
 Charlie and the Great Class Elevator                                              	Roald Dahl                        	    195	  163	Charlie and the Chocolate Factory
 Boy                                                                               	Roald Dahl                        	    191	  160
+Unbearable                                                                        	Paul Jennings                     	    188	  150
 A Christmas Carol                                                                 	Charles Dickens                   	    178	  110
 Unbelievable                                                                      	Paul Jennings                     	    169	  120
 Zombie Fallout 3.5: Dr. Hugh Mann                                                 	Mark Tufo                         	    162	  103	Zombie Fallout

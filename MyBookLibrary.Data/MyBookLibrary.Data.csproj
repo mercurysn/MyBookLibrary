@@ -63,6 +63,7 @@
     <Content Include="Source\author.txt" />
     <Content Include="Source\book-decade.txt" />
     <Content Include="Source\longestBook.txt" />
+    <Content Include="Source\series-by-rating.txt" />
     <Content Include="Source\series.txt" />
     <Content Include="Source\year-month.txt" />
     <Content Include="Source\year-stats.txt" />
