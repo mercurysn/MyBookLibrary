@@ -1,5 +1,5 @@
 Display	NumberOfBooks	MinutesDisplay	PagesDisplay	Books
-2018-7 	            2	       15h 21m	         605	Disclosure | Unbearable
+2018-7 	            3	       32h 22m	       1,126	Disclosure | Unbearable | The Chemist
 2018-6 	            2	       17h 25m	         660	Sphere | Shattered
 2018-5 	            2	       18h 16m	         884	Cross Country | The First Commandment
 2018-4 	            3	       41h 25m	       1,353	Patriot Games | An Unwelcomed Quest | Lost Light

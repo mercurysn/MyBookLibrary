@@ -12443,5 +12443,43 @@
     "DaysTaken": 11,
     "SpeedRank": 0,
     "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 350,
+    "Name": "The Chemist",
+    "Author": [
+      "Stephanie Meyer"
+    ],
+    "Minutes": 1021,
+    "DateStarted": "2018-07-05T00:00:00",
+    "DateCompleted": "2018-07-13T00:00:00",
+    "ReleaseDate": "2016-11-08T00:00:00",
+    "Pages": 521,
+    "CoverUrl": "https://images.gr-assets.com/books/1494338235m/32940867.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": "<b>In this gripping page-turner, an ex-agent on the run from her former employers must take one more case to clear her name and save her life.</b> <br><br>She used to work for the U.S. government, but very few people ever knew that. An expert in her field, she was one of the darkest secrets of an agency so clandestine it doesn't even have a name. And when they decided she was a liability, they came for her without warning. <br><br>Now she rarely stays in the same place or uses the same name for long. They've killed the only other person she trusted, but something she knows still poses a threat. They want her dead, and soon. <br><br>When her former handler offers her a way out, she realizes it's her only chance to erase the giant target on her back. But it means taking one last job for her ex-employers. To her horror, the information she acquires only makes her situation more dangerous. <br><br>Resolving to meet the threat head-on, she prepares for the toughest fight of her life but finds herself falling for a man who can only complicate her likelihood of survival. As she sees her choices being rapidly whittled down, she must apply her unique talents in ways she never dreamed of. <br><br>In this tautly plotted novel, Meyer creates a fierce and fascinating new heroine with a very specialized skill set. And she shows once again why she's one of the world's bestselling authors.<b><br></b>",
+    "Publisher": "Little, Brown",
+    "Isbn10": "0316387878",
+    "Isbn13": "9780316387873",
+    "GoogleBookId": "9Wg6tAEACAAJ",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/9Wg6tAEACAAJ",
+    "CrowdRating": 3.5,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Thrillers / Espionage",
+      "Fiction / Thrillers / General",
+      "Fiction / Thrillers / Suspense"
+    ],
+    "Ratings": 4.5,
+    "MinutesRank": 71,
+    "MinutesRankPercentile": 80,
+    "ReleaseDateRank": 1,
+    "ReleaseDateRankPercentile": 100,
+    "DaysTaken": 8,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   }
 ]
