@@ -34,6 +34,7 @@ How Star Wars Conquered the Universe                                            
 Harry Potter and the Goblet of Fire                                               	J.K. Rowling                      	   1236	  734	Harry Potter
 Breaking Dawn                                                                     	Stephanie Meyer                   	   1234	  756	Twilight
 The Mote in God's Eyes                                                            	Larry Niven, Jerry Pournelle      	   1227	  537	The Mote in God's Eye
+The Cardinal of the Kremlin                                                       	Tom Clancy                        	   1218	  547	Jack Ryan
 The Complete Stories of Sherlock Holmes                                           	Arthur Conan Doyle                	   1216	    0
 Patriot Games                                                                     	Tom Clancy                        	   1207	  503	Jack Ryan
 The Alienist                                                                      	Caleb Carr                        	   1202	  498
@@ -168,6 +169,7 @@ The Lovely Bones                                                                
 The Body Farm                                                                     	Patricia Cornwell                 	    697	  320	Scarpetta
 American Assassin                                                                 	Vince Flynn                       	    696	  448	Mitch Rapp
 State of the Union                                                                	Brad Thor                         	    695	  532	Scott Harvath
+Enemy of the State                                                                	Kyle Mills                        	    694	  388	Mitch Rapp
 From the Ashes                                                                    	Mark Tufo                         	    690	  210	Indian Hill
 Zombie Fallout 9: Tattered Remnants                                               	Mark Tufo                         	    689	  328	Zombie Fallout
 Postmortem                                                                        	Patricia Cornwell                 	    687	  304	Scarpetta
@@ -195,6 +197,7 @@ To Kill a Mockingbird                                                           
 The Girl on the Train                                                             	Paula Hawkins                     	    657	  325
 Zombie Fallout 7: For the Fallen                                                  	Mark Tufo                         	    657	  370	Zombie Fallout
 Zombie Fallout 2: A Plague Upon Your Family                                       	Mark Tufo                         	    657	  330	Zombie Fallout
+The Narrows                                                                       	Michael Connelly                  	    657	  436	Harry Bosch
 Point of Origin                                                                   	Patricia Cornwell                 	    657	  356	Scarpetta
 The First Commandment                                                             	Brad Thor                         	    655	  404	Scott Harvath
 Angels Flight                                                                     	Michael Connelly                  	    655	  454	Harry Bosch
@@ -234,12 +237,14 @@ The Concrete Blonde                                                             
 The Memoirs of Shelock Holmes                                                     	Arthur Conan Doyle                	    561	  304
 Eye of the Needle                                                                 	Ken Follett                       	    556	  313
 Undercover in High Heels                                                          	Gemma Halliday                    	    550	  313	High Heels
+The Last Patriot                                                                  	Brad Thor                         	    546	  352	Scot Harvath
 Spying in High Heels                                                              	Gemma Halliday                    	    545	  324	High Heels
 The Purpose Driven Life                                                           	Rick Warren                       	    542	  334
 Cause of Death                                                                    	Patricia Cornwell                 	    542	  340	Scarpetta
 From Potter's Field                                                               	Patricia Cornwell                 	    540	  416	Scarpetta
 23 Things They Don't Tell you about Capitalism                                    	Ha-Joon Chang                     	    538	  304
 The Death Cure                                                                    	James Dashner                     	    535	  338	Maze Runner
+Alex Cross's Trial                                                                	James Patterson                   	    535	  380	Alex Cross
 The Case-Book of Sherlock Holmes                                                  	Arthur Conan Doyle                	    533	  320
 Harry Potter and the Chamber of Secrets                                           	J.K. Rowling                      	    524	  341	Harry Potter
 The Zombie Survival Guide                                                         	Max Brooks                        	    518	  288	Zombie
