@@ -8,6 +8,44 @@ namespace MyBookLibrary.Service
 {
     public class BookAggrService : IBookAggrService
     {
+        public List<Author> GroupByAuthor(List<Book> books)
+        {
+            return books
+                .RemoveDuplicates()
+                .GroupBy(b => b.Author[0])
+                .Select(b => new Author
+                {
+                    Name = b.Key,
+                    Count = b.Count(),
+                    Pages = b.Sum(x => x.Pages),
+                    Minutes = b.Sum(x => x.Minutes),
+                    AvgRating = b.Average(x => x.Ratings),
+                    Books = books.Where(x => x.Author[0].Equals(b.Key.ToString())).OrderBy(y => y.ReleaseDate).ToList()
+                })
+                .OrderBy(b => b.Name)
+                .ToList();
+        }
+
+        public List<Author> GroupByMultiAuthor(List<Book> books)
+        {
+            return books
+                .RemoveDuplicates()
+                .GroupBy(b => b.Author[0])
+                .Select(b => new Author
+                {
+                    Name = b.Key,
+                    Count = b.Count(),
+                    Pages = b.Sum(x => x.Pages),
+                    Minutes = b.Sum(x => x.Minutes),
+                    AvgRating = b.Average(x => x.Ratings),
+                    Books = books.Where(x => x.Author[0].Equals(b.Key.ToString())).OrderBy(y => y.ReleaseDate).ToList()
+                })
+                .OrderBy(b => b.Name)
+                .ToList()
+                .RemoveAuthorsWithLessThanXBooks()
+                .ToList();
+        }
+
         public List<Series> GroupBySeries(List<Book> books)
         {
             return books

@@ -6,12 +6,12 @@ using MyBookLibrary.Web.Models.ViewModels;
 
 namespace MyBookLibrary.Web.Controllers
 {
-    public class SeriesController : Controller
+    public class AuthorController : Controller
     {
         private readonly IBookReadService _bookReadService;
         private readonly IBookAggrService _bookAggrService;
 
-        public SeriesController(IBookReadService bookReadService, IBookAggrService bookAggrService)
+        public AuthorController(IBookReadService bookReadService, IBookAggrService bookAggrService)
         {
             _bookReadService = bookReadService;
             _bookAggrService = bookAggrService;
@@ -24,22 +24,22 @@ namespace MyBookLibrary.Web.Controllers
                 .DenormaliseAuthors()
                 .RemoveBooksWithoutSeries();
 
-            return View(new SeriesViewModel
+            return View(new AuthorViewModel
             {
-                Series = _bookAggrService.GroupBySeries(books)
+                Authors = _bookAggrService.GroupByAuthor(books)
             });
         }
 
-        public ActionResult SeriesRating()
+        public ActionResult AuthorRating()
         {
             var books = _bookReadService.GetAll()
                 .RemoveDuplicates()
                 .DenormaliseAuthors()
                 .RemoveBooksWithoutSeries();
 
-            return View(new SeriesViewModel
+            return View(new AuthorViewModel
             {
-                Series = _bookAggrService.GroupBySeries(books).OrderByDescending(b => b.AvgRating).ToList()
+                Authors = _bookAggrService.GroupByMultiAuthor(books).OrderByDescending(b => b.AvgRating).ToList()
             });
         }
     }

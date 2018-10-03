@@ -71,6 +71,7 @@
     <Compile Include="IBookReadService.cs" />
     <Compile Include="JsonFileGenerator.cs" />
     <Compile Include="Mapper\MapToModelProfile.cs" />
+    <Compile Include="Model\Author.cs" />
     <Compile Include="Model\Book.cs" />
     <Compile Include="Model\BookGroupDto.cs" />
     <Compile Include="Model\Series.cs" />

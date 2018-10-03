@@ -4,19 +4,21 @@ Andy Weir                         	 5.00	The Martian
 Ernest Cline                      	 5.00	Ready Player One
 William P. Young                  	 5.00	The Shack
 Scott Meyer                       	 4.83	Off to be the Wizard | Spell or High Water | An Unwelcomed Quest
+Suzanne Collins                   	 4.50	The Hunger Games | Catching Fire | Mockingjay
+J.K. Rowling                      	 4.50	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
+Stieg Larsson                     	 4.50	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Gary Chapman                      	 4.50	The Five Love Languages
-Suzanne Collins                   	 4.33	The Hunger Games | Catching Fire | Mockingjay
-Stieg Larsson                     	 4.33	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
-Vince Flynn                       	 4.24	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
+J.R.R. Tolkien                    	 4.50	The Hobbit | The Fellowship of the Ring | The Two Towers | The Return of the King
+Vince Flynn                       	 4.29	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
+Michael Crichton                  	 4.20	The Andromeda Strain | Congo | Sphere | Jurassic Park | Disclosure | The Lost World | Airframe | Prey | State of Fear | Micro
 Tom Clancy                        	 4.17	The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin
-Michael Crichton                  	 4.15	The Andromeda Strain | Congo | Sphere | Jurassic Park | Disclosure | The Lost World | Airframe | Prey | State of Fear | Micro
-J.K. Rowling                      	 4.14	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Roald Dahl                        	 4.11	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
 Michael Connelly                  	 4.07	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Scarecrow
 Alan Dean Foster                  	 4.00	Star Wars: The Force Awakens
 David Lagercrantz                 	 4.00	The Girl in the Spider's Web
 M. R. Carey                       	 4.00	The Girl With All the Gifts
 Arnold Schwarzenegger             	 4.00	Total Recall: My Truly Unbelievably Life Story
+James Dashner                     	 4.00	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
 Fredrick Forsyth                  	 4.00	The Day of the Jackal
 Sean Williams                     	 4.00	The Old Republic: Fatal Alliance
 Kathryn Stockett                  	 4.00	The Help
@@ -36,21 +38,19 @@ Truman Capote                     	 4.00	In Cold Blood
 William L. Shirer                 	 4.00	The Rise and Fall of the Third Reich
 Harper Lee                        	 4.00	To Kill a Mockingbird
 Robert Bloch                      	 4.00	Psycho
-J.R.R. Tolkien                    	 4.00	The Hobbit | The Fellowship of the Ring | The Two Towers | The Return of the King
 Agatha Christie                   	 4.00	And Then There Were None
 Frances Hodgson Burnett           	 4.00	The Secret Garden
 Henry T Blackaby                  	 4.00	Experiencing God
 Jules Verne                       	 4.00	Around the World in 80 Days
 Jennifer Fischetto                	 4.00	Unbreakable Bond
+James Patterson                   	 3.93	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial
 Stephanie Meyer                   	 3.92	Twilight | New Moon | Eclipse | The Host | Breaking Dawn | The Chemist
-James Patterson                   	 3.90	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial
 Timothy Zahn                      	 3.86	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
 Kyle Mills                        	 3.83	Order to Kill | The Survivor | Enemy of the State
 Dan Brown                         	 3.80	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
 Sophie Kinsella                   	 3.80	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
 Brad Thor                         	 3.79	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot
 Mitch Albom                       	 3.75	Five People You Meet in Heaven | The First Phone Call From Heaven
-James Dashner                     	 3.75	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
 Christopher Paolini               	 3.75	Eragon | Eldest | Brisingr | Inheritance
 Troy Denning                      	 3.67	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 Christie Golden                   	 3.67	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
@@ -58,6 +58,7 @@ Dean Koontz                       	 3.67	Chase | Demon Seed | Shattered | Phanto
 Douglas Preston                   	 3.66	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore | The Obsidian Chamber
 Lincoln Child                     	 3.66	The Obsidian Chamber | Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
 Walter Isaacson                   	 3.50	Einstein: His Life and Universe | Steve Jobs
+Neal Stephenson                   	 3.50	Reamde
 Max Brooks                        	 3.50	The Zombie Survival Guide | World War Z
 Mark Tufo                         	 3.47	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | From the Ashes | Zombie Fallout 8: An Old Beginning | Into the Fire | Zombie Fallout 9: Tattered Remnants
 Stephen King                      	 3.43	The Shining | The Stand | The Dead Zone | It | Bag of Bones | Under the Dome | Doctor Sleep
@@ -70,7 +71,6 @@ Patricia Cornwell                 	 3.07	Postmortem | Body of Evidence | All Tha
 Chris Taylor                      	 3.00	How Star Wars Conquered the Universe
 Sam Gennawey                      	 3.00	The DIsneyland Story: The Unofficial Guide to the Evolution of Walt Disney's Dream
 Veronica Roth                     	 3.00	Divergent | Insurgent | Allegiant
-Neal Stephenson                   	 3.00	Reamde
 Aaron Allston                     	 3.00	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Conviction
 Ha-Joon Chang                     	 3.00	23 Things They Don't Tell you about Capitalism
 Gillian Flynn                     	 3.00	Gone Girl
