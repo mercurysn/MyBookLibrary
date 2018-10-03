@@ -21,8 +21,7 @@ namespace MyBookLibrary.Web.Controllers
         {
             var books = _bookReadService.GetAll()
                 .RemoveDuplicates()
-                .DenormaliseAuthors()
-                .RemoveBooksWithoutSeries();
+                .DenormaliseAuthors();
 
             return View(new AuthorViewModel
             {
@@ -34,8 +33,7 @@ namespace MyBookLibrary.Web.Controllers
         {
             var books = _bookReadService.GetAll()
                 .RemoveDuplicates()
-                .DenormaliseAuthors()
-                .RemoveBooksWithoutSeries();
+                .DenormaliseAuthors();
 
             return View(new AuthorViewModel
             {
