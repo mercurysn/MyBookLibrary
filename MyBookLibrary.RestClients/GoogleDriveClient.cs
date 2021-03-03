@@ -70,7 +70,7 @@ namespace MyBookLibrary.RestClients
             var fileId = "1PCIzU29Cc5bmjlYqwn2XEpiAGt8UZPGU-4IomgUQgIY";
             var request = _service.Files.Export(fileId, "text/csv");
             var stream = new System.IO.MemoryStream();
-            // Add a handler which will be notified on progress changes.
+            // Add a handler which will be notified on progress changes.    
             // It will notify on each chunk download and when the
             // download is completed or failed.
             request.MediaDownloader.ProgressChanged +=

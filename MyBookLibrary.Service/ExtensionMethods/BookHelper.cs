@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using MyBookLibrary.RestClients;
 using MyBookLibrary.Service.Model;
 
 namespace MyBookLibrary.Service.ExtensionMethods
@@ -154,6 +155,55 @@ namespace MyBookLibrary.Service.ExtensionMethods
             }
 
             return destinationBookList;
+        }
+
+        public static List<Book> UpdateCoverUrl(this List<Book> destinationBookList, List<Book> sourceBookList)
+        {
+            if (sourceBookList == null || sourceBookList.Count == 0)
+                return destinationBookList;
+
+            if (destinationBookList == null || destinationBookList.Count == 0)
+                return sourceBookList;
+
+            foreach (var imageFreeBook in sourceBookList)
+            {
+                var destinationBook = destinationBookList.FirstOrDefault(b => b.Id == imageFreeBook.Id);
+                if (destinationBook != null && 
+                    destinationBook.CoverUrl != imageFreeBook.CoverUrl &&
+                    !destinationBook.CoverUrl.Contains("mercury-book-repo.s3.amazonaws.com/img/"))
+                {
+                    destinationBook.CoverUrl = imageFreeBook.CoverUrl;
+                }
+            }
+
+            return destinationBookList;
+        }
+
+        public static List<Book> PersistBookImagesToS3(this List<Book> books)
+        {
+            if (books == null || books.Count == 0)
+                return books;
+
+            var s3Client = new AmazonS3Client();
+
+            foreach (var book in books)
+            {
+                try
+                {
+                    if (!book.CoverUrl.Contains("mercury-book-repo.s3.amazonaws.com/img/"))
+                    {
+                        var news3Url = s3Client.SendUrlToS3(book.CoverUrl, book.Id.ToString());
+
+                        book.CoverUrl = news3Url;
+                    }
+                }
+                catch (Exception)
+                {
+                    // ignored
+                }
+            }   
+
+            return books;
         }
     }
 }

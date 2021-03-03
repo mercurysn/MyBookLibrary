@@ -4,16 +4,17 @@ Andy Weir                         	 5.00	The Martian
 Ernest Cline                      	 5.00	Ready Player One
 William P. Young                  	 5.00	The Shack
 Scott Meyer                       	 4.83	Off to be the Wizard | Spell or High Water | An Unwelcomed Quest
+Kenneth Barish                    	 4.50	Pride and Joy: A Guide to Understanding Your Child's Emotions and Solving Family Problems
 Suzanne Collins                   	 4.50	The Hunger Games | Catching Fire | Mockingjay
 J.K. Rowling                      	 4.50	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Stieg Larsson                     	 4.50	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Gary Chapman                      	 4.50	The Five Love Languages
 J.R.R. Tolkien                    	 4.50	The Hobbit | The Fellowship of the Ring | The Two Towers | The Return of the King
+Tom Clancy                        	 4.40	The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears
 Vince Flynn                       	 4.29	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
-Michael Crichton                  	 4.20	The Andromeda Strain | Congo | Sphere | Jurassic Park | Disclosure | The Lost World | Airframe | Prey | State of Fear | Micro
-Tom Clancy                        	 4.17	The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin
+Michael Connelly                  	 4.13	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Closers | The Lincoln Lawyer | The Scarecrow
 Roald Dahl                        	 4.11	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
-Michael Connelly                  	 4.07	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Scarecrow
+Meg Meeker                        	 4.00	Hero: Being the Strong Father Your Children Needs
 Alan Dean Foster                  	 4.00	Star Wars: The Force Awakens
 David Lagercrantz                 	 4.00	The Girl in the Spider's Web
 M. R. Carey                       	 4.00	The Girl With All the Gifts
@@ -31,7 +32,6 @@ Rick Warren                       	 4.00	The Purpose Driven Life
 Dr Richard Berendzen              	 4.00	Pulp Physics
 Jeffery Deaver                    	 4.00	The Bone Collector
 Bryce Courtenay                   	 4.00	The Power of One
-Paul Jennings                     	 4.00	Unbelievable | Unbearable
 John Grisham                      	 4.00	A Time to Kill
 Ken Follett                       	 4.00	Eye of the Needle
 Truman Capote                     	 4.00	In Cold Blood
@@ -43,22 +43,23 @@ Frances Hodgson Burnett           	 4.00	The Secret Garden
 Henry T Blackaby                  	 4.00	Experiencing God
 Jules Verne                       	 4.00	Around the World in 80 Days
 Jennifer Fischetto                	 4.00	Unbreakable Bond
-James Patterson                   	 3.93	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial
+Michael Crichton                  	 3.96	The Andromeda Strain | The Great Train Robbery | Eaters of the Dead | Congo | Sphere | Jurassic Park | Disclosure | The Lost World | Airframe | Prey | State of Fear | Next | Micro
 Stephanie Meyer                   	 3.92	Twilight | New Moon | Eclipse | The Host | Breaking Dawn | The Chemist
+Paul Jennings                     	 3.90	Unbelievable | Unbearable | Undone | Uncovered | Unseen
+James Patterson                   	 3.88	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Cross Fire | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross
 Timothy Zahn                      	 3.86	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
 Kyle Mills                        	 3.83	Order to Kill | The Survivor | Enemy of the State
 Dan Brown                         	 3.80	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
 Sophie Kinsella                   	 3.80	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
-Brad Thor                         	 3.79	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot
+Brad Thor                         	 3.78	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle | Foreign Influence
 Mitch Albom                       	 3.75	Five People You Meet in Heaven | The First Phone Call From Heaven
 Christopher Paolini               	 3.75	Eragon | Eldest | Brisingr | Inheritance
+Dean Koontz                       	 3.75	Chase | Demon Seed | Shattered | Phantoms | Lightning | Fear Nothing | By the Light of the Moon | Breathless
 Troy Denning                      	 3.67	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 Christie Golden                   	 3.67	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
-Dean Koontz                       	 3.67	Chase | Demon Seed | Shattered | Phantoms | Lightning | Fear Nothing
 Douglas Preston                   	 3.66	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore | The Obsidian Chamber
 Lincoln Child                     	 3.66	The Obsidian Chamber | Crimson Shore | Blue Labyrinth | White Fire | Two Graves | Cold Vengeance | Dance of Death | Fever Dream | Cemetery Dance | Wheels of Darkness | The Book of the Dead | Brimstone | Still Life with Crows | The Cabinet of Curiosities | Reliquary | Relic
 Walter Isaacson                   	 3.50	Einstein: His Life and Universe | Steve Jobs
-Neal Stephenson                   	 3.50	Reamde
 Max Brooks                        	 3.50	The Zombie Survival Guide | World War Z
 Mark Tufo                         	 3.47	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | From the Ashes | Zombie Fallout 8: An Old Beginning | Into the Fire | Zombie Fallout 9: Tattered Remnants
 Stephen King                      	 3.43	The Shining | The Stand | The Dead Zone | It | Bag of Bones | Under the Dome | Doctor Sleep
@@ -98,6 +99,7 @@ Robert Louis Stevenson            	 3.00	Treasure Island
 Lewis Carroll                     	 3.00	Alice in Wonderland
 Charles Dickens                   	 3.00	A Christmas Carol
 Jerry Pournelle                   	 3.00	The Mote in God's Eyes
+Neal Stephenson                   	 2.75	Cryptonomicon | Reamde
 Robert Ludlum                     	 2.33	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
 Nora Roberts                      	 2.00	Black Hills
 Bernard Goldberg                  	 2.00	100 People Who Are Screwing Up America

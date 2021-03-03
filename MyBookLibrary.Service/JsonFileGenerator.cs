@@ -32,9 +32,15 @@ namespace MyBookLibrary.Service
         {
             var imageFreeBooks = _bookReadService.ReadAllFromLocalImageFreeFile();
 
-            var withImageBooks = _bookReadService.ReadAllFromLocalWithDescriptionFile().PersistNewBookToList(imageFreeBooks);
+            var withImageBooks = _bookReadService
+                .ReadAllFromLocalWithDescriptionFile()
+                .PersistNewBookToList(imageFreeBooks)
+                .UpdateCoverUrl(imageFreeBooks)
+                .PersistBookImagesToS3();
 
             withImageBooks = PersistGoogleBookFields(withImageBooks);
+
+
 
             BookDatabaseWriter.SaveToWithDescriptionFile(JsonConvert.SerializeObject(withImageBooks, Formatting.Indented));
         }
@@ -108,7 +114,7 @@ namespace MyBookLibrary.Service
             }
 
             return books;
-        }
+        }   
 
         private static List<BookDto> GetBookDtos()
         {

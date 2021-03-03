@@ -4,32 +4,32 @@ Lincoln Child                     	13868	The Obsidian Chamber | Crimson Shore | 
 Vince Flynn                       	12959	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separation of Power | Separtion of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
 George R. R. Martin               	12094	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
 Stephen King                      	11963	The Shining | The Stand | The Dead Zone | It | Bag of Bones | Under the Dome | Doctor Sleep
+Michael Connelly                  	11268	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Closers | The Lincoln Lawyer | The Scarecrow
 Patricia Cornwell                 	10423	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
-Michael Connelly                  	 9927	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Scarecrow
 Mark Tufo                         	 9688	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | From the Ashes | Zombie Fallout 8: An Old Beginning | Into the Fire | Zombie Fallout 9: Tattered Remnants
-James Patterson                   	 8249	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial
-Michael Crichton                  	 7557	The Andromeda Strain | Congo | Sphere | Jurassic Park | Disclosure | The Lost World | Airframe | Prey | State of Fear | Micro
+Michael Crichton                  	 9357	The Andromeda Strain | The Great Train Robbery | Eaters of the Dead | Congo | Sphere | Jurassic Park | Disclosure | The Lost World | Airframe | Prey | State of Fear | Next | Micro
+James Patterson                   	 9055	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Cross Fire | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross
+Tom Clancy                        	 7205	The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears
 J.K. Rowling                      	 6996	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Timothy Zahn                      	 6688	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
 Stephanie Meyer                   	 6282	Twilight | New Moon | Eclipse | The Host | Breaking Dawn | The Chemist
+Brad Thor                         	 6266	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle | Foreign Influence
 Christopher Paolini               	 6028	Eragon | Eldest | Brisingr | Inheritance
 Steve Berry                       	 5544	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
-Brad Thor                         	 4978	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot
 Dan Brown                         	 4926	Digital Fortress | Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
+Neal Stephenson                   	 4878	Cryptonomicon | Reamde
 Robert Ludlum                     	 4764	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
 Gemma Halliday                    	 4721	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Unbreakable Bond | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
+Dean Koontz                       	 4627	Chase | Demon Seed | Shattered | Phantoms | Lightning | Fear Nothing | By the Light of the Moon | Breathless
 Arthur Conan Doyle                	 4238	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
 Stieg Larsson                     	 3891	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Sophie Kinsella                   	 3774	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
 J.R.R. Tolkien                    	 3745	The Hobbit | The Fellowship of the Ring | The Two Towers | The Return of the King
 William L. Shirer                 	 3433	The Rise and Fall of the Third Reich
-Tom Clancy                        	 3360	The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin
-Dean Koontz                       	 3349	Chase | Demon Seed | Shattered | Phantoms | Lightning | Fear Nothing
 Thomas Harris                     	 3125	Black Sunday | Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
 Alexandar Dumas                   	 2596	The Count of Monte Cristo
 Troy Denning                      	 2542	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 James Dashner                     	 2407	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
-Neal Stephenson                   	 2314	Reamde
 Christie Golden                   	 2192	Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi - Ascention
 Roald Dahl                        	 2134	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
 Suzanne Collins                   	 2075	The Hunger Games | Catching Fire | Mockingjay
@@ -58,6 +58,7 @@ Henning Mankell                   	 1024	The Fifth Woman
 Nora Roberts                      	 1011	Black Hills
 David Lagercrantz                 	 1006	The Girl in the Spider's Web
 Sam Gennawey                      	  991	The DIsneyland Story: The Unofficial Guide to the Evolution of Walt Disney's Dream
+Paul Jennings                     	  987	Unbelievable | Unbearable | Undone | Uncovered | Unseen
 John Grisham                      	  958	A Time to Kill
 Ernest Cline                      	  941	Ready Player One
 Daphne du Maurier                 	  889	Rebecca
@@ -97,13 +98,14 @@ John Eldredge                     	  421	Walking with God
 Garth Stein                       	  417	The Art of Racing in the Rain
 William Irwin                     	  407	The Matrix and Philosophy
 Robert Louis Stevenson            	  403	Treasure Island
+Kenneth Barish                    	  393	Pride and Joy: A Guide to Understanding Your Child's Emotions and Solving Family Problems
 Jennifer Fischetto                	  385	Unbreakable Bond
 Bernard Goldberg                  	  375	100 People Who Are Screwing Up America
 H. G. Wells                       	  373	War of the Worlds
 John D. MacDonald                 	  372	Cape Fear
 Agatha Christie                   	  362	And Then There Were None
-Paul Jennings                     	  357	Unbelievable | Unbearable
 J. M. Barrie                      	  340	Peter Pan
+Meg Meeker                        	  323	Hero: Being the Strong Father Your Children Needs
 Robert Bloch                      	  322	Psycho
 Gary Chapman                      	  286	The Five Love Languages
 John Buchan                       	  279	The Thirty Nine Steps

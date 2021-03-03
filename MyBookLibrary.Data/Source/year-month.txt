@@ -1,5 +1,13 @@
 Display	NumberOfBooks	MinutesDisplay	PagesDisplay	Books
-2018-9 	            2	       18h 01m	         732	Alex Cross's Trial | The Last Patriot
+2019-8 	            2	       26h 41m	         792	Next | Heir to the Empire
+2019-7 	            3	       27h 36m	       1,033	Foreign Influence | By the Light of the Moon | Unseen
+2019-6 	            3	       51h 57m	       1,812	The Sum of All Fears | The Lincoln Lawyer | Cross Fire
+2019-4 	            2	       16h 44m	         637	Breathless | The Great Train Robbery
+2019-3 	            3	       52h 49m	       1,581	Cryptonomicon | Undone | Pride and Joy: A Guide to Understanding Your Child's Emotions and Solving Family Problems
+2018-12	            2	       17h 25m	         758	I, Alex Cross | The Apostle
+2018-11	            1	       30h 08m	         688	Clear and Present Danger
+2018-10	            3	       24h 05m	         962	Eaters of the Dead | Hero: Being the Strong Father Your Children Needs | The Closers
+2018-9 	            3	       21h 33m	         924	Alex Cross's Trial | The Last Patriot | Uncovered
 2018-8 	            2	       31h 15m	         983	The Cardinal of the Kremlin | The Narrows
 2018-7 	            4	       43h 56m	       1,514	Disclosure | Unbearable | The Chemist | Enemy of the State
 2018-6 	            2	       17h 25m	         660	Sphere | Shattered
