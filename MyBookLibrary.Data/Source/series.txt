@@ -1,19 +1,19 @@
 Field                            	Value	Books
-Mitch Rapp                       	   18	Term Limits | Transfer of Power | Transfer of Power | The Third Option | The Third Option | Separation of Power | Separtion of Power | Executive Power | Executive Power | Memorial Day | Memorial Day | Consent to Kill | Consent to Kill | Act of Treason | Act of Treason | Protect and Defend | Protect and Defend | Extreme Measures | Extreme Measures | Pursuit of Honor | Pursuit of Honor | American Assassin | American Assassin | Kill Shot | Kill Shot | The Last Man | The Last Man | The Survivor | Enemy of the State | Order to Kill
-Alex Cross                       	   17	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | Four Blind Mice | The Big Bad Wolf | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross | Cross Fire
+Mitch Rapp                       	   18	Term Limits | Transfer of Power | Transfer of Power | The Third Option | The Third Option | Separation of Power | Separtion of Power | Executive Power | Executive Power | Memorial Day | Memorial Day | Consent to Kill | Consent to Kill | Act of Treason | Act of Treason | Protect and Defend | Protect and Defend | Extreme Measures | Extreme Measures | Pursuit of Honor | Pursuit of Honor | American Assassin | American Assassin | Kill Shot | Kill Shot | The Last Man | The Last Man | The Survivor | Order to Kill | Enemy of the State
+Alex Cross                       	   18	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | Four Blind Mice | The Big Bad Wolf | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross | Cross Fire | Kill Alex Cross
 Pendergast                       	   16	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | Dance of Death | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | The Obsidian Chamber | Crimson Shore
 Scarpetta                        	   15	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Blow Fly | Trace | Predator | Scarpetta
-Harry Bosch                      	   11	The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Angels Flight | A Darkness More Than Night | City of Bones | Lost Light | The Narrows | The Closers
+Harry Bosch                      	   13	The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Angels Flight | A Darkness More Than Night | City of Bones | Lost Light | The Narrows | The Closers | Echo Park | The Overlook
 Zombie Fallout                   	   10	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3: The End | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 4: The End Has Come and Gone | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning | Zombie Fallout 9: Tattered Remnants
+Scot Harvath                     	   10	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle | Full Black | Black List
 High Heels                       	    9	Spying in High Heels | Killer in High Heels | Undercover in High Heels | Alibi in High Heels | Mayhem in High Heels | Fearless in High Heels | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
 Star Wars: Fate of the Jedi      	    9	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Conviction | Star Wars - Fate of the Jedi - Ascention | Star Wars - Fate of the Jedi: Apocalpyse
-Scot Harvath                     	    8	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle
 Harry Potter                     	    7	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Goblet of Fire | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
+Jack Ryan                        	    7	The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears | Debt of Honor | Executive Orders
 Cotton Malone                    	    6	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
 Indian Hill                      	    5	Encounters | Reckoning | Conquest | From the Ashes | Into the Fire
 Game of Thrones                  	    5	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
-Jack Ryan                        	    5	The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears
-Millennium                       	    4	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest | The Girl in the Spider's Web
+Millennium                       	    5	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest | The Girl in the Spider's Web | The Girl Who Takes an Eye for an Eye
 Robert Langdon                   	    4	Angels and Demons | Angels and Demons | Angels and Demons | The Da Vinci Code | The Da Vinci Code | The Da Vinci Code | The Lost Symbol | The Lost Symbol | Inferno | Inferno
 Maze Runner                      	    4	The Kill Order | The Maze Runner | The Scorch Trials | The Death Cure
 Twilight                         	    4	Twilight | Eclipse | New Moon | Breaking Dawn
@@ -24,19 +24,19 @@ Eragon                           	    3	Eldest | Brisingr | Inheritance
 Bourne                           	    3	The Bourne Identity | The Bourne Supremacy | The Bourne Ultimatum
 Hunger Games                     	    3	The Hunger Games | The Hunger Games | Catching Fire | Catching Fire | Mockingjay | Mockingjay
 Shopaholic                       	    3	Confession of a Shopaholic | Shopaholic Takes Manhattan | Shopaholic Ties the Knot
-Star Wars: Thrawn                	    3	Heir to the Empire | Heir to the Empire | Dark Force Rising | The Last Command
+Star Wars: Thrawn                	    3	Heir to the Empire | Heir to the Empire | Dark Force Rising | Dark Force Rising | The Last Command | The Last Command
 Lord of the Rings                	    3	The Fellowship of the Ring | The Fellowship of the Ring | The Two Towers | The Two Towers | The Two Towers | The Return of the King | The Return of the King
-The Shining                      	    2	The Shining | Doctor Sleep
 Jack McEvoy                      	    2	The Poet | The Scarecrow
+Mickey Haller                    	    2	The Lincoln Lawyer | Brass Verdict
 Zombie                           	    2	The Zombie Survival Guide | World War Z
 Star Wars: Hand of Thrawn        	    2	Specter of the Past | Vision of the Future
 Jurassic Park                    	    2	Jurassic Park | The Lost World
+The Shining                      	    2	The Shining | Doctor Sleep
 Charlie and the Chocolate Factory	    2	Charlie and the Chocolate Factory | Charlie and the Great Class Elevator
 Jamie Bond                       	    1	Unbreakable Bond
 Star Wars: Old Republic          	    1	The Old Republic: Fatal Alliance
 Scot                             	    1	Foreign Influence
 The Strain                       	    1	The Strain
-Mickey Haller                    	    1	The Lincoln Lawyer
 Kurt Wallander                   	    1	The Fifth Woman
 Terrell McCaleb                  	    1	Blood Work
 John Corey                       	    1	The Lion's Game

@@ -69,7 +69,7 @@ namespace MyBookLibrary.Service
                 {
                     Field = b.Key,  
                     Value = (Convert.ToDouble(b.Average(x => x.Ratings))).ToString("#.00"),
-                    Books = books.Where(x => x.Series.Equals(b.Key.ToString())).OrderBy(y => y.SeriesOrder).ToList()
+                    Books = books.Where(x => x.Series != null && x.Series.Equals(b.Key.ToString())).OrderBy(y => y.SeriesOrder).ToList()
                 })
                 .OrderByDescending(b => b.Value)
                 .ToList();

@@ -84,7 +84,9 @@ namespace MyBookLibrary.Service.ExtensionMethods
 
         public static List<Book> RemoveBooksWithoutSeries(this List<Book> books)
         {
-            return books.Where(b => !string.IsNullOrWhiteSpace(b.Series)).ToList();
+            return books
+                .Where(b => !string.IsNullOrEmpty(b.Series))
+                .ToList();
         }
 
         public static List<Book> ReoveBooksWithoutReleaseDate(this List<Book> books)
