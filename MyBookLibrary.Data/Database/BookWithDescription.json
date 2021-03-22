@@ -14170,5 +14170,46 @@
     "DaysTaken": 39,
     "SpeedRank": 0,
     "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 396,
+    "Name": "Alex Cross, Run",
+    "Author": [
+      "James Patterson"
+    ],
+    "Minutes": 484,
+    "DateStarted": "2021-02-28T00:00:00",
+    "DateCompleted": "2021-03-10T00:00:00",
+    "ReleaseDate": "2013-02-18T00:00:00",
+    "Pages": 416,
+    "CoverUrl": "https://mercury-book-repo.s3.amazonaws.com/img/396.jpg",
+    "CoverHash": null,
+    "Series": "Alex Cross",
+    "SeriesOrder": 20.0,
+    "Description": "<p><b>_____________________________________</b><br><b>'No one gets this big without amazing natural storytelling talent - which is what Jim has, in spades. The Alex Cross series proves it.' </b>LEE CHILD, international bestselling author of the Jack Reacher series<br><br><b>Detective Alex Cross has three killers to hunt – and one to escape.</b><br><br>Washington D.C. is on edge. Three killers are on the rampage, and the body count is rising. There's only one man to call in for a situation like this: veteran detective Alex Cross.<br><br>But even he can't catch three killers at once. Pulled in every direction by the different investigations, Alex Cross is under more pressure than ever before – and a crisis at home that threatens to tear his family apart pushes him close to the edge. <br><br>So close that he doesn’t realise <b>he’s being watched...</b></p>",
+    "Publisher": "Random House",
+    "Isbn10": "1409038920",
+    "Isbn13": "9781409038924",
+    "GoogleBookId": "hsNtNrbi7d0C",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/hsNtNrbi7d0C",
+    "CrowdRating": 3.5,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Crime",
+      "Fiction / Mystery & Detective / Police Procedural",
+      "Fiction / Thrillers / Crime",
+      "Fiction / Thrillers / Suspense",
+      "Fiction / Mystery & Detective / General",
+      "Fiction / General"
+    ],
+    "Ratings": 3.5,
+    "MinutesRank": 333,
+    "MinutesRankPercentile": 17,
+    "ReleaseDateRank": 30,
+    "ReleaseDateRankPercentile": 93,
+    "DaysTaken": 10,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   }
 ]
