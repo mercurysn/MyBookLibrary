@@ -28,7 +28,7 @@ namespace MyBookLibrary.RestClients
 
                 utility.Upload(request); 
 
-                Console.Write($"File {fileNameInS3} uploaded.");
+                Console.WriteLine($"File {fileNameInS3} uploaded.");
 
                 return true; 
             }

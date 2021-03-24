@@ -20,5 +20,11 @@ namespace MyBookLibrary.Data
 
             File.WriteAllText(@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\BookImageFree.json", json);
         }
+
+        public static void SaveToFile(string json, string filename)
+        {
+
+            File.WriteAllText($@"C:\source\MyBookLibrary\MyBookLibrary.Data\Database\{filename}", json);
+        }
     }
 }

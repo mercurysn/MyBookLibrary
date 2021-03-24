@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using MyBookLibrary.Data;
 using MyBookLibrary.Data.Dtos;
@@ -26,6 +27,12 @@ namespace MyBookLibrary.Service
             var books = GetBookModel(bookDtos);
 
             BookDatabaseWriter.SaveToImageFreeFile(JsonConvert.SerializeObject(books, Formatting.Indented));
+        }
+
+        public void GenerateGenericJsonDataFile(object data, string filename)
+        {
+
+            BookDatabaseWriter.SaveToFile(JsonConvert.SerializeObject(data, Formatting.Indented), filename);
         }
 
         public void PersistGoogleBooksDataIntoFile()

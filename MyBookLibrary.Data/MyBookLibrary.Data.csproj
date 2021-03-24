@@ -75,6 +75,7 @@
     <None Include="Database\BookWithDescription.json" />
     <None Include="Database\BookWithImage.json" />
     <None Include="Database\copy-job.bat" />
+    <None Include="Database\yearStats.json" />
     <None Include="packages.config" />
     <None Include="Source\2015-11-18 Shelfari.csv" />
     <None Include="Source\2016-02-07 Shelfari.csv" />
