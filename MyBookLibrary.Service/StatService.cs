@@ -125,6 +125,15 @@ namespace MyBookLibrary.Service
                 .ToList();
         }
 
+        public static List<MonthAggregatedGroup<int>> GroupByYearMonthAscending(this List<Book> books)
+        {
+            return books
+                .GroupByYearMonth()
+                .OrderBy(b => b.Year)
+                .ThenBy(b => b.Month)
+                .ToList();
+        }
+
         public static List<MonthAggregatedGroup<int>> GroupByYearMonth(this List<Book> books)
         {
             return books

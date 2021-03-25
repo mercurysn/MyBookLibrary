@@ -1,11 +1,9 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using AutoMapper;
 using MyBookLibrary.Data;
 using MyBookLibrary.RestClients;
 using MyBookLibrary.Service;
 using MyBookLibrary.Service.Mapper;
-using MyBookLibrary.Service.Model;
 
 namespace MyBookLibrary.GoogleSheetDownloader
 {
@@ -18,8 +16,9 @@ namespace MyBookLibrary.GoogleSheetDownloader
             DownloadGoogleBookFile();
 
             var yearStatsFile = CreateAndUploadYearStatsFile();
+            var monthStatsFile = CreateAndUploadMonthStatsFile();
 
-            UploadFileToS3(new []{ yearStatsFile });
+            UploadFileToS3(new []{ yearStatsFile, monthStatsFile });
         }
 
         private static string CreateAndUploadYearStatsFile()
@@ -33,6 +32,26 @@ namespace MyBookLibrary.GoogleSheetDownloader
             {
                 field = x.Field, 
                 value = x.Value
+            });
+
+            var fileGenerator = new JsonFileGenerator(readService);
+
+            fileGenerator.GenerateGenericJsonDataFile(aggResult, filename);
+
+            return filename;
+        }
+
+        private static string CreateAndUploadMonthStatsFile()
+        {
+            var filename = "monthStats.json";
+
+            var readService = new BookReadService(new LocalDatabaseReader());
+            var books = readService.GetAll();
+
+            var aggResult = books.GroupByYearMonthAscending().Select(x => new
+            {
+                field = x.Display,
+                value = x.NumberOfBooks
             });
 
             var fileGenerator = new JsonFileGenerator(readService);
