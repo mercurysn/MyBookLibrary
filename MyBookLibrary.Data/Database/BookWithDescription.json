@@ -14211,5 +14211,43 @@
     "DaysTaken": 10,
     "SpeedRank": 0,
     "SpeedRankPercentile": 0
+  },
+  {
+    "Id": 397,
+    "Name": "Hidden Order",
+    "Author": [
+      "Brad Thor"
+    ],
+    "Minutes": 680,
+    "DateStarted": "2021-03-11T00:00:00",
+    "DateCompleted": "2021-03-23T00:00:00",
+    "ReleaseDate": "2013-07-09T00:00:00",
+    "Pages": 377,
+    "CoverUrl": "https://mercury-book-repo.s3.amazonaws.com/img/397.jpg",
+    "CoverHash": null,
+    "Series": "Scott Harvath",
+    "SeriesOrder": 12.0,
+    "Description": "<b>#1 <i>New York Times </i>and #1 <i>Wall Street Journal </i>bestselling author Brad Thor returns with his hottest and most action-packed thriller yet!</b><br><br>The most secretive organization in America operates without accountability to the American people. Hiding in the shadows, pretending to be part of the United States Government, its power is beyond measure.<br> <br>Control of this organization has just been lost and the future of the nation has been thrust into peril. <br> <br>When the five candidates being considered to head this mysterious agency suddenly go missing, covert counter-terrorism operative, Scot Harvath is summoned to Washington and set loose on the most dangerous chase ever to play out on American soil. <br> <br>But as the candidates begin turning up murdered, the chase becomes an all-too-public spectacle with every indicator suggesting that the plot has its roots in a shadowy American cabal founded in the 1700s. <br> <br>With the United States on the verge of collapse, Harvath must untangle a web of conspiracy centuries in the making and head off the greatest threat America has ever seen. <br> <br>This is thriller writing at its absolute best where the stakes have never been higher, nor the line between good and evil so hard to discern.",
+    "Publisher": "Simon and Schuster",
+    "Isbn10": "1476717117",
+    "Isbn13": "9781476717111",
+    "GoogleBookId": "B-xTpfPiAyQC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/B-xTpfPiAyQC",
+    "CrowdRating": 3.5,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Thrillers / Political",
+      "Fiction / Thrillers / Suspense",
+      "Fiction / General"
+    ],
+    "Ratings": 3.5,
+    "MinutesRank": 232,
+    "MinutesRankPercentile": 42,
+    "ReleaseDateRank": 26,
+    "ReleaseDateRankPercentile": 94,
+    "DaysTaken": 12,
+    "SpeedRank": 0,
+    "SpeedRankPercentile": 0
   }
 ]
