@@ -17,8 +17,9 @@ namespace MyBookLibrary.GoogleSheetDownloader
 
             var yearStatsFile = CreateAndUploadYearStatsFile();
             var monthStatsFile = CreateAndUploadMonthStatsFile();
+            var dailyStatsFile = CreateAndUploadDailyStatsFile();
 
-            UploadFileToS3(new []{ yearStatsFile, monthStatsFile });
+            UploadFileToS3(new []{ yearStatsFile, monthStatsFile, dailyStatsFile });
         }
 
         private static string CreateAndUploadYearStatsFile()
@@ -53,6 +54,22 @@ namespace MyBookLibrary.GoogleSheetDownloader
                 field = x.Display,
                 value = x.NumberOfBooks
             });
+
+            var fileGenerator = new JsonFileGenerator(readService);
+
+            fileGenerator.GenerateGenericJsonDataFile(aggResult, filename);
+
+            return filename;
+        }
+
+        private static string CreateAndUploadDailyStatsFile()
+        {
+            var filename = "dailyStats.json";
+
+            var readService = new BookReadService(new LocalDatabaseReader());
+            var books = readService.GetAll();
+
+            var aggResult = books.DailyCompareStats();
 
             var fileGenerator = new JsonFileGenerator(readService);
 

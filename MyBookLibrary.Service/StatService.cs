@@ -134,6 +134,36 @@ namespace MyBookLibrary.Service
                 .ToList();
         }
 
+        public static List<Dictionary<string, string>> DailyCompareStats(this List<Book> books)
+        {
+            var resultDict = new List<Dictionary<string, string>>();
+
+            var minYears = books
+                .Where(b => ((DateTime)b.DateCompleted).Year > 1980)
+                .GroupBy(b => ((DateTime) b.DateCompleted).Year)
+                .Min(b => b.Key);
+
+            var maxYears = books
+                .GroupBy(b => ((DateTime)b.DateCompleted).Year)
+                .Max(b => b.Key);
+
+            var dateEnd = new DateTime(DateTime.Now.Year, 12, 31);
+
+            for (var dateStart = new DateTime(DateTime.Now.Year, 1, 1); dateStart != dateEnd; dateStart = dateStart.AddDays(1))
+            {
+                var dayStat = new Dictionary<string, string> {{"Name", dateStart.ToString("dd-MM")}};
+                for (int i = minYears; i <= maxYears; i++)
+                {
+                    var bookCount = books.Count(b => ((DateTime) b.DateCompleted).Year == i && ((DateTime)b.DateCompleted) <= new DateTime(i, dateStart.Month, dateStart.Day));
+                    dayStat.Add(i.ToString(), bookCount.ToString());
+                }
+                
+                resultDict.Add(dayStat);
+            }
+
+            return resultDict;
+        }
+
         public static List<MonthAggregatedGroup<int>> GroupByYearMonth(this List<Book> books)
         {
             return books
