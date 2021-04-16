@@ -33,6 +33,7 @@ namespace MyBookLibrary.Service.Model
         public int ReleaseDateRank { get; set; }
         public int ReleaseDateRankPercentile { get; set; }
         public int? DaysTaken { get; set; }
+        public int? MinutesPerDay { get; set; }
         public int SpeedRank { get; set; }
         public int SpeedRankPercentile { get; set; }
 

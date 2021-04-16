@@ -2,6 +2,7 @@
 @using MyBookLibrary.Service.ExtensionMethods
 @model List<MyBookLibrary.Service.Model.Book>
 
+
 <section id="page-breadcrumb">
     <div class="vertical-center sun">
         <div class="container">
@@ -19,10 +20,11 @@
                                 <td>Stats</td>
                             </tr>
                             </thead>
+                            @{ int rank = 1; }
                             @foreach (var book in Model)
                             {
                                 <tr>
-                                    <td> #@book.MinutesRank</td>
+                                    <td>#@rank</td>
                                     <td>
                                         @Html.Partial("_BookCoverShadow", book)
                                     </td>
@@ -37,12 +39,18 @@
                                     </td>
                                     <td>
                                         @book.Minutes.ConvertMinuteToHoursMinutes()
-                                        <br/><br/>
+                                        <br /><br />
                                         @book.Pages.ToString("#,##0") pages
-                                        <br/><br/>
+                                        <br /><br />
+                                        @book.Minutes minutes
+                                        <br /><br />
+                                        @book.MinutesPerDay minutes per day
+                                        <br /><br />
                                         @Html.Partial("_BookAwards", book)
                                     </td>
                                 </tr>
+
+                                rank++;
                             }
                         </table>
                     </div>

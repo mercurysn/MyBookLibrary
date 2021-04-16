@@ -41,10 +41,14 @@ namespace MyBookLibrary.Service
 
             var withImageBooks = _bookReadService
                 .ReadAllFromLocalWithDescriptionFile()
-                .ComputeMinutesRank()
                 .ComputeSpeedRank()
                 .PersistNewBookToList(imageFreeBooks)
                 .UpdateCoverUrl(imageFreeBooks)
+                .ComputeMinutesRank()
+                .ComputeReleaseDateRank()
+                .ComputeDaysTaken()
+                .ComputeSpeed()
+                .ComputeSpeedRank()
                 .PersistBookImagesToS3();
 
             withImageBooks = PersistGoogleBookFields(withImageBooks);
@@ -90,7 +94,9 @@ namespace MyBookLibrary.Service
             return books
                 .ComputeMinutesRank()
                 .ComputeReleaseDateRank()
-                .ComputeDaysTaken();
+                .ComputeDaysTaken()
+                .ComputeSpeed()
+                .ComputeSpeedRank();
         }
 
 

@@ -46,7 +46,7 @@ namespace MyBookLibrary.Service
         public List<Book> GetFastestBooks(int size = 50)
         {
             return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadWithDescriptionFile())
-                .OrderByDescending(b => b.SpeedRank)
+                .OrderBy(b => b.SpeedRank)
                 .Take(size)
                 .ToList();
         }

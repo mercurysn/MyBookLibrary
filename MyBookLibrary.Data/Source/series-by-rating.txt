@@ -3,46 +3,47 @@ Star Wars: Thrawn                	 5.00	Heir to the Empire | Dark Force Rising |
 Magic 2.0                        	 4.83	Off to be the Wizard | Spell or High Water | An Unwelcomed Quest
 Jurassic Park                    	 4.75	Jurassic Park | The Lost World
 Hunger Games                     	 4.50	The Hunger Games | Catching Fire | Mockingjay
-Mickey Haller                    	 4.50	The Lincoln Lawyer | Brass Verdict
-Harry Potter                     	 4.50	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Goblet of Fire | Harry Potter and the Deathly Hollows
 Charlie and the Chocolate Factory	 4.50	Charlie and the Chocolate Factory | Charlie and the Great Class Elevator
 Lord of the Rings                	 4.50	The Fellowship of the Ring | The Two Towers | The Return of the King
+Mickey Haller                    	 4.50	The Lincoln Lawyer | Brass Verdict
 Jack Ryan                        	 4.43	The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears | Debt of Honor | Executive Orders
 Millennium                       	 4.30	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest | The Girl in the Spider's Web | The Girl Who Takes an Eye for an Eye
 Harry Bosch                      	 4.27	The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Angels Flight | A Darkness More Than Night | City of Bones | Lost Light | The Narrows | The Closers | Echo Park | The Overlook
-Mitch Rapp                       	 4.25	Term Limits | Transfer of Power | The Third Option | Separation of Power | Separtion of Power | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Kill Shot | The Last Man | The Survivor | Order to Kill | Enemy of the State
-Robert Langdon                   	 4.00	Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
+Mitch Rapp                       	 4.25	Term Limits | Transfer of Power | The Third Option | Separtion of Power | Separation of Power | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Kill Shot | The Last Man | The Survivor | Order to Kill | Enemy of the State
+Harry Potter                     	 4.21	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Maze Runner                      	 4.00	The Kill Order | The Maze Runner | The Scorch Trials | The Death Cure
-Jamie Bond                       	 4.00	Unbreakable Bond
-Star Wars: Old Republic          	 4.00	The Old Republic: Fatal Alliance
-Terrell McCaleb                  	 4.00	Blood Work
-Shopaholic                       	 4.00	Confession of a Shopaholic | Shopaholic Takes Manhattan | Shopaholic Ties the Knot
-Lincoln Rhyme                    	 4.00	The Bone Collector
-Jake Brigance                    	 4.00	A Time to Kill
 The Shining                      	 4.00	The Shining | Doctor Sleep
+Shopaholic                       	 4.00	Confession of a Shopaholic | Shopaholic Takes Manhattan | Shopaholic Ties the Knot
+Jake Brigance                    	 4.00	A Time to Kill
+Robert Langdon                   	 4.00	Angels and Demons | The Da Vinci Code | The Lost Symbol | Inferno
 To Kill a Mockingbird            	 4.00	To Kill a Mockingbird
+Lincoln Rhyme                    	 4.00	The Bone Collector
+Terrell McCaleb                  	 4.00	Blood Work
+Star Wars: Old Republic          	 4.00	The Old Republic: Fatal Alliance
+Jamie Bond                       	 4.00	Unbreakable Bond
 Psycho                           	 4.00	Psycho
-Alex Cross                       	 3.86	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | Four Blind Mice | The Big Bad Wolf | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross | Cross Fire | Kill Alex Cross
+Alex Cross                       	 3.84	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Violets are Blue | Four Blind Mice | The Big Bad Wolf | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross | Cross Fire | Kill Alex Cross | Alex Cross, Run
 Zombie Fallout                   	 3.80	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3: The End | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 4: The End Has Come and Gone | Zombie Fallout 5: Alive in a Dead World | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | Zombie Fallout 8: An Old Beginning | Zombie Fallout 9: Tattered Remnants
 Scot Harvath                     	 3.80	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle | Full Black | Black List
 Hannibal                         	 3.75	Red Dragon | The Silence of the Lambs | Hannibal Rising | Hannibal
 Eragon                           	 3.67	Eldest | Brisingr | Inheritance
 Pendergast                       	 3.66	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | Dance of Death | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore | The Obsidian Chamber
-Scot                             	 3.50	Foreign Influence
-Twilight                         	 3.50	Twilight | Eclipse | New Moon | Breaking Dawn
 Zombie                           	 3.50	The Zombie Survival Guide | World War Z
+Twilight                         	 3.50	Twilight | Eclipse | New Moon | Breaking Dawn
 Star Wars: Hand of Thrawn        	 3.50	Specter of the Past | Vision of the Future
+Scott Harvath                    	 3.50	Hidden Order
+Scot                             	 3.50	Foreign Influence
 Star Wars: Fate of the Jedi      	 3.44	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Omen | Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Allies | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Conviction | Star Wars - Fate of the Jedi - Ascention | Star Wars - Fate of the Jedi: Apocalpyse
 Game of Thrones                  	 3.40	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
 High Heels                       	 3.22	Spying in High Heels | Killer in High Heels | Undercover in High Heels | Alibi in High Heels | Mayhem in High Heels | Fearless in High Heels | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
 Cotton Malone                    	 3.17	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
 Scarpetta                        	 3.07	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Blow Fly | Trace | Predator | Scarpetta
 Divergent                        	 3.00	Divergent | Insurgent | Allegiant
-The Strain                       	 3.00	The Strain
 Jack McEvoy                      	 3.00	The Poet | The Scarecrow
-Kurt Wallander                   	 3.00	The Fifth Woman
-Outlander                        	 3.00	Outlander
 Wheel of Time                    	 3.00	The Eye of the World
+Outlander                        	 3.00	Outlander
+The Strain                       	 3.00	The Strain
+Kurt Wallander                   	 3.00	The Fifth Woman
 The Mote in God's Eye            	 3.00	The Mote in God's Eyes
 Indian Hill                      	 2.80	Encounters | Reckoning | Conquest | From the Ashes | Into the Fire
 Bourne                           	 2.33	The Bourne Identity | The Bourne Supremacy | The Bourne Ultimatum

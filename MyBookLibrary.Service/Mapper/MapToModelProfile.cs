@@ -43,6 +43,7 @@ namespace MyBookLibrary.Service.Mapper
                 .ForMember(dest => dest.DaysTaken, src => src.Ignore())
                 .ForMember(dest => dest.SpeedRank, src => src.Ignore())
                 .ForMember(dest => dest.SpeedRankPercentile, src => src.Ignore())
+                .ForMember(dest => dest.MinutesPerDay, src => src.Ignore())
                 ;
 
 

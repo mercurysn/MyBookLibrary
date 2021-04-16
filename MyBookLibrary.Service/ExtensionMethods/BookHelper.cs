@@ -36,6 +36,27 @@ namespace MyBookLibrary.Service.ExtensionMethods
                     continue;
 
                 book.DaysTaken = ((DateTime)book.DateCompleted - (DateTime)book.DateStarted).Days;
+
+                if (book.DaysTaken == 0)
+                    book.DaysTaken = 1;
+            }
+
+            return books;
+        }
+
+        public static List<Book> ComputeSpeed(this List<Book> books)
+        {
+            foreach (var book in books)
+            {
+                if (book.Minutes <= 0 || book.DaysTaken == null || book.DaysTaken <= 0)
+                {
+                    book.MinutesPerDay = null;
+
+                }
+                else
+                {
+                    book.MinutesPerDay = book.Minutes / book.DaysTaken;
+                }
             }
 
             return books;
@@ -43,9 +64,9 @@ namespace MyBookLibrary.Service.ExtensionMethods
 
         public static List<Book> ComputeSpeedRank(this List<Book> books)
         {
-            books = books.OrderByDescending(b => b.DaysTaken).ToList();
+            books = books.OrderByDescending(b => b.MinutesPerDay).ToList();
 
-            int rank = 1;
+            var rank = 1;
 
             foreach (var book in books)
             {

@@ -85,9 +85,17 @@
                                 <li>@Html.ActionLink("By Year", "Index", "Stats")</li>
                                 <li>@Html.ActionLink("By Month", "Month", "Stats")</li>
                                 <li>@Html.ActionLink("Longest books", "Longest", "Stats")</li>
+                                <li>@Html.ActionLink("Fastest books", "Fastest", "Stats")</li>
                             </ul>
                         </li>
-                        
+                        <li class="dropdown">
+                            <a href="#">Graphs<i class="fa fa-angle-down"></i></a>
+                            <ul role="menu" class="sub-menu">
+                                <li><a href="https://simonng.dev/books/chart/month/">Monthly Reads</a></li>
+                                <li><a href="https://simonng.dev/books/chart/year/">Yearly Reads</a></li>
+                                <li><a href="https://simonng.dev/books/chart/yearByYear">Yearly Compares</a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
                 <div class="search">
