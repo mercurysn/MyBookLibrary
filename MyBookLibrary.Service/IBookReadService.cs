@@ -12,5 +12,6 @@ namespace MyBookLibrary.Service
         List<Book> ReadAllFromLocalWithDescriptionFile();
         List<Book> GetLongestBooks(int size = 50);
         List<Book> GetShortestBooks(int size = 50);
+        List<Book> GetFastestBooks(int size = 50);
     }
 }

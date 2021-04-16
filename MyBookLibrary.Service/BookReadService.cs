@@ -43,6 +43,14 @@ namespace MyBookLibrary.Service
                 .ToList();
         }
 
+        public List<Book> GetFastestBooks(int size = 50)
+        {
+            return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadWithDescriptionFile())
+                .OrderByDescending(b => b.SpeedRank)
+                .Take(size)
+                .ToList();
+        }
+
         public List<Book> ReadAllFromLocalImageFreeFile()
         {
             return JsonConvert.DeserializeObject<List<Book>>(_reader.ReadImageFreeFile());

@@ -41,6 +41,8 @@ namespace MyBookLibrary.Service
 
             var withImageBooks = _bookReadService
                 .ReadAllFromLocalWithDescriptionFile()
+                .ComputeMinutesRank()
+                .ComputeSpeedRank()
                 .PersistNewBookToList(imageFreeBooks)
                 .UpdateCoverUrl(imageFreeBooks)
                 .PersistBookImagesToS3();

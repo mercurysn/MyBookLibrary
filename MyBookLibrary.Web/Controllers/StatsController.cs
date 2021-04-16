@@ -44,5 +44,10 @@ namespace MyBookLibrary.Web.Controllers
         {
             return View("BookStats", _bookReadService.GetShortestBooks(20));
         }
+
+        public ActionResult Fastest()
+        {
+            return View("BookStats", _bookReadService.GetFastestBooks());
+        }
     }
 }
