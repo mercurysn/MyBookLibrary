@@ -1,16 +1,16 @@
 Field                             	Value	Books
-Tom Clancy                        	14202	Without Remorse | The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears | Debt of Honor | Executive Orders
+Tom Clancy                        	18922	Without Remorse | The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears | Debt of Honor | Executive Orders | Rainbow Six | The Bear and the Dragon
+Michael Connelly                  	15137	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Closers | The Lincoln Lawyer | Echo Park | The Overlook | Brass Verdict | The Scarecrow | Nine Dragons | The Reversal | The Fifth Witness
 Douglas Preston                   	13868	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore | The Obsidian Chamber
 Lincoln Child                     	13868	Fever Dream | Cold Vengeance | Reliquary | Cemetery Dance | Relic | The Cabinet of Curiosities | Two Graves | The Book of the Dead | Dance of Death | Wheels of Darkness | Blue Labyrinth | Still Life with Crows | Brimstone | White Fire | Crimson Shore | The Obsidian Chamber
 Vince Flynn                       	12959	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separtion of Power | Separation of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
-Michael Connelly                  	12953	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Closers | The Lincoln Lawyer | Echo Park | The Overlook | Brass Verdict | The Scarecrow
 George R. R. Martin               	12094	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
+Michael Crichton                  	11964	The Andromeda Strain | The Terminal Man | The Great Train Robbery | Eaters of the Dead | Congo | Sphere | Jurassic Park | Rising Sun | Disclosure | The Lost World | Airframe | Timeline | Prey | State of Fear | Next | Pirate Latitudes | Micro
 Stephen King                      	11963	The Shining | The Stand | The Dead Zone | It | Bag of Bones | Under the Dome | Doctor Sleep
-Michael Crichton                  	11053	The Andromeda Strain | The Terminal Man | The Great Train Robbery | Eaters of the Dead | Congo | Sphere | Jurassic Park | Rising Sun | Disclosure | The Lost World | Airframe | Prey | State of Fear | Next | Pirate Latitudes | Micro
+James Patterson                   	11468	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Cross Fire | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross | Kill Alex Cross | Merry Christmas, Alex Cross | Alex Cross, Run | Cross My Heart | Hope to Die
 Patricia Cornwell                 	10423	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
-James Patterson                   	 9947	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Cross Fire | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross | Kill Alex Cross | Alex Cross, Run
+Brad Thor                         	 9849	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle | Foreign Influence | Full Black | Black List | Hidden Order | Act of War | Code of Conduct
 Mark Tufo                         	 9688	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | From the Ashes | Zombie Fallout 8: An Old Beginning | Into the Fire | Zombie Fallout 9: Tattered Remnants
-Brad Thor                         	 8393	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle | Foreign Influence | Full Black | Black List | Hidden Order
 J.K. Rowling                      	 6996	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Timothy Zahn                      	 6688	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
 Stephanie Meyer                   	 6282	Twilight | New Moon | Eclipse | The Host | Breaking Dawn | The Chemist
@@ -27,6 +27,7 @@ Sophie Kinsella                   	 3774	Shopaholic Ties the Knot | Confession o
 J.R.R. Tolkien                    	 3745	The Hobbit | The Fellowship of the Ring | The Two Towers | The Return of the King
 William L. Shirer                 	 3433	The Rise and Fall of the Third Reich
 Thomas Harris                     	 3125	Black Sunday | Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
+Scott Meyer                       	 2646	Off to be the Wizard | Spell or High Water | An Unwelcomed Quest | Fight and Flight
 Alexandar Dumas                   	 2596	The Count of Monte Cristo
 Troy Denning                      	 2542	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
 James Dashner                     	 2407	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
@@ -35,7 +36,6 @@ Roald Dahl                        	 2134	James and the Giant Peach | Charlie and
 Suzanne Collins                   	 2075	The Hunger Games | Catching Fire | Mockingjay
 Veronica Roth                     	 2065	Divergent | Insurgent | Allegiant
 Aaron Allston                     	 2059	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Conviction
-Scott Meyer                       	 2020	Off to be the Wizard | Spell or High Water | An Unwelcomed Quest
 Diana Gabaldon                    	 1962	Outlander
 Walter Isaacson                   	 1945	Einstein: His Life and Universe | Steve Jobs
 Neal Gabler                       	 1930	Walt Disney: The Triumph of the American Imagination
@@ -62,6 +62,7 @@ Sam Gennawey                      	  991	The DIsneyland Story: The Unofficial Gu
 Paul Jennings                     	  987	Unbelievable | Unbearable | Undone | Uncovered | Unseen
 John Grisham                      	  958	A Time to Kill
 Daphne du Maurier                 	  889	Rebecca
+Jeff Kinney                       	  877	Diary of a Wimpy Kid | Rodrick Rules | The Last Straw | Dog Days | The Ugly Truth | Cabin Fever
 Richard Dawkins                   	  874	The Greatest Show On Earth
 Truman Capote                     	  868	In Cold Blood
 Markus Zusak                      	  836	The Book Thief
@@ -73,6 +74,7 @@ Fredrick Forsyth                  	  801	The Day of the Jackal
 M. R. Carey                       	  785	The Girl With All the Gifts
 Mitch Albom                       	  738	Five People You Meet in Heaven | The First Phone Call From Heaven
 S. J. Watson                      	  738	Before I Go to Sleep
+Delia Owens                       	  732	Where the Crowdad Sings
 Neil deGrasse Tyson               	  728	Death by Black Hole
 Alice Sebold                      	  698	The Lovely Bones
 Sara Gruen                        	  686	Water for Elephants
@@ -84,6 +86,7 @@ Albert Camus                      	  655	The Plague
 Andy Weir                         	  653	The Martian
 R.A. Salvatore                    	  620	Star Wars Episode II: Attack of the Clones
 Alan Dean Foster                  	  619	Star Wars: The Force Awakens
+Christian White                   	  579	The Nowhere Child
 George Orwell                     	  579	1984
 Peter Benchley                    	  579	Jaws
 Dr Richard Berendzen              	  569	Pulp Physics

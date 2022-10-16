@@ -1,4 +1,16 @@
 Display	NumberOfBooks	MinutesDisplay	PagesDisplay	Books
+2022-10	            2	       22h 16m	         734	Code of Conduct | The Nowhere Child
+2022-9 	            2	       26h 07m	         805	The Fifth Witness | Where the Crowdad Sings
+2022-8 	            1	       42h 55m	       1,137	The Bear and the Dragon
+2022-4 	            7	       29h 48m	       1,818	Timeline | Diary of a Wimpy Kid | The Last Straw | Rodrick Rules | Dog Days | The Ugly Truth | Cabin Fever
+2022-3 	            2	       26h 59m	         805	The Return of the King | The Reversal
+2022-1 	            1	       16h 45m	         464	The Two Towers
+2021-12	            2	       30h 14m	         841	The Hobbit | The Fellowship of the Ring
+2021-11	            1	       10h 26m	         352	Fight and Flight
+2021-10	            2	       19h 15m	         916	Cross My Heart | Hope to Die
+2021-9 	            1	       11h 39m	         358	Act of War
+2021-8 	            2	       17h 02m	         475	Merry Christmas, Alex Cross | Nine Dragons
+2021-7 	            2	       46h 38m	       1,297	Rainbow Six | The Martian
 2021-4 	            2	       19h 34m	         625	Before I Go to Sleep | The Terminal Man
 2021-3 	            2	       19h 24m	         793	Alex Cross, Run | Hidden Order
 2021-2 	            2	       62h 54m	       1,695	Executive Orders | Brass Verdict

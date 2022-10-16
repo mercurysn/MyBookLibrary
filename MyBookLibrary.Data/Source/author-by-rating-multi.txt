@@ -1,26 +1,27 @@
 Field              	Value	Books
-Scott Meyer        	 4.83	Off to be the Wizard | Spell or High Water | An Unwelcomed Quest
+J.K. Rowling       	 4.57	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
 Suzanne Collins    	 4.50	The Hunger Games | Catching Fire | Mockingjay
 J.R.R. Tolkien     	 4.50	The Hobbit | The Fellowship of the Ring | The Two Towers | The Return of the King
 Stieg Larsson      	 4.50	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
-Tom Clancy         	 4.38	Without Remorse | The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears | Debt of Honor | Executive Orders
+Jeff Kinney        	 4.50	Diary of a Wimpy Kid | Rodrick Rules | The Last Straw | Dog Days | The Ugly Truth | Cabin Fever
 Vince Flynn        	 4.29	Term Limits | Transfer of Power | The Third Option | Executive Power | Memorial Day | Consent to Kill | Act of Treason | Protect and Defend | Extreme Measures | Pursuit of Honor | American Assassin | Separtion of Power | Separation of Power | Kill Shot | The Last Man | The Survivor | Order to Kill
 Ernest Cline       	 4.25	Ready Player One | Armada
-J.K. Rowling       	 4.21	Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows
-Michael Connelly   	 4.16	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Closers | The Lincoln Lawyer | Echo Park | The Overlook | Brass Verdict | The Scarecrow
+Tom Clancy         	 4.25	Without Remorse | The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears | Debt of Honor | Executive Orders | Rainbow Six | The Bear and the Dragon
+Scott Meyer        	 4.25	Off to be the Wizard | Spell or High Water | An Unwelcomed Quest | Fight and Flight
+Michael Connelly   	 4.18	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Closers | The Lincoln Lawyer | Echo Park | The Overlook | Brass Verdict | The Scarecrow | Nine Dragons | The Reversal | The Fifth Witness
 Roald Dahl         	 4.11	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
 James Dashner      	 4.00	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
 David Lagercrantz  	 4.00	The Girl in the Spider's Web | The Girl Who Takes an Eye for an Eye
 Stephen R. Covey   	 4.00	The 7 Habits of Highly Effective People | The 8th Habit
-Michael Crichton   	 3.93	The Andromeda Strain | The Terminal Man | The Great Train Robbery | Eaters of the Dead | Congo | Sphere | Jurassic Park | Rising Sun | Disclosure | The Lost World | Airframe | Prey | State of Fear | Next | Pirate Latitudes | Micro
 Stephanie Meyer    	 3.92	Twilight | New Moon | Eclipse | The Host | Breaking Dawn | The Chemist
 Paul Jennings      	 3.90	Unbelievable | Unbearable | Undone | Uncovered | Unseen
+Michael Crichton   	 3.88	The Andromeda Strain | The Terminal Man | The Great Train Robbery | Eaters of the Dead | Congo | Sphere | Jurassic Park | Rising Sun | Disclosure | The Lost World | Airframe | Timeline | Prey | State of Fear | Next | Pirate Latitudes | Micro
 Timothy Zahn       	 3.86	Heir to the Empire | Dark Force Rising | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
-James Patterson    	 3.84	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Cross Fire | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross | Kill Alex Cross | Alex Cross, Run
 Kyle Mills         	 3.83	The Survivor | Order to Kill | Enemy of the State
 Sophie Kinsella    	 3.80	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
+James Patterson    	 3.75	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Cross Fire | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross | Kill Alex Cross | Merry Christmas, Alex Cross | Alex Cross, Run | Cross My Heart | Hope to Die
 Dean Koontz        	 3.75	Chase | Shattered | Demon Seed | Phantoms | Lightning | Fear Nothing | By the Light of the Moon | Breathless
-Brad Thor          	 3.75	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle | Foreign Influence | Full Black | Black List | Hidden Order
+Brad Thor          	 3.75	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle | Foreign Influence | Full Black | Black List | Hidden Order | Act of War | Code of Conduct
 Mitch Albom        	 3.75	Five People You Meet in Heaven | The First Phone Call From Heaven
 Christopher Paolini	 3.75	Eragon | Eldest | Brisingr | Inheritance
 Dan Brown          	 3.75	Digital Fortress | Angels and Demons | Deception Point | The Da Vinci Code | The Lost Symbol | Inferno

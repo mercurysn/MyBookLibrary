@@ -1,22 +1,23 @@
 Field                             	Value	Books
-James Patterson                   	   19	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Cross Fire | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross | Kill Alex Cross | Alex Cross, Run
-Michael Connelly                  	   19	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Closers | The Lincoln Lawyer | Echo Park | The Overlook | Brass Verdict | The Scarecrow
+James Patterson                   	   22	Along Came a Spider | Kiss the Girls | Jack & Jill | Cat & Mouse | Pop Goes the Weasel | Roses Are Red | Cross Fire | Violets are Blue | The Big Bad Wolf | Four Blind Mice | London Bridges | Mary, Mary | Cross | Double Cross | Cross Country | Alex Cross's Trial | I, Alex Cross | Kill Alex Cross | Merry Christmas, Alex Cross | Alex Cross, Run | Cross My Heart | Hope to Die
+Michael Connelly                  	   22	The Poet | The Black Echo | The Black Ice | The Concrete Blonde | The Last Coyote | Trunk Music | Void Moon | Angels Flight | A Darkness More Than Night | City of Bones | Blood Work | Lost Light | The Narrows | The Closers | The Lincoln Lawyer | Echo Park | The Overlook | Brass Verdict | The Scarecrow | Nine Dragons | The Reversal | The Fifth Witness
+Michael Crichton                  	   17	The Andromeda Strain | The Terminal Man | The Great Train Robbery | Eaters of the Dead | Congo | Sphere | Jurassic Park | Rising Sun | Disclosure | The Lost World | Airframe | Timeline | Prey | State of Fear | Next | Pirate Latitudes | Micro
 Vince Flynn                       	   17	Term Limits | Transfer of Power | Transfer of Power | The Third Option | The Third Option | Executive Power | Executive Power | Memorial Day | Memorial Day | Consent to Kill | Consent to Kill | Act of Treason | Act of Treason | Protect and Defend | Protect and Defend | Extreme Measures | Extreme Measures | Pursuit of Honor | Pursuit of Honor | American Assassin | American Assassin | Separtion of Power | Separation of Power | Kill Shot | Kill Shot | The Last Man | The Last Man | The Survivor | Order to Kill
-Michael Crichton                  	   16	The Andromeda Strain | The Terminal Man | The Great Train Robbery | Eaters of the Dead | Congo | Sphere | Jurassic Park | Rising Sun | Disclosure | The Lost World | Airframe | Prey | State of Fear | Next | Pirate Latitudes | Micro
 Douglas Preston                   	   16	Relic | Reliquary | The Cabinet of Curiosities | Still Life with Crows | Brimstone | The Book of the Dead | Wheels of Darkness | Cemetery Dance | Fever Dream | Dance of Death | Cold Vengeance | Two Graves | White Fire | Blue Labyrinth | Crimson Shore | The Obsidian Chamber
 Lincoln Child                     	   16	Fever Dream | Cold Vengeance | Reliquary | Cemetery Dance | Relic | The Cabinet of Curiosities | Two Graves | The Book of the Dead | Dance of Death | Wheels of Darkness | Blue Labyrinth | Still Life with Crows | Brimstone | White Fire | Crimson Shore | The Obsidian Chamber
 Mark Tufo                         	   15	Zombie Fallout | Zombie Fallout 2: A Plague Upon Your Family | Zombie Fallout 3.5: Dr. Hugh Mann | Zombie Fallout 3: The End | Zombie Fallout 4: The End Has Come and Gone | Encounters | Reckoning | Zombie Fallout 5: Alive in a Dead World | Conquest | Zombie Fallout 6: 'Til Death Do Us Apart | Zombie Fallout 7: For the Fallen | From the Ashes | Zombie Fallout 8: An Old Beginning | Into the Fire | Zombie Fallout 9: Tattered Remnants
 Patricia Cornwell                 	   15	Postmortem | Body of Evidence | All That Remains | Cruel and Unusual | The Body Farm | From Potter's Field | Cause of Death | Unnatural Exposure | Point of Origin | Black Notice | The Last Precinct | Trace | Predator | Scarpetta | Blow Fly
-Brad Thor                         	   12	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle | Foreign Influence | Full Black | Black List | Hidden Order
+Brad Thor                         	   14	The Lions of Lucerne | Path of the Assassin | State of the Union | Blowback | Takedown | The First Commandment | The Last Patriot | The Apostle | Foreign Influence | Full Black | Black List | Hidden Order | Act of War | Code of Conduct
 Gemma Halliday                    	   10	Spying in High Heels | Killer in High Heels | Alibi in High Heels | Mayhem in High Heels | Undercover in High Heels | Fearless in High Heels | Unbreakable Bond | Danger in High Heels | Homicide in High Heels | Deadly in High Heels
+Tom Clancy                        	   10	Without Remorse | The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears | Debt of Honor | Executive Orders | Rainbow Six | The Bear and the Dragon
 Roald Dahl                        	    9	James and the Giant Peach | Charlie and the Chocolate Factory | Charlie and the Great Class Elevator | Danny the Champion of the World | The Witches | Boy | Going Solo | Matilda | The BFG
 Dean Koontz                       	    8	Chase | Shattered | Demon Seed | Phantoms | Lightning | Fear Nothing | By the Light of the Moon | Breathless
-Tom Clancy                        	    8	Without Remorse | The Hunt for Red October | Patriot Games | The Cardinal of the Kremlin | Clear and Present Danger | The Sum of All Fears | Debt of Honor | Executive Orders
 J.K. Rowling                      	    7	Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Goblet of Fire | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Order of Phoenix | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Half Blood Prince | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows | Harry Potter and the Deathly Hollows
 Arthur Conan Doyle                	    7	The Memoirs of Shelock Holmes | The Complete Stories of Sherlock Holmes | The Hound of the Baskervilles | The Return of Shelock Holmes | The Valley of Fear | His Last Bow | The Case-Book of Sherlock Holmes
 Stephen King                      	    7	The Shining | The Stand | The Dead Zone | It | Bag of Bones | Under the Dome | Doctor Sleep
 Timothy Zahn                      	    7	Heir to the Empire | Heir to the Empire | Dark Force Rising | Dark Force Rising | The Last Command | The Last Command | Specter of the Past | Vision of the Future | Allegiance | Scoundrels
 Stephanie Meyer                   	    6	Twilight | New Moon | Eclipse | The Host | Breaking Dawn | The Chemist
+Jeff Kinney                       	    6	Diary of a Wimpy Kid | Rodrick Rules | The Last Straw | Dog Days | The Ugly Truth | Cabin Fever
 Dan Brown                         	    6	Digital Fortress | Angels and Demons | Angels and Demons | Angels and Demons | Deception Point | The Da Vinci Code | The Da Vinci Code | The Da Vinci Code | The Lost Symbol | The Lost Symbol | Inferno | Inferno
 Steve Berry                       	    6	The Templar Legacy | The Alexandria Link | The Venetian Betrayal | The Charlemagne Pursuit | The Paris Vendetta | The Emperor's Tomb
 Sophie Kinsella                   	    5	Shopaholic Ties the Knot | Confession of a Shopaholic | Shopaholic Takes Manhattan | Can You Keep a Secret? | Remember Me?
@@ -24,8 +25,9 @@ Paul Jennings                     	    5	Unbelievable | Unbearable | Undone | Un
 Thomas Harris                     	    5	Black Sunday | Red Dragon | The Silence of the Lambs | Hannibal | Hannibal Rising
 George R. R. Martin               	    5	A Game of Thrones | A Clash of Kings | A Storm of Swords | A Feast for Crows | A Dance with Dragons
 James Dashner                     	    4	The Maze Runner | The Scorch Trials | The Death Cure | The Kill Order
-J.R.R. Tolkien                    	    4	The Hobbit | The Hobbit | The Fellowship of the Ring | The Fellowship of the Ring | The Two Towers | The Two Towers | The Two Towers | The Return of the King | The Return of the King
+J.R.R. Tolkien                    	    4	The Hobbit | The Hobbit | The Hobbit | The Fellowship of the Ring | The Fellowship of the Ring | The Fellowship of the Ring | The Two Towers | The Two Towers | The Two Towers | The Two Towers | The Return of the King | The Return of the King | The Return of the King
 Christopher Paolini               	    4	Eragon | Eldest | Brisingr | Inheritance
+Scott Meyer                       	    4	Off to be the Wizard | Spell or High Water | An Unwelcomed Quest | Fight and Flight
 Suzanne Collins                   	    3	The Hunger Games | The Hunger Games | Catching Fire | Catching Fire | Mockingjay | Mockingjay
 Veronica Roth                     	    3	Divergent | Insurgent | Allegiant
 Troy Denning                      	    3	Star Wars - Fate of the Jedi: Abyss | Star Wars - Fate of the Jedi: Vortex | Star Wars - Fate of the Jedi: Apocalpyse
@@ -33,7 +35,6 @@ Christie Golden                   	    3	Star Wars - Fate of the Jedi: Omen | St
 Stieg Larsson                     	    3	The Girl with the Dragon Tattoo | The Girl Who Played with Fire | The Girl Who Kicked the Hornet's Nest
 Robert Ludlum                     	    3	The Bourne Identity | The Bourne Ultimatum | The Bourne Supremacy
 Aaron Allston                     	    3	Star Wars - Fate of the Jedi: Outcast | Star Wars - Fate of the Jedi: Backlash | Star Wars - Fate of the Jedi: Conviction
-Scott Meyer                       	    3	Off to be the Wizard | Spell or High Water | An Unwelcomed Quest
 Kyle Mills                        	    3	The Survivor | Order to Kill | Enemy of the State
 Max Brooks                        	    2	The Zombie Survival Guide | World War Z
 Walter Isaacson                   	    2	Einstein: His Life and Universe | Steve Jobs
@@ -46,9 +47,10 @@ Charles R. Swindoll               	    1	Great Lives: Joseph - A Man of Integrit
 William Irwin                     	    1	The Matrix and Philosophy
 Gillian Flynn                     	    1	Gone Girl
 Bernard Goldberg                  	    1	100 People Who Are Screwing Up America
-Andy Weir                         	    1	The Martian
+Andy Weir                         	    1	The Martian | The Martian
 Meg Meeker                        	    1	Hero: Being the Strong Father Your Children Needs
 Chris Taylor                      	    1	How Star Wars Conquered the Universe
+Christian White                   	    1	The Nowhere Child
 John Buchan                       	    1	The Thirty Nine Steps
 Ken Follett                       	    1	Eye of the Needle
 Kathryn Stockett                  	    1	The Help
@@ -101,6 +103,7 @@ Cormac McCarthy                   	    1	No Country for Old Men
 Kevin Kwan                        	    1	Crazy Rich Asians
 Sara Gruen                        	    1	Water for Elephants
 Gary Chapman                      	    1	The Five Love Languages
+Delia Owens                       	    1	Where the Crowdad Sings
 Richard Dawkins                   	    1	The Greatest Show On Earth
 Bart D. Ehrman                    	    1	Truth and Fiction in the Da Vinci Code
 Fredrik Backman                   	    1	A Man Called Ove
