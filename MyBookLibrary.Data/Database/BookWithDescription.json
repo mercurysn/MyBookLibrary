@@ -25,14 +25,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 203,
-    "MinutesRankPercentile": 53,
-    "ReleaseDateRank": 334,
+    "MinutesRank": 207,
+    "MinutesRankPercentile": 52,
+    "ReleaseDateRank": 338,
     "ReleaseDateRankPercentile": 22,
     "DaysTaken": 1,
     "MinutesPerDay": 720,
     "SpeedRank": 1,
-    "SpeedRankPercentile": 53
+    "SpeedRankPercentile": 52
   },
   {
     "Id": 46,
@@ -64,14 +64,14 @@
       "Juvenile Fiction / Social Issues / Self-Esteem & Self-Reliance"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 220,
-    "MinutesRankPercentile": 49,
-    "ReleaseDateRank": 104,
+    "MinutesRank": 224,
+    "MinutesRankPercentile": 48,
+    "ReleaseDateRank": 106,
     "ReleaseDateRankPercentile": 76,
     "DaysTaken": 1,
     "MinutesPerDay": 703,
     "SpeedRank": 2,
-    "SpeedRankPercentile": 49
+    "SpeedRankPercentile": 48
   },
   {
     "Id": 291,
@@ -99,14 +99,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 237,
-    "MinutesRankPercentile": 45,
-    "ReleaseDateRank": 10,
+    "MinutesRank": 241,
+    "MinutesRankPercentile": 44,
+    "ReleaseDateRank": 12,
     "ReleaseDateRankPercentile": 98,
     "DaysTaken": 1,
     "MinutesPerDay": 689,
     "SpeedRank": 3,
-    "SpeedRankPercentile": 45
+    "SpeedRankPercentile": 44
   },
   {
     "Id": 68,
@@ -136,10 +136,10 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 258,
+    "MinutesRank": 262,
     "MinutesRankPercentile": 40,
-    "ReleaseDateRank": 191,
-    "ReleaseDateRankPercentile": 56,
+    "ReleaseDateRank": 194,
+    "ReleaseDateRankPercentile": 55,
     "DaysTaken": 1,
     "MinutesPerDay": 665,
     "SpeedRank": 4,
@@ -171,9 +171,9 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 287,
+    "MinutesRank": 291,
     "MinutesRankPercentile": 33,
-    "ReleaseDateRank": 23,
+    "ReleaseDateRank": 25,
     "ReleaseDateRankPercentile": 95,
     "DaysTaken": 1,
     "MinutesPerDay": 635,
@@ -206,14 +206,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 293,
-    "MinutesRankPercentile": 32,
-    "ReleaseDateRank": 96,
+    "MinutesRank": 297,
+    "MinutesRankPercentile": 31,
+    "ReleaseDateRank": 98,
     "ReleaseDateRankPercentile": 78,
     "DaysTaken": 1,
     "MinutesPerDay": 623,
     "SpeedRank": 6,
-    "SpeedRankPercentile": 32
+    "SpeedRankPercentile": 31
   },
   {
     "Id": 185,
@@ -241,10 +241,10 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 330,
+    "MinutesRank": 334,
     "MinutesRankPercentile": 23,
-    "ReleaseDateRank": 98,
-    "ReleaseDateRankPercentile": 78,
+    "ReleaseDateRank": 100,
+    "ReleaseDateRankPercentile": 77,
     "DaysTaken": 1,
     "MinutesPerDay": 535,
     "SpeedRank": 7,
@@ -276,9 +276,9 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 351,
+    "MinutesRank": 355,
     "MinutesRankPercentile": 18,
-    "ReleaseDateRank": 290,
+    "ReleaseDateRank": 294,
     "ReleaseDateRankPercentile": 32,
     "DaysTaken": 1,
     "MinutesPerDay": 484,
@@ -311,10 +311,10 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 359,
+    "MinutesRank": 363,
     "MinutesRankPercentile": 16,
-    "ReleaseDateRank": 26,
-    "ReleaseDateRankPercentile": 95,
+    "ReleaseDateRank": 28,
+    "ReleaseDateRankPercentile": 94,
     "DaysTaken": 1,
     "MinutesPerDay": 458,
     "SpeedRank": 9,
@@ -346,14 +346,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 361,
-    "MinutesRankPercentile": 16,
-    "ReleaseDateRank": 404,
+    "MinutesRank": 365,
+    "MinutesRankPercentile": 15,
+    "ReleaseDateRank": 408,
     "ReleaseDateRankPercentile": 5,
     "DaysTaken": 1,
     "MinutesPerDay": 451,
     "SpeedRank": 10,
-    "SpeedRankPercentile": 16
+    "SpeedRankPercentile": 15
   },
   {
     "Id": 240,
@@ -381,9 +381,9 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 372,
+    "MinutesRank": 376,
     "MinutesRankPercentile": 13,
-    "ReleaseDateRank": 46,
+    "ReleaseDateRank": 48,
     "ReleaseDateRankPercentile": 90,
     "DaysTaken": 1,
     "MinutesPerDay": 421,
@@ -416,9 +416,9 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 143,
+    "MinutesRank": 146,
     "MinutesRankPercentile": 67,
-    "ReleaseDateRank": 190,
+    "ReleaseDateRank": 193,
     "ReleaseDateRankPercentile": 56,
     "DaysTaken": 2,
     "MinutesPerDay": 414,
@@ -456,10 +456,10 @@
       "Philosophy / Religious"
     ],
     "Ratings": 2.0,
-    "MinutesRank": 376,
+    "MinutesRank": 380,
     "MinutesRankPercentile": 12,
-    "ReleaseDateRank": 238,
-    "ReleaseDateRankPercentile": 45,
+    "ReleaseDateRank": 241,
+    "ReleaseDateRankPercentile": 44,
     "DaysTaken": 1,
     "MinutesPerDay": 407,
     "SpeedRank": 13,
@@ -491,10 +491,10 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 55,
+    "MinutesRank": 56,
     "MinutesRankPercentile": 88,
-    "ReleaseDateRank": 90,
-    "ReleaseDateRankPercentile": 80,
+    "ReleaseDateRank": 92,
+    "ReleaseDateRankPercentile": 79,
     "DaysTaken": 3,
     "MinutesPerDay": 383,
     "SpeedRank": 14,
@@ -529,9 +529,9 @@
       "Social Science / Media Studies"
     ],
     "Ratings": 2.0,
-    "MinutesRank": 382,
+    "MinutesRank": 386,
     "MinutesRankPercentile": 11,
-    "ReleaseDateRank": 203,
+    "ReleaseDateRank": 206,
     "ReleaseDateRankPercentile": 53,
     "DaysTaken": 1,
     "MinutesPerDay": 375,
@@ -564,14 +564,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 2.0,
-    "MinutesRank": 191,
-    "MinutesRankPercentile": 56,
-    "ReleaseDateRank": 61,
+    "MinutesRank": 195,
+    "MinutesRankPercentile": 55,
+    "ReleaseDateRank": 63,
     "ReleaseDateRankPercentile": 86,
     "DaysTaken": 2,
     "MinutesPerDay": 368,
     "SpeedRank": 16,
-    "SpeedRankPercentile": 56
+    "SpeedRankPercentile": 55
   },
   {
     "Id": 223,
@@ -599,9 +599,9 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 385,
+    "MinutesRank": 389,
     "MinutesRankPercentile": 10,
-    "ReleaseDateRank": 406,
+    "ReleaseDateRank": 410,
     "ReleaseDateRankPercentile": 5,
     "DaysTaken": 1,
     "MinutesPerDay": 367,
@@ -634,9 +634,9 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 205,
+    "MinutesRank": 209,
     "MinutesRankPercentile": 52,
-    "ReleaseDateRank": 48,
+    "ReleaseDateRank": 50,
     "ReleaseDateRankPercentile": 89,
     "DaysTaken": 2,
     "MinutesPerDay": 357,
@@ -672,9 +672,9 @@
       "Juvenile Fiction / Media Tie-In"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 249,
+    "MinutesRank": 253,
     "MinutesRankPercentile": 42,
-    "ReleaseDateRank": 146,
+    "ReleaseDateRank": 149,
     "ReleaseDateRankPercentile": 66,
     "DaysTaken": 2,
     "MinutesPerDay": 335,
@@ -710,14 +710,14 @@
       "Juvenile Fiction / Media Tie-In"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 250,
-    "MinutesRankPercentile": 42,
-    "ReleaseDateRank": 147,
+    "MinutesRank": 254,
+    "MinutesRankPercentile": 41,
+    "ReleaseDateRank": 150,
     "ReleaseDateRankPercentile": 66,
     "DaysTaken": 2,
     "MinutesPerDay": 335,
     "SpeedRank": 20,
-    "SpeedRankPercentile": 42
+    "SpeedRankPercentile": 41
   },
   {
     "Id": 241,
@@ -745,14 +745,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 267,
-    "MinutesRankPercentile": 38,
-    "ReleaseDateRank": 31,
+    "MinutesRank": 271,
+    "MinutesRankPercentile": 37,
+    "ReleaseDateRank": 33,
     "ReleaseDateRankPercentile": 93,
     "DaysTaken": 2,
     "MinutesPerDay": 328,
     "SpeedRank": 21,
-    "SpeedRankPercentile": 38
+    "SpeedRankPercentile": 37
   },
   {
     "Id": 238,
@@ -784,14 +784,14 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 276,
-    "MinutesRankPercentile": 36,
-    "ReleaseDateRank": 28,
+    "MinutesRank": 280,
+    "MinutesRankPercentile": 35,
+    "ReleaseDateRank": 30,
     "ReleaseDateRankPercentile": 94,
     "DaysTaken": 2,
     "MinutesPerDay": 326,
     "SpeedRank": 22,
-    "SpeedRankPercentile": 36
+    "SpeedRankPercentile": 35
   },
   {
     "Id": 226,
@@ -819,14 +819,53 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 2.0,
-    "MinutesRank": 282,
+    "MinutesRank": 286,
     "MinutesRankPercentile": 34,
-    "ReleaseDateRank": 195,
-    "ReleaseDateRankPercentile": 55,
+    "ReleaseDateRank": 198,
+    "ReleaseDateRankPercentile": 54,
     "DaysTaken": 2,
     "MinutesPerDay": 324,
     "SpeedRank": 23,
     "SpeedRankPercentile": 34
+  },
+  {
+    "Id": 428,
+    "Name": "Project Hail Mary",
+    "Author": [
+      "Andy Weir"
+    ],
+    "Minutes": 970,
+    "DateStarted": "2022-12-15T00:00:00",
+    "DateCompleted": "2022-12-18T00:00:00",
+    "ReleaseDate": "2021-05-04T00:00:00",
+    "Pages": 476,
+    "CoverUrl": "https://mercury-book-repo.s3.amazonaws.com/img/428.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": "<b>#1 <i>NEW YORK TIMES </i>BESTSELLER • From the author of <i>The Martian,</i> a lone astronaut must save the earth from disaster in this “propulsive” (<i>Entertainment Weekly</i>), cinematic thriller full of suspense, humor, and fascinating science—in development as a major motion picture starring Ryan Gosling.<br><br>HUGO AWARD FINALIST • ONE OF THE YEAR’S BEST BOOKS: Bill Gates, GatesNotes, New York Public Library, <i>Parade, Newsweek,</i> <i>Polygon, Shelf Awareness, She Reads,</i> <i>Kirkus Reviews, Library Journal</i> • “An epic story of redemption, discovery and cool speculative sci-fi.”—<i>USA Today</i><br><br>“If you loved <i>The Martian,</i> you’ll go crazy for Weir’s latest.”—<i>The Washington Post</i></b><br><br>Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish.<br><br>Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it.<br><br>All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company.<br><br>His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.<br><br>And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone.<br><br>Or does he?<br><br>An irresistible interstellar adventure as only Andy Weir could deliver, <i>Project Hail Mary</i> is a tale of discovery, speculation, and survival to rival <i>The Martian</i>—while taking us to places it never dreamed of going.",
+    "Publisher": "Random House Publishing Group",
+    "Isbn10": "0593135202",
+    "Isbn13": "9780593135204",
+    "GoogleBookId": "GrYsEAAAQBAJ",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/GrYsEAAAQBAJ",
+    "CrowdRating": 4.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Science Fiction / Action & Adventure",
+      "Fiction / Science Fiction / Hard Science Fiction",
+      "Fiction / Thrillers / Suspense"
+    ],
+    "Ratings": 5.0,
+    "MinutesRank": 102,
+    "MinutesRankPercentile": 77,
+    "ReleaseDateRank": 1,
+    "ReleaseDateRankPercentile": 100,
+    "DaysTaken": 3,
+    "MinutesPerDay": 323,
+    "SpeedRank": 24,
+    "SpeedRankPercentile": 77
   },
   {
     "Id": 358,
@@ -856,14 +895,14 @@
       "Family & Relationships / Life Stages / Adolescence"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 391,
-    "MinutesRankPercentile": 9,
-    "ReleaseDateRank": 4,
-    "ReleaseDateRankPercentile": 100,
+    "MinutesRank": 395,
+    "MinutesRankPercentile": 8,
+    "ReleaseDateRank": 6,
+    "ReleaseDateRankPercentile": 99,
     "DaysTaken": 1,
     "MinutesPerDay": 323,
-    "SpeedRank": 24,
-    "SpeedRankPercentile": 9
+    "SpeedRank": 25,
+    "SpeedRankPercentile": 8
   },
   {
     "Id": 237,
@@ -894,13 +933,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 286,
+    "MinutesRank": 290,
     "MinutesRankPercentile": 33,
-    "ReleaseDateRank": 12,
-    "ReleaseDateRankPercentile": 98,
+    "ReleaseDateRank": 14,
+    "ReleaseDateRankPercentile": 97,
     "DaysTaken": 2,
     "MinutesPerDay": 320,
-    "SpeedRank": 25,
+    "SpeedRank": 26,
     "SpeedRankPercentile": 33
   },
   {
@@ -929,13 +968,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 393,
+    "MinutesRank": 397,
     "MinutesRankPercentile": 8,
-    "ReleaseDateRank": 64,
-    "ReleaseDateRankPercentile": 86,
+    "ReleaseDateRank": 66,
+    "ReleaseDateRankPercentile": 85,
     "DaysTaken": 1,
     "MinutesPerDay": 320,
-    "SpeedRank": 26,
+    "SpeedRank": 27,
     "SpeedRankPercentile": 8
   },
   {
@@ -964,13 +1003,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 2.0,
-    "MinutesRank": 101,
+    "MinutesRank": 103,
     "MinutesRankPercentile": 77,
-    "ReleaseDateRank": 362,
+    "ReleaseDateRank": 366,
     "ReleaseDateRankPercentile": 15,
     "DaysTaken": 3,
     "MinutesPerDay": 320,
-    "SpeedRank": 27,
+    "SpeedRank": 28,
     "SpeedRankPercentile": 77
   },
   {
@@ -999,14 +1038,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 289,
-    "MinutesRankPercentile": 33,
-    "ReleaseDateRank": 301,
-    "ReleaseDateRankPercentile": 30,
+    "MinutesRank": 293,
+    "MinutesRankPercentile": 32,
+    "ReleaseDateRank": 305,
+    "ReleaseDateRankPercentile": 29,
     "DaysTaken": 2,
     "MinutesPerDay": 316,
-    "SpeedRank": 28,
-    "SpeedRankPercentile": 33
+    "SpeedRank": 29,
+    "SpeedRankPercentile": 32
   },
   {
     "Id": 249,
@@ -1034,13 +1073,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 44,
+    "MinutesRank": 45,
     "MinutesRankPercentile": 90,
-    "ReleaseDateRank": 22,
-    "ReleaseDateRankPercentile": 96,
+    "ReleaseDateRank": 24,
+    "ReleaseDateRankPercentile": 95,
     "DaysTaken": 4,
     "MinutesPerDay": 310,
-    "SpeedRank": 29,
+    "SpeedRank": 30,
     "SpeedRankPercentile": 90
   },
   {
@@ -1071,13 +1110,13 @@
       "Biography & Autobiography / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 32,
+    "MinutesRank": 33,
     "MinutesRankPercentile": 93,
-    "ReleaseDateRank": 68,
-    "ReleaseDateRankPercentile": 85,
+    "ReleaseDateRank": 70,
+    "ReleaseDateRankPercentile": 84,
     "DaysTaken": 5,
     "MinutesPerDay": 301,
-    "SpeedRank": 30,
+    "SpeedRank": 31,
     "SpeedRankPercentile": 93
   },
   {
@@ -1109,14 +1148,14 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 311,
-    "MinutesRankPercentile": 27,
-    "ReleaseDateRank": 2,
+    "MinutesRank": 313,
+    "MinutesRankPercentile": 28,
+    "ReleaseDateRank": 3,
     "ReleaseDateRankPercentile": 100,
     "DaysTaken": 2,
     "MinutesPerDay": 289,
-    "SpeedRank": 31,
-    "SpeedRankPercentile": 27
+    "SpeedRank": 32,
+    "SpeedRankPercentile": 28
   },
   {
     "Id": 197,
@@ -1144,14 +1183,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 136,
-    "MinutesRankPercentile": 69,
-    "ReleaseDateRank": 82,
+    "MinutesRank": 139,
+    "MinutesRankPercentile": 68,
+    "ReleaseDateRank": 84,
     "ReleaseDateRankPercentile": 81,
     "DaysTaken": 3,
     "MinutesPerDay": 280,
-    "SpeedRank": 32,
-    "SpeedRankPercentile": 69
+    "SpeedRank": 33,
+    "SpeedRankPercentile": 68
   },
   {
     "Id": 76,
@@ -1179,13 +1218,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 396,
+    "MinutesRank": 400,
     "MinutesRankPercentile": 7,
-    "ReleaseDateRank": 405,
+    "ReleaseDateRank": 409,
     "ReleaseDateRankPercentile": 5,
     "DaysTaken": 1,
     "MinutesPerDay": 279,
-    "SpeedRank": 33,
+    "SpeedRank": 34,
     "SpeedRankPercentile": 7
   },
   {
@@ -1214,13 +1253,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 320,
+    "MinutesRank": 324,
     "MinutesRankPercentile": 25,
-    "ReleaseDateRank": 364,
+    "ReleaseDateRank": 368,
     "ReleaseDateRankPercentile": 15,
     "DaysTaken": 2,
     "MinutesPerDay": 278,
-    "SpeedRank": 34,
+    "SpeedRank": 35,
     "SpeedRankPercentile": 25
   },
   {
@@ -1249,13 +1288,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 399,
+    "MinutesRank": 403,
     "MinutesRankPercentile": 7,
-    "ReleaseDateRank": 348,
-    "ReleaseDateRankPercentile": 19,
+    "ReleaseDateRank": 352,
+    "ReleaseDateRankPercentile": 18,
     "DaysTaken": 1,
     "MinutesPerDay": 272,
-    "SpeedRank": 35,
+    "SpeedRank": 36,
     "SpeedRankPercentile": 7
   },
   {
@@ -1284,13 +1323,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 69,
+    "MinutesRank": 70,
     "MinutesRankPercentile": 84,
-    "ReleaseDateRank": 132,
-    "ReleaseDateRankPercentile": 70,
+    "ReleaseDateRank": 135,
+    "ReleaseDateRankPercentile": 69,
     "DaysTaken": 4,
     "MinutesPerDay": 271,
-    "SpeedRank": 36,
+    "SpeedRank": 37,
     "SpeedRankPercentile": 84
   },
   {
@@ -1319,13 +1358,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 326,
+    "MinutesRank": 330,
     "MinutesRankPercentile": 24,
-    "ReleaseDateRank": 306,
-    "ReleaseDateRankPercentile": 29,
+    "ReleaseDateRank": 310,
+    "ReleaseDateRankPercentile": 28,
     "DaysTaken": 2,
     "MinutesPerDay": 271,
-    "SpeedRank": 37,
+    "SpeedRank": 38,
     "SpeedRankPercentile": 24
   },
   {
@@ -1354,13 +1393,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 402,
+    "MinutesRank": 406,
     "MinutesRankPercentile": 6,
-    "ReleaseDateRank": 99,
+    "ReleaseDateRank": 101,
     "ReleaseDateRankPercentile": 77,
     "DaysTaken": 1,
     "MinutesPerDay": 265,
-    "SpeedRank": 38,
+    "SpeedRank": 39,
     "SpeedRankPercentile": 6
   },
   {
@@ -1400,13 +1439,13 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 333,
+    "MinutesRank": 337,
     "MinutesRankPercentile": 22,
-    "ReleaseDateRank": 285,
-    "ReleaseDateRankPercentile": 34,
+    "ReleaseDateRank": 289,
+    "ReleaseDateRankPercentile": 33,
     "DaysTaken": 2,
     "MinutesPerDay": 262,
-    "SpeedRank": 39,
+    "SpeedRank": 40,
     "SpeedRankPercentile": 22
   },
   {
@@ -1440,14 +1479,14 @@
       "Fiction / Political"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 165,
-    "MinutesRankPercentile": 62,
-    "ReleaseDateRank": 226,
+    "MinutesRank": 168,
+    "MinutesRankPercentile": 61,
+    "ReleaseDateRank": 229,
     "ReleaseDateRankPercentile": 47,
     "DaysTaken": 3,
     "MinutesPerDay": 261,
-    "SpeedRank": 40,
-    "SpeedRankPercentile": 62
+    "SpeedRank": 41,
+    "SpeedRankPercentile": 61
   },
   {
     "Id": 38,
@@ -1478,13 +1517,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 168,
+    "MinutesRank": 171,
     "MinutesRankPercentile": 61,
-    "ReleaseDateRank": 347,
+    "ReleaseDateRank": 351,
     "ReleaseDateRankPercentile": 19,
     "DaysTaken": 3,
     "MinutesPerDay": 259,
-    "SpeedRank": 41,
+    "SpeedRank": 42,
     "SpeedRankPercentile": 61
   },
   {
@@ -1519,14 +1558,14 @@
       "Fiction / Thrillers / Technological"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 178,
-    "MinutesRankPercentile": 59,
-    "ReleaseDateRank": 237,
+    "MinutesRank": 181,
+    "MinutesRankPercentile": 58,
+    "ReleaseDateRank": 240,
     "ReleaseDateRankPercentile": 45,
     "DaysTaken": 3,
     "MinutesPerDay": 257,
-    "SpeedRank": 42,
-    "SpeedRankPercentile": 59
+    "SpeedRank": 43,
+    "SpeedRankPercentile": 58
   },
   {
     "Id": 262,
@@ -1556,13 +1595,13 @@
       "Fiction / Horror"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 404,
+    "MinutesRank": 408,
     "MinutesRankPercentile": 5,
-    "ReleaseDateRank": 375,
+    "ReleaseDateRank": 379,
     "ReleaseDateRankPercentile": 12,
     "DaysTaken": 1,
     "MinutesPerDay": 257,
-    "SpeedRank": 43,
+    "SpeedRank": 44,
     "SpeedRankPercentile": 5
   },
   {
@@ -1591,13 +1630,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 337,
+    "MinutesRank": 341,
     "MinutesRankPercentile": 21,
-    "ReleaseDateRank": 176,
+    "ReleaseDateRank": 179,
     "ReleaseDateRankPercentile": 59,
     "DaysTaken": 2,
     "MinutesPerDay": 256,
-    "SpeedRank": 44,
+    "SpeedRank": 45,
     "SpeedRankPercentile": 21
   },
   {
@@ -1626,14 +1665,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 340,
-    "MinutesRankPercentile": 21,
-    "ReleaseDateRank": 136,
-    "ReleaseDateRankPercentile": 69,
+    "MinutesRank": 344,
+    "MinutesRankPercentile": 20,
+    "ReleaseDateRank": 139,
+    "ReleaseDateRankPercentile": 68,
     "DaysTaken": 2,
     "MinutesPerDay": 253,
-    "SpeedRank": 45,
-    "SpeedRankPercentile": 21
+    "SpeedRank": 46,
+    "SpeedRankPercentile": 20
   },
   {
     "Id": 23,
@@ -1663,13 +1702,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 85,
+    "MinutesRank": 86,
     "MinutesRankPercentile": 81,
-    "ReleaseDateRank": 279,
+    "ReleaseDateRank": 283,
     "ReleaseDateRankPercentile": 35,
     "DaysTaken": 4,
     "MinutesPerDay": 252,
-    "SpeedRank": 46,
+    "SpeedRank": 47,
     "SpeedRankPercentile": 81
   },
   {
@@ -1709,14 +1748,14 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 344,
-    "MinutesRankPercentile": 20,
-    "ReleaseDateRank": 294,
+    "MinutesRank": 348,
+    "MinutesRankPercentile": 19,
+    "ReleaseDateRank": 298,
     "ReleaseDateRankPercentile": 31,
     "DaysTaken": 2,
     "MinutesPerDay": 248,
-    "SpeedRank": 47,
-    "SpeedRankPercentile": 20
+    "SpeedRank": 48,
+    "SpeedRankPercentile": 19
   },
   {
     "Id": 77,
@@ -1744,13 +1783,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 197,
+    "MinutesRank": 201,
     "MinutesRankPercentile": 54,
-    "ReleaseDateRank": 143,
+    "ReleaseDateRank": 146,
     "ReleaseDateRankPercentile": 67,
     "DaysTaken": 3,
     "MinutesPerDay": 243,
-    "SpeedRank": 48,
+    "SpeedRank": 49,
     "SpeedRankPercentile": 54
   },
   {
@@ -1781,13 +1820,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 350,
+    "MinutesRank": 354,
     "MinutesRankPercentile": 18,
-    "ReleaseDateRank": 248,
+    "ReleaseDateRank": 252,
     "ReleaseDateRankPercentile": 42,
     "DaysTaken": 2,
     "MinutesPerDay": 243,
-    "SpeedRank": 49,
+    "SpeedRank": 50,
     "SpeedRankPercentile": 18
   },
   {
@@ -1818,13 +1857,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 214,
+    "MinutesRank": 218,
     "MinutesRankPercentile": 50,
-    "ReleaseDateRank": 264,
+    "ReleaseDateRank": 268,
     "ReleaseDateRankPercentile": 38,
     "DaysTaken": 3,
     "MinutesPerDay": 236,
-    "SpeedRank": 50,
+    "SpeedRank": 51,
     "SpeedRankPercentile": 50
   },
   {
@@ -1857,13 +1896,13 @@
       "Fiction / Action & Adventure"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 105,
+    "MinutesRank": 107,
     "MinutesRankPercentile": 76,
-    "ReleaseDateRank": 320,
+    "ReleaseDateRank": 324,
     "ReleaseDateRankPercentile": 25,
     "DaysTaken": 4,
     "MinutesPerDay": 236,
-    "SpeedRank": 51,
+    "SpeedRank": 52,
     "SpeedRankPercentile": 76
   },
   {
@@ -1895,13 +1934,13 @@
       "Juvenile Fiction / Action & Adventure / General"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 223,
+    "MinutesRank": 227,
     "MinutesRankPercentile": 48,
-    "ReleaseDateRank": 134,
+    "ReleaseDateRank": 137,
     "ReleaseDateRankPercentile": 69,
     "DaysTaken": 3,
     "MinutesPerDay": 233,
-    "SpeedRank": 52,
+    "SpeedRank": 53,
     "SpeedRankPercentile": 48
   },
   {
@@ -1936,13 +1975,13 @@
       "Fiction / Contemporary Women"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 360,
+    "MinutesRank": 364,
     "MinutesRankPercentile": 16,
-    "ReleaseDateRank": 18,
+    "ReleaseDateRank": 20,
     "ReleaseDateRankPercentile": 96,
     "DaysTaken": 2,
     "MinutesPerDay": 226,
-    "SpeedRank": 53,
+    "SpeedRank": 54,
     "SpeedRankPercentile": 16
   },
   {
@@ -1973,13 +2012,13 @@
       "Fiction / Science Fiction / General"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 120,
+    "MinutesRank": 122,
     "MinutesRankPercentile": 72,
-    "ReleaseDateRank": 326,
+    "ReleaseDateRank": 330,
     "ReleaseDateRankPercentile": 24,
     "DaysTaken": 4,
     "MinutesPerDay": 224,
-    "SpeedRank": 54,
+    "SpeedRank": 55,
     "SpeedRankPercentile": 72
   },
   {
@@ -2010,13 +2049,13 @@
       "Fiction / Science Fiction / General"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 121,
+    "MinutesRank": 123,
     "MinutesRankPercentile": 72,
-    "ReleaseDateRank": 327,
-    "ReleaseDateRankPercentile": 24,
+    "ReleaseDateRank": 331,
+    "ReleaseDateRankPercentile": 23,
     "DaysTaken": 4,
     "MinutesPerDay": 224,
-    "SpeedRank": 55,
+    "SpeedRank": 56,
     "SpeedRankPercentile": 72
   },
   {
@@ -2045,13 +2084,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 64,
+    "MinutesRank": 65,
     "MinutesRankPercentile": 86,
-    "ReleaseDateRank": 38,
-    "ReleaseDateRankPercentile": 92,
+    "ReleaseDateRank": 40,
+    "ReleaseDateRankPercentile": 91,
     "DaysTaken": 5,
     "MinutesPerDay": 223,
-    "SpeedRank": 56,
+    "SpeedRank": 57,
     "SpeedRankPercentile": 86
   },
   {
@@ -2080,14 +2119,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 251,
-    "MinutesRankPercentile": 42,
-    "ReleaseDateRank": 77,
-    "ReleaseDateRankPercentile": 83,
+    "MinutesRank": 255,
+    "MinutesRankPercentile": 41,
+    "ReleaseDateRank": 79,
+    "ReleaseDateRankPercentile": 82,
     "DaysTaken": 3,
     "MinutesPerDay": 223,
-    "SpeedRank": 57,
-    "SpeedRankPercentile": 42
+    "SpeedRank": 58,
+    "SpeedRankPercentile": 41
   },
   {
     "Id": 246,
@@ -2115,13 +2154,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 252,
+    "MinutesRank": 256,
     "MinutesRankPercentile": 41,
-    "ReleaseDateRank": 322,
+    "ReleaseDateRank": 326,
     "ReleaseDateRankPercentile": 25,
     "DaysTaken": 3,
     "MinutesPerDay": 223,
-    "SpeedRank": 58,
+    "SpeedRank": 59,
     "SpeedRankPercentile": 41
   },
   {
@@ -2150,13 +2189,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 123,
+    "MinutesRank": 125,
     "MinutesRankPercentile": 72,
-    "ReleaseDateRank": 398,
+    "ReleaseDateRank": 402,
     "ReleaseDateRankPercentile": 7,
     "DaysTaken": 4,
     "MinutesPerDay": 222,
-    "SpeedRank": 59,
+    "SpeedRank": 60,
     "SpeedRankPercentile": 72
   },
   {
@@ -2185,13 +2224,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 126,
+    "MinutesRank": 129,
     "MinutesRankPercentile": 71,
-    "ReleaseDateRank": 86,
+    "ReleaseDateRank": 88,
     "ReleaseDateRankPercentile": 80,
     "DaysTaken": 4,
     "MinutesPerDay": 218,
-    "SpeedRank": 60,
+    "SpeedRank": 61,
     "SpeedRankPercentile": 71
   },
   {
@@ -2220,13 +2259,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 279,
+    "MinutesRank": 283,
     "MinutesRankPercentile": 35,
-    "ReleaseDateRank": 120,
+    "ReleaseDateRank": 123,
     "ReleaseDateRankPercentile": 72,
     "DaysTaken": 3,
     "MinutesPerDay": 217,
-    "SpeedRank": 61,
+    "SpeedRank": 62,
     "SpeedRankPercentile": 35
   },
   {
@@ -2255,14 +2294,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 280,
-    "MinutesRankPercentile": 35,
-    "ReleaseDateRank": 62,
+    "MinutesRank": 284,
+    "MinutesRankPercentile": 34,
+    "ReleaseDateRank": 64,
     "ReleaseDateRankPercentile": 86,
     "DaysTaken": 3,
     "MinutesPerDay": 216,
-    "SpeedRank": 62,
-    "SpeedRankPercentile": 35
+    "SpeedRank": 63,
+    "SpeedRankPercentile": 34
   },
   {
     "Id": 147,
@@ -2290,14 +2329,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 285,
-    "MinutesRankPercentile": 34,
-    "ReleaseDateRank": 233,
+    "MinutesRank": 289,
+    "MinutesRankPercentile": 33,
+    "ReleaseDateRank": 236,
     "ReleaseDateRankPercentile": 46,
     "DaysTaken": 3,
     "MinutesPerDay": 214,
-    "SpeedRank": 63,
-    "SpeedRankPercentile": 34
+    "SpeedRank": 64,
+    "SpeedRankPercentile": 33
   },
   {
     "Id": 6,
@@ -2328,13 +2367,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 2.0,
-    "MinutesRank": 33,
+    "MinutesRank": 34,
     "MinutesRankPercentile": 93,
-    "ReleaseDateRank": 263,
-    "ReleaseDateRankPercentile": 39,
+    "ReleaseDateRank": 267,
+    "ReleaseDateRankPercentile": 38,
     "DaysTaken": 7,
     "MinutesPerDay": 213,
-    "SpeedRank": 64,
+    "SpeedRank": 65,
     "SpeedRankPercentile": 93
   },
   {
@@ -2364,13 +2403,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 134,
+    "MinutesRank": 137,
     "MinutesRankPercentile": 69,
-    "ReleaseDateRank": 109,
+    "ReleaseDateRank": 111,
     "ReleaseDateRankPercentile": 75,
     "DaysTaken": 4,
     "MinutesPerDay": 212,
-    "SpeedRank": 65,
+    "SpeedRank": 66,
     "SpeedRankPercentile": 69
   },
   {
@@ -2401,13 +2440,13 @@
       "Juvenile Fiction / Humorous Stories"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 405,
+    "MinutesRank": 409,
     "MinutesRankPercentile": 5,
-    "ReleaseDateRank": 312,
+    "ReleaseDateRank": 316,
     "ReleaseDateRankPercentile": 27,
     "DaysTaken": 1,
     "MinutesPerDay": 212,
-    "SpeedRank": 66,
+    "SpeedRank": 67,
     "SpeedRankPercentile": 5
   },
   {
@@ -2436,14 +2475,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 374,
-    "MinutesRankPercentile": 13,
-    "ReleaseDateRank": 156,
+    "MinutesRank": 378,
+    "MinutesRankPercentile": 12,
+    "ReleaseDateRank": 159,
     "ReleaseDateRankPercentile": 64,
     "DaysTaken": 2,
     "MinutesPerDay": 208,
-    "SpeedRank": 67,
-    "SpeedRankPercentile": 13
+    "SpeedRank": 68,
+    "SpeedRankPercentile": 12
   },
   {
     "Id": 235,
@@ -2471,14 +2510,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 144,
-    "MinutesRankPercentile": 67,
-    "ReleaseDateRank": 328,
+    "MinutesRank": 147,
+    "MinutesRankPercentile": 66,
+    "ReleaseDateRank": 332,
     "ReleaseDateRankPercentile": 23,
     "DaysTaken": 4,
     "MinutesPerDay": 207,
-    "SpeedRank": 68,
-    "SpeedRankPercentile": 67
+    "SpeedRank": 69,
+    "SpeedRankPercentile": 66
   },
   {
     "Id": 373,
@@ -2506,13 +2545,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.5,
-    "MinutesRank": 407,
+    "MinutesRank": 411,
     "MinutesRankPercentile": 5,
-    "ReleaseDateRank": 291,
+    "ReleaseDateRank": 295,
     "ReleaseDateRankPercentile": 32,
     "DaysTaken": 1,
     "MinutesPerDay": 206,
-    "SpeedRank": 69,
+    "SpeedRank": 70,
     "SpeedRankPercentile": 5
   },
   {
@@ -2541,13 +2580,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 87,
+    "MinutesRank": 88,
     "MinutesRankPercentile": 80,
-    "ReleaseDateRank": 13,
-    "ReleaseDateRankPercentile": 98,
+    "ReleaseDateRank": 15,
+    "ReleaseDateRankPercentile": 97,
     "DaysTaken": 5,
     "MinutesPerDay": 201,
-    "SpeedRank": 70,
+    "SpeedRank": 71,
     "SpeedRankPercentile": 80
   },
   {
@@ -2576,13 +2615,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 377,
+    "MinutesRank": 381,
     "MinutesRankPercentile": 12,
-    "ReleaseDateRank": 420,
+    "ReleaseDateRank": 424,
     "ReleaseDateRankPercentile": 2,
     "DaysTaken": 2,
     "MinutesPerDay": 201,
-    "SpeedRank": 71,
+    "SpeedRank": 72,
     "SpeedRankPercentile": 12
   },
   {
@@ -2613,13 +2652,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 158,
+    "MinutesRank": 161,
     "MinutesRankPercentile": 63,
-    "ReleaseDateRank": 217,
-    "ReleaseDateRankPercentile": 50,
+    "ReleaseDateRank": 220,
+    "ReleaseDateRankPercentile": 49,
     "DaysTaken": 4,
     "MinutesPerDay": 200,
-    "SpeedRank": 72,
+    "SpeedRank": 73,
     "SpeedRankPercentile": 63
   },
   {
@@ -2651,13 +2690,13 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 96,
+    "MinutesRank": 97,
     "MinutesRankPercentile": 78,
-    "ReleaseDateRank": 162,
-    "ReleaseDateRankPercentile": 63,
+    "ReleaseDateRank": 165,
+    "ReleaseDateRankPercentile": 62,
     "DaysTaken": 5,
     "MinutesPerDay": 198,
-    "SpeedRank": 73,
+    "SpeedRank": 74,
     "SpeedRankPercentile": 78
   },
   {
@@ -2686,14 +2725,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 408,
-    "MinutesRankPercentile": 5,
-    "ReleaseDateRank": 379,
+    "MinutesRank": 412,
+    "MinutesRankPercentile": 4,
+    "ReleaseDateRank": 383,
     "ReleaseDateRankPercentile": 11,
     "DaysTaken": 1,
     "MinutesPerDay": 198,
-    "SpeedRank": 74,
-    "SpeedRankPercentile": 5
+    "SpeedRank": 75,
+    "SpeedRankPercentile": 4
   },
   {
     "Id": 232,
@@ -2721,13 +2760,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 409,
+    "MinutesRank": 413,
     "MinutesRankPercentile": 4,
-    "ReleaseDateRank": 380,
+    "ReleaseDateRank": 384,
     "ReleaseDateRankPercentile": 11,
     "DaysTaken": 1,
     "MinutesPerDay": 198,
-    "SpeedRank": 75,
+    "SpeedRank": 76,
     "SpeedRankPercentile": 4
   },
   {
@@ -2756,13 +2795,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 410,
+    "MinutesRank": 414,
     "MinutesRankPercentile": 4,
-    "ReleaseDateRank": 376,
+    "ReleaseDateRank": 380,
     "ReleaseDateRankPercentile": 12,
     "DaysTaken": 1,
     "MinutesPerDay": 195,
-    "SpeedRank": 76,
+    "SpeedRank": 77,
     "SpeedRankPercentile": 4
   },
   {
@@ -2793,13 +2832,13 @@
       "Fiction / General"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 171,
+    "MinutesRank": 174,
     "MinutesRankPercentile": 60,
-    "ReleaseDateRank": 229,
+    "ReleaseDateRank": 232,
     "ReleaseDateRankPercentile": 47,
     "DaysTaken": 4,
     "MinutesPerDay": 194,
-    "SpeedRank": 77,
+    "SpeedRank": 78,
     "SpeedRankPercentile": 60
   },
   {
@@ -2828,13 +2867,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 411,
+    "MinutesRank": 415,
     "MinutesRankPercentile": 4,
-    "ReleaseDateRank": 356,
+    "ReleaseDateRank": 360,
     "ReleaseDateRankPercentile": 17,
     "DaysTaken": 1,
     "MinutesPerDay": 191,
-    "SpeedRank": 78,
+    "SpeedRank": 79,
     "SpeedRankPercentile": 4
   },
   {
@@ -2865,13 +2904,13 @@
       "Fiction / Science Fiction / Space Opera"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 317,
+    "MinutesRank": 321,
     "MinutesRankPercentile": 26,
-    "ReleaseDateRank": 57,
+    "ReleaseDateRank": 59,
     "ReleaseDateRankPercentile": 87,
     "DaysTaken": 3,
     "MinutesPerDay": 189,
-    "SpeedRank": 79,
+    "SpeedRank": 80,
     "SpeedRankPercentile": 26
   },
   {
@@ -2902,13 +2941,13 @@
       "Fiction / General"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 108,
+    "MinutesRank": 110,
     "MinutesRankPercentile": 75,
-    "ReleaseDateRank": 71,
+    "ReleaseDateRank": 73,
     "ReleaseDateRankPercentile": 84,
     "DaysTaken": 5,
     "MinutesPerDay": 188,
-    "SpeedRank": 80,
+    "SpeedRank": 81,
     "SpeedRankPercentile": 75
   },
   {
@@ -2939,13 +2978,13 @@
       "Juvenile Fiction / Humorous Stories"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 412,
+    "MinutesRank": 416,
     "MinutesRankPercentile": 4,
-    "ReleaseDateRank": 340,
-    "ReleaseDateRankPercentile": 21,
+    "ReleaseDateRank": 344,
+    "ReleaseDateRankPercentile": 20,
     "DaysTaken": 1,
     "MinutesPerDay": 188,
-    "SpeedRank": 81,
+    "SpeedRank": 82,
     "SpeedRankPercentile": 4
   },
   {
@@ -2981,14 +3020,14 @@
       "Fiction / Fantasy / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 111,
-    "MinutesRankPercentile": 75,
-    "ReleaseDateRank": 385,
+    "MinutesRank": 113,
+    "MinutesRankPercentile": 74,
+    "ReleaseDateRank": 389,
     "ReleaseDateRankPercentile": 10,
     "DaysTaken": 5,
     "MinutesPerDay": 185,
-    "SpeedRank": 82,
-    "SpeedRankPercentile": 75
+    "SpeedRank": 83,
+    "SpeedRankPercentile": 74
   },
   {
     "Id": 29,
@@ -3018,14 +3057,14 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 115,
-    "MinutesRankPercentile": 74,
-    "ReleaseDateRank": 412,
+    "MinutesRank": 117,
+    "MinutesRankPercentile": 73,
+    "ReleaseDateRank": 416,
     "ReleaseDateRankPercentile": 4,
     "DaysTaken": 5,
     "MinutesPerDay": 184,
-    "SpeedRank": 83,
-    "SpeedRankPercentile": 74
+    "SpeedRank": 84,
+    "SpeedRankPercentile": 73
   },
   {
     "Id": 244,
@@ -3055,11 +3094,11 @@
     "Ratings": 4.0,
     "MinutesRank": 1,
     "MinutesRankPercentile": 100,
-    "ReleaseDateRank": 381,
+    "ReleaseDateRank": 385,
     "ReleaseDateRankPercentile": 11,
     "DaysTaken": 19,
     "MinutesPerDay": 180,
-    "SpeedRank": 84,
+    "SpeedRank": 85,
     "SpeedRankPercentile": 100
   },
   {
@@ -3088,13 +3127,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 122,
+    "MinutesRank": 124,
     "MinutesRankPercentile": 72,
-    "ReleaseDateRank": 51,
-    "ReleaseDateRankPercentile": 89,
+    "ReleaseDateRank": 53,
+    "ReleaseDateRankPercentile": 88,
     "DaysTaken": 5,
     "MinutesPerDay": 179,
-    "SpeedRank": 85,
+    "SpeedRank": 86,
     "SpeedRankPercentile": 72
   },
   {
@@ -3124,14 +3163,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 204,
-    "MinutesRankPercentile": 53,
-    "ReleaseDateRank": 73,
-    "ReleaseDateRankPercentile": 84,
+    "MinutesRank": 208,
+    "MinutesRankPercentile": 52,
+    "ReleaseDateRank": 75,
+    "ReleaseDateRankPercentile": 83,
     "DaysTaken": 4,
     "MinutesPerDay": 179,
-    "SpeedRank": 86,
-    "SpeedRankPercentile": 53
+    "SpeedRank": 87,
+    "SpeedRankPercentile": 52
   },
   {
     "Id": 141,
@@ -3161,11 +3200,11 @@
     "Ratings": 3.0,
     "MinutesRank": 22,
     "MinutesRankPercentile": 96,
-    "ReleaseDateRank": 337,
+    "ReleaseDateRank": 341,
     "ReleaseDateRankPercentile": 21,
     "DaysTaken": 10,
     "MinutesPerDay": 179,
-    "SpeedRank": 87,
+    "SpeedRank": 88,
     "SpeedRankPercentile": 96
   },
   {
@@ -3194,13 +3233,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 413,
+    "MinutesRank": 417,
     "MinutesRankPercentile": 3,
-    "ReleaseDateRank": 424,
+    "ReleaseDateRank": 428,
     "ReleaseDateRankPercentile": 1,
     "DaysTaken": 1,
     "MinutesPerDay": 178,
-    "SpeedRank": 88,
+    "SpeedRank": 89,
     "SpeedRankPercentile": 3
   },
   {
@@ -3229,14 +3268,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 208,
-    "MinutesRankPercentile": 52,
-    "ReleaseDateRank": 37,
+    "MinutesRank": 212,
+    "MinutesRankPercentile": 51,
+    "ReleaseDateRank": 39,
     "ReleaseDateRankPercentile": 92,
     "DaysTaken": 4,
     "MinutesPerDay": 177,
-    "SpeedRank": 89,
-    "SpeedRankPercentile": 52
+    "SpeedRank": 90,
+    "SpeedRankPercentile": 51
   },
   {
     "Id": 204,
@@ -3264,13 +3303,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 210,
+    "MinutesRank": 214,
     "MinutesRankPercentile": 51,
-    "ReleaseDateRank": 118,
-    "ReleaseDateRankPercentile": 73,
+    "ReleaseDateRank": 121,
+    "ReleaseDateRankPercentile": 72,
     "DaysTaken": 4,
     "MinutesPerDay": 177,
-    "SpeedRank": 90,
+    "SpeedRank": 91,
     "SpeedRankPercentile": 51
   },
   {
@@ -3301,13 +3340,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 215,
+    "MinutesRank": 219,
     "MinutesRankPercentile": 50,
-    "ReleaseDateRank": 265,
+    "ReleaseDateRank": 269,
     "ReleaseDateRankPercentile": 38,
     "DaysTaken": 4,
     "MinutesPerDay": 177,
-    "SpeedRank": 91,
+    "SpeedRank": 92,
     "SpeedRankPercentile": 50
   },
   {
@@ -3336,13 +3375,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 332,
+    "MinutesRank": 336,
     "MinutesRankPercentile": 22,
-    "ReleaseDateRank": 403,
+    "ReleaseDateRank": 407,
     "ReleaseDateRankPercentile": 6,
     "DaysTaken": 3,
     "MinutesPerDay": 177,
-    "SpeedRank": 92,
+    "SpeedRank": 93,
     "SpeedRankPercentile": 22
   },
   {
@@ -3371,13 +3410,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 124,
+    "MinutesRank": 127,
     "MinutesRankPercentile": 71,
-    "ReleaseDateRank": 72,
-    "ReleaseDateRankPercentile": 84,
+    "ReleaseDateRank": 74,
+    "ReleaseDateRankPercentile": 83,
     "DaysTaken": 5,
     "MinutesPerDay": 176,
-    "SpeedRank": 93,
+    "SpeedRank": 94,
     "SpeedRankPercentile": 71
   },
   {
@@ -3409,14 +3448,14 @@
       "Juvenile Fiction / Action & Adventure / General"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 224,
-    "MinutesRankPercentile": 48,
-    "ReleaseDateRank": 135,
-    "ReleaseDateRankPercentile": 69,
+    "MinutesRank": 228,
+    "MinutesRankPercentile": 47,
+    "ReleaseDateRank": 138,
+    "ReleaseDateRankPercentile": 68,
     "DaysTaken": 4,
     "MinutesPerDay": 175,
-    "SpeedRank": 94,
-    "SpeedRankPercentile": 48
+    "SpeedRank": 95,
+    "SpeedRankPercentile": 47
   },
   {
     "Id": 114,
@@ -3446,11 +3485,11 @@
     "Ratings": 4.0,
     "MinutesRank": 27,
     "MinutesRankPercentile": 94,
-    "ReleaseDateRank": 223,
+    "ReleaseDateRank": 226,
     "ReleaseDateRankPercentile": 48,
     "DaysTaken": 9,
     "MinutesPerDay": 175,
-    "SpeedRank": 95,
+    "SpeedRank": 96,
     "SpeedRankPercentile": 94
   },
   {
@@ -3479,13 +3518,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 222,
+    "MinutesRank": 226,
     "MinutesRankPercentile": 48,
-    "ReleaseDateRank": 266,
+    "ReleaseDateRank": 270,
     "ReleaseDateRankPercentile": 38,
     "DaysTaken": 4,
     "MinutesPerDay": 175,
-    "SpeedRank": 96,
+    "SpeedRank": 97,
     "SpeedRankPercentile": 48
   },
   {
@@ -3525,13 +3564,13 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 334,
+    "MinutesRank": 338,
     "MinutesRankPercentile": 22,
-    "ReleaseDateRank": 286,
+    "ReleaseDateRank": 290,
     "ReleaseDateRankPercentile": 33,
     "DaysTaken": 3,
     "MinutesPerDay": 174,
-    "SpeedRank": 97,
+    "SpeedRank": 98,
     "SpeedRankPercentile": 22
   },
   {
@@ -3560,14 +3599,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 229,
-    "MinutesRankPercentile": 47,
-    "ReleaseDateRank": 313,
+    "MinutesRank": 233,
+    "MinutesRankPercentile": 46,
+    "ReleaseDateRank": 317,
     "ReleaseDateRankPercentile": 27,
     "DaysTaken": 4,
     "MinutesPerDay": 174,
-    "SpeedRank": 98,
-    "SpeedRankPercentile": 47
+    "SpeedRank": 99,
+    "SpeedRankPercentile": 46
   },
   {
     "Id": 182,
@@ -3595,13 +3634,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 74,
+    "MinutesRank": 75,
     "MinutesRankPercentile": 83,
-    "ReleaseDateRank": 255,
-    "ReleaseDateRankPercentile": 41,
+    "ReleaseDateRank": 259,
+    "ReleaseDateRankPercentile": 40,
     "DaysTaken": 6,
     "MinutesPerDay": 173,
-    "SpeedRank": 99,
+    "SpeedRank": 100,
     "SpeedRankPercentile": 83
   },
   {
@@ -3630,13 +3669,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 336,
+    "MinutesRank": 340,
     "MinutesRankPercentile": 21,
-    "ReleaseDateRank": 234,
-    "ReleaseDateRankPercentile": 46,
+    "ReleaseDateRank": 237,
+    "ReleaseDateRankPercentile": 45,
     "DaysTaken": 3,
     "MinutesPerDay": 172,
-    "SpeedRank": 100,
+    "SpeedRank": 101,
     "SpeedRankPercentile": 21
   },
   {
@@ -3667,13 +3706,13 @@
       "Juvenile Fiction / Humorous Stories"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 414,
+    "MinutesRank": 418,
     "MinutesRankPercentile": 3,
-    "ReleaseDateRank": 351,
+    "ReleaseDateRank": 355,
     "ReleaseDateRankPercentile": 18,
     "DaysTaken": 1,
     "MinutesPerDay": 169,
-    "SpeedRank": 101,
+    "SpeedRank": 102,
     "SpeedRankPercentile": 3
   },
   {
@@ -3703,14 +3742,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 145,
-    "MinutesRankPercentile": 67,
-    "ReleaseDateRank": 296,
+    "MinutesRank": 148,
+    "MinutesRankPercentile": 66,
+    "ReleaseDateRank": 300,
     "ReleaseDateRankPercentile": 31,
     "DaysTaken": 5,
     "MinutesPerDay": 165,
-    "SpeedRank": 102,
-    "SpeedRankPercentile": 67
+    "SpeedRank": 103,
+    "SpeedRankPercentile": 66
   },
   {
     "Id": 173,
@@ -3738,13 +3777,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 277,
+    "MinutesRank": 281,
     "MinutesRankPercentile": 35,
-    "ReleaseDateRank": 80,
+    "ReleaseDateRank": 82,
     "ReleaseDateRankPercentile": 82,
     "DaysTaken": 4,
     "MinutesPerDay": 163,
-    "SpeedRank": 103,
+    "SpeedRank": 104,
     "SpeedRankPercentile": 35
   },
   {
@@ -3776,13 +3815,13 @@
       "Science / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 62,
+    "MinutesRank": 63,
     "MinutesRankPercentile": 86,
-    "ReleaseDateRank": 211,
+    "ReleaseDateRank": 214,
     "ReleaseDateRankPercentile": 51,
     "DaysTaken": 7,
     "MinutesPerDay": 163,
-    "SpeedRank": 104,
+    "SpeedRank": 105,
     "SpeedRankPercentile": 86
   },
   {
@@ -3811,13 +3850,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.5,
-    "MinutesRank": 273,
+    "MinutesRank": 277,
     "MinutesRankPercentile": 36,
-    "ReleaseDateRank": 267,
-    "ReleaseDateRankPercentile": 38,
+    "ReleaseDateRank": 271,
+    "ReleaseDateRankPercentile": 37,
     "DaysTaken": 4,
     "MinutesPerDay": 163,
-    "SpeedRank": 105,
+    "SpeedRank": 106,
     "SpeedRankPercentile": 36
   },
   {
@@ -3849,13 +3888,13 @@
     ],
     "Ratings": 3.0,
     "MinutesRank": 18,
-    "MinutesRankPercentile": 96,
-    "ReleaseDateRank": 331,
-    "ReleaseDateRankPercentile": 23,
+    "MinutesRankPercentile": 97,
+    "ReleaseDateRank": 335,
+    "ReleaseDateRankPercentile": 22,
     "DaysTaken": 12,
     "MinutesPerDay": 163,
-    "SpeedRank": 106,
-    "SpeedRankPercentile": 96
+    "SpeedRank": 107,
+    "SpeedRankPercentile": 97
   },
   {
     "Id": 190,
@@ -3883,13 +3922,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 415,
+    "MinutesRank": 419,
     "MinutesRankPercentile": 3,
-    "ReleaseDateRank": 100,
+    "ReleaseDateRank": 102,
     "ReleaseDateRankPercentile": 77,
     "DaysTaken": 1,
     "MinutesPerDay": 162,
-    "SpeedRank": 107,
+    "SpeedRank": 108,
     "SpeedRankPercentile": 3
   },
   {
@@ -3919,14 +3958,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 153,
-    "MinutesRankPercentile": 65,
-    "ReleaseDateRank": 130,
+    "MinutesRank": 156,
+    "MinutesRankPercentile": 64,
+    "ReleaseDateRank": 133,
     "ReleaseDateRankPercentile": 70,
     "DaysTaken": 5,
     "MinutesPerDay": 161,
-    "SpeedRank": 108,
-    "SpeedRankPercentile": 65
+    "SpeedRank": 109,
+    "SpeedRankPercentile": 64
   },
   {
     "Id": 16,
@@ -3959,13 +3998,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 63,
+    "MinutesRank": 64,
     "MinutesRankPercentile": 86,
-    "ReleaseDateRank": 206,
+    "ReleaseDateRank": 209,
     "ReleaseDateRankPercentile": 52,
     "DaysTaken": 7,
     "MinutesPerDay": 161,
-    "SpeedRank": 109,
+    "SpeedRank": 110,
     "SpeedRankPercentile": 86
   },
   {
@@ -3994,13 +4033,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 154,
+    "MinutesRank": 157,
     "MinutesRankPercentile": 64,
-    "ReleaseDateRank": 303,
+    "ReleaseDateRank": 307,
     "ReleaseDateRankPercentile": 29,
     "DaysTaken": 5,
     "MinutesPerDay": 161,
-    "SpeedRank": 110,
+    "SpeedRank": 111,
     "SpeedRankPercentile": 64
   },
   {
@@ -4029,13 +4068,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 156,
+    "MinutesRank": 159,
     "MinutesRankPercentile": 64,
-    "ReleaseDateRank": 108,
+    "ReleaseDateRank": 110,
     "ReleaseDateRankPercentile": 75,
     "DaysTaken": 5,
     "MinutesPerDay": 160,
-    "SpeedRank": 111,
+    "SpeedRank": 112,
     "SpeedRankPercentile": 64
   },
   {
@@ -4067,14 +4106,14 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 102,
-    "MinutesRankPercentile": 77,
-    "ReleaseDateRank": 342,
+    "MinutesRank": 104,
+    "MinutesRankPercentile": 76,
+    "ReleaseDateRank": 346,
     "ReleaseDateRankPercentile": 20,
     "DaysTaken": 6,
     "MinutesPerDay": 159,
-    "SpeedRank": 112,
-    "SpeedRankPercentile": 77
+    "SpeedRank": 113,
+    "SpeedRankPercentile": 76
   },
   {
     "Id": 149,
@@ -4102,13 +4141,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 288,
+    "MinutesRank": 292,
     "MinutesRankPercentile": 33,
-    "ReleaseDateRank": 346,
+    "ReleaseDateRank": 350,
     "ReleaseDateRankPercentile": 19,
     "DaysTaken": 4,
     "MinutesPerDay": 158,
-    "SpeedRank": 113,
+    "SpeedRank": 114,
     "SpeedRankPercentile": 33
   },
   {
@@ -4137,13 +4176,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 35,
+    "MinutesRank": 36,
     "MinutesRankPercentile": 92,
-    "ReleaseDateRank": 35,
+    "ReleaseDateRank": 37,
     "ReleaseDateRankPercentile": 92,
     "DaysTaken": 9,
     "MinutesPerDay": 156,
-    "SpeedRank": 114,
+    "SpeedRank": 115,
     "SpeedRankPercentile": 92
   },
   {
@@ -4172,14 +4211,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 166,
-    "MinutesRankPercentile": 62,
-    "ReleaseDateRank": 227,
+    "MinutesRank": 169,
+    "MinutesRankPercentile": 61,
+    "ReleaseDateRank": 230,
     "ReleaseDateRankPercentile": 47,
     "DaysTaken": 5,
     "MinutesPerDay": 156,
-    "SpeedRank": 115,
-    "SpeedRankPercentile": 62
+    "SpeedRank": 116,
+    "SpeedRankPercentile": 61
   },
   {
     "Id": 140,
@@ -4208,13 +4247,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 167,
+    "MinutesRank": 170,
     "MinutesRankPercentile": 61,
-    "ReleaseDateRank": 309,
+    "ReleaseDateRank": 313,
     "ReleaseDateRankPercentile": 28,
     "DaysTaken": 5,
     "MinutesPerDay": 156,
-    "SpeedRank": 116,
+    "SpeedRank": 117,
     "SpeedRankPercentile": 61
   },
   {
@@ -4245,13 +4284,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 68,
+    "MinutesRank": 69,
     "MinutesRankPercentile": 85,
-    "ReleaseDateRank": 210,
+    "ReleaseDateRank": 213,
     "ReleaseDateRankPercentile": 51,
     "DaysTaken": 7,
     "MinutesPerDay": 155,
-    "SpeedRank": 117,
+    "SpeedRank": 118,
     "SpeedRankPercentile": 85
   },
   {
@@ -4280,13 +4319,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 356,
+    "MinutesRank": 360,
     "MinutesRankPercentile": 17,
-    "ReleaseDateRank": 155,
+    "ReleaseDateRank": 158,
     "ReleaseDateRankPercentile": 64,
     "DaysTaken": 3,
     "MinutesPerDay": 154,
-    "SpeedRank": 118,
+    "SpeedRank": 119,
     "SpeedRankPercentile": 17
   },
   {
@@ -4315,14 +4354,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 297,
-    "MinutesRankPercentile": 31,
-    "ReleaseDateRank": 159,
+    "MinutesRank": 301,
+    "MinutesRankPercentile": 30,
+    "ReleaseDateRank": 162,
     "ReleaseDateRankPercentile": 63,
     "DaysTaken": 4,
     "MinutesPerDay": 154,
-    "SpeedRank": 119,
-    "SpeedRankPercentile": 31
+    "SpeedRank": 120,
+    "SpeedRankPercentile": 30
   },
   {
     "Id": 202,
@@ -4350,13 +4389,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 298,
+    "MinutesRank": 302,
     "MinutesRankPercentile": 30,
-    "ReleaseDateRank": 160,
+    "ReleaseDateRank": 163,
     "ReleaseDateRankPercentile": 63,
     "DaysTaken": 4,
     "MinutesPerDay": 154,
-    "SpeedRank": 120,
+    "SpeedRank": 121,
     "SpeedRankPercentile": 30
   },
   {
@@ -4395,13 +4434,13 @@
       "Juvenile Fiction / School & Education"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 45,
+    "MinutesRank": 46,
     "MinutesRankPercentile": 90,
-    "ReleaseDateRank": 257,
+    "ReleaseDateRank": 261,
     "ReleaseDateRankPercentile": 40,
     "DaysTaken": 8,
     "MinutesPerDay": 154,
-    "SpeedRank": 121,
+    "SpeedRank": 122,
     "SpeedRankPercentile": 90
   },
   {
@@ -4430,13 +4469,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 177,
+    "MinutesRank": 180,
     "MinutesRankPercentile": 59,
-    "ReleaseDateRank": 308,
+    "ReleaseDateRank": 312,
     "ReleaseDateRankPercentile": 28,
     "DaysTaken": 5,
     "MinutesPerDay": 154,
-    "SpeedRank": 122,
+    "SpeedRank": 123,
     "SpeedRankPercentile": 59
   },
   {
@@ -4465,14 +4504,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 357,
-    "MinutesRankPercentile": 17,
-    "ReleaseDateRank": 421,
+    "MinutesRank": 361,
+    "MinutesRankPercentile": 16,
+    "ReleaseDateRank": 425,
     "ReleaseDateRankPercentile": 1,
     "DaysTaken": 3,
     "MinutesPerDay": 154,
-    "SpeedRank": 123,
-    "SpeedRankPercentile": 17
+    "SpeedRank": 124,
+    "SpeedRankPercentile": 16
   },
   {
     "Id": 307,
@@ -4503,13 +4542,13 @@
       "Fiction / General"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 358,
+    "MinutesRank": 362,
     "MinutesRankPercentile": 16,
-    "ReleaseDateRank": 34,
-    "ReleaseDateRankPercentile": 93,
+    "ReleaseDateRank": 36,
+    "ReleaseDateRankPercentile": 92,
     "DaysTaken": 3,
     "MinutesPerDay": 153,
-    "SpeedRank": 124,
+    "SpeedRank": 125,
     "SpeedRankPercentile": 16
   },
   {
@@ -4538,13 +4577,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 117,
+    "MinutesRank": 119,
     "MinutesRankPercentile": 73,
-    "ReleaseDateRank": 311,
+    "ReleaseDateRank": 315,
     "ReleaseDateRankPercentile": 27,
     "DaysTaken": 6,
     "MinutesPerDay": 153,
-    "SpeedRank": 125,
+    "SpeedRank": 126,
     "SpeedRankPercentile": 73
   },
   {
@@ -4575,13 +4614,13 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 181,
+    "MinutesRank": 184,
     "MinutesRankPercentile": 58,
-    "ReleaseDateRank": 297,
-    "ReleaseDateRankPercentile": 31,
+    "ReleaseDateRank": 301,
+    "ReleaseDateRankPercentile": 30,
     "DaysTaken": 5,
     "MinutesPerDay": 152,
-    "SpeedRank": 126,
+    "SpeedRank": 127,
     "SpeedRankPercentile": 58
   },
   {
@@ -4612,11 +4651,11 @@
     "Ratings": 3.0,
     "MinutesRank": 25,
     "MinutesRankPercentile": 95,
-    "ReleaseDateRank": 89,
-    "ReleaseDateRankPercentile": 80,
+    "ReleaseDateRank": 91,
+    "ReleaseDateRankPercentile": 79,
     "DaysTaken": 11,
     "MinutesPerDay": 151,
-    "SpeedRank": 127,
+    "SpeedRank": 128,
     "SpeedRankPercentile": 95
   },
   {
@@ -4649,13 +4688,13 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 416,
+    "MinutesRank": 420,
     "MinutesRankPercentile": 3,
-    "ReleaseDateRank": 138,
+    "ReleaseDateRank": 141,
     "ReleaseDateRankPercentile": 68,
     "DaysTaken": 1,
     "MinutesPerDay": 150,
-    "SpeedRank": 128,
+    "SpeedRank": 129,
     "SpeedRankPercentile": 3
   },
   {
@@ -4687,13 +4726,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 31,
+    "MinutesRank": 32,
     "MinutesRankPercentile": 93,
-    "ReleaseDateRank": 172,
+    "ReleaseDateRank": 175,
     "ReleaseDateRankPercentile": 60,
     "DaysTaken": 10,
     "MinutesPerDay": 150,
-    "SpeedRank": 129,
+    "SpeedRank": 130,
     "SpeedRankPercentile": 93
   },
   {
@@ -4727,11 +4766,11 @@
     "Ratings": 3.0,
     "MinutesRank": 19,
     "MinutesRankPercentile": 96,
-    "ReleaseDateRank": 181,
+    "ReleaseDateRank": 184,
     "ReleaseDateRankPercentile": 58,
     "DaysTaken": 13,
     "MinutesPerDay": 148,
-    "SpeedRank": 130,
+    "SpeedRank": 131,
     "SpeedRankPercentile": 96
   },
   {
@@ -4761,13 +4800,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 80,
+    "MinutesRank": 81,
     "MinutesRankPercentile": 82,
-    "ReleaseDateRank": 240,
+    "ReleaseDateRank": 244,
     "ReleaseDateRankPercentile": 44,
     "DaysTaken": 7,
     "MinutesPerDay": 146,
-    "SpeedRank": 131,
+    "SpeedRank": 132,
     "SpeedRankPercentile": 82
   },
   {
@@ -4796,13 +4835,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 198,
+    "MinutesRank": 202,
     "MinutesRankPercentile": 54,
-    "ReleaseDateRank": 144,
-    "ReleaseDateRankPercentile": 67,
+    "ReleaseDateRank": 147,
+    "ReleaseDateRankPercentile": 66,
     "DaysTaken": 5,
     "MinutesPerDay": 145,
-    "SpeedRank": 132,
+    "SpeedRank": 133,
     "SpeedRankPercentile": 54
   },
   {
@@ -4835,14 +4874,14 @@
       "Science / Space Science"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 199,
-    "MinutesRankPercentile": 54,
-    "ReleaseDateRank": 171,
+    "MinutesRank": 203,
+    "MinutesRankPercentile": 53,
+    "ReleaseDateRank": 174,
     "ReleaseDateRankPercentile": 60,
     "DaysTaken": 5,
     "MinutesPerDay": 145,
-    "SpeedRank": 133,
-    "SpeedRankPercentile": 54
+    "SpeedRank": 134,
+    "SpeedRankPercentile": 53
   },
   {
     "Id": 292,
@@ -4872,11 +4911,11 @@
     "Ratings": 4.0,
     "MinutesRank": 24,
     "MinutesRankPercentile": 95,
-    "ReleaseDateRank": 145,
-    "ReleaseDateRankPercentile": 67,
+    "ReleaseDateRank": 148,
+    "ReleaseDateRankPercentile": 66,
     "DaysTaken": 12,
     "MinutesPerDay": 144,
-    "SpeedRank": 134,
+    "SpeedRank": 135,
     "SpeedRankPercentile": 95
   },
   {
@@ -4916,14 +4955,14 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 39,
-    "MinutesRankPercentile": 92,
-    "ReleaseDateRank": 163,
+    "MinutesRank": 40,
+    "MinutesRankPercentile": 91,
+    "ReleaseDateRank": 166,
     "ReleaseDateRankPercentile": 62,
     "DaysTaken": 9,
     "MinutesPerDay": 144,
-    "SpeedRank": 135,
-    "SpeedRankPercentile": 92
+    "SpeedRank": 136,
+    "SpeedRankPercentile": 91
   },
   {
     "Id": 327,
@@ -4962,14 +5001,14 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 56,
-    "MinutesRankPercentile": 88,
-    "ReleaseDateRank": 200,
-    "ReleaseDateRankPercentile": 54,
+    "MinutesRank": 57,
+    "MinutesRankPercentile": 87,
+    "ReleaseDateRank": 203,
+    "ReleaseDateRankPercentile": 53,
     "DaysTaken": 8,
     "MinutesPerDay": 143,
-    "SpeedRank": 136,
-    "SpeedRankPercentile": 88
+    "SpeedRank": 137,
+    "SpeedRankPercentile": 87
   },
   {
     "Id": 126,
@@ -4999,11 +5038,11 @@
     "Ratings": 4.0,
     "MinutesRank": 5,
     "MinutesRankPercentile": 100,
-    "ReleaseDateRank": 254,
-    "ReleaseDateRankPercentile": 41,
+    "ReleaseDateRank": 258,
+    "ReleaseDateRankPercentile": 40,
     "DaysTaken": 20,
     "MinutesPerDay": 143,
-    "SpeedRank": 137,
+    "SpeedRank": 138,
     "SpeedRankPercentile": 100
   },
   {
@@ -5039,13 +5078,13 @@
       "Fiction / Fantasy / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 59,
+    "MinutesRank": 60,
     "MinutesRankPercentile": 87,
-    "ReleaseDateRank": 392,
+    "ReleaseDateRank": 396,
     "ReleaseDateRankPercentile": 8,
     "DaysTaken": 8,
     "MinutesPerDay": 143,
-    "SpeedRank": 138,
+    "SpeedRank": 139,
     "SpeedRankPercentile": 87
   },
   {
@@ -5074,13 +5113,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 206,
+    "MinutesRank": 210,
     "MinutesRankPercentile": 52,
-    "ReleaseDateRank": 49,
+    "ReleaseDateRank": 51,
     "ReleaseDateRankPercentile": 89,
     "DaysTaken": 5,
     "MinutesPerDay": 142,
-    "SpeedRank": 139,
+    "SpeedRank": 140,
     "SpeedRankPercentile": 52
   },
   {
@@ -5109,14 +5148,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 211,
-    "MinutesRankPercentile": 51,
-    "ReleaseDateRank": 119,
-    "ReleaseDateRankPercentile": 73,
+    "MinutesRank": 215,
+    "MinutesRankPercentile": 50,
+    "ReleaseDateRank": 122,
+    "ReleaseDateRankPercentile": 72,
     "DaysTaken": 5,
     "MinutesPerDay": 142,
-    "SpeedRank": 140,
-    "SpeedRankPercentile": 51
+    "SpeedRank": 141,
+    "SpeedRankPercentile": 50
   },
   {
     "Id": 129,
@@ -5144,14 +5183,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 212,
-    "MinutesRankPercentile": 51,
-    "ReleaseDateRank": 318,
-    "ReleaseDateRankPercentile": 26,
+    "MinutesRank": 216,
+    "MinutesRankPercentile": 50,
+    "ReleaseDateRank": 322,
+    "ReleaseDateRankPercentile": 25,
     "DaysTaken": 5,
     "MinutesPerDay": 142,
-    "SpeedRank": 141,
-    "SpeedRankPercentile": 51
+    "SpeedRank": 142,
+    "SpeedRankPercentile": 50
   },
   {
     "Id": 293,
@@ -5181,13 +5220,13 @@
       "Fiction / Mystery & Detective / Hard-Boiled"
     ],
     "Ratings": 2.0,
-    "MinutesRank": 369,
+    "MinutesRank": 373,
     "MinutesRankPercentile": 14,
-    "ReleaseDateRank": 402,
+    "ReleaseDateRank": 406,
     "ReleaseDateRankPercentile": 6,
     "DaysTaken": 3,
     "MinutesPerDay": 142,
-    "SpeedRank": 142,
+    "SpeedRank": 143,
     "SpeedRankPercentile": 14
   },
   {
@@ -5216,13 +5255,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.5,
-    "MinutesRank": 421,
+    "MinutesRank": 425,
     "MinutesRankPercentile": 1,
-    "ReleaseDateRank": 168,
+    "ReleaseDateRank": 171,
     "ReleaseDateRankPercentile": 61,
     "DaysTaken": 1,
     "MinutesPerDay": 141,
-    "SpeedRank": 143,
+    "SpeedRank": 144,
     "SpeedRankPercentile": 1
   },
   {
@@ -5251,13 +5290,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 370,
+    "MinutesRank": 374,
     "MinutesRankPercentile": 13,
-    "ReleaseDateRank": 178,
-    "ReleaseDateRankPercentile": 59,
+    "ReleaseDateRank": 181,
+    "ReleaseDateRankPercentile": 58,
     "DaysTaken": 3,
     "MinutesPerDay": 141,
-    "SpeedRank": 144,
+    "SpeedRank": 145,
     "SpeedRankPercentile": 13
   },
   {
@@ -5297,14 +5336,14 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 216,
-    "MinutesRankPercentile": 50,
-    "ReleaseDateRank": 273,
+    "MinutesRank": 220,
+    "MinutesRankPercentile": 49,
+    "ReleaseDateRank": 277,
     "ReleaseDateRankPercentile": 36,
     "DaysTaken": 5,
     "MinutesPerDay": 141,
-    "SpeedRank": 145,
-    "SpeedRankPercentile": 50
+    "SpeedRank": 146,
+    "SpeedRankPercentile": 49
   },
   {
     "Id": 260,
@@ -5335,13 +5374,13 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 99,
+    "MinutesRank": 100,
     "MinutesRankPercentile": 77,
-    "ReleaseDateRank": 47,
-    "ReleaseDateRankPercentile": 90,
+    "ReleaseDateRank": 49,
+    "ReleaseDateRankPercentile": 89,
     "DaysTaken": 7,
     "MinutesPerDay": 140,
-    "SpeedRank": 146,
+    "SpeedRank": 147,
     "SpeedRankPercentile": 77
   },
   {
@@ -5370,14 +5409,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 221,
-    "MinutesRankPercentile": 49,
-    "ReleaseDateRank": 105,
+    "MinutesRank": 225,
+    "MinutesRankPercentile": 48,
+    "ReleaseDateRank": 107,
     "ReleaseDateRankPercentile": 76,
     "DaysTaken": 5,
     "MinutesPerDay": 140,
-    "SpeedRank": 147,
-    "SpeedRankPercentile": 49
+    "SpeedRank": 148,
+    "SpeedRankPercentile": 48
   },
   {
     "Id": 205,
@@ -5405,13 +5444,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 230,
+    "MinutesRank": 234,
     "MinutesRankPercentile": 46,
-    "ReleaseDateRank": 94,
-    "ReleaseDateRankPercentile": 79,
+    "ReleaseDateRank": 96,
+    "ReleaseDateRankPercentile": 78,
     "DaysTaken": 5,
     "MinutesPerDay": 139,
-    "SpeedRank": 148,
+    "SpeedRank": 149,
     "SpeedRankPercentile": 46
   },
   {
@@ -5440,13 +5479,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 397,
+    "MinutesRank": 401,
     "MinutesRankPercentile": 7,
-    "ReleaseDateRank": 236,
+    "ReleaseDateRank": 239,
     "ReleaseDateRankPercentile": 45,
     "DaysTaken": 2,
     "MinutesPerDay": 139,
-    "SpeedRank": 149,
+    "SpeedRank": 150,
     "SpeedRankPercentile": 7
   },
   {
@@ -5479,13 +5518,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 65,
+    "MinutesRank": 66,
     "MinutesRankPercentile": 85,
-    "ReleaseDateRank": 260,
+    "ReleaseDateRank": 264,
     "ReleaseDateRankPercentile": 39,
     "DaysTaken": 8,
     "MinutesPerDay": 139,
-    "SpeedRank": 150,
+    "SpeedRank": 151,
     "SpeedRankPercentile": 85
   },
   {
@@ -5514,13 +5553,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 321,
+    "MinutesRank": 325,
     "MinutesRankPercentile": 25,
-    "ReleaseDateRank": 97,
+    "ReleaseDateRank": 99,
     "ReleaseDateRankPercentile": 78,
     "DaysTaken": 4,
     "MinutesPerDay": 137,
-    "SpeedRank": 151,
+    "SpeedRank": 152,
     "SpeedRankPercentile": 25
   },
   {
@@ -5551,11 +5590,11 @@
     "Ratings": 4.0,
     "MinutesRank": 14,
     "MinutesRankPercentile": 97,
-    "ReleaseDateRank": 114,
-    "ReleaseDateRankPercentile": 74,
+    "ReleaseDateRank": 117,
+    "ReleaseDateRankPercentile": 73,
     "DaysTaken": 15,
     "MinutesPerDay": 137,
-    "SpeedRank": 152,
+    "SpeedRank": 153,
     "SpeedRankPercentile": 97
   },
   {
@@ -5584,14 +5623,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 149,
-    "MinutesRankPercentile": 66,
-    "ReleaseDateRank": 133,
+    "MinutesRank": 152,
+    "MinutesRankPercentile": 65,
+    "ReleaseDateRank": 136,
     "ReleaseDateRankPercentile": 69,
     "DaysTaken": 6,
     "MinutesPerDay": 135,
-    "SpeedRank": 153,
-    "SpeedRankPercentile": 66
+    "SpeedRank": 154,
+    "SpeedRankPercentile": 65
   },
   {
     "Id": 139,
@@ -5619,13 +5658,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 328,
+    "MinutesRank": 332,
     "MinutesRankPercentile": 23,
-    "ReleaseDateRank": 307,
+    "ReleaseDateRank": 311,
     "ReleaseDateRankPercentile": 28,
     "DaysTaken": 4,
     "MinutesPerDay": 135,
-    "SpeedRank": 154,
+    "SpeedRank": 155,
     "SpeedRankPercentile": 23
   },
   {
@@ -5654,13 +5693,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 253,
+    "MinutesRank": 257,
     "MinutesRankPercentile": 41,
-    "ReleaseDateRank": 69,
+    "ReleaseDateRank": 71,
     "ReleaseDateRankPercentile": 84,
     "DaysTaken": 5,
     "MinutesPerDay": 134,
-    "SpeedRank": 155,
+    "SpeedRank": 156,
     "SpeedRankPercentile": 41
   },
   {
@@ -5689,14 +5728,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 255,
-    "MinutesRankPercentile": 41,
-    "ReleaseDateRank": 110,
-    "ReleaseDateRankPercentile": 75,
+    "MinutesRank": 259,
+    "MinutesRankPercentile": 40,
+    "ReleaseDateRank": 113,
+    "ReleaseDateRankPercentile": 74,
     "DaysTaken": 5,
     "MinutesPerDay": 134,
-    "SpeedRank": 156,
-    "SpeedRankPercentile": 41
+    "SpeedRank": 157,
+    "SpeedRankPercentile": 40
   },
   {
     "Id": 157,
@@ -5724,13 +5763,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 155,
+    "MinutesRank": 158,
     "MinutesRankPercentile": 64,
-    "ReleaseDateRank": 153,
-    "ReleaseDateRankPercentile": 65,
+    "ReleaseDateRank": 156,
+    "ReleaseDateRankPercentile": 64,
     "DaysTaken": 6,
     "MinutesPerDay": 134,
-    "SpeedRank": 157,
+    "SpeedRank": 158,
     "SpeedRankPercentile": 64
   },
   {
@@ -5759,13 +5798,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 107,
+    "MinutesRank": 109,
     "MinutesRankPercentile": 75,
-    "ReleaseDateRank": 189,
+    "ReleaseDateRank": 192,
     "ReleaseDateRankPercentile": 56,
     "DaysTaken": 7,
     "MinutesPerDay": 134,
-    "SpeedRank": 158,
+    "SpeedRank": 159,
     "SpeedRankPercentile": 75
   },
   {
@@ -5794,13 +5833,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 401,
+    "MinutesRank": 405,
     "MinutesRankPercentile": 6,
-    "ReleaseDateRank": 369,
+    "ReleaseDateRank": 373,
     "ReleaseDateRankPercentile": 14,
     "DaysTaken": 2,
     "MinutesPerDay": 134,
-    "SpeedRank": 159,
+    "SpeedRank": 160,
     "SpeedRankPercentile": 6
   },
   {
@@ -5829,14 +5868,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 157,
-    "MinutesRankPercentile": 64,
-    "ReleaseDateRank": 92,
+    "MinutesRank": 160,
+    "MinutesRankPercentile": 63,
+    "ReleaseDateRank": 94,
     "ReleaseDateRankPercentile": 79,
     "DaysTaken": 6,
     "MinutesPerDay": 133,
-    "SpeedRank": 160,
-    "SpeedRankPercentile": 64
+    "SpeedRank": 161,
+    "SpeedRankPercentile": 63
   },
   {
     "Id": 35,
@@ -5866,13 +5905,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 159,
+    "MinutesRank": 162,
     "MinutesRankPercentile": 63,
-    "ReleaseDateRank": 218,
+    "ReleaseDateRank": 221,
     "ReleaseDateRankPercentile": 49,
     "DaysTaken": 6,
     "MinutesPerDay": 133,
-    "SpeedRank": 161,
+    "SpeedRank": 162,
     "SpeedRankPercentile": 63
   },
   {
@@ -5901,13 +5940,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 256,
+    "MinutesRank": 260,
     "MinutesRankPercentile": 40,
-    "ReleaseDateRank": 302,
-    "ReleaseDateRankPercentile": 30,
+    "ReleaseDateRank": 306,
+    "ReleaseDateRankPercentile": 29,
     "DaysTaken": 5,
     "MinutesPerDay": 133,
-    "SpeedRank": 162,
+    "SpeedRank": 163,
     "SpeedRankPercentile": 40
   },
   {
@@ -5939,13 +5978,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 109,
+    "MinutesRank": 111,
     "MinutesRankPercentile": 75,
-    "ReleaseDateRank": 354,
+    "ReleaseDateRank": 358,
     "ReleaseDateRankPercentile": 17,
     "DaysTaken": 7,
     "MinutesPerDay": 133,
-    "SpeedRank": 163,
+    "SpeedRank": 164,
     "SpeedRankPercentile": 75
   },
   {
@@ -5977,13 +6016,13 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 160,
+    "MinutesRank": 163,
     "MinutesRankPercentile": 63,
-    "ReleaseDateRank": 154,
+    "ReleaseDateRank": 157,
     "ReleaseDateRankPercentile": 64,
     "DaysTaken": 6,
     "MinutesPerDay": 132,
-    "SpeedRank": 164,
+    "SpeedRank": 165,
     "SpeedRankPercentile": 63
   },
   {
@@ -6014,13 +6053,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 114,
+    "MinutesRank": 116,
     "MinutesRankPercentile": 74,
-    "ReleaseDateRank": 244,
+    "ReleaseDateRank": 248,
     "ReleaseDateRankPercentile": 43,
     "DaysTaken": 7,
     "MinutesPerDay": 132,
-    "SpeedRank": 165,
+    "SpeedRank": 166,
     "SpeedRankPercentile": 74
   },
   {
@@ -6049,13 +6088,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 261,
+    "MinutesRank": 265,
     "MinutesRankPercentile": 39,
-    "ReleaseDateRank": 399,
+    "ReleaseDateRank": 403,
     "ReleaseDateRankPercentile": 7,
     "DaysTaken": 5,
     "MinutesPerDay": 132,
-    "SpeedRank": 166,
+    "SpeedRank": 167,
     "SpeedRankPercentile": 39
   },
   {
@@ -6086,14 +6125,14 @@
       "Fiction / Science Fiction / General"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 161,
-    "MinutesRankPercentile": 63,
-    "ReleaseDateRank": 332,
+    "MinutesRank": 164,
+    "MinutesRankPercentile": 62,
+    "ReleaseDateRank": 336,
     "ReleaseDateRankPercentile": 22,
     "DaysTaken": 6,
     "MinutesPerDay": 131,
-    "SpeedRank": 167,
-    "SpeedRankPercentile": 63
+    "SpeedRank": 168,
+    "SpeedRankPercentile": 62
   },
   {
     "Id": 105,
@@ -6123,14 +6162,14 @@
       "Fiction / Science Fiction / General"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 162,
-    "MinutesRankPercentile": 63,
-    "ReleaseDateRank": 333,
+    "MinutesRank": 165,
+    "MinutesRankPercentile": 62,
+    "ReleaseDateRank": 337,
     "ReleaseDateRankPercentile": 22,
     "DaysTaken": 6,
     "MinutesPerDay": 131,
-    "SpeedRank": 168,
-    "SpeedRankPercentile": 63
+    "SpeedRank": 169,
+    "SpeedRankPercentile": 62
   },
   {
     "Id": 215,
@@ -6158,13 +6197,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 266,
+    "MinutesRank": 270,
     "MinutesRankPercentile": 38,
-    "ReleaseDateRank": 382,
+    "ReleaseDateRank": 386,
     "ReleaseDateRankPercentile": 11,
     "DaysTaken": 5,
     "MinutesPerDay": 131,
-    "SpeedRank": 169,
+    "SpeedRank": 170,
     "SpeedRankPercentile": 38
   },
   {
@@ -6194,14 +6233,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 119,
-    "MinutesRankPercentile": 73,
-    "ReleaseDateRank": 187,
-    "ReleaseDateRankPercentile": 57,
+    "MinutesRank": 121,
+    "MinutesRankPercentile": 72,
+    "ReleaseDateRank": 190,
+    "ReleaseDateRankPercentile": 56,
     "DaysTaken": 7,
     "MinutesPerDay": 130,
-    "SpeedRank": 170,
-    "SpeedRankPercentile": 73
+    "SpeedRank": 171,
+    "SpeedRankPercentile": 72
   },
   {
     "Id": 124,
@@ -6229,13 +6268,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 77,
+    "MinutesRank": 78,
     "MinutesRankPercentile": 83,
-    "ReleaseDateRank": 41,
+    "ReleaseDateRank": 43,
     "ReleaseDateRankPercentile": 91,
     "DaysTaken": 8,
     "MinutesPerDay": 129,
-    "SpeedRank": 171,
+    "SpeedRank": 172,
     "SpeedRankPercentile": 83
   },
   {
@@ -6268,13 +6307,13 @@
       "Religion / Christian Ministry / Discipleship"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 403,
+    "MinutesRank": 407,
     "MinutesRankPercentile": 6,
-    "ReleaseDateRank": 157,
-    "ReleaseDateRankPercentile": 64,
+    "ReleaseDateRank": 160,
+    "ReleaseDateRankPercentile": 63,
     "DaysTaken": 2,
     "MinutesPerDay": 129,
-    "SpeedRank": 172,
+    "SpeedRank": 173,
     "SpeedRankPercentile": 6
   },
   {
@@ -6306,14 +6345,14 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 174,
-    "MinutesRankPercentile": 60,
-    "ReleaseDateRank": 198,
+    "MinutesRank": 177,
+    "MinutesRankPercentile": 59,
+    "ReleaseDateRank": 201,
     "ReleaseDateRankPercentile": 54,
     "DaysTaken": 6,
     "MinutesPerDay": 129,
-    "SpeedRank": 173,
-    "SpeedRankPercentile": 60
+    "SpeedRank": 174,
+    "SpeedRankPercentile": 59
   },
   {
     "Id": 350,
@@ -6345,13 +6384,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 82,
+    "MinutesRank": 83,
     "MinutesRankPercentile": 81,
-    "ReleaseDateRank": 6,
+    "ReleaseDateRank": 8,
     "ReleaseDateRankPercentile": 99,
     "DaysTaken": 8,
     "MinutesPerDay": 127,
-    "SpeedRank": 174,
+    "SpeedRank": 175,
     "SpeedRankPercentile": 81
   },
   {
@@ -6381,13 +6420,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 84,
+    "MinutesRank": 85,
     "MinutesRankPercentile": 81,
-    "ReleaseDateRank": 91,
+    "ReleaseDateRank": 93,
     "ReleaseDateRankPercentile": 79,
     "DaysTaken": 8,
     "MinutesPerDay": 126,
-    "SpeedRank": 175,
+    "SpeedRank": 176,
     "SpeedRankPercentile": 81
   },
   {
@@ -6416,13 +6455,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 341,
+    "MinutesRank": 345,
     "MinutesRankPercentile": 20,
-    "ReleaseDateRank": 126,
+    "ReleaseDateRank": 129,
     "ReleaseDateRankPercentile": 71,
     "DaysTaken": 4,
     "MinutesPerDay": 126,
-    "SpeedRank": 176,
+    "SpeedRank": 177,
     "SpeedRankPercentile": 20
   },
   {
@@ -6454,13 +6493,13 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 92,
+    "MinutesRank": 93,
     "MinutesRankPercentile": 79,
-    "ReleaseDateRank": 230,
+    "ReleaseDateRank": 233,
     "ReleaseDateRankPercentile": 46,
     "DaysTaken": 8,
     "MinutesPerDay": 125,
-    "SpeedRank": 177,
+    "SpeedRank": 178,
     "SpeedRankPercentile": 79
   },
   {
@@ -6489,13 +6528,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 95,
+    "MinutesRank": 96,
     "MinutesRankPercentile": 78,
-    "ReleaseDateRank": 241,
-    "ReleaseDateRankPercentile": 44,
+    "ReleaseDateRank": 245,
+    "ReleaseDateRankPercentile": 43,
     "DaysTaken": 8,
     "MinutesPerDay": 124,
-    "SpeedRank": 178,
+    "SpeedRank": 179,
     "SpeedRankPercentile": 78
   },
   {
@@ -6532,13 +6571,13 @@
       "Fiction / Fantasy / Contemporary"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 345,
+    "MinutesRank": 349,
     "MinutesRankPercentile": 19,
-    "ReleaseDateRank": 295,
+    "ReleaseDateRank": 299,
     "ReleaseDateRankPercentile": 31,
     "DaysTaken": 4,
     "MinutesPerDay": 124,
-    "SpeedRank": 179,
+    "SpeedRank": 180,
     "SpeedRankPercentile": 19
   },
   {
@@ -6571,13 +6610,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 2.0,
-    "MinutesRank": 384,
+    "MinutesRank": 388,
     "MinutesRankPercentile": 10,
-    "ReleaseDateRank": 384,
+    "ReleaseDateRank": 388,
     "ReleaseDateRankPercentile": 10,
     "DaysTaken": 3,
     "MinutesPerDay": 124,
-    "SpeedRank": 180,
+    "SpeedRank": 181,
     "SpeedRankPercentile": 10
   },
   {
@@ -6606,13 +6645,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 296,
+    "MinutesRank": 300,
     "MinutesRankPercentile": 31,
-    "ReleaseDateRank": 9,
-    "ReleaseDateRankPercentile": 99,
+    "ReleaseDateRank": 11,
+    "ReleaseDateRankPercentile": 98,
     "DaysTaken": 5,
     "MinutesPerDay": 123,
-    "SpeedRank": 181,
+    "SpeedRank": 182,
     "SpeedRankPercentile": 31
   },
   {
@@ -6645,13 +6684,13 @@
       "Fiction / Science Fiction / Action & Adventure"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 299,
+    "MinutesRank": 303,
     "MinutesRankPercentile": 30,
-    "ReleaseDateRank": 43,
-    "ReleaseDateRankPercentile": 91,
+    "ReleaseDateRank": 45,
+    "ReleaseDateRankPercentile": 90,
     "DaysTaken": 5,
     "MinutesPerDay": 123,
-    "SpeedRank": 182,
+    "SpeedRank": 183,
     "SpeedRankPercentile": 30
   },
   {
@@ -6680,13 +6719,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 98,
+    "MinutesRank": 99,
     "MinutesRankPercentile": 78,
-    "ReleaseDateRank": 59,
-    "ReleaseDateRankPercentile": 87,
+    "ReleaseDateRank": 61,
+    "ReleaseDateRankPercentile": 86,
     "DaysTaken": 8,
     "MinutesPerDay": 123,
-    "SpeedRank": 183,
+    "SpeedRank": 184,
     "SpeedRankPercentile": 78
   },
   {
@@ -6715,13 +6754,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 188,
+    "MinutesRank": 192,
     "MinutesRankPercentile": 56,
-    "ReleaseDateRank": 219,
+    "ReleaseDateRank": 222,
     "ReleaseDateRankPercentile": 49,
     "DaysTaken": 6,
     "MinutesPerDay": 123,
-    "SpeedRank": 184,
+    "SpeedRank": 185,
     "SpeedRankPercentile": 56
   },
   {
@@ -6752,11 +6791,11 @@
     "Ratings": 1.0,
     "MinutesRank": 7,
     "MinutesRankPercentile": 99,
-    "ReleaseDateRank": 423,
+    "ReleaseDateRank": 427,
     "ReleaseDateRankPercentile": 1,
     "DaysTaken": 21,
     "MinutesPerDay": 123,
-    "SpeedRank": 185,
+    "SpeedRank": 186,
     "SpeedRankPercentile": 99
   },
   {
@@ -6787,13 +6826,13 @@
       "Fiction / Science Fiction / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 300,
+    "MinutesRank": 304,
     "MinutesRankPercentile": 30,
-    "ReleaseDateRank": 131,
-    "ReleaseDateRankPercentile": 70,
+    "ReleaseDateRank": 134,
+    "ReleaseDateRankPercentile": 69,
     "DaysTaken": 5,
     "MinutesPerDay": 122,
-    "SpeedRank": 186,
+    "SpeedRank": 187,
     "SpeedRankPercentile": 30
   },
   {
@@ -6824,11 +6863,11 @@
     "Ratings": 4.0,
     "MinutesRank": 28,
     "MinutesRankPercentile": 94,
-    "ReleaseDateRank": 224,
+    "ReleaseDateRank": 227,
     "ReleaseDateRankPercentile": 48,
     "DaysTaken": 13,
     "MinutesPerDay": 121,
-    "SpeedRank": 187,
+    "SpeedRank": 188,
     "SpeedRankPercentile": 94
   },
   {
@@ -6857,14 +6896,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 200,
-    "MinutesRankPercentile": 54,
-    "ReleaseDateRank": 359,
+    "MinutesRank": 204,
+    "MinutesRankPercentile": 53,
+    "ReleaseDateRank": 363,
     "ReleaseDateRankPercentile": 16,
     "DaysTaken": 6,
     "MinutesPerDay": 121,
-    "SpeedRank": 188,
-    "SpeedRankPercentile": 54
+    "SpeedRank": 189,
+    "SpeedRankPercentile": 53
   },
   {
     "Id": 32,
@@ -6894,13 +6933,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 137,
+    "MinutesRank": 140,
     "MinutesRankPercentile": 68,
-    "ReleaseDateRank": 83,
+    "ReleaseDateRank": 85,
     "ReleaseDateRankPercentile": 81,
     "DaysTaken": 7,
     "MinutesPerDay": 120,
-    "SpeedRank": 189,
+    "SpeedRank": 190,
     "SpeedRankPercentile": 68
   },
   {
@@ -6933,13 +6972,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 2.5,
-    "MinutesRank": 353,
+    "MinutesRank": 357,
     "MinutesRankPercentile": 17,
-    "ReleaseDateRank": 366,
+    "ReleaseDateRank": 370,
     "ReleaseDateRankPercentile": 14,
     "DaysTaken": 4,
     "MinutesPerDay": 119,
-    "SpeedRank": 190,
+    "SpeedRank": 191,
     "SpeedRankPercentile": 17
   },
   {
@@ -6974,14 +7013,14 @@
       "Fiction / Thrillers / Political"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 306,
-    "MinutesRankPercentile": 29,
-    "ReleaseDateRank": 8,
-    "ReleaseDateRankPercentile": 99,
+    "MinutesRank": 310,
+    "MinutesRankPercentile": 28,
+    "ReleaseDateRank": 10,
+    "ReleaseDateRankPercentile": 98,
     "DaysTaken": 5,
     "MinutesPerDay": 118,
-    "SpeedRank": 191,
-    "SpeedRankPercentile": 29
+    "SpeedRank": 192,
+    "SpeedRankPercentile": 28
   },
   {
     "Id": 112,
@@ -7017,14 +7056,14 @@
       "Fiction / Fantasy / Contemporary"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 217,
-    "MinutesRankPercentile": 50,
-    "ReleaseDateRank": 274,
+    "MinutesRank": 221,
+    "MinutesRankPercentile": 49,
+    "ReleaseDateRank": 278,
     "ReleaseDateRankPercentile": 36,
     "DaysTaken": 6,
     "MinutesPerDay": 118,
-    "SpeedRank": 192,
-    "SpeedRankPercentile": 50
+    "SpeedRank": 193,
+    "SpeedRankPercentile": 49
   },
   {
     "Id": 123,
@@ -7056,13 +7095,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 307,
+    "MinutesRank": 311,
     "MinutesRankPercentile": 28,
-    "ReleaseDateRank": 324,
+    "ReleaseDateRank": 328,
     "ReleaseDateRankPercentile": 24,
     "DaysTaken": 5,
     "MinutesPerDay": 118,
-    "SpeedRank": 193,
+    "SpeedRank": 194,
     "SpeedRankPercentile": 28
   },
   {
@@ -7093,11 +7132,11 @@
     "Ratings": 3.0,
     "MinutesRank": 3,
     "MinutesRankPercentile": 100,
-    "ReleaseDateRank": 75,
+    "ReleaseDateRank": 77,
     "ReleaseDateRankPercentile": 83,
     "DaysTaken": 25,
     "MinutesPerDay": 117,
-    "SpeedRank": 194,
+    "SpeedRank": 195,
     "SpeedRankPercentile": 100
   },
   {
@@ -7126,14 +7165,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 225,
-    "MinutesRankPercentile": 48,
-    "ReleaseDateRank": 16,
+    "MinutesRank": 229,
+    "MinutesRankPercentile": 47,
+    "ReleaseDateRank": 18,
     "ReleaseDateRankPercentile": 97,
     "DaysTaken": 6,
     "MinutesPerDay": 116,
-    "SpeedRank": 195,
-    "SpeedRankPercentile": 48
+    "SpeedRank": 196,
+    "SpeedRankPercentile": 47
   },
   {
     "Id": 88,
@@ -7161,13 +7200,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 231,
+    "MinutesRank": 235,
     "MinutesRankPercentile": 46,
-    "ReleaseDateRank": 95,
+    "ReleaseDateRank": 97,
     "ReleaseDateRankPercentile": 78,
     "DaysTaken": 6,
     "MinutesPerDay": 116,
-    "SpeedRank": 196,
+    "SpeedRank": 197,
     "SpeedRankPercentile": 46
   },
   {
@@ -7196,13 +7235,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 236,
+    "MinutesRank": 240,
     "MinutesRankPercentile": 45,
-    "ReleaseDateRank": 27,
+    "ReleaseDateRank": 29,
     "ReleaseDateRankPercentile": 94,
     "DaysTaken": 6,
     "MinutesPerDay": 115,
-    "SpeedRank": 197,
+    "SpeedRank": 198,
     "SpeedRankPercentile": 45
   },
   {
@@ -7231,14 +7270,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 73,
-    "MinutesRankPercentile": 84,
-    "ReleaseDateRank": 173,
+    "MinutesRank": 74,
+    "MinutesRankPercentile": 83,
+    "ReleaseDateRank": 176,
     "ReleaseDateRankPercentile": 60,
     "DaysTaken": 9,
     "MinutesPerDay": 115,
-    "SpeedRank": 198,
-    "SpeedRankPercentile": 84
+    "SpeedRank": 199,
+    "SpeedRankPercentile": 83
   },
   {
     "Id": 128,
@@ -7266,14 +7305,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 1.0,
-    "MinutesRank": 309,
-    "MinutesRankPercentile": 28,
-    "ReleaseDateRank": 395,
+    "MinutesRank": 314,
+    "MinutesRankPercentile": 27,
+    "ReleaseDateRank": 399,
     "ReleaseDateRankPercentile": 8,
     "DaysTaken": 5,
     "MinutesPerDay": 115,
-    "SpeedRank": 199,
-    "SpeedRankPercentile": 28
+    "SpeedRank": 200,
+    "SpeedRankPercentile": 27
   },
   {
     "Id": 222,
@@ -7301,14 +7340,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 242,
-    "MinutesRankPercentile": 44,
-    "ReleaseDateRank": 300,
+    "MinutesRank": 246,
+    "MinutesRankPercentile": 43,
+    "ReleaseDateRank": 304,
     "ReleaseDateRankPercentile": 30,
     "DaysTaken": 6,
     "MinutesPerDay": 114,
-    "SpeedRank": 200,
-    "SpeedRankPercentile": 44
+    "SpeedRank": 201,
+    "SpeedRankPercentile": 43
   },
   {
     "Id": 227,
@@ -7336,14 +7375,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 241,
-    "MinutesRankPercentile": 44,
-    "ReleaseDateRank": 310,
-    "ReleaseDateRankPercentile": 28,
+    "MinutesRank": 245,
+    "MinutesRankPercentile": 43,
+    "ReleaseDateRank": 314,
+    "ReleaseDateRankPercentile": 27,
     "DaysTaken": 6,
     "MinutesPerDay": 114,
-    "SpeedRank": 201,
-    "SpeedRankPercentile": 44
+    "SpeedRank": 202,
+    "SpeedRankPercentile": 43
   },
   {
     "Id": 101,
@@ -7371,13 +7410,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 390,
+    "MinutesRank": 394,
     "MinutesRankPercentile": 9,
-    "ReleaseDateRank": 408,
-    "ReleaseDateRankPercentile": 5,
+    "ReleaseDateRank": 412,
+    "ReleaseDateRankPercentile": 4,
     "DaysTaken": 3,
     "MinutesPerDay": 113,
-    "SpeedRank": 202,
+    "SpeedRank": 203,
     "SpeedRankPercentile": 9
   },
   {
@@ -7410,14 +7449,14 @@
       "Fiction / Science Fiction / Military"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 246,
-    "MinutesRankPercentile": 43,
-    "ReleaseDateRank": 67,
+    "MinutesRank": 250,
+    "MinutesRankPercentile": 42,
+    "ReleaseDateRank": 69,
     "ReleaseDateRankPercentile": 85,
     "DaysTaken": 6,
     "MinutesPerDay": 112,
-    "SpeedRank": 203,
-    "SpeedRankPercentile": 43
+    "SpeedRank": 204,
+    "SpeedRankPercentile": 42
   },
   {
     "Id": 218,
@@ -7446,13 +7485,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 172,
+    "MinutesRank": 175,
     "MinutesRankPercentile": 60,
-    "ReleaseDateRank": 161,
-    "ReleaseDateRankPercentile": 63,
+    "ReleaseDateRank": 164,
+    "ReleaseDateRankPercentile": 62,
     "DaysTaken": 7,
     "MinutesPerDay": 111,
-    "SpeedRank": 204,
+    "SpeedRank": 205,
     "SpeedRankPercentile": 60
   },
   {
@@ -7485,13 +7524,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 66,
+    "MinutesRank": 67,
     "MinutesRankPercentile": 85,
-    "ReleaseDateRank": 261,
+    "ReleaseDateRank": 265,
     "ReleaseDateRankPercentile": 39,
     "DaysTaken": 10,
     "MinutesPerDay": 111,
-    "SpeedRank": 205,
+    "SpeedRank": 206,
     "SpeedRankPercentile": 85
   },
   {
@@ -7522,14 +7561,14 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 259,
-    "MinutesRankPercentile": 40,
-    "ReleaseDateRank": 192,
+    "MinutesRank": 263,
+    "MinutesRankPercentile": 39,
+    "ReleaseDateRank": 195,
     "ReleaseDateRankPercentile": 55,
     "DaysTaken": 6,
     "MinutesPerDay": 110,
-    "SpeedRank": 206,
-    "SpeedRankPercentile": 40
+    "SpeedRank": 207,
+    "SpeedRankPercentile": 39
   },
   {
     "Id": 161,
@@ -7557,14 +7596,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 268,
-    "MinutesRankPercentile": 38,
-    "ReleaseDateRank": 284,
-    "ReleaseDateRankPercentile": 34,
+    "MinutesRank": 272,
+    "MinutesRankPercentile": 37,
+    "ReleaseDateRank": 288,
+    "ReleaseDateRankPercentile": 33,
     "DaysTaken": 6,
     "MinutesPerDay": 109,
-    "SpeedRank": 207,
-    "SpeedRankPercentile": 38
+    "SpeedRank": 208,
+    "SpeedRankPercentile": 37
   },
   {
     "Id": 273,
@@ -7596,13 +7635,13 @@
       "Fiction / Historical"
     ],
     "Ratings": 2.0,
-    "MinutesRank": 53,
+    "MinutesRank": 54,
     "MinutesRankPercentile": 88,
-    "ReleaseDateRank": 316,
+    "ReleaseDateRank": 320,
     "ReleaseDateRankPercentile": 26,
     "DaysTaken": 11,
     "MinutesPerDay": 109,
-    "SpeedRank": 208,
+    "SpeedRank": 209,
     "SpeedRankPercentile": 88
   },
   {
@@ -7631,13 +7670,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 40,
+    "MinutesRank": 41,
     "MinutesRankPercentile": 91,
-    "ReleaseDateRank": 164,
+    "ReleaseDateRank": 167,
     "ReleaseDateRankPercentile": 62,
     "DaysTaken": 12,
     "MinutesPerDay": 108,
-    "SpeedRank": 209,
+    "SpeedRank": 210,
     "SpeedRankPercentile": 91
   },
   {
@@ -7668,13 +7707,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 182,
+    "MinutesRank": 185,
     "MinutesRankPercentile": 58,
-    "ReleaseDateRank": 239,
+    "ReleaseDateRank": 243,
     "ReleaseDateRankPercentile": 44,
     "DaysTaken": 7,
     "MinutesPerDay": 108,
-    "SpeedRank": 210,
+    "SpeedRank": 211,
     "SpeedRankPercentile": 58
   },
   {
@@ -7703,14 +7742,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 131,
-    "MinutesRankPercentile": 70,
-    "ReleaseDateRank": 413,
+    "MinutesRank": 134,
+    "MinutesRankPercentile": 69,
+    "ReleaseDateRank": 417,
     "ReleaseDateRankPercentile": 3,
     "DaysTaken": 8,
     "MinutesPerDay": 108,
-    "SpeedRank": 211,
-    "SpeedRankPercentile": 70
+    "SpeedRank": 212,
+    "SpeedRankPercentile": 69
   },
   {
     "Id": 92,
@@ -7738,13 +7777,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 329,
+    "MinutesRank": 333,
     "MinutesRankPercentile": 23,
-    "ReleaseDateRank": 81,
-    "ReleaseDateRankPercentile": 82,
+    "ReleaseDateRank": 83,
+    "ReleaseDateRankPercentile": 81,
     "DaysTaken": 5,
     "MinutesPerDay": 107,
-    "SpeedRank": 212,
+    "SpeedRank": 213,
     "SpeedRankPercentile": 23
   },
   {
@@ -7773,13 +7812,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 42,
+    "MinutesRank": 43,
     "MinutesRankPercentile": 91,
-    "ReleaseDateRank": 335,
+    "ReleaseDateRank": 339,
     "ReleaseDateRankPercentile": 22,
     "DaysTaken": 12,
     "MinutesPerDay": 107,
-    "SpeedRank": 213,
+    "SpeedRank": 214,
     "SpeedRankPercentile": 91
   },
   {
@@ -7812,13 +7851,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 133,
+    "MinutesRank": 136,
     "MinutesRankPercentile": 69,
-    "ReleaseDateRank": 20,
+    "ReleaseDateRank": 22,
     "ReleaseDateRankPercentile": 96,
     "DaysTaken": 8,
     "MinutesPerDay": 106,
-    "SpeedRank": 214,
+    "SpeedRank": 215,
     "SpeedRankPercentile": 69
   },
   {
@@ -7848,13 +7887,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 104,
+    "MinutesRank": 106,
     "MinutesRankPercentile": 76,
-    "ReleaseDateRank": 222,
+    "ReleaseDateRank": 225,
     "ReleaseDateRankPercentile": 48,
     "DaysTaken": 9,
     "MinutesPerDay": 105,
-    "SpeedRank": 215,
+    "SpeedRank": 216,
     "SpeedRankPercentile": 76
   },
   {
@@ -7887,14 +7926,14 @@
       "Fiction / Action & Adventure"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 106,
-    "MinutesRankPercentile": 76,
-    "ReleaseDateRank": 321,
+    "MinutesRank": 108,
+    "MinutesRankPercentile": 75,
+    "ReleaseDateRank": 325,
     "ReleaseDateRankPercentile": 25,
     "DaysTaken": 9,
     "MinutesPerDay": 105,
-    "SpeedRank": 216,
-    "SpeedRankPercentile": 76
+    "SpeedRank": 217,
+    "SpeedRankPercentile": 75
   },
   {
     "Id": 167,
@@ -7922,13 +7961,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 103,
+    "MinutesRank": 105,
     "MinutesRankPercentile": 76,
-    "ReleaseDateRank": 365,
+    "ReleaseDateRank": 369,
     "ReleaseDateRankPercentile": 15,
     "DaysTaken": 9,
     "MinutesPerDay": 105,
-    "SpeedRank": 217,
+    "SpeedRank": 218,
     "SpeedRankPercentile": 76
   },
   {
@@ -7957,13 +7996,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 138,
+    "MinutesRank": 141,
     "MinutesRankPercentile": 68,
-    "ReleaseDateRank": 45,
+    "ReleaseDateRank": 47,
     "ReleaseDateRankPercentile": 90,
     "DaysTaken": 8,
     "MinutesPerDay": 104,
-    "SpeedRank": 218,
+    "SpeedRank": 219,
     "SpeedRankPercentile": 68
   },
   {
@@ -7992,14 +8031,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 140,
-    "MinutesRankPercentile": 68,
-    "ReleaseDateRank": 84,
+    "MinutesRank": 143,
+    "MinutesRankPercentile": 67,
+    "ReleaseDateRank": 86,
     "ReleaseDateRankPercentile": 81,
     "DaysTaken": 8,
     "MinutesPerDay": 104,
-    "SpeedRank": 219,
-    "SpeedRankPercentile": 68
+    "SpeedRank": 220,
+    "SpeedRankPercentile": 67
   },
   {
     "Id": 158,
@@ -8027,13 +8066,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 291,
+    "MinutesRank": 295,
     "MinutesRankPercentile": 32,
-    "ReleaseDateRank": 111,
-    "ReleaseDateRankPercentile": 75,
+    "ReleaseDateRank": 114,
+    "ReleaseDateRankPercentile": 74,
     "DaysTaken": 6,
     "MinutesPerDay": 104,
-    "SpeedRank": 220,
+    "SpeedRank": 221,
     "SpeedRankPercentile": 32
   },
   {
@@ -8064,13 +8103,13 @@
       "Juvenile Fiction / Historical / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 139,
+    "MinutesRank": 142,
     "MinutesRankPercentile": 68,
-    "ReleaseDateRank": 207,
+    "ReleaseDateRank": 210,
     "ReleaseDateRankPercentile": 52,
     "DaysTaken": 8,
     "MinutesPerDay": 104,
-    "SpeedRank": 221,
+    "SpeedRank": 222,
     "SpeedRankPercentile": 68
   },
   {
@@ -8099,13 +8138,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 146,
+    "MinutesRank": 149,
     "MinutesRankPercentile": 66,
-    "ReleaseDateRank": 106,
-    "ReleaseDateRankPercentile": 76,
+    "ReleaseDateRank": 108,
+    "ReleaseDateRankPercentile": 75,
     "DaysTaken": 8,
     "MinutesPerDay": 103,
-    "SpeedRank": 222,
+    "SpeedRank": 223,
     "SpeedRankPercentile": 66
   },
   {
@@ -8137,13 +8176,13 @@
       "Fiction / Horror"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 147,
+    "MinutesRank": 150,
     "MinutesRankPercentile": 66,
-    "ReleaseDateRank": 127,
-    "ReleaseDateRankPercentile": 71,
+    "ReleaseDateRank": 130,
+    "ReleaseDateRankPercentile": 70,
     "DaysTaken": 8,
     "MinutesPerDay": 102,
-    "SpeedRank": 223,
+    "SpeedRank": 224,
     "SpeedRankPercentile": 66
   },
   {
@@ -8175,13 +8214,13 @@
       "Fiction / Crime"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 81,
+    "MinutesRank": 82,
     "MinutesRankPercentile": 82,
-    "ReleaseDateRank": 214,
+    "ReleaseDateRank": 217,
     "ReleaseDateRankPercentile": 50,
     "DaysTaken": 10,
     "MinutesPerDay": 102,
-    "SpeedRank": 224,
+    "SpeedRank": 225,
     "SpeedRankPercentile": 82
   },
   {
@@ -8212,11 +8251,11 @@
     "Ratings": 4.0,
     "MinutesRank": 4,
     "MinutesRankPercentile": 100,
-    "ReleaseDateRank": 363,
+    "ReleaseDateRank": 367,
     "ReleaseDateRankPercentile": 15,
     "DaysTaken": 28,
     "MinutesPerDay": 102,
-    "SpeedRank": 225,
+    "SpeedRank": 226,
     "SpeedRankPercentile": 100
   },
   {
@@ -8253,13 +8292,13 @@
       "Fiction / Fantasy / Contemporary"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 218,
+    "MinutesRank": 222,
     "MinutesRankPercentile": 49,
-    "ReleaseDateRank": 275,
+    "ReleaseDateRank": 279,
     "ReleaseDateRankPercentile": 36,
     "DaysTaken": 7,
     "MinutesPerDay": 101,
-    "SpeedRank": 226,
+    "SpeedRank": 227,
     "SpeedRankPercentile": 49
   },
   {
@@ -8292,14 +8331,14 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 302,
-    "MinutesRankPercentile": 30,
-    "ReleaseDateRank": 281,
+    "MinutesRank": 306,
+    "MinutesRankPercentile": 29,
+    "ReleaseDateRank": 285,
     "ReleaseDateRankPercentile": 34,
     "DaysTaken": 6,
     "MinutesPerDay": 100,
-    "SpeedRank": 227,
-    "SpeedRankPercentile": 30
+    "SpeedRank": 228,
+    "SpeedRankPercentile": 29
   },
   {
     "Id": 180,
@@ -8334,13 +8373,13 @@
       "Fiction / Fantasy / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 88,
+    "MinutesRank": 89,
     "MinutesRankPercentile": 80,
-    "ReleaseDateRank": 388,
+    "ReleaseDateRank": 392,
     "ReleaseDateRankPercentile": 9,
     "DaysTaken": 10,
     "MinutesPerDay": 100,
-    "SpeedRank": 228,
+    "SpeedRank": 229,
     "SpeedRankPercentile": 80
   },
   {
@@ -8371,13 +8410,13 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 304,
+    "MinutesRank": 308,
     "MinutesRankPercentile": 29,
-    "ReleaseDateRank": 53,
+    "ReleaseDateRank": 55,
     "ReleaseDateRankPercentile": 88,
     "DaysTaken": 6,
     "MinutesPerDay": 99,
-    "SpeedRank": 229,
+    "SpeedRank": 230,
     "SpeedRankPercentile": 29
   },
   {
@@ -8391,7 +8430,7 @@
     "DateCompleted": "2017-03-20T00:00:00",
     "ReleaseDate": "1969-09-01T00:00:00",
     "Pages": 327,
-    "CoverUrl": "http://www.michaelcrichton.com/wp-content/uploads/2014/12/978-1-5012-1666-4.jpg",
+    "CoverUrl": "https://mercury-book-repo.s3.amazonaws.com/img/308.jpg",
     "CoverHash": null,
     "Series": "",
     "SeriesOrder": 0.0,
@@ -8408,13 +8447,13 @@
       "Fiction / Science Fiction / General"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 346,
+    "MinutesRank": 350,
     "MinutesRankPercentile": 19,
-    "ReleaseDateRank": 377,
+    "ReleaseDateRank": 381,
     "ReleaseDateRankPercentile": 12,
     "DaysTaken": 5,
     "MinutesPerDay": 99,
-    "SpeedRank": 230,
+    "SpeedRank": 231,
     "SpeedRankPercentile": 19
   },
   {
@@ -8446,14 +8485,14 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 348,
-    "MinutesRankPercentile": 19,
-    "ReleaseDateRank": 209,
+    "MinutesRank": 352,
+    "MinutesRankPercentile": 18,
+    "ReleaseDateRank": 212,
     "ReleaseDateRankPercentile": 51,
     "DaysTaken": 5,
     "MinutesPerDay": 98,
-    "SpeedRank": 231,
-    "SpeedRankPercentile": 19
+    "SpeedRank": 232,
+    "SpeedRankPercentile": 18
   },
   {
     "Id": 265,
@@ -8484,13 +8523,13 @@
       "Fiction / General"
     ],
     "Ratings": 2.0,
-    "MinutesRank": 305,
+    "MinutesRank": 309,
     "MinutesRankPercentile": 29,
-    "ReleaseDateRank": 368,
+    "ReleaseDateRank": 372,
     "ReleaseDateRankPercentile": 14,
     "DaysTaken": 6,
     "MinutesPerDay": 98,
-    "SpeedRank": 232,
+    "SpeedRank": 233,
     "SpeedRankPercentile": 29
   },
   {
@@ -8519,13 +8558,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 243,
+    "MinutesRank": 247,
     "MinutesRankPercentile": 43,
-    "ReleaseDateRank": 58,
+    "ReleaseDateRank": 60,
     "ReleaseDateRankPercentile": 87,
     "DaysTaken": 7,
     "MinutesPerDay": 97,
-    "SpeedRank": 233,
+    "SpeedRank": 234,
     "SpeedRankPercentile": 43
   },
   {
@@ -8557,14 +8596,14 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 127,
-    "MinutesRankPercentile": 71,
-    "ReleaseDateRank": 183,
-    "ReleaseDateRankPercentile": 58,
+    "MinutesRank": 130,
+    "MinutesRankPercentile": 70,
+    "ReleaseDateRank": 186,
+    "ReleaseDateRankPercentile": 57,
     "DaysTaken": 9,
     "MinutesPerDay": 97,
-    "SpeedRank": 234,
-    "SpeedRankPercentile": 71
+    "SpeedRank": 235,
+    "SpeedRankPercentile": 70
   },
   {
     "Id": 295,
@@ -8595,13 +8634,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 349,
+    "MinutesRank": 353,
     "MinutesRankPercentile": 18,
-    "ReleaseDateRank": 235,
+    "ReleaseDateRank": 238,
     "ReleaseDateRankPercentile": 45,
     "DaysTaken": 5,
     "MinutesPerDay": 97,
-    "SpeedRank": 235,
+    "SpeedRank": 236,
     "SpeedRankPercentile": 18
   },
   {
@@ -8632,11 +8671,11 @@
     "Ratings": 3.0,
     "MinutesRank": 6,
     "MinutesRankPercentile": 99,
-    "ReleaseDateRank": 352,
+    "ReleaseDateRank": 356,
     "ReleaseDateRankPercentile": 18,
     "DaysTaken": 28,
     "MinutesPerDay": 96,
-    "SpeedRank": 236,
+    "SpeedRank": 237,
     "SpeedRankPercentile": 99
   },
   {
@@ -8665,13 +8704,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 257,
+    "MinutesRank": 261,
     "MinutesRankPercentile": 40,
-    "ReleaseDateRank": 60,
-    "ReleaseDateRankPercentile": 87,
+    "ReleaseDateRank": 62,
+    "ReleaseDateRankPercentile": 86,
     "DaysTaken": 7,
     "MinutesPerDay": 95,
-    "SpeedRank": 237,
+    "SpeedRank": 238,
     "SpeedRankPercentile": 40
   },
   {
@@ -8708,13 +8747,13 @@
       "Fiction / Fantasy / Contemporary"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 57,
+    "MinutesRank": 58,
     "MinutesRankPercentile": 87,
-    "ReleaseDateRank": 201,
+    "ReleaseDateRank": 204,
     "ReleaseDateRankPercentile": 53,
     "DaysTaken": 12,
     "MinutesPerDay": 95,
-    "SpeedRank": 238,
+    "SpeedRank": 239,
     "SpeedRankPercentile": 87
   },
   {
@@ -8746,13 +8785,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 354,
+    "MinutesRank": 358,
     "MinutesRankPercentile": 17,
-    "ReleaseDateRank": 221,
-    "ReleaseDateRankPercentile": 49,
+    "ReleaseDateRank": 224,
+    "ReleaseDateRankPercentile": 48,
     "DaysTaken": 5,
     "MinutesPerDay": 95,
-    "SpeedRank": 239,
+    "SpeedRank": 240,
     "SpeedRankPercentile": 17
   },
   {
@@ -8781,13 +8820,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 37,
+    "MinutesRank": 38,
     "MinutesRankPercentile": 92,
-    "ReleaseDateRank": 360,
+    "ReleaseDateRank": 364,
     "ReleaseDateRankPercentile": 16,
     "DaysTaken": 14,
     "MinutesPerDay": 95,
-    "SpeedRank": 240,
+    "SpeedRank": 241,
     "SpeedRankPercentile": 92
   },
   {
@@ -8820,11 +8859,11 @@
     "Ratings": 4.0,
     "MinutesRank": 20,
     "MinutesRankPercentile": 96,
-    "ReleaseDateRank": 66,
+    "ReleaseDateRank": 68,
     "ReleaseDateRankPercentile": 85,
     "DaysTaken": 20,
     "MinutesPerDay": 94,
-    "SpeedRank": 241,
+    "SpeedRank": 242,
     "SpeedRankPercentile": 96
   },
   {
@@ -8856,13 +8895,13 @@
       "Juvenile Fiction / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 48,
+    "MinutesRank": 49,
     "MinutesRankPercentile": 89,
-    "ReleaseDateRank": 148,
-    "ReleaseDateRankPercentile": 66,
+    "ReleaseDateRank": 151,
+    "ReleaseDateRankPercentile": 65,
     "DaysTaken": 13,
     "MinutesPerDay": 94,
-    "SpeedRank": 242,
+    "SpeedRank": 243,
     "SpeedRankPercentile": 89
   },
   {
@@ -8896,14 +8935,14 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 183,
-    "MinutesRankPercentile": 58,
-    "ReleaseDateRank": 299,
+    "MinutesRank": 186,
+    "MinutesRankPercentile": 57,
+    "ReleaseDateRank": 303,
     "ReleaseDateRankPercentile": 30,
     "DaysTaken": 8,
     "MinutesPerDay": 94,
-    "SpeedRank": 243,
-    "SpeedRankPercentile": 58
+    "SpeedRank": 244,
+    "SpeedRankPercentile": 57
   },
   {
     "Id": 100,
@@ -8931,14 +8970,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 135,
-    "MinutesRankPercentile": 69,
-    "ReleaseDateRank": 88,
+    "MinutesRank": 138,
+    "MinutesRankPercentile": 68,
+    "ReleaseDateRank": 90,
     "ReleaseDateRankPercentile": 80,
     "DaysTaken": 9,
     "MinutesPerDay": 93,
-    "SpeedRank": 244,
-    "SpeedRankPercentile": 69
+    "SpeedRank": 245,
+    "SpeedRankPercentile": 68
   },
   {
     "Id": 353,
@@ -8968,13 +9007,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 269,
+    "MinutesRank": 273,
     "MinutesRankPercentile": 37,
-    "ReleaseDateRank": 213,
+    "ReleaseDateRank": 216,
     "ReleaseDateRankPercentile": 50,
     "DaysTaken": 7,
     "MinutesPerDay": 93,
-    "SpeedRank": 245,
+    "SpeedRank": 246,
     "SpeedRankPercentile": 37
   },
   {
@@ -9005,13 +9044,13 @@
       "Fiction / Mystery & Detective / Collections & Anthologies"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 319,
+    "MinutesRank": 323,
     "MinutesRankPercentile": 25,
-    "ReleaseDateRank": 419,
+    "ReleaseDateRank": 423,
     "ReleaseDateRankPercentile": 2,
     "DaysTaken": 6,
     "MinutesPerDay": 93,
-    "SpeedRank": 246,
+    "SpeedRank": 247,
     "SpeedRankPercentile": 25
   },
   {
@@ -9042,11 +9081,11 @@
     "Ratings": 3.0,
     "MinutesRank": 16,
     "MinutesRankPercentile": 97,
-    "ReleaseDateRank": 194,
+    "ReleaseDateRank": 197,
     "ReleaseDateRankPercentile": 55,
     "DaysTaken": 22,
     "MinutesPerDay": 92,
-    "SpeedRank": 247,
+    "SpeedRank": 248,
     "SpeedRankPercentile": 97
   },
   {
@@ -9075,13 +9114,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 398,
+    "MinutesRank": 402,
     "MinutesRankPercentile": 7,
-    "ReleaseDateRank": 353,
+    "ReleaseDateRank": 357,
     "ReleaseDateRankPercentile": 17,
     "DaysTaken": 3,
     "MinutesPerDay": 92,
-    "SpeedRank": 248,
+    "SpeedRank": 249,
     "SpeedRankPercentile": 7
   },
   {
@@ -9112,14 +9151,14 @@
       "Fiction / Mystery & Detective / Collections & Anthologies"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 194,
-    "MinutesRankPercentile": 55,
-    "ReleaseDateRank": 409,
+    "MinutesRank": 198,
+    "MinutesRankPercentile": 54,
+    "ReleaseDateRank": 413,
     "ReleaseDateRankPercentile": 4,
     "DaysTaken": 8,
     "MinutesPerDay": 91,
-    "SpeedRank": 249,
-    "SpeedRankPercentile": 55
+    "SpeedRank": 250,
+    "SpeedRankPercentile": 54
   },
   {
     "Id": 379,
@@ -9149,13 +9188,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 290,
+    "MinutesRank": 294,
     "MinutesRankPercentile": 32,
-    "ReleaseDateRank": 182,
+    "ReleaseDateRank": 185,
     "ReleaseDateRankPercentile": 58,
     "DaysTaken": 7,
     "MinutesPerDay": 90,
-    "SpeedRank": 250,
+    "SpeedRank": 251,
     "SpeedRankPercentile": 32
   },
   {
@@ -9185,13 +9224,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 54,
+    "MinutesRank": 55,
     "MinutesRankPercentile": 88,
-    "ReleaseDateRank": 212,
-    "ReleaseDateRankPercentile": 51,
+    "ReleaseDateRank": 215,
+    "ReleaseDateRankPercentile": 50,
     "DaysTaken": 13,
     "MinutesPerDay": 90,
-    "SpeedRank": 251,
+    "SpeedRank": 252,
     "SpeedRankPercentile": 88
   },
   {
@@ -9220,13 +9259,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 388,
+    "MinutesRank": 392,
     "MinutesRankPercentile": 9,
-    "ReleaseDateRank": 397,
+    "ReleaseDateRank": 401,
     "ReleaseDateRankPercentile": 7,
     "DaysTaken": 4,
     "MinutesPerDay": 90,
-    "SpeedRank": 252,
+    "SpeedRank": 253,
     "SpeedRankPercentile": 9
   },
   {
@@ -9255,13 +9294,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 100,
+    "MinutesRank": 101,
     "MinutesRankPercentile": 77,
-    "ReleaseDateRank": 139,
+    "ReleaseDateRank": 142,
     "ReleaseDateRankPercentile": 68,
     "DaysTaken": 11,
     "MinutesPerDay": 89,
-    "SpeedRank": 253,
+    "SpeedRank": 254,
     "SpeedRankPercentile": 77
   },
   {
@@ -9294,14 +9333,14 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 43,
-    "MinutesRankPercentile": 91,
-    "ReleaseDateRank": 188,
+    "MinutesRank": 44,
+    "MinutesRankPercentile": 90,
+    "ReleaseDateRank": 191,
     "ReleaseDateRankPercentile": 56,
     "DaysTaken": 14,
     "MinutesPerDay": 89,
-    "SpeedRank": 254,
-    "SpeedRankPercentile": 91
+    "SpeedRank": 255,
+    "SpeedRankPercentile": 90
   },
   {
     "Id": 212,
@@ -9329,13 +9368,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 400,
+    "MinutesRank": 404,
     "MinutesRankPercentile": 6,
-    "ReleaseDateRank": 358,
+    "ReleaseDateRank": 362,
     "ReleaseDateRankPercentile": 16,
     "DaysTaken": 3,
     "MinutesPerDay": 89,
-    "SpeedRank": 255,
+    "SpeedRank": 256,
     "SpeedRankPercentile": 6
   },
   {
@@ -9366,11 +9405,11 @@
     "Ratings": 3.0,
     "MinutesRank": 17,
     "MinutesRankPercentile": 97,
-    "ReleaseDateRank": 305,
+    "ReleaseDateRank": 309,
     "ReleaseDateRankPercentile": 29,
     "DaysTaken": 23,
     "MinutesPerDay": 88,
-    "SpeedRank": 256,
+    "SpeedRank": 257,
     "SpeedRankPercentile": 97
   },
   {
@@ -9399,13 +9438,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 163,
+    "MinutesRank": 166,
     "MinutesRankPercentile": 62,
-    "ReleaseDateRank": 30,
-    "ReleaseDateRankPercentile": 94,
+    "ReleaseDateRank": 32,
+    "ReleaseDateRankPercentile": 93,
     "DaysTaken": 9,
     "MinutesPerDay": 87,
-    "SpeedRank": 257,
+    "SpeedRank": 258,
     "SpeedRankPercentile": 62
   },
   {
@@ -9448,13 +9487,13 @@
       "Juvenile Nonfiction / Health & Daily Living / Physical Impairments"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 164,
+    "MinutesRank": 167,
     "MinutesRankPercentile": 62,
-    "ReleaseDateRank": 245,
+    "ReleaseDateRank": 249,
     "ReleaseDateRankPercentile": 43,
     "DaysTaken": 9,
     "MinutesPerDay": 87,
-    "SpeedRank": 258,
+    "SpeedRank": 259,
     "SpeedRankPercentile": 62
   },
   {
@@ -9483,13 +9522,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 335,
+    "MinutesRank": 339,
     "MinutesRankPercentile": 22,
-    "ReleaseDateRank": 287,
+    "ReleaseDateRank": 291,
     "ReleaseDateRankPercentile": 33,
     "DaysTaken": 6,
     "MinutesPerDay": 87,
-    "SpeedRank": 259,
+    "SpeedRank": 260,
     "SpeedRankPercentile": 22
   },
   {
@@ -9518,13 +9557,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 129,
+    "MinutesRank": 132,
     "MinutesRankPercentile": 70,
-    "ReleaseDateRank": 292,
+    "ReleaseDateRank": 296,
     "ReleaseDateRankPercentile": 32,
     "DaysTaken": 10,
     "MinutesPerDay": 87,
-    "SpeedRank": 260,
+    "SpeedRank": 261,
     "SpeedRankPercentile": 70
   },
   {
@@ -9556,13 +9595,13 @@
       "Fiction / Science Fiction / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 49,
+    "MinutesRank": 50,
     "MinutesRankPercentile": 89,
-    "ReleaseDateRank": 370,
+    "ReleaseDateRank": 374,
     "ReleaseDateRankPercentile": 13,
     "DaysTaken": 14,
     "MinutesPerDay": 87,
-    "SpeedRank": 261,
+    "SpeedRank": 262,
     "SpeedRankPercentile": 89
   },
   {
@@ -9599,13 +9638,13 @@
       "Fiction / Fantasy / Contemporary"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 41,
+    "MinutesRank": 42,
     "MinutesRankPercentile": 91,
-    "ReleaseDateRank": 165,
-    "ReleaseDateRankPercentile": 62,
+    "ReleaseDateRank": 168,
+    "ReleaseDateRankPercentile": 61,
     "DaysTaken": 15,
     "MinutesPerDay": 86,
-    "SpeedRank": 262,
+    "SpeedRank": 263,
     "SpeedRankPercentile": 91
   },
   {
@@ -9636,13 +9675,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 75,
+    "MinutesRank": 76,
     "MinutesRankPercentile": 83,
-    "ReleaseDateRank": 196,
-    "ReleaseDateRankPercentile": 55,
+    "ReleaseDateRank": 199,
+    "ReleaseDateRankPercentile": 54,
     "DaysTaken": 12,
     "MinutesPerDay": 86,
-    "SpeedRank": 263,
+    "SpeedRank": 264,
     "SpeedRankPercentile": 83
   },
   {
@@ -9671,14 +9710,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 132,
-    "MinutesRankPercentile": 70,
-    "ReleaseDateRank": 216,
+    "MinutesRank": 135,
+    "MinutesRankPercentile": 69,
+    "ReleaseDateRank": 219,
     "ReleaseDateRankPercentile": 50,
     "DaysTaken": 10,
     "MinutesPerDay": 86,
-    "SpeedRank": 264,
-    "SpeedRankPercentile": 70
+    "SpeedRank": 265,
+    "SpeedRankPercentile": 69
   },
   {
     "Id": 160,
@@ -9706,13 +9745,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 130,
+    "MinutesRank": 133,
     "MinutesRankPercentile": 70,
-    "ReleaseDateRank": 378,
-    "ReleaseDateRankPercentile": 12,
+    "ReleaseDateRank": 382,
+    "ReleaseDateRankPercentile": 11,
     "DaysTaken": 10,
     "MinutesPerDay": 86,
-    "SpeedRank": 265,
+    "SpeedRank": 266,
     "SpeedRankPercentile": 70
   },
   {
@@ -9741,13 +9780,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 86,
+    "MinutesRank": 87,
     "MinutesRankPercentile": 80,
-    "ReleaseDateRank": 280,
-    "ReleaseDateRankPercentile": 35,
+    "ReleaseDateRank": 284,
+    "ReleaseDateRankPercentile": 34,
     "DaysTaken": 12,
     "MinutesPerDay": 84,
-    "SpeedRank": 266,
+    "SpeedRank": 267,
     "SpeedRankPercentile": 80
   },
   {
@@ -9776,13 +9815,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 110,
+    "MinutesRank": 112,
     "MinutesRankPercentile": 75,
-    "ReleaseDateRank": 298,
+    "ReleaseDateRank": 302,
     "ReleaseDateRankPercentile": 30,
     "DaysTaken": 11,
     "MinutesPerDay": 84,
-    "SpeedRank": 267,
+    "SpeedRank": 268,
     "SpeedRankPercentile": 75
   },
   {
@@ -9815,13 +9854,13 @@
       "Fiction / Fantasy / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 112,
+    "MinutesRank": 114,
     "MinutesRankPercentile": 74,
-    "ReleaseDateRank": 386,
+    "ReleaseDateRank": 390,
     "ReleaseDateRankPercentile": 10,
     "DaysTaken": 11,
     "MinutesPerDay": 84,
-    "SpeedRank": 268,
+    "SpeedRank": 269,
     "SpeedRankPercentile": 74
   },
   {
@@ -9856,13 +9895,13 @@
       "Performing Arts / Film / General"
     ],
     "Ratings": 2.0,
-    "MinutesRank": 70,
+    "MinutesRank": 71,
     "MinutesRankPercentile": 84,
-    "ReleaseDateRank": 288,
+    "ReleaseDateRank": 292,
     "ReleaseDateRankPercentile": 33,
     "DaysTaken": 13,
     "MinutesPerDay": 83,
-    "SpeedRank": 269,
+    "SpeedRank": 270,
     "SpeedRankPercentile": 84
   },
   {
@@ -9891,13 +9930,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 262,
+    "MinutesRank": 266,
     "MinutesRankPercentile": 39,
-    "ReleaseDateRank": 293,
-    "ReleaseDateRankPercentile": 32,
+    "ReleaseDateRank": 297,
+    "ReleaseDateRankPercentile": 31,
     "DaysTaken": 8,
     "MinutesPerDay": 83,
-    "SpeedRank": 270,
+    "SpeedRank": 271,
     "SpeedRankPercentile": 39
   },
   {
@@ -9930,13 +9969,13 @@
       "Fiction / Fantasy / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 89,
+    "MinutesRank": 90,
     "MinutesRankPercentile": 80,
-    "ReleaseDateRank": 389,
+    "ReleaseDateRank": 393,
     "ReleaseDateRankPercentile": 9,
     "DaysTaken": 12,
     "MinutesPerDay": 83,
-    "SpeedRank": 271,
+    "SpeedRank": 272,
     "SpeedRankPercentile": 80
   },
   {
@@ -9965,14 +10004,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.5,
-    "MinutesRank": 263,
-    "MinutesRankPercentile": 39,
-    "ReleaseDateRank": 400,
+    "MinutesRank": 267,
+    "MinutesRankPercentile": 38,
+    "ReleaseDateRank": 404,
     "ReleaseDateRankPercentile": 6,
     "DaysTaken": 8,
     "MinutesPerDay": 83,
-    "SpeedRank": 272,
-    "SpeedRankPercentile": 39
+    "SpeedRank": 273,
+    "SpeedRankPercentile": 38
   },
   {
     "Id": 319,
@@ -10008,13 +10047,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 270,
+    "MinutesRank": 274,
     "MinutesRankPercentile": 37,
-    "ReleaseDateRank": 19,
+    "ReleaseDateRank": 21,
     "ReleaseDateRankPercentile": 96,
     "DaysTaken": 8,
     "MinutesPerDay": 82,
-    "SpeedRank": 273,
+    "SpeedRank": 274,
     "SpeedRankPercentile": 37
   },
   {
@@ -10047,13 +10086,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 265,
+    "MinutesRank": 269,
     "MinutesRankPercentile": 38,
-    "ReleaseDateRank": 269,
+    "ReleaseDateRank": 273,
     "ReleaseDateRankPercentile": 37,
     "DaysTaken": 8,
     "MinutesPerDay": 82,
-    "SpeedRank": 274,
+    "SpeedRank": 275,
     "SpeedRankPercentile": 38
   },
   {
@@ -10082,13 +10121,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 281,
+    "MinutesRank": 285,
     "MinutesRankPercentile": 34,
-    "ReleaseDateRank": 63,
+    "ReleaseDateRank": 65,
     "ReleaseDateRankPercentile": 86,
     "DaysTaken": 8,
     "MinutesPerDay": 81,
-    "SpeedRank": 275,
+    "SpeedRank": 276,
     "SpeedRankPercentile": 34
   },
   {
@@ -10119,13 +10158,13 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 192,
+    "MinutesRank": 196,
     "MinutesRankPercentile": 55,
-    "ReleaseDateRank": 319,
+    "ReleaseDateRank": 323,
     "ReleaseDateRankPercentile": 25,
     "DaysTaken": 9,
     "MinutesPerDay": 81,
-    "SpeedRank": 276,
+    "SpeedRank": 277,
     "SpeedRankPercentile": 55
   },
   {
@@ -10162,14 +10201,14 @@
       "Fiction / Political"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 234,
-    "MinutesRankPercentile": 46,
-    "ReleaseDateRank": 3,
+    "MinutesRank": 238,
+    "MinutesRankPercentile": 45,
+    "ReleaseDateRank": 5,
     "ReleaseDateRankPercentile": 100,
     "DaysTaken": 9,
     "MinutesPerDay": 77,
-    "SpeedRank": 277,
-    "SpeedRankPercentile": 46
+    "SpeedRank": 278,
+    "SpeedRankPercentile": 45
   },
   {
     "Id": 412,
@@ -10201,13 +10240,13 @@
       "Fiction / Mystery & Detective / Police Procedural"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 235,
+    "MinutesRank": 239,
     "MinutesRankPercentile": 45,
-    "ReleaseDateRank": 102,
-    "ReleaseDateRankPercentile": 77,
+    "ReleaseDateRank": 104,
+    "ReleaseDateRankPercentile": 76,
     "DaysTaken": 9,
     "MinutesPerDay": 77,
-    "SpeedRank": 278,
+    "SpeedRank": 279,
     "SpeedRankPercentile": 45
   },
   {
@@ -10236,13 +10275,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 325,
+    "MinutesRank": 329,
     "MinutesRankPercentile": 24,
-    "ReleaseDateRank": 184,
+    "ReleaseDateRank": 187,
     "ReleaseDateRankPercentile": 57,
     "DaysTaken": 7,
     "MinutesPerDay": 77,
-    "SpeedRank": 279,
+    "SpeedRank": 280,
     "SpeedRankPercentile": 24
   },
   {
@@ -10274,14 +10313,14 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 233,
-    "MinutesRankPercentile": 46,
-    "ReleaseDateRank": 215,
+    "MinutesRank": 237,
+    "MinutesRankPercentile": 45,
+    "ReleaseDateRank": 218,
     "ReleaseDateRankPercentile": 50,
     "DaysTaken": 9,
     "MinutesPerDay": 77,
-    "SpeedRank": 280,
-    "SpeedRankPercentile": 46
+    "SpeedRank": 281,
+    "SpeedRankPercentile": 45
   },
   {
     "Id": 57,
@@ -10313,14 +10352,14 @@
       "Religion / Christian Life / Personal Growth"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 327,
-    "MinutesRankPercentile": 24,
-    "ReleaseDateRank": 247,
+    "MinutesRank": 331,
+    "MinutesRankPercentile": 23,
+    "ReleaseDateRank": 251,
     "ReleaseDateRankPercentile": 42,
     "DaysTaken": 7,
     "MinutesPerDay": 77,
-    "SpeedRank": 281,
-    "SpeedRankPercentile": 24
+    "SpeedRank": 282,
+    "SpeedRankPercentile": 23
   },
   {
     "Id": 325,
@@ -10358,13 +10397,13 @@
       "Juvenile Fiction / School & Education"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 46,
+    "MinutesRank": 47,
     "MinutesRankPercentile": 90,
-    "ReleaseDateRank": 258,
+    "ReleaseDateRank": 262,
     "ReleaseDateRankPercentile": 40,
     "DaysTaken": 16,
     "MinutesPerDay": 77,
-    "SpeedRank": 282,
+    "SpeedRank": 283,
     "SpeedRankPercentile": 90
   },
   {
@@ -10401,13 +10440,13 @@
       "Fiction / Fantasy / Contemporary"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 47,
+    "MinutesRank": 48,
     "MinutesRankPercentile": 90,
-    "ReleaseDateRank": 259,
-    "ReleaseDateRankPercentile": 40,
+    "ReleaseDateRank": 263,
+    "ReleaseDateRankPercentile": 39,
     "DaysTaken": 16,
     "MinutesPerDay": 77,
-    "SpeedRank": 283,
+    "SpeedRank": 284,
     "SpeedRankPercentile": 90
   },
   {
@@ -10442,13 +10481,13 @@
       "Travel / Special Interest / Amusement & Theme Parks"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 97,
+    "MinutesRank": 98,
     "MinutesRankPercentile": 78,
-    "ReleaseDateRank": 36,
+    "ReleaseDateRank": 38,
     "ReleaseDateRankPercentile": 92,
     "DaysTaken": 13,
     "MinutesPerDay": 76,
-    "SpeedRank": 284,
+    "SpeedRank": 285,
     "SpeedRankPercentile": 78
   },
   {
@@ -10477,13 +10516,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 2.0,
-    "MinutesRank": 180,
+    "MinutesRank": 183,
     "MinutesRankPercentile": 58,
-    "ReleaseDateRank": 93,
+    "ReleaseDateRank": 95,
     "ReleaseDateRankPercentile": 79,
     "DaysTaken": 10,
     "MinutesPerDay": 76,
-    "SpeedRank": 285,
+    "SpeedRank": 286,
     "SpeedRankPercentile": 58
   },
   {
@@ -10516,13 +10555,13 @@
       "Juvenile Fiction / Social Themes / Adolescence"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 380,
+    "MinutesRank": 384,
     "MinutesRankPercentile": 11,
-    "ReleaseDateRank": 252,
+    "ReleaseDateRank": 256,
     "ReleaseDateRankPercentile": 41,
     "DaysTaken": 5,
     "MinutesPerDay": 76,
-    "SpeedRank": 286,
+    "SpeedRank": 287,
     "SpeedRankPercentile": 11
   },
   {
@@ -10557,11 +10596,11 @@
     "Ratings": 4.0,
     "MinutesRank": 12,
     "MinutesRankPercentile": 98,
-    "ReleaseDateRank": 278,
+    "ReleaseDateRank": 282,
     "ReleaseDateRankPercentile": 35,
     "DaysTaken": 29,
     "MinutesPerDay": 76,
-    "SpeedRank": 287,
+    "SpeedRank": 288,
     "SpeedRankPercentile": 98
   },
   {
@@ -10590,14 +10629,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 301,
-    "MinutesRankPercentile": 30,
-    "ReleaseDateRank": 330,
+    "MinutesRank": 305,
+    "MinutesRankPercentile": 29,
+    "ReleaseDateRank": 334,
     "ReleaseDateRankPercentile": 23,
     "DaysTaken": 8,
     "MinutesPerDay": 76,
-    "SpeedRank": 288,
-    "SpeedRankPercentile": 30
+    "SpeedRank": 289,
+    "SpeedRankPercentile": 29
   },
   {
     "Id": 192,
@@ -10625,13 +10664,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 1.0,
-    "MinutesRank": 422,
+    "MinutesRank": 426,
     "MinutesRankPercentile": 1,
-    "ReleaseDateRank": 101,
+    "ReleaseDateRank": 103,
     "ReleaseDateRankPercentile": 77,
     "DaysTaken": 1,
     "MinutesPerDay": 75,
-    "SpeedRank": 289,
+    "SpeedRank": 290,
     "SpeedRankPercentile": 1
   },
   {
@@ -10666,13 +10705,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 186,
+    "MinutesRank": 189,
     "MinutesRankPercentile": 57,
-    "ReleaseDateRank": 253,
+    "ReleaseDateRank": 257,
     "ReleaseDateRankPercentile": 41,
     "DaysTaken": 10,
     "MinutesPerDay": 75,
-    "SpeedRank": 290,
+    "SpeedRank": 291,
     "SpeedRankPercentile": 57
   },
   {
@@ -10701,14 +10740,55 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 30,
-    "MinutesRankPercentile": 94,
-    "ReleaseDateRank": 283,
+    "MinutesRank": 31,
+    "MinutesRankPercentile": 93,
+    "ReleaseDateRank": 287,
     "ReleaseDateRankPercentile": 34,
     "DaysTaken": 21,
     "MinutesPerDay": 75,
-    "SpeedRank": 291,
-    "SpeedRankPercentile": 94
+    "SpeedRank": 292,
+    "SpeedRankPercentile": 93
+  },
+  {
+    "Id": 426,
+    "Name": "How to Build a Car",
+    "Author": [
+      "Adrian Newey"
+    ],
+    "Minutes": 747,
+    "DateStarted": "2022-10-30T00:00:00",
+    "DateCompleted": "2022-11-09T00:00:00",
+    "ReleaseDate": "2017-11-02T00:00:00",
+    "Pages": 400,
+    "CoverUrl": "https://mercury-book-repo.s3.amazonaws.com/img/426.jpg",
+    "CoverHash": null,
+    "Series": "",
+    "SeriesOrder": 0.0,
+    "Description": "<p>'Adrian has a unique gift for understanding drivers and racing cars. He is ultra competitive but never forgets to have fun. An immensely likeable man.' Damon Hill</p> <p>The world’s foremost designer in Formula One, Adrian Newey OBE is arguably one of Britain’s greatest engineers and this is his fascinating, powerful memoir.</p> <p>How to Build a Car explores the story of Adrian’s unrivalled 35-year career in Formula One through the prism of the cars he has designed, the drivers he has worked alongside and the races in which he’s been involved.</p> <p>A true engineering genius, even in adolescence Adrian’s thoughts naturally emerged in shape and form – he began sketching his own car designs at the age of 12 and took a welding course in his school summer holidays. From his early career in IndyCar racing and on to his unparalleled success in Formula One, we learn in comprehensive, engaging and highly entertaining detail how a car actually works. Adrian has designed for the likes of Mario Andretti, Nigel Mansell, Alain Prost, Damon Hill, David Coulthard, Mika Hakkinen, Mark Webber and Sebastian Vettel, always with a shark-like purity of purpose: to make the car go faster. And while his career has been marked by unbelievable triumphs, there have also been deep tragedies; most notably Ayrton Senna’s death during his time at Williams in 1994.</p> <p>Beautifully illustrated with never-before-seen drawings, How to Build a Car encapsulates, through Adrian’s remarkable life story, precisely what makes Formula One so thrilling – its potential for the total synchronicity of man and machine, the perfect combination of style, efficiency and speed.</p>",
+    "Publisher": "HarperCollins UK",
+    "Isbn10": "0008196818",
+    "Isbn13": "9780008196813",
+    "GoogleBookId": "Qk4rDwAAQBAJ",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/Qk4rDwAAQBAJ",
+    "CrowdRating": 4.5,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Sports & Recreation / Motor Sports / General",
+      "Biography & Autobiography / Sports",
+      "Biography & Autobiography / Personal Memoirs",
+      "Technology & Engineering / Drafting & Mechanical Drawing",
+      "Design / Industrial"
+    ],
+    "Ratings": 4.0,
+    "MinutesRank": 190,
+    "MinutesRankPercentile": 56,
+    "ReleaseDateRank": 4,
+    "ReleaseDateRankPercentile": 100,
+    "DaysTaken": 10,
+    "MinutesPerDay": 74,
+    "SpeedRank": 293,
+    "SpeedRankPercentile": 56
   },
   {
     "Id": 415,
@@ -10736,13 +10816,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.5,
-    "MinutesRank": 417,
+    "MinutesRank": 421,
     "MinutesRankPercentile": 2,
-    "ReleaseDateRank": 152,
+    "ReleaseDateRank": 155,
     "ReleaseDateRankPercentile": 65,
     "DaysTaken": 2,
     "MinutesPerDay": 74,
-    "SpeedRank": 292,
+    "SpeedRank": 294,
     "SpeedRankPercentile": 2
   },
   {
@@ -10773,14 +10853,14 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 254,
-    "MinutesRankPercentile": 41,
-    "ReleaseDateRank": 243,
+    "MinutesRank": 258,
+    "MinutesRankPercentile": 40,
+    "ReleaseDateRank": 247,
     "ReleaseDateRankPercentile": 43,
     "DaysTaken": 9,
     "MinutesPerDay": 74,
-    "SpeedRank": 293,
-    "SpeedRankPercentile": 41
+    "SpeedRank": 295,
+    "SpeedRankPercentile": 40
   },
   {
     "Id": 79,
@@ -10808,13 +10888,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 383,
+    "MinutesRank": 387,
     "MinutesRankPercentile": 10,
-    "ReleaseDateRank": 418,
+    "ReleaseDateRank": 422,
     "ReleaseDateRankPercentile": 2,
     "DaysTaken": 5,
     "MinutesPerDay": 74,
-    "SpeedRank": 294,
+    "SpeedRank": 296,
     "SpeedRankPercentile": 10
   },
   {
@@ -10846,13 +10926,13 @@
       "Juvenile Fiction / Comics & Graphic Novels / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 418,
+    "MinutesRank": 422,
     "MinutesRankPercentile": 2,
-    "ReleaseDateRank": 65,
+    "ReleaseDateRank": 67,
     "ReleaseDateRankPercentile": 85,
     "DaysTaken": 2,
     "MinutesPerDay": 73,
-    "SpeedRank": 295,
+    "SpeedRank": 297,
     "SpeedRankPercentile": 2
   },
   {
@@ -10881,14 +10961,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 190,
-    "MinutesRankPercentile": 56,
-    "ReleaseDateRank": 78,
+    "MinutesRank": 194,
+    "MinutesRankPercentile": 55,
+    "ReleaseDateRank": 80,
     "ReleaseDateRankPercentile": 82,
     "DaysTaken": 10,
     "MinutesPerDay": 73,
-    "SpeedRank": 296,
-    "SpeedRankPercentile": 56
+    "SpeedRank": 298,
+    "SpeedRankPercentile": 55
   },
   {
     "Id": 417,
@@ -10919,13 +10999,13 @@
       "Juvenile Fiction / Comics & Graphic Novels / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 419,
+    "MinutesRank": 423,
     "MinutesRankPercentile": 2,
-    "ReleaseDateRank": 116,
+    "ReleaseDateRank": 119,
     "ReleaseDateRankPercentile": 73,
     "DaysTaken": 2,
     "MinutesPerDay": 73,
-    "SpeedRank": 297,
+    "SpeedRank": 299,
     "SpeedRankPercentile": 2
   },
   {
@@ -10957,13 +11037,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 364,
+    "MinutesRank": 368,
     "MinutesRankPercentile": 15,
-    "ReleaseDateRank": 180,
+    "ReleaseDateRank": 183,
     "ReleaseDateRankPercentile": 58,
     "DaysTaken": 6,
     "MinutesPerDay": 73,
-    "SpeedRank": 298,
+    "SpeedRank": 300,
     "SpeedRankPercentile": 15
   },
   {
@@ -10996,14 +11076,14 @@
       "Fiction / Science Fiction / Hard Science Fiction"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 196,
-    "MinutesRankPercentile": 55,
-    "ReleaseDateRank": 350,
+    "MinutesRank": 200,
+    "MinutesRankPercentile": 54,
+    "ReleaseDateRank": 354,
     "ReleaseDateRankPercentile": 18,
     "DaysTaken": 10,
     "MinutesPerDay": 73,
-    "SpeedRank": 299,
-    "SpeedRankPercentile": 55
+    "SpeedRank": 301,
+    "SpeedRankPercentile": 54
   },
   {
     "Id": 401,
@@ -11035,13 +11115,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 278,
+    "MinutesRank": 282,
     "MinutesRankPercentile": 35,
-    "ReleaseDateRank": 29,
-    "ReleaseDateRankPercentile": 94,
+    "ReleaseDateRank": 31,
+    "ReleaseDateRankPercentile": 93,
     "DaysTaken": 9,
     "MinutesPerDay": 72,
-    "SpeedRank": 300,
+    "SpeedRank": 302,
     "SpeedRankPercentile": 35
   },
   {
@@ -11073,13 +11153,13 @@
       "Juvenile Fiction / Comics & Graphic Novels / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 420,
+    "MinutesRank": 424,
     "MinutesRankPercentile": 2,
-    "ReleaseDateRank": 87,
+    "ReleaseDateRank": 89,
     "ReleaseDateRankPercentile": 80,
     "DaysTaken": 2,
     "MinutesPerDay": 72,
-    "SpeedRank": 301,
+    "SpeedRank": 303,
     "SpeedRankPercentile": 2
   },
   {
@@ -11108,13 +11188,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 342,
+    "MinutesRank": 346,
     "MinutesRankPercentile": 20,
-    "ReleaseDateRank": 151,
+    "ReleaseDateRank": 154,
     "ReleaseDateRankPercentile": 65,
     "DaysTaken": 7,
     "MinutesPerDay": 72,
-    "SpeedRank": 302,
+    "SpeedRank": 304,
     "SpeedRankPercentile": 20
   },
   {
@@ -11150,13 +11230,13 @@
       "Fiction / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 387,
+    "MinutesRank": 391,
     "MinutesRankPercentile": 9,
-    "ReleaseDateRank": 167,
+    "ReleaseDateRank": 170,
     "ReleaseDateRankPercentile": 61,
     "DaysTaken": 5,
     "MinutesPerDay": 72,
-    "SpeedRank": 303,
+    "SpeedRank": 305,
     "SpeedRankPercentile": 9
   },
   {
@@ -11189,13 +11269,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": null,
-    "MinutesRank": 367,
+    "MinutesRank": 371,
     "MinutesRankPercentile": 14,
-    "ReleaseDateRank": 374,
-    "ReleaseDateRankPercentile": 13,
+    "ReleaseDateRank": 378,
+    "ReleaseDateRankPercentile": 12,
     "DaysTaken": 6,
     "MinutesPerDay": 72,
-    "SpeedRank": 304,
+    "SpeedRank": 306,
     "SpeedRankPercentile": 14
   },
   {
@@ -11227,13 +11307,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 343,
+    "MinutesRank": 347,
     "MinutesRankPercentile": 20,
-    "ReleaseDateRank": 193,
+    "ReleaseDateRank": 196,
     "ReleaseDateRankPercentile": 55,
     "DaysTaken": 7,
     "MinutesPerDay": 71,
-    "SpeedRank": 305,
+    "SpeedRank": 307,
     "SpeedRankPercentile": 20
   },
   {
@@ -11262,13 +11342,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 58,
+    "MinutesRank": 59,
     "MinutesRankPercentile": 87,
-    "ReleaseDateRank": 202,
+    "ReleaseDateRank": 205,
     "ReleaseDateRankPercentile": 53,
     "DaysTaken": 16,
     "MinutesPerDay": 71,
-    "SpeedRank": 306,
+    "SpeedRank": 308,
     "SpeedRankPercentile": 87
   },
   {
@@ -11297,13 +11377,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 315,
+    "MinutesRank": 319,
     "MinutesRankPercentile": 26,
-    "ReleaseDateRank": 249,
+    "ReleaseDateRank": 253,
     "ReleaseDateRankPercentile": 42,
     "DaysTaken": 8,
     "MinutesPerDay": 71,
-    "SpeedRank": 307,
+    "SpeedRank": 309,
     "SpeedRankPercentile": 26
   },
   {
@@ -11335,13 +11415,13 @@
       "Juvenile Fiction / Fantasy & Magic"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 34,
+    "MinutesRank": 35,
     "MinutesRankPercentile": 93,
-    "ReleaseDateRank": 169,
+    "ReleaseDateRank": 172,
     "ReleaseDateRankPercentile": 61,
     "DaysTaken": 20,
     "MinutesPerDay": 70,
-    "SpeedRank": 308,
+    "SpeedRank": 310,
     "SpeedRankPercentile": 93
   },
   {
@@ -11370,14 +11450,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 318,
-    "MinutesRankPercentile": 26,
-    "ReleaseDateRank": 315,
+    "MinutesRank": 322,
+    "MinutesRankPercentile": 25,
+    "ReleaseDateRank": 319,
     "ReleaseDateRankPercentile": 26,
     "DaysTaken": 8,
     "MinutesPerDay": 70,
-    "SpeedRank": 309,
-    "SpeedRankPercentile": 26
+    "SpeedRank": 311,
+    "SpeedRankPercentile": 25
   },
   {
     "Id": 321,
@@ -11409,14 +11489,51 @@
       "Fiction / Science Fiction / Action & Adventure"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 226,
+    "MinutesRank": 230,
     "MinutesRankPercentile": 47,
-    "ReleaseDateRank": 24,
+    "ReleaseDateRank": 26,
     "ReleaseDateRankPercentile": 95,
     "DaysTaken": 10,
     "MinutesPerDay": 69,
-    "SpeedRank": 310,
+    "SpeedRank": 312,
     "SpeedRankPercentile": 47
+  },
+  {
+    "Id": 425,
+    "Name": "Feed",
+    "Author": [
+      "Mira Grant"
+    ],
+    "Minutes": 887,
+    "DateStarted": "2022-10-16T00:00:00",
+    "DateCompleted": "2022-10-29T00:00:00",
+    "ReleaseDate": "2010-04-10T00:00:00",
+    "Pages": 599,
+    "CoverUrl": "https://mercury-book-repo.s3.amazonaws.com/img/425.jpg",
+    "CoverHash": null,
+    "Series": "Newsflesh",
+    "SeriesOrder": 1.0,
+    "Description": "<p><b>BOOK 1 IN THE NEW YORK TIMES BESTSELLING SERIES</b><br><br><b>'Gripping, thrilling and brutal . . . a masterpiece of suspense' </b><i>Publishers Weekly</i><br><br><b>'The zombie novel Robert A. Heinlein might have written' </b><i>Sci-Fi Magazine</i><br><br>The year was 2014. We had cured cancer. We had beaten the common cold. But in doing so we created something new, something terrible that no one could stop. The infection spread, virus blocks taking over bodies and minds with one, unstoppable command: FEED.<br><br>Now, twenty years after the Rising, bloggers Georgia and Shaun Mason are on the trail of the biggest story of their lives - the dark conspiracy behind the infected. The truth will get out, even if it kills them.</p>",
+    "Publisher": "Hachette UK",
+    "Isbn10": "0748116869",
+    "Isbn13": "9780748116867",
+    "GoogleBookId": "EuxFcwnrVXEC",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/EuxFcwnrVXEC",
+    "CrowdRating": 4.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Science Fiction / General"
+    ],
+    "Ratings": 3.0,
+    "MinutesRank": 126,
+    "MinutesRankPercentile": 71,
+    "ReleaseDateRank": 112,
+    "ReleaseDateRankPercentile": 75,
+    "DaysTaken": 13,
+    "MinutesPerDay": 68,
+    "SpeedRank": 313,
+    "SpeedRankPercentile": 71
   },
   {
     "Id": 49,
@@ -11446,13 +11563,13 @@
       "Fiction / Science Fiction / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 245,
+    "MinutesRank": 249,
     "MinutesRankPercentile": 43,
-    "ReleaseDateRank": 124,
+    "ReleaseDateRank": 127,
     "ReleaseDateRankPercentile": 71,
     "DaysTaken": 10,
     "MinutesPerDay": 67,
-    "SpeedRank": 311,
+    "SpeedRank": 314,
     "SpeedRankPercentile": 43
   },
   {
@@ -11481,14 +11598,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 187,
-    "MinutesRankPercentile": 57,
-    "ReleaseDateRank": 276,
-    "ReleaseDateRankPercentile": 36,
+    "MinutesRank": 191,
+    "MinutesRankPercentile": 56,
+    "ReleaseDateRank": 280,
+    "ReleaseDateRankPercentile": 35,
     "DaysTaken": 11,
     "MinutesPerDay": 67,
-    "SpeedRank": 312,
-    "SpeedRankPercentile": 57
+    "SpeedRank": 315,
+    "SpeedRankPercentile": 56
   },
   {
     "Id": 208,
@@ -11518,11 +11635,11 @@
     "Ratings": 1.0,
     "MinutesRank": 23,
     "MinutesRankPercentile": 95,
-    "ReleaseDateRank": 336,
+    "ReleaseDateRank": 340,
     "ReleaseDateRankPercentile": 21,
     "DaysTaken": 26,
     "MinutesPerDay": 67,
-    "SpeedRank": 313,
+    "SpeedRank": 316,
     "SpeedRankPercentile": 95
   },
   {
@@ -11551,13 +11668,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 5.0,
-    "MinutesRank": 193,
+    "MinutesRank": 197,
     "MinutesRankPercentile": 55,
-    "ReleaseDateRank": 317,
+    "ReleaseDateRank": 321,
     "ReleaseDateRankPercentile": 26,
     "DaysTaken": 11,
     "MinutesPerDay": 66,
-    "SpeedRank": 314,
+    "SpeedRank": 317,
     "SpeedRankPercentile": 55
   },
   {
@@ -11591,13 +11708,13 @@
       "Fiction / Science Fiction / Action & Adventure"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 219,
+    "MinutesRank": 223,
     "MinutesRankPercentile": 49,
-    "ReleaseDateRank": 17,
-    "ReleaseDateRankPercentile": 97,
+    "ReleaseDateRank": 19,
+    "ReleaseDateRankPercentile": 96,
     "DaysTaken": 11,
     "MinutesPerDay": 64,
-    "SpeedRank": 315,
+    "SpeedRank": 318,
     "SpeedRankPercentile": 49
   },
   {
@@ -11626,13 +11743,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 78,
+    "MinutesRank": 79,
     "MinutesRankPercentile": 82,
-    "ReleaseDateRank": 42,
-    "ReleaseDateRankPercentile": 91,
+    "ReleaseDateRank": 44,
+    "ReleaseDateRankPercentile": 90,
     "DaysTaken": 16,
     "MinutesPerDay": 64,
-    "SpeedRank": 316,
+    "SpeedRank": 319,
     "SpeedRankPercentile": 82
   },
   {
@@ -11661,13 +11778,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 312,
+    "MinutesRank": 316,
     "MinutesRankPercentile": 27,
-    "ReleaseDateRank": 170,
-    "ReleaseDateRankPercentile": 61,
+    "ReleaseDateRank": 173,
+    "ReleaseDateRankPercentile": 60,
     "DaysTaken": 9,
     "MinutesPerDay": 64,
-    "SpeedRank": 317,
+    "SpeedRank": 320,
     "SpeedRankPercentile": 27
   },
   {
@@ -11696,14 +11813,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 2.0,
-    "MinutesRank": 179,
-    "MinutesRankPercentile": 59,
-    "ReleaseDateRank": 175,
+    "MinutesRank": 182,
+    "MinutesRankPercentile": 58,
+    "ReleaseDateRank": 178,
     "ReleaseDateRankPercentile": 59,
     "DaysTaken": 12,
     "MinutesPerDay": 64,
-    "SpeedRank": 318,
-    "SpeedRankPercentile": 59
+    "SpeedRank": 321,
+    "SpeedRankPercentile": 58
   },
   {
     "Id": 359,
@@ -11733,14 +11850,14 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 284,
-    "MinutesRankPercentile": 34,
-    "ReleaseDateRank": 205,
+    "MinutesRank": 288,
+    "MinutesRankPercentile": 33,
+    "ReleaseDateRank": 208,
     "ReleaseDateRankPercentile": 52,
     "DaysTaken": 10,
     "MinutesPerDay": 64,
-    "SpeedRank": 319,
-    "SpeedRankPercentile": 34
+    "SpeedRank": 322,
+    "SpeedRankPercentile": 33
   },
   {
     "Id": 302,
@@ -11770,13 +11887,13 @@
       "Fiction / General"
     ],
     "Ratings": 2.0,
-    "MinutesRank": 363,
+    "MinutesRank": 367,
     "MinutesRankPercentile": 15,
-    "ReleaseDateRank": 208,
-    "ReleaseDateRankPercentile": 52,
+    "ReleaseDateRank": 211,
+    "ReleaseDateRankPercentile": 51,
     "DaysTaken": 7,
     "MinutesPerDay": 64,
-    "SpeedRank": 320,
+    "SpeedRank": 323,
     "SpeedRankPercentile": 15
   },
   {
@@ -11805,13 +11922,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 365,
+    "MinutesRank": 369,
     "MinutesRankPercentile": 15,
-    "ReleaseDateRank": 141,
+    "ReleaseDateRank": 144,
     "ReleaseDateRankPercentile": 67,
     "DaysTaken": 7,
     "MinutesPerDay": 63,
-    "SpeedRank": 321,
+    "SpeedRank": 324,
     "SpeedRankPercentile": 15
   },
   {
@@ -11842,14 +11959,14 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 314,
-    "MinutesRankPercentile": 27,
-    "ReleaseDateRank": 228,
+    "MinutesRank": 318,
+    "MinutesRankPercentile": 26,
+    "ReleaseDateRank": 231,
     "ReleaseDateRankPercentile": 47,
     "DaysTaken": 9,
     "MinutesPerDay": 63,
-    "SpeedRank": 322,
-    "SpeedRankPercentile": 27
+    "SpeedRank": 325,
+    "SpeedRankPercentile": 26
   },
   {
     "Id": 122,
@@ -11881,13 +11998,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 381,
+    "MinutesRank": 385,
     "MinutesRankPercentile": 11,
-    "ReleaseDateRank": 410,
+    "ReleaseDateRank": 414,
     "ReleaseDateRankPercentile": 4,
     "DaysTaken": 6,
     "MinutesPerDay": 63,
-    "SpeedRank": 323,
+    "SpeedRank": 326,
     "SpeedRankPercentile": 11
   },
   {
@@ -11916,13 +12033,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 366,
+    "MinutesRank": 370,
     "MinutesRankPercentile": 14,
-    "ReleaseDateRank": 177,
+    "ReleaseDateRank": 180,
     "ReleaseDateRankPercentile": 59,
     "DaysTaken": 7,
     "MinutesPerDay": 62,
-    "SpeedRank": 324,
+    "SpeedRank": 327,
     "SpeedRankPercentile": 14
   },
   {
@@ -11953,13 +12070,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 150,
+    "MinutesRank": 153,
     "MinutesRankPercentile": 65,
-    "ReleaseDateRank": 204,
-    "ReleaseDateRankPercentile": 53,
+    "ReleaseDateRank": 207,
+    "ReleaseDateRankPercentile": 52,
     "DaysTaken": 13,
     "MinutesPerDay": 62,
-    "SpeedRank": 325,
+    "SpeedRank": 328,
     "SpeedRankPercentile": 65
   },
   {
@@ -11988,13 +12105,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 239,
+    "MinutesRank": 243,
     "MinutesRankPercentile": 44,
-    "ReleaseDateRank": 338,
+    "ReleaseDateRank": 342,
     "ReleaseDateRankPercentile": 21,
     "DaysTaken": 11,
     "MinutesPerDay": 62,
-    "SpeedRank": 326,
+    "SpeedRank": 329,
     "SpeedRankPercentile": 44
   },
   {
@@ -12023,13 +12140,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 189,
+    "MinutesRank": 193,
     "MinutesRankPercentile": 56,
-    "ReleaseDateRank": 272,
-    "ReleaseDateRankPercentile": 37,
+    "ReleaseDateRank": 276,
+    "ReleaseDateRankPercentile": 36,
     "DaysTaken": 12,
     "MinutesPerDay": 61,
-    "SpeedRank": 327,
+    "SpeedRank": 330,
     "SpeedRankPercentile": 56
   },
   {
@@ -12060,11 +12177,11 @@
     "Ratings": 4.0,
     "MinutesRank": 29,
     "MinutesRankPercentile": 94,
-    "ReleaseDateRank": 225,
-    "ReleaseDateRankPercentile": 48,
+    "ReleaseDateRank": 228,
+    "ReleaseDateRankPercentile": 47,
     "DaysTaken": 26,
     "MinutesPerDay": 60,
-    "SpeedRank": 328,
+    "SpeedRank": 331,
     "SpeedRankPercentile": 94
   },
   {
@@ -12096,13 +12213,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 176,
+    "MinutesRank": 179,
     "MinutesRankPercentile": 59,
-    "ReleaseDateRank": 33,
+    "ReleaseDateRank": 35,
     "ReleaseDateRankPercentile": 93,
     "DaysTaken": 13,
     "MinutesPerDay": 59,
-    "SpeedRank": 329,
+    "SpeedRank": 332,
     "SpeedRankPercentile": 59
   },
   {
@@ -12135,13 +12252,13 @@
       "Fiction / Asian American"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 142,
+    "MinutesRank": 145,
     "MinutesRankPercentile": 67,
-    "ReleaseDateRank": 40,
+    "ReleaseDateRank": 42,
     "ReleaseDateRankPercentile": 91,
     "DaysTaken": 14,
     "MinutesPerDay": 59,
-    "SpeedRank": 330,
+    "SpeedRank": 333,
     "SpeedRankPercentile": 67
   },
   {
@@ -12170,13 +12287,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 173,
+    "MinutesRank": 176,
     "MinutesRankPercentile": 60,
-    "ReleaseDateRank": 76,
+    "ReleaseDateRank": 78,
     "ReleaseDateRankPercentile": 83,
     "DaysTaken": 13,
     "MinutesPerDay": 59,
-    "SpeedRank": 331,
+    "SpeedRank": 334,
     "SpeedRankPercentile": 60
   },
   {
@@ -12210,13 +12327,13 @@
       "Fiction / Romance / Contemporary"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 184,
+    "MinutesRank": 187,
     "MinutesRankPercentile": 57,
-    "ReleaseDateRank": 251,
-    "ReleaseDateRankPercentile": 42,
+    "ReleaseDateRank": 255,
+    "ReleaseDateRankPercentile": 41,
     "DaysTaken": 13,
     "MinutesPerDay": 58,
-    "SpeedRank": 332,
+    "SpeedRank": 335,
     "SpeedRankPercentile": 57
   },
   {
@@ -12245,13 +12362,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 240,
+    "MinutesRank": 244,
     "MinutesRankPercentile": 44,
-    "ReleaseDateRank": 186,
+    "ReleaseDateRank": 189,
     "ReleaseDateRankPercentile": 57,
     "DaysTaken": 12,
     "MinutesPerDay": 57,
-    "SpeedRank": 333,
+    "SpeedRank": 336,
     "SpeedRankPercentile": 44
   },
   {
@@ -12283,13 +12400,13 @@
       "Religion / Christian Life / Love & Marriage"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 395,
+    "MinutesRank": 399,
     "MinutesRankPercentile": 8,
-    "ReleaseDateRank": 339,
+    "ReleaseDateRank": 343,
     "ReleaseDateRankPercentile": 21,
     "DaysTaken": 5,
     "MinutesPerDay": 57,
-    "SpeedRank": 334,
+    "SpeedRank": 337,
     "SpeedRankPercentile": 8
   },
   {
@@ -12318,13 +12435,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": null,
-    "MinutesRank": 52,
+    "MinutesRank": 53,
     "MinutesRankPercentile": 88,
-    "ReleaseDateRank": 349,
+    "ReleaseDateRank": 353,
     "ReleaseDateRankPercentile": 18,
     "DaysTaken": 21,
     "MinutesPerDay": 57,
-    "SpeedRank": 335,
+    "SpeedRank": 338,
     "SpeedRankPercentile": 88
   },
   {
@@ -12359,14 +12476,14 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 195,
-    "MinutesRankPercentile": 55,
-    "ReleaseDateRank": 1,
+    "MinutesRank": 199,
+    "MinutesRankPercentile": 54,
+    "ReleaseDateRank": 2,
     "ReleaseDateRankPercentile": 100,
     "DaysTaken": 13,
     "MinutesPerDay": 56,
-    "SpeedRank": 336,
-    "SpeedRankPercentile": 55
+    "SpeedRank": 339,
+    "SpeedRankPercentile": 54
   },
   {
     "Id": 397,
@@ -12398,13 +12515,13 @@
       "Fiction / General"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 244,
+    "MinutesRank": 248,
     "MinutesRankPercentile": 43,
-    "ReleaseDateRank": 39,
-    "ReleaseDateRankPercentile": 92,
+    "ReleaseDateRank": 41,
+    "ReleaseDateRankPercentile": 91,
     "DaysTaken": 12,
     "MinutesPerDay": 56,
-    "SpeedRank": 337,
+    "SpeedRank": 340,
     "SpeedRankPercentile": 43
   },
   {
@@ -12436,13 +12553,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 71,
+    "MinutesRank": 72,
     "MinutesRankPercentile": 84,
-    "ReleaseDateRank": 121,
+    "ReleaseDateRank": 124,
     "ReleaseDateRankPercentile": 72,
     "DaysTaken": 19,
     "MinutesPerDay": 56,
-    "SpeedRank": 338,
+    "SpeedRank": 341,
     "SpeedRankPercentile": 84
   },
   {
@@ -12476,11 +12593,11 @@
     "Ratings": 5.0,
     "MinutesRank": 15,
     "MinutesRankPercentile": 97,
-    "ReleaseDateRank": 329,
+    "ReleaseDateRank": 333,
     "ReleaseDateRankPercentile": 23,
     "DaysTaken": 36,
     "MinutesPerDay": 56,
-    "SpeedRank": 339,
+    "SpeedRank": 342,
     "SpeedRankPercentile": 97
   },
   {
@@ -12513,13 +12630,13 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 338,
+    "MinutesRank": 342,
     "MinutesRankPercentile": 21,
-    "ReleaseDateRank": 367,
+    "ReleaseDateRank": 371,
     "ReleaseDateRankPercentile": 14,
     "DaysTaken": 9,
     "MinutesPerDay": 56,
-    "SpeedRank": 340,
+    "SpeedRank": 343,
     "SpeedRankPercentile": 21
   },
   {
@@ -12555,13 +12672,13 @@
       "Fiction / Political"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 202,
+    "MinutesRank": 206,
     "MinutesRankPercentile": 53,
-    "ReleaseDateRank": 74,
+    "ReleaseDateRank": 76,
     "ReleaseDateRankPercentile": 83,
     "DaysTaken": 13,
     "MinutesPerDay": 55,
-    "SpeedRank": 341,
+    "SpeedRank": 344,
     "SpeedRankPercentile": 53
   },
   {
@@ -12590,14 +12707,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 271,
-    "MinutesRankPercentile": 37,
-    "ReleaseDateRank": 103,
+    "MinutesRank": 275,
+    "MinutesRankPercentile": 36,
+    "ReleaseDateRank": 105,
     "ReleaseDateRankPercentile": 76,
     "DaysTaken": 12,
     "MinutesPerDay": 54,
-    "SpeedRank": 342,
-    "SpeedRankPercentile": 37
+    "SpeedRank": 345,
+    "SpeedRankPercentile": 36
   },
   {
     "Id": 383,
@@ -12627,13 +12744,13 @@
       "Fiction / General"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 322,
+    "MinutesRank": 326,
     "MinutesRankPercentile": 25,
-    "ReleaseDateRank": 112,
+    "ReleaseDateRank": 115,
     "ReleaseDateRankPercentile": 74,
     "DaysTaken": 10,
     "MinutesPerDay": 54,
-    "SpeedRank": 343,
+    "SpeedRank": 346,
     "SpeedRankPercentile": 25
   },
   {
@@ -12664,14 +12781,14 @@
       "Science / Life Sciences / Evolution"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 128,
-    "MinutesRankPercentile": 71,
-    "ReleaseDateRank": 117,
+    "MinutesRank": 131,
+    "MinutesRankPercentile": 70,
+    "ReleaseDateRank": 120,
     "ReleaseDateRankPercentile": 73,
     "DaysTaken": 16,
     "MinutesPerDay": 54,
-    "SpeedRank": 344,
-    "SpeedRankPercentile": 71
+    "SpeedRank": 347,
+    "SpeedRankPercentile": 70
   },
   {
     "Id": 80,
@@ -12699,13 +12816,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 116,
+    "MinutesRank": 118,
     "MinutesRankPercentile": 73,
-    "ReleaseDateRank": 174,
-    "ReleaseDateRankPercentile": 60,
+    "ReleaseDateRank": 177,
+    "ReleaseDateRankPercentile": 59,
     "DaysTaken": 17,
     "MinutesPerDay": 54,
-    "SpeedRank": 345,
+    "SpeedRank": 348,
     "SpeedRankPercentile": 73
   },
   {
@@ -12739,14 +12856,14 @@
       "Fiction / Classics"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 60,
-    "MinutesRankPercentile": 87,
-    "ReleaseDateRank": 393,
+    "MinutesRank": 61,
+    "MinutesRankPercentile": 86,
+    "ReleaseDateRank": 397,
     "ReleaseDateRankPercentile": 8,
     "DaysTaken": 21,
     "MinutesPerDay": 54,
-    "SpeedRank": 346,
-    "SpeedRankPercentile": 87
+    "SpeedRank": 349,
+    "SpeedRankPercentile": 86
   },
   {
     "Id": 409,
@@ -12781,13 +12898,13 @@
       "Fiction / Fantasy / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 61,
+    "MinutesRank": 62,
     "MinutesRankPercentile": 86,
-    "ReleaseDateRank": 394,
+    "ReleaseDateRank": 398,
     "ReleaseDateRankPercentile": 8,
     "DaysTaken": 21,
     "MinutesPerDay": 54,
-    "SpeedRank": 347,
+    "SpeedRank": 350,
     "SpeedRankPercentile": 86
   },
   {
@@ -12819,13 +12936,13 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 283,
+    "MinutesRank": 287,
     "MinutesRankPercentile": 34,
-    "ReleaseDateRank": 11,
+    "ReleaseDateRank": 13,
     "ReleaseDateRankPercentile": 98,
     "DaysTaken": 12,
     "MinutesPerDay": 53,
-    "SpeedRank": 348,
+    "SpeedRank": 351,
     "SpeedRankPercentile": 34
   },
   {
@@ -12859,13 +12976,13 @@
       "Religion / Christian Theology / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 368,
+    "MinutesRank": 372,
     "MinutesRankPercentile": 14,
-    "ReleaseDateRank": 220,
+    "ReleaseDateRank": 223,
     "ReleaseDateRankPercentile": 49,
     "DaysTaken": 8,
     "MinutesPerDay": 53,
-    "SpeedRank": 349,
+    "SpeedRank": 352,
     "SpeedRankPercentile": 14
   },
   {
@@ -12894,13 +13011,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 406,
+    "MinutesRank": 410,
     "MinutesRankPercentile": 5,
-    "ReleaseDateRank": 323,
-    "ReleaseDateRankPercentile": 25,
+    "ReleaseDateRank": 327,
+    "ReleaseDateRankPercentile": 24,
     "DaysTaken": 4,
     "MinutesPerDay": 53,
-    "SpeedRank": 350,
+    "SpeedRank": 353,
     "SpeedRankPercentile": 5
   },
   {
@@ -12932,13 +13049,13 @@
       "Fiction / Crime"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 247,
+    "MinutesRank": 251,
     "MinutesRankPercentile": 42,
-    "ReleaseDateRank": 129,
+    "ReleaseDateRank": 132,
     "ReleaseDateRankPercentile": 70,
     "DaysTaken": 13,
     "MinutesPerDay": 52,
-    "SpeedRank": 351,
+    "SpeedRank": 354,
     "SpeedRankPercentile": 42
   },
   {
@@ -12967,13 +13084,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.5,
-    "MinutesRank": 375,
+    "MinutesRank": 379,
     "MinutesRankPercentile": 12,
-    "ReleaseDateRank": 85,
-    "ReleaseDateRankPercentile": 81,
+    "ReleaseDateRank": 87,
+    "ReleaseDateRankPercentile": 80,
     "DaysTaken": 8,
     "MinutesPerDay": 51,
-    "SpeedRank": 352,
+    "SpeedRank": 355,
     "SpeedRankPercentile": 12
   },
   {
@@ -13008,13 +13125,13 @@
       "FICTION / Political"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 185,
+    "MinutesRank": 188,
     "MinutesRankPercentile": 57,
-    "ReleaseDateRank": 15,
+    "ReleaseDateRank": 17,
     "ReleaseDateRankPercentile": 97,
     "DaysTaken": 15,
     "MinutesPerDay": 50,
-    "SpeedRank": 353,
+    "SpeedRank": 356,
     "SpeedRankPercentile": 57
   },
   {
@@ -13045,13 +13162,13 @@
       "Fiction / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 151,
+    "MinutesRank": 154,
     "MinutesRankPercentile": 65,
-    "ReleaseDateRank": 179,
-    "ReleaseDateRankPercentile": 59,
+    "ReleaseDateRank": 182,
+    "ReleaseDateRankPercentile": 58,
     "DaysTaken": 16,
     "MinutesPerDay": 50,
-    "SpeedRank": 354,
+    "SpeedRank": 357,
     "SpeedRankPercentile": 65
   },
   {
@@ -13084,13 +13201,13 @@
       "Fiction / Thrillers / Technological"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 50,
+    "MinutesRank": 51,
     "MinutesRankPercentile": 89,
-    "ReleaseDateRank": 345,
+    "ReleaseDateRank": 349,
     "ReleaseDateRankPercentile": 19,
     "DaysTaken": 24,
     "MinutesPerDay": 50,
-    "SpeedRank": 355,
+    "SpeedRank": 358,
     "SpeedRankPercentile": 89
   },
   {
@@ -13126,13 +13243,13 @@
       "Fiction / General"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 352,
+    "MinutesRank": 356,
     "MinutesRankPercentile": 18,
-    "ReleaseDateRank": 44,
+    "ReleaseDateRank": 46,
     "ReleaseDateRankPercentile": 90,
     "DaysTaken": 10,
     "MinutesPerDay": 48,
-    "SpeedRank": 356,
+    "SpeedRank": 359,
     "SpeedRankPercentile": 18
   },
   {
@@ -13167,11 +13284,11 @@
     "Ratings": 4.5,
     "MinutesRank": 11,
     "MinutesRankPercentile": 98,
-    "ReleaseDateRank": 314,
-    "ReleaseDateRankPercentile": 27,
+    "ReleaseDateRank": 318,
+    "ReleaseDateRankPercentile": 26,
     "DaysTaken": 47,
     "MinutesPerDay": 48,
-    "SpeedRank": 357,
+    "SpeedRank": 360,
     "SpeedRankPercentile": 98
   },
   {
@@ -13204,11 +13321,11 @@
     "Ratings": 3.0,
     "MinutesRank": 10,
     "MinutesRankPercentile": 98,
-    "ReleaseDateRank": 70,
+    "ReleaseDateRank": 72,
     "ReleaseDateRankPercentile": 84,
     "DaysTaken": 50,
     "MinutesPerDay": 46,
-    "SpeedRank": 358,
+    "SpeedRank": 361,
     "SpeedRankPercentile": 98
   },
   {
@@ -13237,14 +13354,51 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.5,
-    "MinutesRank": 371,
+    "MinutesRank": 375,
     "MinutesRankPercentile": 13,
-    "ReleaseDateRank": 113,
+    "ReleaseDateRank": 116,
     "ReleaseDateRankPercentile": 74,
     "DaysTaken": 9,
     "MinutesPerDay": 46,
-    "SpeedRank": 359,
+    "SpeedRank": 362,
     "SpeedRankPercentile": 13
+  },
+  {
+    "Id": 427,
+    "Name": "Red Rabbit",
+    "Author": [
+      "Tom Clancy"
+    ],
+    "Minutes": 1580,
+    "DateStarted": "2022-11-10T00:00:00",
+    "DateCompleted": "2022-12-14T00:00:00",
+    "ReleaseDate": "2002-08-26T00:00:00",
+    "Pages": 640,
+    "CoverUrl": "https://mercury-book-repo.s3.amazonaws.com/img/427.jpg",
+    "CoverHash": null,
+    "Series": "Jack Ryan",
+    "SeriesOrder": 11.0,
+    "Description": "When young Jack Ryan joins the CIA as an analyst he is thrust into a world of political intrigue and conspiracy. Stationed in England, he quickly finds himself debriefing a Soviet defector with an extraordinary story to tell: senior Russian officials are plotting to assassinate Pope John Paul II. The CIA novice must forget his inexperience and rely on all his wits to firstly discover the details of the plot - and then prevent its execution. For it is not just the Pope's life that is at stake, but also the stability of the Western World.",
+    "Publisher": "Penguin Books",
+    "Isbn10": "1405915455",
+    "Isbn13": "9781405915458",
+    "GoogleBookId": "HmkinwEACAAJ",
+    "GoogleBookLink": "https://www.googleapis.com/books/v1/volumes/HmkinwEACAAJ",
+    "CrowdRating": 3.0,
+    "GoogleError": false,
+    "ImageError": false,
+    "Categories": [
+      "Fiction / Thrillers / Espionage"
+    ],
+    "Ratings": 4.0,
+    "MinutesRank": 30,
+    "MinutesRankPercentile": 94,
+    "ReleaseDateRank": 242,
+    "ReleaseDateRankPercentile": 44,
+    "DaysTaken": 34,
+    "MinutesPerDay": 46,
+    "SpeedRank": 363,
+    "SpeedRankPercentile": 94
   },
   {
     "Id": 384,
@@ -13276,14 +13430,14 @@
       "Fiction / Friendship"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 323,
-    "MinutesRankPercentile": 25,
-    "ReleaseDateRank": 52,
+    "MinutesRank": 327,
+    "MinutesRankPercentile": 24,
+    "ReleaseDateRank": 54,
     "ReleaseDateRankPercentile": 88,
     "DaysTaken": 12,
     "MinutesPerDay": 45,
-    "SpeedRank": 360,
-    "SpeedRankPercentile": 25
+    "SpeedRank": 364,
+    "SpeedRankPercentile": 24
   },
   {
     "Id": 355,
@@ -13315,13 +13469,13 @@
       "Fiction / Political"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 324,
+    "MinutesRank": 328,
     "MinutesRankPercentile": 24,
-    "ReleaseDateRank": 149,
-    "ReleaseDateRankPercentile": 66,
+    "ReleaseDateRank": 152,
+    "ReleaseDateRankPercentile": 65,
     "DaysTaken": 12,
     "MinutesPerDay": 45,
-    "SpeedRank": 361,
+    "SpeedRank": 365,
     "SpeedRankPercentile": 24
   },
   {
@@ -13350,13 +13504,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.5,
-    "MinutesRank": 213,
+    "MinutesRank": 217,
     "MinutesRankPercentile": 50,
-    "ReleaseDateRank": 14,
+    "ReleaseDateRank": 16,
     "ReleaseDateRankPercentile": 97,
     "DaysTaken": 16,
     "MinutesPerDay": 44,
-    "SpeedRank": 362,
+    "SpeedRank": 366,
     "SpeedRankPercentile": 50
   },
   {
@@ -13385,13 +13539,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 313,
+    "MinutesRank": 317,
     "MinutesRankPercentile": 27,
-    "ReleaseDateRank": 32,
+    "ReleaseDateRank": 34,
     "ReleaseDateRankPercentile": 93,
     "DaysTaken": 13,
     "MinutesPerDay": 44,
-    "SpeedRank": 363,
+    "SpeedRank": 367,
     "SpeedRankPercentile": 27
   },
   {
@@ -13424,13 +13578,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 260,
+    "MinutesRank": 264,
     "MinutesRankPercentile": 39,
-    "ReleaseDateRank": 107,
+    "ReleaseDateRank": 109,
     "ReleaseDateRankPercentile": 75,
     "DaysTaken": 15,
     "MinutesPerDay": 44,
-    "SpeedRank": 364,
+    "SpeedRank": 368,
     "SpeedRankPercentile": 39
   },
   {
@@ -13462,13 +13616,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 72,
+    "MinutesRank": 73,
     "MinutesRankPercentile": 84,
-    "ReleaseDateRank": 122,
+    "ReleaseDateRank": 125,
     "ReleaseDateRankPercentile": 72,
     "DaysTaken": 24,
     "MinutesPerDay": 44,
-    "SpeedRank": 365,
+    "SpeedRank": 369,
     "SpeedRankPercentile": 84
   },
   {
@@ -13503,11 +13657,11 @@
     "Ratings": 4.5,
     "MinutesRank": 21,
     "MinutesRankPercentile": 96,
-    "ReleaseDateRank": 341,
+    "ReleaseDateRank": 345,
     "ReleaseDateRankPercentile": 20,
     "DaysTaken": 41,
     "MinutesPerDay": 44,
-    "SpeedRank": 366,
+    "SpeedRank": 370,
     "SpeedRankPercentile": 96
   },
   {
@@ -13546,13 +13700,13 @@
       "Fiction / Action & Adventure"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 175,
+    "MinutesRank": 178,
     "MinutesRankPercentile": 59,
-    "ReleaseDateRank": 7,
+    "ReleaseDateRank": 9,
     "ReleaseDateRankPercentile": 99,
     "DaysTaken": 18,
     "MinutesPerDay": 43,
-    "SpeedRank": 367,
+    "SpeedRank": 371,
     "SpeedRankPercentile": 59
   },
   {
@@ -13586,14 +13740,14 @@
       "Self-Help / Emotions"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 378,
-    "MinutesRankPercentile": 12,
-    "ReleaseDateRank": 56,
-    "ReleaseDateRankPercentile": 88,
+    "MinutesRank": 382,
+    "MinutesRankPercentile": 11,
+    "ReleaseDateRank": 58,
+    "ReleaseDateRankPercentile": 87,
     "DaysTaken": 9,
     "MinutesPerDay": 43,
-    "SpeedRank": 368,
-    "SpeedRankPercentile": 12
+    "SpeedRank": 372,
+    "SpeedRankPercentile": 11
   },
   {
     "Id": 369,
@@ -13621,13 +13775,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.5,
-    "MinutesRank": 232,
+    "MinutesRank": 236,
     "MinutesRankPercentile": 46,
-    "ReleaseDateRank": 199,
+    "ReleaseDateRank": 202,
     "ReleaseDateRankPercentile": 54,
     "DaysTaken": 16,
     "MinutesPerDay": 43,
-    "SpeedRank": 369,
+    "SpeedRank": 373,
     "SpeedRankPercentile": 46
   },
   {
@@ -13660,13 +13814,13 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 118,
+    "MinutesRank": 120,
     "MinutesRankPercentile": 73,
-    "ReleaseDateRank": 270,
+    "ReleaseDateRank": 274,
     "ReleaseDateRankPercentile": 37,
     "DaysTaken": 21,
     "MinutesPerDay": 43,
-    "SpeedRank": 370,
+    "SpeedRank": 374,
     "SpeedRankPercentile": 73
   },
   {
@@ -13702,14 +13856,14 @@
       "Fiction / Fantasy / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 90,
-    "MinutesRankPercentile": 80,
-    "ReleaseDateRank": 390,
+    "MinutesRank": 91,
+    "MinutesRankPercentile": 79,
+    "ReleaseDateRank": 394,
     "ReleaseDateRankPercentile": 9,
     "DaysTaken": 23,
     "MinutesPerDay": 43,
-    "SpeedRank": 371,
-    "SpeedRankPercentile": 80
+    "SpeedRank": 375,
+    "SpeedRankPercentile": 79
   },
   {
     "Id": 51,
@@ -13739,13 +13893,13 @@
       "Religion / Christian Life / Spiritual Growth"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 248,
+    "MinutesRank": 252,
     "MinutesRankPercentile": 42,
-    "ReleaseDateRank": 415,
+    "ReleaseDateRank": 419,
     "ReleaseDateRankPercentile": 3,
     "DaysTaken": 16,
     "MinutesPerDay": 42,
-    "SpeedRank": 372,
+    "SpeedRank": 376,
     "SpeedRankPercentile": 42
   },
   {
@@ -13776,14 +13930,14 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 310,
-    "MinutesRankPercentile": 28,
-    "ReleaseDateRank": 371,
+    "MinutesRank": 315,
+    "MinutesRankPercentile": 27,
+    "ReleaseDateRank": 375,
     "ReleaseDateRankPercentile": 13,
     "DaysTaken": 14,
     "MinutesPerDay": 41,
-    "SpeedRank": 373,
-    "SpeedRankPercentile": 28
+    "SpeedRank": 377,
+    "SpeedRankPercentile": 27
   },
   {
     "Id": 337,
@@ -13814,13 +13968,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 38,
+    "MinutesRank": 39,
     "MinutesRankPercentile": 92,
-    "ReleaseDateRank": 282,
+    "ReleaseDateRank": 286,
     "ReleaseDateRankPercentile": 34,
     "DaysTaken": 32,
     "MinutesPerDay": 40,
-    "SpeedRank": 374,
+    "SpeedRank": 378,
     "SpeedRankPercentile": 92
   },
   {
@@ -13851,13 +14005,13 @@
       "Fiction / General"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 36,
+    "MinutesRank": 37,
     "MinutesRankPercentile": 92,
-    "ReleaseDateRank": 150,
+    "ReleaseDateRank": 153,
     "ReleaseDateRankPercentile": 65,
     "DaysTaken": 35,
     "MinutesPerDay": 39,
-    "SpeedRank": 375,
+    "SpeedRank": 379,
     "SpeedRankPercentile": 92
   },
   {
@@ -13889,13 +14043,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 355,
+    "MinutesRank": 359,
     "MinutesRankPercentile": 17,
-    "ReleaseDateRank": 158,
+    "ReleaseDateRank": 161,
     "ReleaseDateRankPercentile": 63,
     "DaysTaken": 12,
     "MinutesPerDay": 39,
-    "SpeedRank": 376,
+    "SpeedRank": 380,
     "SpeedRankPercentile": 17
   },
   {
@@ -13924,14 +14078,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 3.0,
-    "MinutesRank": 207,
-    "MinutesRankPercentile": 52,
-    "ReleaseDateRank": 289,
-    "ReleaseDateRankPercentile": 33,
+    "MinutesRank": 211,
+    "MinutesRankPercentile": 51,
+    "ReleaseDateRank": 293,
+    "ReleaseDateRankPercentile": 32,
     "DaysTaken": 18,
     "MinutesPerDay": 39,
-    "SpeedRank": 377,
-    "SpeedRankPercentile": 52
+    "SpeedRank": 381,
+    "SpeedRankPercentile": 51
   },
   {
     "Id": 59,
@@ -13961,13 +14115,13 @@
       "Juvenile Fiction / Classics"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 339,
+    "MinutesRank": 343,
     "MinutesRankPercentile": 21,
-    "ReleaseDateRank": 407,
+    "ReleaseDateRank": 411,
     "ReleaseDateRankPercentile": 5,
     "DaysTaken": 13,
     "MinutesPerDay": 39,
-    "SpeedRank": 378,
+    "SpeedRank": 382,
     "SpeedRankPercentile": 21
   },
   {
@@ -14003,13 +14157,13 @@
       "Fiction / Mystery & Detective / Private Investigators"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 379,
+    "MinutesRank": 383,
     "MinutesRankPercentile": 11,
-    "ReleaseDateRank": 55,
-    "ReleaseDateRankPercentile": 88,
+    "ReleaseDateRank": 57,
+    "ReleaseDateRankPercentile": 87,
     "DaysTaken": 10,
     "MinutesPerDay": 38,
-    "SpeedRank": 379,
+    "SpeedRank": 383,
     "SpeedRankPercentile": 11
   },
   {
@@ -14040,13 +14194,13 @@
       "Fiction / General"
     ],
     "Ratings": 2.0,
-    "MinutesRank": 83,
+    "MinutesRank": 84,
     "MinutesRankPercentile": 81,
-    "ReleaseDateRank": 128,
-    "ReleaseDateRankPercentile": 71,
+    "ReleaseDateRank": 131,
+    "ReleaseDateRankPercentile": 70,
     "DaysTaken": 26,
     "MinutesPerDay": 38,
-    "SpeedRank": 380,
+    "SpeedRank": 384,
     "SpeedRankPercentile": 81
   },
   {
@@ -14078,13 +14232,13 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 93,
+    "MinutesRank": 94,
     "MinutesRankPercentile": 79,
-    "ReleaseDateRank": 231,
+    "ReleaseDateRank": 234,
     "ReleaseDateRankPercentile": 46,
     "DaysTaken": 26,
     "MinutesPerDay": 38,
-    "SpeedRank": 381,
+    "SpeedRank": 385,
     "SpeedRankPercentile": 79
   },
   {
@@ -14117,13 +14271,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 316,
+    "MinutesRank": 320,
     "MinutesRankPercentile": 26,
-    "ReleaseDateRank": 185,
+    "ReleaseDateRank": 188,
     "ReleaseDateRankPercentile": 57,
     "DaysTaken": 15,
     "MinutesPerDay": 37,
-    "SpeedRank": 382,
+    "SpeedRank": 386,
     "SpeedRankPercentile": 26
   },
   {
@@ -14152,13 +14306,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 141,
+    "MinutesRank": 144,
     "MinutesRankPercentile": 67,
-    "ReleaseDateRank": 79,
+    "ReleaseDateRank": 81,
     "ReleaseDateRankPercentile": 82,
     "DaysTaken": 23,
     "MinutesPerDay": 36,
-    "SpeedRank": 383,
+    "SpeedRank": 387,
     "SpeedRankPercentile": 67
   },
   {
@@ -14191,11 +14345,11 @@
     "Ratings": 2.0,
     "MinutesRank": 9,
     "MinutesRankPercentile": 99,
-    "ReleaseDateRank": 277,
+    "ReleaseDateRank": 281,
     "ReleaseDateRankPercentile": 35,
     "DaysTaken": 72,
     "MinutesPerDay": 35,
-    "SpeedRank": 384,
+    "SpeedRank": 388,
     "SpeedRankPercentile": 99
   },
   {
@@ -14228,13 +14382,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 303,
+    "MinutesRank": 307,
     "MinutesRankPercentile": 29,
-    "ReleaseDateRank": 361,
-    "ReleaseDateRankPercentile": 16,
+    "ReleaseDateRank": 365,
+    "ReleaseDateRankPercentile": 15,
     "DaysTaken": 17,
     "MinutesPerDay": 35,
-    "SpeedRank": 385,
+    "SpeedRank": 389,
     "SpeedRankPercentile": 29
   },
   {
@@ -14267,13 +14421,13 @@
       "Fiction / Political"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 274,
+    "MinutesRank": 278,
     "MinutesRankPercentile": 36,
-    "ReleaseDateRank": 166,
-    "ReleaseDateRankPercentile": 62,
+    "ReleaseDateRank": 169,
+    "ReleaseDateRankPercentile": 61,
     "DaysTaken": 19,
     "MinutesPerDay": 34,
-    "SpeedRank": 386,
+    "SpeedRank": 390,
     "SpeedRankPercentile": 36
   },
   {
@@ -14310,13 +14464,13 @@
       "Fiction / General"
     ],
     "Ratings": 2.5,
-    "MinutesRank": 386,
+    "MinutesRank": 390,
     "MinutesRankPercentile": 10,
-    "ReleaseDateRank": 50,
+    "ReleaseDateRank": 52,
     "ReleaseDateRankPercentile": 89,
     "DaysTaken": 11,
     "MinutesPerDay": 33,
-    "SpeedRank": 387,
+    "SpeedRank": 391,
     "SpeedRankPercentile": 10
   },
   {
@@ -14345,14 +14499,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.5,
-    "MinutesRank": 238,
-    "MinutesRankPercentile": 45,
-    "ReleaseDateRank": 142,
+    "MinutesRank": 242,
+    "MinutesRankPercentile": 44,
+    "ReleaseDateRank": 145,
     "ReleaseDateRankPercentile": 67,
     "DaysTaken": 21,
     "MinutesPerDay": 32,
-    "SpeedRank": 388,
-    "SpeedRankPercentile": 45
+    "SpeedRank": 392,
+    "SpeedRankPercentile": 44
   },
   {
     "Id": 30,
@@ -14384,13 +14538,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 125,
+    "MinutesRank": 128,
     "MinutesRankPercentile": 71,
-    "ReleaseDateRank": 357,
-    "ReleaseDateRankPercentile": 17,
+    "ReleaseDateRank": 361,
+    "ReleaseDateRankPercentile": 16,
     "DaysTaken": 28,
     "MinutesPerDay": 31,
-    "SpeedRank": 389,
+    "SpeedRank": 393,
     "SpeedRankPercentile": 71
   },
   {
@@ -14423,13 +14577,13 @@
       "Fiction / Thrillers / Political"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 227,
+    "MinutesRank": 231,
     "MinutesRankPercentile": 47,
-    "ReleaseDateRank": 25,
-    "ReleaseDateRankPercentile": 95,
+    "ReleaseDateRank": 27,
+    "ReleaseDateRankPercentile": 94,
     "DaysTaken": 23,
     "MinutesPerDay": 30,
-    "SpeedRank": 390,
+    "SpeedRank": 394,
     "SpeedRankPercentile": 47
   },
   {
@@ -14458,13 +14612,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 51,
+    "MinutesRank": 52,
     "MinutesRankPercentile": 89,
-    "ReleaseDateRank": 411,
+    "ReleaseDateRank": 415,
     "ReleaseDateRankPercentile": 4,
     "DaysTaken": 40,
     "MinutesPerDay": 30,
-    "SpeedRank": 391,
+    "SpeedRank": 395,
     "SpeedRankPercentile": 89
   },
   {
@@ -14495,14 +14649,14 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 272,
-    "MinutesRankPercentile": 37,
-    "ReleaseDateRank": 115,
-    "ReleaseDateRankPercentile": 74,
+    "MinutesRank": 276,
+    "MinutesRankPercentile": 36,
+    "ReleaseDateRank": 118,
+    "ReleaseDateRankPercentile": 73,
     "DaysTaken": 22,
     "MinutesPerDay": 29,
-    "SpeedRank": 392,
-    "SpeedRankPercentile": 37
+    "SpeedRank": 396,
+    "SpeedRankPercentile": 36
   },
   {
     "Id": 64,
@@ -14530,13 +14684,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 392,
+    "MinutesRank": 396,
     "MinutesRankPercentile": 8,
-    "ReleaseDateRank": 383,
+    "ReleaseDateRank": 387,
     "ReleaseDateRankPercentile": 10,
     "DaysTaken": 11,
     "MinutesPerDay": 29,
-    "SpeedRank": 393,
+    "SpeedRank": 397,
     "SpeedRankPercentile": 8
   },
   {
@@ -14565,14 +14719,14 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 331,
-    "MinutesRankPercentile": 23,
-    "ReleaseDateRank": 123,
-    "ReleaseDateRankPercentile": 72,
+    "MinutesRank": 335,
+    "MinutesRankPercentile": 22,
+    "ReleaseDateRank": 126,
+    "ReleaseDateRankPercentile": 71,
     "DaysTaken": 19,
     "MinutesPerDay": 28,
-    "SpeedRank": 394,
-    "SpeedRankPercentile": 23
+    "SpeedRank": 398,
+    "SpeedRankPercentile": 22
   },
   {
     "Id": 20,
@@ -14602,13 +14756,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 76,
+    "MinutesRank": 77,
     "MinutesRankPercentile": 83,
-    "ReleaseDateRank": 197,
+    "ReleaseDateRank": 200,
     "ReleaseDateRankPercentile": 54,
     "DaysTaken": 36,
     "MinutesPerDay": 28,
-    "SpeedRank": 395,
+    "SpeedRank": 399,
     "SpeedRankPercentile": 83
   },
   {
@@ -14640,13 +14794,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 362,
+    "MinutesRank": 366,
     "MinutesRankPercentile": 15,
-    "ReleaseDateRank": 268,
-    "ReleaseDateRankPercentile": 38,
+    "ReleaseDateRank": 272,
+    "ReleaseDateRankPercentile": 37,
     "DaysTaken": 16,
     "MinutesPerDay": 28,
-    "SpeedRank": 396,
+    "SpeedRank": 400,
     "SpeedRankPercentile": 15
   },
   {
@@ -14675,13 +14829,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 394,
+    "MinutesRank": 398,
     "MinutesRankPercentile": 8,
-    "ReleaseDateRank": 373,
+    "ReleaseDateRank": 377,
     "ReleaseDateRankPercentile": 13,
     "DaysTaken": 11,
     "MinutesPerDay": 28,
-    "SpeedRank": 397,
+    "SpeedRank": 401,
     "SpeedRankPercentile": 8
   },
   {
@@ -14716,13 +14870,13 @@
       "Fiction / Crime"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 308,
+    "MinutesRank": 312,
     "MinutesRankPercentile": 28,
-    "ReleaseDateRank": 21,
-    "ReleaseDateRankPercentile": 96,
+    "ReleaseDateRank": 23,
+    "ReleaseDateRankPercentile": 95,
     "DaysTaken": 21,
     "MinutesPerDay": 27,
-    "SpeedRank": 398,
+    "SpeedRank": 402,
     "SpeedRankPercentile": 28
   },
   {
@@ -14755,13 +14909,13 @@
       "Fiction / Thrillers / Technological"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 79,
+    "MinutesRank": 80,
     "MinutesRankPercentile": 82,
-    "ReleaseDateRank": 250,
-    "ReleaseDateRankPercentile": 42,
+    "ReleaseDateRank": 254,
+    "ReleaseDateRankPercentile": 41,
     "DaysTaken": 38,
     "MinutesPerDay": 27,
-    "SpeedRank": 399,
+    "SpeedRank": 403,
     "SpeedRankPercentile": 82
   },
   {
@@ -14795,13 +14949,13 @@
       "Self-Help / Motivational & Inspirational"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 169,
+    "MinutesRank": 172,
     "MinutesRankPercentile": 61,
-    "ReleaseDateRank": 343,
+    "ReleaseDateRank": 347,
     "ReleaseDateRankPercentile": 20,
     "DaysTaken": 28,
     "MinutesPerDay": 27,
-    "SpeedRank": 400,
+    "SpeedRank": 404,
     "SpeedRankPercentile": 61
   },
   {
@@ -14835,14 +14989,14 @@
       "Self-Help / Motivational & Inspirational"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 170,
-    "MinutesRankPercentile": 61,
-    "ReleaseDateRank": 344,
-    "ReleaseDateRankPercentile": 20,
+    "MinutesRank": 173,
+    "MinutesRankPercentile": 60,
+    "ReleaseDateRank": 348,
+    "ReleaseDateRankPercentile": 19,
     "DaysTaken": 29,
     "MinutesPerDay": 26,
-    "SpeedRank": 401,
-    "SpeedRankPercentile": 61
+    "SpeedRank": 405,
+    "SpeedRankPercentile": 60
   },
   {
     "Id": 394,
@@ -14875,11 +15029,11 @@
     "Ratings": 4.5,
     "MinutesRank": 2,
     "MinutesRankPercentile": 100,
-    "ReleaseDateRank": 304,
+    "ReleaseDateRank": 308,
     "ReleaseDateRankPercentile": 29,
     "DaysTaken": 120,
     "MinutesPerDay": 25,
-    "SpeedRank": 402,
+    "SpeedRank": 406,
     "SpeedRankPercentile": 100
   },
   {
@@ -14912,13 +15066,13 @@
       "Fiction / Psychological"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 209,
+    "MinutesRank": 213,
     "MinutesRankPercentile": 51,
-    "ReleaseDateRank": 325,
+    "ReleaseDateRank": 329,
     "ReleaseDateRankPercentile": 24,
     "DaysTaken": 28,
     "MinutesPerDay": 25,
-    "SpeedRank": 403,
+    "SpeedRank": 407,
     "SpeedRankPercentile": 51
   },
   {
@@ -14950,13 +15104,13 @@
       "Fiction / Mystery & Detective / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 389,
+    "MinutesRank": 393,
     "MinutesRankPercentile": 9,
-    "ReleaseDateRank": 372,
+    "ReleaseDateRank": 376,
     "ReleaseDateRankPercentile": 13,
     "DaysTaken": 14,
     "MinutesPerDay": 25,
-    "SpeedRank": 404,
+    "SpeedRank": 408,
     "SpeedRankPercentile": 9
   },
   {
@@ -14985,13 +15139,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 264,
+    "MinutesRank": 268,
     "MinutesRankPercentile": 38,
-    "ReleaseDateRank": 401,
+    "ReleaseDateRank": 405,
     "ReleaseDateRankPercentile": 6,
     "DaysTaken": 26,
     "MinutesPerDay": 25,
-    "SpeedRank": 405,
+    "SpeedRank": 409,
     "SpeedRankPercentile": 38
   },
   {
@@ -15027,13 +15181,13 @@
       "Fiction / Science Fiction / General"
     ],
     "Ratings": 3.5,
-    "MinutesRank": 347,
+    "MinutesRank": 351,
     "MinutesRankPercentile": 19,
-    "ReleaseDateRank": 137,
+    "ReleaseDateRank": 140,
     "ReleaseDateRankPercentile": 68,
     "DaysTaken": 20,
     "MinutesPerDay": 24,
-    "SpeedRank": 406,
+    "SpeedRank": 410,
     "SpeedRankPercentile": 19
   },
   {
@@ -15067,11 +15221,11 @@
     "Ratings": 3.5,
     "MinutesRank": 8,
     "MinutesRankPercentile": 99,
-    "ReleaseDateRank": 256,
+    "ReleaseDateRank": 260,
     "ReleaseDateRankPercentile": 40,
     "DaysTaken": 110,
     "MinutesPerDay": 23,
-    "SpeedRank": 407,
+    "SpeedRank": 411,
     "SpeedRankPercentile": 99
   },
   {
@@ -15102,11 +15256,11 @@
     "Ratings": 4.0,
     "MinutesRank": 13,
     "MinutesRankPercentile": 98,
-    "ReleaseDateRank": 271,
-    "ReleaseDateRankPercentile": 37,
+    "ReleaseDateRank": 275,
+    "ReleaseDateRankPercentile": 36,
     "DaysTaken": 93,
     "MinutesPerDay": 23,
-    "SpeedRank": 408,
+    "SpeedRank": 412,
     "SpeedRankPercentile": 98
   },
   {
@@ -15142,13 +15296,13 @@
       "Fiction / Fantasy / General"
     ],
     "Ratings": 4.5,
-    "MinutesRank": 113,
+    "MinutesRank": 115,
     "MinutesRankPercentile": 74,
-    "ReleaseDateRank": 387,
+    "ReleaseDateRank": 391,
     "ReleaseDateRankPercentile": 9,
     "DaysTaken": 39,
     "MinutesPerDay": 23,
-    "SpeedRank": 409,
+    "SpeedRank": 413,
     "SpeedRankPercentile": 74
   },
   {
@@ -15180,13 +15334,13 @@
       "Fiction / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 294,
+    "MinutesRank": 298,
     "MinutesRankPercentile": 31,
-    "ReleaseDateRank": 125,
+    "ReleaseDateRank": 128,
     "ReleaseDateRankPercentile": 71,
     "DaysTaken": 29,
     "MinutesPerDay": 21,
-    "SpeedRank": 410,
+    "SpeedRank": 414,
     "SpeedRankPercentile": 31
   },
   {
@@ -15217,13 +15371,13 @@
       "FICTION / Science Fiction / General"
     ],
     "Ratings": 2.5,
-    "MinutesRank": 292,
+    "MinutesRank": 296,
     "MinutesRankPercentile": 32,
-    "ReleaseDateRank": 5,
-    "ReleaseDateRankPercentile": 100,
+    "ReleaseDateRank": 7,
+    "ReleaseDateRankPercentile": 99,
     "DaysTaken": 30,
     "MinutesPerDay": 20,
-    "SpeedRank": 411,
+    "SpeedRank": 415,
     "SpeedRankPercentile": 32
   },
   {
@@ -15261,13 +15415,13 @@
       "Social Science / Penology"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 152,
+    "MinutesRank": 155,
     "MinutesRankPercentile": 65,
-    "ReleaseDateRank": 414,
+    "ReleaseDateRank": 418,
     "ReleaseDateRankPercentile": 3,
     "DaysTaken": 39,
     "MinutesPerDay": 20,
-    "SpeedRank": 412,
+    "SpeedRank": 416,
     "SpeedRankPercentile": 65
   },
   {
@@ -15300,13 +15454,13 @@
       "Fiction / Thrillers / Political"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 201,
+    "MinutesRank": 205,
     "MinutesRankPercentile": 53,
-    "ReleaseDateRank": 54,
+    "ReleaseDateRank": 56,
     "ReleaseDateRankPercentile": 88,
     "DaysTaken": 40,
     "MinutesPerDay": 18,
-    "SpeedRank": 413,
+    "SpeedRank": 417,
     "SpeedRankPercentile": 53
   },
   {
@@ -15337,13 +15491,13 @@
       "Fiction / General"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 228,
+    "MinutesRank": 232,
     "MinutesRankPercentile": 47,
-    "ReleaseDateRank": 246,
-    "ReleaseDateRankPercentile": 43,
+    "ReleaseDateRank": 250,
+    "ReleaseDateRankPercentile": 42,
     "DaysTaken": 39,
     "MinutesPerDay": 17,
-    "SpeedRank": 414,
+    "SpeedRank": 418,
     "SpeedRankPercentile": 47
   },
   {
@@ -15375,13 +15529,13 @@
       "Juvenile Fiction / Fantasy & Magic"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 295,
+    "MinutesRank": 299,
     "MinutesRankPercentile": 31,
-    "ReleaseDateRank": 242,
-    "ReleaseDateRankPercentile": 44,
+    "ReleaseDateRank": 246,
+    "ReleaseDateRankPercentile": 43,
     "DaysTaken": 40,
     "MinutesPerDay": 15,
-    "SpeedRank": 415,
+    "SpeedRank": 419,
     "SpeedRankPercentile": 31
   },
   {
@@ -15413,13 +15567,13 @@
       "Education / General"
     ],
     "Ratings": 2.5,
-    "MinutesRank": 275,
+    "MinutesRank": 279,
     "MinutesRankPercentile": 36,
-    "ReleaseDateRank": 396,
+    "ReleaseDateRank": 400,
     "ReleaseDateRankPercentile": 7,
     "DaysTaken": 54,
     "MinutesPerDay": 12,
-    "SpeedRank": 416,
+    "SpeedRank": 420,
     "SpeedRankPercentile": 36
   },
   {
@@ -15455,14 +15609,14 @@
       "Fiction / Mystery & Detective / Traditional British"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 148,
-    "MinutesRankPercentile": 66,
-    "ReleaseDateRank": 140,
-    "ReleaseDateRankPercentile": 68,
+    "MinutesRank": 151,
+    "MinutesRankPercentile": 65,
+    "ReleaseDateRank": 143,
+    "ReleaseDateRankPercentile": 67,
     "DaysTaken": 71,
     "MinutesPerDay": 11,
-    "SpeedRank": 417,
-    "SpeedRankPercentile": 66
+    "SpeedRank": 421,
+    "SpeedRankPercentile": 65
   },
   {
     "Id": 63,
@@ -15492,13 +15646,13 @@
       "Religion / Spirituality"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 373,
+    "MinutesRank": 377,
     "MinutesRankPercentile": 13,
-    "ReleaseDateRank": 416,
+    "ReleaseDateRank": 420,
     "ReleaseDateRankPercentile": 3,
     "DaysTaken": 43,
     "MinutesPerDay": 9,
-    "SpeedRank": 418,
+    "SpeedRank": 422,
     "SpeedRankPercentile": 13
   },
   {
@@ -15530,13 +15684,13 @@
       "Fiction / Thrillers / General"
     ],
     "Ratings": 4.0,
-    "MinutesRank": 94,
+    "MinutesRank": 95,
     "MinutesRankPercentile": 79,
-    "ReleaseDateRank": 232,
+    "ReleaseDateRank": 235,
     "ReleaseDateRankPercentile": 46,
     "DaysTaken": 40075,
     "MinutesPerDay": 0,
-    "SpeedRank": 419,
+    "SpeedRank": 423,
     "SpeedRankPercentile": 79
   },
   {
@@ -15569,13 +15723,13 @@
       "Fiction / Thrillers / Suspense"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 67,
+    "MinutesRank": 68,
     "MinutesRankPercentile": 85,
-    "ReleaseDateRank": 262,
+    "ReleaseDateRank": 266,
     "ReleaseDateRankPercentile": 39,
     "DaysTaken": 39975,
     "MinutesPerDay": 0,
-    "SpeedRank": 420,
+    "SpeedRank": 424,
     "SpeedRankPercentile": 85
   },
   {
@@ -15609,11 +15763,11 @@
     "Ratings": 4.0,
     "MinutesRank": 26,
     "MinutesRankPercentile": 95,
-    "ReleaseDateRank": 355,
+    "ReleaseDateRank": 359,
     "ReleaseDateRankPercentile": 17,
     "DaysTaken": 43747,
     "MinutesPerDay": 0,
-    "SpeedRank": 421,
+    "SpeedRank": 425,
     "SpeedRankPercentile": 95
   },
   {
@@ -15642,13 +15796,13 @@
     "ImageError": false,
     "Categories": null,
     "Ratings": 4.0,
-    "MinutesRank": 91,
+    "MinutesRank": 92,
     "MinutesRankPercentile": 79,
-    "ReleaseDateRank": 391,
-    "ReleaseDateRankPercentile": 9,
+    "ReleaseDateRank": 395,
+    "ReleaseDateRankPercentile": 8,
     "DaysTaken": 39773,
     "MinutesPerDay": 0,
-    "SpeedRank": 422,
+    "SpeedRank": 426,
     "SpeedRankPercentile": 79
   },
   {
@@ -15685,13 +15839,13 @@
       "Fiction / Fantasy / Contemporary"
     ],
     "Ratings": 5.0,
-    "MinutesRank": 423,
+    "MinutesRank": 427,
     "MinutesRankPercentile": 1,
-    "ReleaseDateRank": 417,
+    "ReleaseDateRank": 421,
     "ReleaseDateRankPercentile": 2,
     "DaysTaken": 40494,
     "MinutesPerDay": null,
-    "SpeedRank": 423,
+    "SpeedRank": 427,
     "SpeedRankPercentile": 1
   },
   {
@@ -15724,13 +15878,13 @@
       "Juvenile Fiction / Fantasy & Magic"
     ],
     "Ratings": 3.0,
-    "MinutesRank": 424,
+    "MinutesRank": 428,
     "MinutesRankPercentile": 1,
-    "ReleaseDateRank": 422,
+    "ReleaseDateRank": 426,
     "ReleaseDateRankPercentile": 1,
     "DaysTaken": 40574,
     "MinutesPerDay": null,
-    "SpeedRank": 424,
+    "SpeedRank": 428,
     "SpeedRankPercentile": 1
   }
 ]
