@@ -154,8 +154,15 @@ namespace MyBookLibrary.Service
                 var dayStat = new Dictionary<string, string> {{"Name", dateStart.ToString("dd-MM")}};
                 for (int i = minYears; i <= maxYears; i++)
                 {
-                    var bookCount = books.Count(b => ((DateTime) b.DateCompleted).Year == i && ((DateTime)b.DateCompleted) <= new DateTime(i, dateStart.Month, dateStart.Day));
-                    dayStat.Add(i.ToString(), bookCount.ToString());
+                    if (dateStart.Month == 2 && dateStart.Day == 29)
+                    {
+                        dayStat.Add(i.ToString(), "0");
+                    }
+                    else
+                    {
+                        var bookCount = books.Count(b => ((DateTime)b.DateCompleted).Year == i && ((DateTime)b.DateCompleted) <= new DateTime(i, dateStart.Month, dateStart.Day));
+                        dayStat.Add(i.ToString(), bookCount.ToString());
+                    }
                 }
                 
                 resultDict.Add(dayStat);
